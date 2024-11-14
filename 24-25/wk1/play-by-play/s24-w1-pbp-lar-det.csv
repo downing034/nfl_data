@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,LAR,DET,Detail,EPB,EPA
+,,,,,,,Lions won the coin toss and deferred Rams to receive the opening kickoff.,,
+1,15:00,,,DET 35,0,0,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,LAR 30,0,0,Matthew Stafford pass complete short right to Kyren Williams for -1 yards (tackle by Alex Anzalone),0.940,0.260
+1,14:28,2,11,LAR 29,0,0,Matthew Stafford pass incomplete deep left intended for Demarcus Robinson,0.260,-0.430
+1,14:22,3,11,LAR 29,0,0,Matthew Stafford pass complete short left to Cooper Kupp for -2 yards (tackle by Alex Anzalone),-0.430,-1.570
+1,13:38,4,13,LAR 27,0,0,Ethan Evans punts 48 yards returned by Kalif Raymond for 11 yards (tackle by Ronnie Rivers and Christian Rozeboom),-1.570,-1.330
+1,13:26,1,10,DET 36,0,0,David Montgomery up the middle for 2 yards (tackle by Christian Rozeboom and Jared Verse),1.330,1.060
+1,12:55,2,8,DET 38,0,0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 4 yards (tackle by Christian Rozeboom),1.060,0.890
+1,12:11,3,4,DET 42,0,0,Jared Goff sacked by Byron Young for -9 yards,0.890,-1.180
+1,11:30,4,13,DET 33,0,0,Jack Fox punts 67 yards touchback.. Penalty on Christian Rozeboom: Offensive Holding 10 yards (accepted),-1.180,0.380
+1,11:20,1,10,LAR 10,0,0,Matthew Stafford pass complete short left to Cooper Kupp for 5 yards,-0.380,-0.350
+1,11:01,2,5,LAR 15,0,0,Matthew Stafford pass complete short right to Cooper Kupp for 11 yards (tackle by Terrion Arnold and Brian Branch),-0.350,0.670
+1,10:23,1,10,LAR 26,0,0,Matthew Stafford pass complete short right to Colby Parkinson for 10 yards (tackle by Carlton Davis),0.670,1.330
+1,9:50,1,10,LAR 36,0,0,Matthew Stafford pass complete short middle to Cooper Kupp for 8 yards (tackle by Carlton Davis),1.330,1.870
+1,9:24,2,2,LAR 44,0,0,Kyren Williams left tackle for 2 yards (tackle by Carlton Davis),1.870,1.990
+1,8:44,1,10,LAR 46,0,0,Matthew Stafford pass complete short right to Puka Nacua for 16 yards (tackle by Alex Anzalone),1.990,3.050
+1,8:02,1,10,DET 38,0,0,Matthew Stafford pass complete short left to Cooper Kupp for 4 yards (tackle by Terrion Arnold),3.050,3.050
+1,7:37,2,6,DET 34,0,0,Matthew Stafford pass incomplete short middle intended for Demarcus Robinson,3.050,2.340
+1,7:32,3,6,DET 34,0,0,Matthew Stafford pass complete short right to Colby Parkinson for 15 yards (tackle by Alex Anzalone and Kerby Joseph),2.340,4.310
+1,6:46,1,10,DET 19,0,0,Matthew Stafford pass incomplete short right intended for Davis Allen,4.310,3.750
+1,6:41,2,10,DET 19,0,0,Matthew Stafford sacked by and Levi Onwuzurike for -8 yards and Marcus Davenport for -8 yards,3.750,2.020
+1,5:55,3,18,DET 27,0,0,Penalty on Warren McClendon: False Start 5 yards (accepted) (no play),2.020,1.360
+1,5:36,3,23,DET 32,0,0,Kyren Williams up the middle for 9 yards (tackle by Jalen Reeves-Maybin and Kerby Joseph),1.360,1.930
+1,4:54,4,14,DET 23,3,0,Joshua Karty 41 yard field goal good,1.930,3.000
+1,4:50,,,LAR 35,3,0,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+1,4:50,1,10,DET 30,3,0,David Montgomery right tackle for 3 yards (tackle by Braden Fiske and Kobie Turner),0.940,0.800
+1,4:11,2,7,DET 33,3,0,Jahmyr Gibbs right tackle for 6 yards (tackle by Kamren Curl),0.800,0.890
+1,3:34,3,1,DET 39,3,0,David Montgomery left tackle for 2 yards (tackle by Troy Reeder),0.890,1.660
+1,2:50,1,10,DET 41,3,0,David Montgomery left end for 5 yards (tackle by Troy Reeder and Christian Rozeboom). Penalty on Byron Young: Illegal Use of Hands / Defense 5 yards (accepted),1.660,2.320
+1,2:35,1,10,LAR 49,3,0,David Montgomery left end for 8 yards (tackle by Troy Reeder and John Johnson),2.320,2.860
+1,1:51,2,2,LAR 41,3,0,David Montgomery left end for 6 yards (tackle by Quentin Lake and Jared Verse),2.860,3.250
+1,1:14,1,10,LAR 35,3,0,David Montgomery left tackle for 7 yards (tackle by Troy Reeder and Tre'Davious White),3.250,3.650
+1,0:35,2,3,LAR 28,3,0,Jared Goff pass complete short left to Jameson Williams for 1 yard (tackle by Quentin Lake and John Johnson),3.650,3.070
+2,15:00,3,2,LAR 27,3,0,Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown,3.070,1.800
+2,14:56,4,2,LAR 27,3,0,David Montgomery up the middle for 3 yards (tackle by Bobby Brown),1.800,3.970
+2,14:25,1,10,LAR 24,3,0,Jared Goff pass complete short left to Sam LaPorta for 14 yards (tackle by John Johnson),3.970,4.910
+2,13:43,1,10,LAR 10,3,0,Jared Goff pass complete short left to Amon-Ra St. Brown for 4 yards (tackle by Troy Reeder),4.910,4.950
+2,13:00,2,6,LAR 6,3,0,David Montgomery left tackle for -1 yards (tackle by Michael Hoecht and Quentin Lake),4.950,3.810
+2,12:25,3,7,LAR 7,3,0,Jared Goff pass incomplete short middle intended for Sam LaPorta,3.810,2.970
+2,12:20,4,7,LAR 7,3,3,Jake Bates 25 yard field goal good,2.970,3.000
+2,12:17,,,DET 35,3,3,Jake Bates kicks off 63 yards returned by Jordan Whittington for 20 yards (tackle by Khalil Dorsey and Malcolm Rodriguez),0.000,0.410
+2,12:11,1,10,LAR 22,3,3,Puka Nacua left end for 7 yards (tackle by Derrick Barnes and Jack Campbell),0.410,0.810
+2,11:34,2,3,LAR 29,3,3,Ronnie Rivers right tackle for 4 yards (tackle by Chris Smith and Jack Campbell),0.810,1.140
+2,10:48,1,10,LAR 33,3,3,Matthew Stafford pass incomplete short middle intended for Colby Parkinson,1.140,0.590
+2,10:45,2,10,LAR 33,3,3,Ronnie Rivers left end for 12 yards (tackle by Alex Anzalone),0.590,1.930
+2,10:01,,,,,,Timeout #1 by Los Angeles Rams,,
+2,10:01,1,10,LAR 45,3,3,Matthew Stafford pass complete short middle to Puka Nacua for 7 yards (tackle by Alex Anzalone),1.930,2.330
+2,9:21,2,3,DET 48,3,3,Cooper Kupp left end for 9 yards (tackle by Terrion Arnold),2.330,2.980
+2,8:41,1,10,DET 39,3,3,Matthew Stafford pass complete short middle to Puka Nacua for 6 yards (tackle by Kerby Joseph and Jack Campbell),2.980,3.250
+2,8:04,2,4,DET 33,3,3,Kyren Williams left tackle for 4 yards (tackle by Aidan Hutchinson and Carlton Davis),3.250,3.640
+2,7:26,1,10,DET 29,3,3,Matthew Stafford pass incomplete short left intended for Cooper Kupp (defended by Brian Branch),3.640,3.100
+2,7:23,2,10,DET 29,3,3,Matthew Stafford pass incomplete short left,3.100,2.410
+2,7:16,3,10,DET 29,3,3,Matthew Stafford pass complete short right to Puka Nacua for 6 yards (tackle by Brian Branch),2.410,2.000
+2,6:35,4,4,DET 23,3,3,Matthew Stafford pass incomplete short right intended for Cooper Kupp,2.000,-0.480
+2,6:31,1,10,DET 23,3,3,Jared Goff pass complete short middle to Jameson Williams for 36 yards (tackle by John Johnson),0.480,2.850
+2,5:57,1,10,LAR 41,3,3,Jared Goff pass incomplete deep left intended for Jameson Williams,2.850,2.310
+2,5:49,2,10,LAR 41,3,3,Jared Goff pass complete short left to Jahmyr Gibbs for 14 yards (tackle by Quentin Lake),2.310,3.780
+2,5:07,1,10,LAR 27,3,3,Jameson Williams right end for 13 yards (tackle by Christian Rozeboom and Cobie Durant),3.780,4.650
+2,4:33,1,10,LAR 14,3,3,Jahmyr Gibbs up the middle for 8 yards (tackle by Tyler Davis),4.650,5.470
+2,3:52,2,2,LAR 6,3,3,Jahmyr Gibbs left tackle for 1 yard (tackle by Braden Fiske and Bobby Brown),5.470,4.960
+2,3:08,3,1,LAR 5,3,3,Jahmyr Gibbs right end for 2 yards (tackle by Byron Young and Quentin Lake),4.960,6.510
+2,2:28,1,3,LAR 3,3,3,Jared Goff pass complete short left to Brock Wright for 2 yards (tackle by Kamren Curl),6.510,5.910
+2,2:00,2,1,LAR 1,3,9,Jahmyr Gibbs left tackle for no gain (tackle by Kamren Curl) Replay Assistant challenged the runner broke the plane ruling and the original play was overturned. Jahmyr Gibbs left tackle for 1 yard touchdown,5.910,7.000
+2,1:57,,,LAR 15,3,10,Jake Bates kicks extra point good,0.000,0.000
+2,1:57,,,DET 35,3,10,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+2,1:57,1,10,LAR 30,3,10,Kyren Williams up the middle for 4 yards (tackle by Levi Onwuzurike and Malcolm Rodriguez),0.940,0.930
+2,1:20,2,6,LAR 34,3,10,Kyren Williams right end for no gain (tackle by Marcus Davenport and Levi Onwuzurike). Penalty on Marcus Davenport: Defensive Offside 5 yards (accepted) (no play),0.930,1.610
+2,1:15,2,1,LAR 39,3,10,Kyren Williams up the middle for 4 yards (tackle by Derrick Barnes and Aidan Hutchinson),1.610,1.800
+2,0:54,1,10,LAR 43,3,10,Matthew Stafford pass incomplete short middle intended for Cooper Kupp (defended by Amik Robertson),1.800,1.250
+2,0:43,2,10,LAR 43,3,10,Matthew Stafford pass complete short left to Tyler Johnson for 2 yards (tackle by Carlton Davis). Penalty on Aidan Hutchinson: Roughing the Passer 15 yards (accepted),1.250,2.920
+2,0:43,1,10,DET 40,3,10,Matthew Stafford pass complete short right to Colby Parkinson for 20 yards (tackle by Amik Robertson),2.920,4.240
+2,0:37,1,10,DET 20,3,10,Matthew Stafford pass complete short left to Kyren Williams for 8 yards (tackle by Alex Anzalone),4.240,5.040
+2,0:29,,,,,,Timeout #2 by Los Angeles Rams,,
+2,0:29,2,2,DET 12,3,10,Matthew Stafford pass complete short left to Cooper Kupp for 4 yards (tackle by Kerby Joseph),5.040,5.370
+2,0:26,1,8,DET 8,3,10,Matthew Stafford pass incomplete short right intended for Demarcus Robinson,5.370,4.570
+2,0:21,2,8,DET 8,3,10,Matthew Stafford pass short middle intended for Tyler Johnson is intercepted by Kerby Joseph in end zone and returned for no gain,4.570,-0.280
+2,0:15,1,10,DET 20,3,10,Jared Goff sacked by Jared Verse for -8 yards,0.280,-1.360
+3,15:00,,,LAR 35,3,10,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,DET 30,3,10,David Montgomery right tackle for 2 yards (tackle by Troy Reeder),0.940,0.660
+3,14:29,2,8,DET 32,3,10,David Montgomery up the middle for 4 yards (tackle by Kamren Curl and Troy Reeder),0.660,0.500
+3,13:51,3,4,DET 36,3,10,Jared Goff pass incomplete short middle intended for Jameson Williams (defended by Troy Reeder),0.500,-0.980
+3,13:46,4,4,DET 36,3,10,Jack Fox punts 64 yards touchback.,-0.980,-0.280
+3,13:35,1,10,LAR 20,3,10,Kyren Williams right end for -1 yards (tackle by Jack Campbell and Carlton Davis),0.280,-0.460
+3,12:57,2,11,LAR 19,3,10,Matthew Stafford pass complete short middle to Tyler Johnson for 1 yard (tackle by Terrion Arnold),-0.460,-0.960
+3,12:19,3,10,LAR 20,3,10,Matthew Stafford pass incomplete deep middle intended for Cooper Kupp (defended by Brian Branch),-0.960,-2.030
+3,12:12,4,10,LAR 20,3,10,Ethan Evans punts 43 yards returned by Kalif Raymond for 4 yards (tackle by Nick Hampton and Blake Corum),-2.030,-1.660
+3,12:01,1,10,DET 41,3,10,David Montgomery up the middle for 5 yards (tackle by Byron Young),1.660,1.800
+3,11:23,2,5,DET 46,3,10,Jared Goff pass complete short middle to David Montgomery for 2 yards (tackle by Christian Rozeboom),1.800,1.360
+3,10:37,3,3,DET 48,3,16,Jared Goff pass complete deep left to Jameson Williams for 52 yards touchdown. Penalty on Tre'Davious White: Illegal Contact 5 yards (declined),1.360,7.000
+3,10:29,,,LAR 15,3,17,Jake Bates kicks extra point good,0.000,0.000
+3,10:29,,,DET 35,3,17,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+3,10:29,1,10,LAR 30,3,17,Matthew Stafford pass complete short left to Kyren Williams for -3 yards (tackle by Alex Anzalone),0.940,-0.010
+3,9:45,2,13,LAR 27,3,17,Kyren Williams right end for 3 yards (tackle by Amik Robertson and Carlton Davis),-0.010,-0.300
+3,8:56,3,10,LAR 30,3,17,Matthew Stafford pass complete short left to Cooper Kupp for 13 yards (tackle by Kerby Joseph),-0.300,1.800
+3,8:20,1,10,LAR 43,3,17,Matthew Stafford pass complete deep left to Cooper Kupp for 21 yards (tackle by Terrion Arnold),1.800,3.180
+3,7:41,1,10,DET 36,3,17,Matthew Stafford pass complete short left to Tyler Johnson for no gain (tackle by Terrion Arnold),3.180,2.640
+3,7:04,2,10,DET 36,3,17,Kyren Williams right tackle for 6 yards (tackle by Alex Anzalone),2.640,2.740
+3,6:21,3,4,DET 30,3,17,Kyren Williams right tackle for 1 yard (tackle by Alex Anzalone and Jack Campbell),2.740,1.580
+3,5:37,4,3,DET 29,3,17,Matthew Stafford pass complete short middle to Demarcus Robinson for 14 yards (tackle by Kerby Joseph),1.580,4.580
+3,5:03,1,10,DET 15,3,17,Cooper Kupp right end for 1 yard (tackle by Brian Branch and Ennis Rakestraw),4.580,4.110
+3,4:22,2,9,DET 14,3,17,Kyren Williams left tackle for 3 yards (tackle by Aidan Hutchinson),4.110,3.780
+3,3:41,3,6,DET 11,3,17,Matthew Stafford pass incomplete short right intended for Cooper Kupp. Penalty on Terrion Arnold: Defensive Pass Interference 9 yards (accepted) (no play),3.780,6.740
+3,3:36,1,2,DET 2,9,17,Kyren Williams right tackle for 2 yards touchdown,6.740,7.000
+3,3:33,,,DET 15,10,17,Joshua Karty kicks extra point good,0.000,0.000
+3,3:33,,,LAR 35,10,17,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+3,3:33,1,10,DET 30,10,17,Jared Goff pass complete short right to Jahmyr Gibbs for 2 yards (tackle by Kamren Curl),0.940,0.660
+3,2:59,2,8,DET 32,10,17,Jahmyr Gibbs left end for 3 yards (tackle by Quentin Lake),0.660,0.370
+3,2:17,3,5,DET 35,10,17,Jared Goff pass complete short middle to Sam LaPorta for 4 yards (tackle by John Johnson and Quentin Lake),0.370,-0.780
+3,1:42,4,1,DET 39,10,17,Jack Fox punts 45 yards returned by Kyren Williams for no gain,-0.780,0.140
+3,1:31,1,10,LAR 16,10,17,Kyren Williams left tackle for -2 yards (tackle by Brian Branch),-0.140,-0.890
+3,0:52,2,12,LAR 14,10,17,Matthew Stafford pass complete short middle to Tyler Johnson for 63 yards (tackle by Malcolm Rodriguez),-0.890,4.040
+4,15:00,1,10,DET 23,10,17,Matthew Stafford pass complete short right to Cooper Kupp for 5 yards (tackle by Carlton Davis and Alex Anzalone),4.040,4.210
+4,14:17,2,5,DET 18,10,17,Matthew Stafford pass incomplete deep left intended for Demarcus Robinson. Penalty on Terrion Arnold: Defensive Pass Interference 17 yards (accepted) (no play),4.210,6.970
+4,14:10,1,1,DET 1,10,17,Kyren Williams left tackle for no gain (tackle by Derrick Barnes and Brian Branch),6.970,5.910
+4,13:29,2,1,DET 1,10,17,Jordan Whittington left end for no gain touchdown. Penalty on AJ Arcuri: Offensive Holding 10 yards (accepted) (no play),5.910,4.020
+4,13:24,2,11,DET 11,10,17,Kyren Williams right tackle for 3 yards (tackle by Aidan Hutchinson),4.020,3.580
+4,12:41,3,8,DET 8,10,17,Matthew Stafford pass incomplete short left intended for Cooper Kupp (defended by Brian Branch). Penalty on AJ Arcuri: Offensive Holding 10 yards (declined),3.580,2.950
+4,12:35,4,8,DET 8,13,17,Joshua Karty 26 yard field goal good,2.950,3.000
+4,12:32,,,LAR 35,13,17,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+4,12:32,1,10,DET 30,13,17,Jahmyr Gibbs right end for no gain (tackle by Braden Fiske and Neville Gallimore),0.940,0.390
+4,11:52,2,10,DET 30,13,17,Penalty on Graham Glasgow: False Start 5 yards (accepted) (no play),0.390,-0.280
+4,11:51,2,15,DET 25,13,17,Jared Goff pass complete short left to Sam LaPorta for 9 yards (tackle by Christian Rozeboom and Cobie Durant),-0.280,0.230
+4,11:21,3,6,DET 34,13,17,Jared Goff scrambles up the middle for 7 yards (tackle by Quentin Lake),0.230,1.660
+4,10:39,1,10,DET 41,13,17,Jared Goff pass complete short left to Jameson Williams for 27 yards (tackle by Tre'Davious White),1.660,3.450
+4,10:00,1,10,LAR 32,13,17,Jahmyr Gibbs right tackle for 7 yards (tackle by Neville Gallimore and Byron Young),3.450,3.850
+4,9:14,2,3,LAR 25,13,17,Penalty on Frank Ragnow: False Start 5 yards (accepted) (no play),3.850,3.170
+4,9:14,2,8,LAR 30,13,17,Jared Goff pass short middle intended for Amon-Ra St. Brown is intercepted by John Johnson at LA-20 and returned for no gain (tackle by Amon-Ra St. Brown),3.170,-0.280
+4,9:09,1,10,LAR 20,13,17,Matthew Stafford pass complete short left to Cooper Kupp for 7 yards (tackle by Alex Anzalone),0.280,0.680
+4,8:37,2,3,LAR 27,13,17,Matthew Stafford pass complete short right to Colby Parkinson for 2 yards (tackle by Carlton Davis),0.680,0.230
+4,7:55,3,1,LAR 29,13,17,Matthew Stafford pass complete short middle to Tyler Johnson for 13 yards (tackle by Derrick Barnes),0.230,1.730
+4,7:31,1,10,LAR 42,13,17,Matthew Stafford pass complete short left to Cooper Kupp for no gain (tackle by Terrion Arnold),1.730,1.190
+4,6:48,2,10,LAR 42,13,17,Matthew Stafford pass complete short middle to Demarcus Robinson for 9 yards (tackle by Carlton Davis),1.190,1.690
+4,6:23,3,1,DET 49,13,17,Kyren Williams up the middle for 2 yards (tackle by Brian Branch),1.690,2.460
+4,5:41,1,10,DET 47,13,17,Matthew Stafford pass complete deep left to Cooper Kupp for 20 yards,2.460,3.780
+4,5:24,1,10,DET 27,13,17,Kyren Williams up the middle for 5 yards (tackle by Alim McNeill),3.780,3.910
+4,4:44,2,5,DET 22,13,17,Matthew Stafford pass complete short right to Demarcus Robinson for 13 yards (tackle by Terrion Arnold),3.910,5.140
+4,4:35,1,9,DET 9,19,17,Matthew Stafford pass complete short left to Cooper Kupp for 9 yards touchdown,5.140,7.000
+4,4:30,,,DET 15,20,17,Joshua Karty kicks extra point good,0.000,0.000
+4,4:30,,,LAR 35,20,17,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+4,4:30,1,10,DET 30,20,17,Jared Goff pass complete short right to Amon-Ra St. Brown for 5 yards (tackle by Cobie Durant),0.940,1.070
+4,4:26,2,5,DET 35,20,17,Jared Goff pass incomplete short right intended for Jameson Williams,1.070,0.370
+4,4:21,3,5,DET 35,20,17,Jared Goff pass incomplete deep left intended for Jameson Williams (defended by Cobie Durant),0.370,-1.040
+4,4:17,4,5,DET 35,20,17,Jack Fox punts 54 yards fair catch by Kyren Williams at LA-11,-1.040,0.370
+4,4:10,1,10,LAR 11,20,17,Matthew Stafford pass complete short middle to Cooper Kupp for 5 yards (tackle by Jack Campbell and Alex Anzalone),-0.370,-0.300
+4,3:25,2,5,LAR 16,20,17,Matthew Stafford pass incomplete short middle intended for Tyler Johnson,-0.300,-0.840
+4,3:20,3,5,LAR 16,20,17,Matthew Stafford pass complete short left to Demarcus Robinson for 6 yards (tackle by Brian Branch),-0.840,0.410
+4,2:37,1,10,LAR 22,20,17,Kyren Williams right tackle for -2 yards (tackle by Kyle Peko and Jack Campbell),0.410,-0.400
+4,2:31,,,,,,Timeout #1 by Detroit Lions,,
+4,2:31,2,12,LAR 20,20,17,Penalty on Warren McClendon: False Start 5 yards (accepted) (no play),-0.400,-1.210
+4,2:31,2,17,LAR 15,20,17,Kyren Williams left end for 7 yards (tackle by Malcolm Rodriguez),-1.210,-0.820
+4,2:26,3,10,LAR 22,20,17,Matthew Stafford pass incomplete deep left intended for Cooper Kupp,-0.820,-1.900
+4,2:21,4,10,LAR 22,20,17,Ethan Evans punts 50 yards returned by Kalif Raymond for 3 yards (tackle by Jordan Whittington),-1.900,-1.000
+4,2:11,1,10,DET 31,20,17,Jahmyr Gibbs up the middle for 5 yards (tackle by Braden Fiske and Tre'Davious White),1.000,1.140
+4,2:00,2,5,DET 36,20,17,Jared Goff pass complete short right to Sam LaPorta for 18 yards (tackle by Kamren Kinchens). Penalty on Kamren Kinchens: Unnecessary Roughness / Defense 15 yards (accepted),1.140,3.510
+4,1:55,1,10,LAR 31,20,17,Jared Goff pass complete short right to Jahmyr Gibbs for 8 yards (tackle by Christian Rozeboom),3.510,4.050
+4,1:11,2,2,LAR 23,20,17,Jared Goff pass incomplete deep left intended for Jahmyr Gibbs,4.050,3.340
+4,1:05,3,2,LAR 23,20,17,Jahmyr Gibbs right end for 4 yards (tackle by Kamren Curl) Replay Assistant challenged the runner was in bounds ruling and the original play was overturned. Jahmyr Gibbs right end for 4 yards (tackle by Kamren Curl),3.340,4.310
+4,0:41,1,10,LAR 19,20,17,Jared Goff pass incomplete short left intended for Amon-Ra St. Brown,4.310,3.750
+4,0:39,2,10,LAR 19,20,17,Jared Goff pass complete short middle to Jameson Williams for 5 yards (tackle by Quentin Lake),3.750,3.760
+4,0:24,,,,,,Timeout #2 by Detroit Lions,,
+4,0:24,3,5,LAR 14,20,17,Jared Goff pass incomplete short right intended for Jahmyr Gibbs,3.760,2.560
+4,0:20,4,5,LAR 14,20,20,Jake Bates 32 yard field goal good,2.560,3.000
+4,0:17,,,DET 35,20,20,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+4,0:17,1,10,LAR 30,20,20,Matthew Stafford pass incomplete deep right intended for Cooper Kupp,0.940,0.390
+4,0:11,,,,,,Timeout #3 by Detroit Lions,,
+4,0:11,2,10,LAR 30,20,20,Matthew Stafford sacked by Aidan Hutchinson for -5 yards,0.390,0.000
+,,,,,,,Lions won the coin toss Lions to receive the overtime kickoff.,,
+OT,10:00,,,LAR 35,20,20,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+OT,10:00,1,10,DET 30,20,20,Kalif Raymond left end for 12 yards (tackle by Christian Rozeboom),0.940,1.730
+OT,9:24,1,10,DET 42,20,20,David Montgomery right end for 21 yards (tackle by Tre'Davious White),1.730,3.120
+OT,8:44,1,10,LAR 37,20,20,David Montgomery left tackle for 9 yards (tackle by Jared Verse),3.120,3.790
+OT,8:02,2,1,LAR 28,20,20,Jared Goff pass complete short right to Jahmyr Gibbs for 10 yards (tackle by Tre'Davious White),3.790,4.370
+OT,7:21,1,10,LAR 18,20,20,Jahmyr Gibbs left tackle for 3 yards (tackle by Troy Reeder and Quentin Lake),4.370,4.250
+OT,6:43,2,7,LAR 15,20,20,David Montgomery up the middle for 6 yards (tackle by Kobie Turner and Braden Fiske),4.250,4.740
+OT,6:04,3,1,LAR 9,20,20,David Montgomery up the middle for 8 yards (tackle by Bobby Brown and John Johnson),4.740,6.970
+OT,5:24,,,,,,Timeout #1 by Los Angeles Rams,,
+OT,5:24,1,1,LAR 1,20,26,David Montgomery right tackle for 1 yard touchdown,6.970,6.000

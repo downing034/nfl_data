@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,DAL,CLE,Detail,EPB,EPA
+,,,,,,,Browns won the coin toss and deferred Cowboys to receive the opening kickoff.,,
+1,15:00,,,CLE 35,0,0,Dustin Hopkins kicks off 66 yards returned by KaVontae Turpin for 34 yards (tackle by Grant Delpit),0.000,1.140
+1,14:56,1,10,DAL 33,0,0,Ezekiel Elliott right end for no gain (tackle by Denzel Ward). Penalty on Jalen Tolbert: Offensive Holding 10 yards (accepted) (no play),1.140,0.480
+1,14:46,1,20,DAL 23,0,0,Dak Prescott sacked by Dalvin Tomlinson for -7 yards,0.480,-1.860
+1,14:07,2,27,DAL 16,0,0,Dak Prescott pass complete short left to CeeDee Lamb for 8 yards (tackle by Grant Delpit and Dalvin Tomlinson),-1.860,-1.290
+1,13:34,3,19,DAL 24,0,0,Ezekiel Elliott left guard for 8 yards (tackle by Jeremiah Owusu-Koramoah and Martin Emerson),-1.290,-1.240
+1,12:52,4,11,DAL 32,0,0,Bryan Anger punts 42 yards returned by Jaelon Darden for 28 yards (tackle by Jalen Brooks),-1.240,-2.520
+1,12:39,1,10,DAL 46,0,0,Jerome Ford right tackle for 4 yards (tackle by Eric Kendricks and DeMarvion Overshown),2.520,2.520
+1,12:07,2,6,DAL 42,0,0,Deshaun Watson pass complete short right to Amari Cooper for 6 yards (tackle by Caelen Carson),2.520,3.180
+1,11:35,1,10,DAL 36,0,0,Deshaun Watson pass complete short right to David Njoku for -1 yards (tackle by DeMarvion Overshown). Penalty on James Hudson: Ineligible Downfield Pass 5 yards (accepted) (no play),3.180,2.850
+1,11:25,1,15,DAL 41,0,0,Deshaun Watson pass incomplete short right intended for Amari Cooper (defended by Caelen Carson),2.850,1.960
+1,11:22,2,15,DAL 41,0,0,Deshaun Watson pass complete short left to David Njoku for 5 yards (tackle by Trevon Diggs),1.960,1.950
+1,10:38,3,10,DAL 36,0,0,Deshaun Watson scrambles right end for 8 yards (tackle by Eric Kendricks and Osa Odighizuwa),1.950,1.700
+1,9:52,4,2,DAL 28,0,0,Penalty on Dawand Jones: False Start 5 yards (accepted) (no play),1.700,1.150
+1,9:28,,,,,,Timeout #1 by Cleveland Browns,,
+1,9:28,4,7,DAL 33,0,3,Dustin Hopkins 51 yard field goal good,1.150,3.000
+1,9:23,,,CLE 35,0,3,Dustin Hopkins kicks off 65 yards touchback.,0.000,0.940
+1,9:23,1,10,DAL 30,0,3,Penalty on Hunter Luepke: False Start 5 yards (accepted) (no play),0.940,0.610
+1,9:23,1,15,DAL 25,0,3,Rico Dowdle left guard for no gain (tackle by Dalvin Tomlinson). Penalty on Maurice Hurst: Defensive Offside 5 yards (accepted) (no play),0.610,0.940
+1,9:03,1,10,DAL 30,0,3,CeeDee Lamb right end for 10 yards (tackle by Jeremiah Owusu-Koramoah),0.940,1.600
+1,8:28,1,10,DAL 40,0,3,Dak Prescott pass incomplete short middle intended for KaVontae Turpin,1.600,1.050
+1,8:21,2,10,DAL 40,0,3,Dak Prescott pass complete deep right to CeeDee Lamb for 34 yards (tackle by Juan Thornhill),1.050,3.840
+1,7:44,1,10,CLE 26,0,3,Dak Prescott pass incomplete deep right intended for Jake Ferguson (defended by Denzel Ward),3.840,3.300
+1,7:40,2,10,CLE 26,0,3,Rico Dowdle up the middle for 5 yards (tackle by Alex Wright),3.300,3.270
+1,6:59,3,5,CLE 21,6,3,Dak Prescott pass complete deep left to Brandin Cooks for 21 yards touchdown,3.270,7.000
+1,6:55,,,CLE 15,7,3,Brandon Aubrey kicks extra point good,0.000,0.000
+1,6:55,,,DAL 35,7,3,Brandon Aubrey kicks off 65 yards touchback.. Penalty on D'Anthony Bell: Illegal Formation 5 yards (accepted),0.000,0.610
+1,6:55,1,10,CLE 25,7,3,Penalty on Dawand Jones: False Start 5 yards (accepted) (no play),0.610,0.280
+1,6:55,1,15,CLE 20,7,3,Jerome Ford left tackle for no gain (tackle by Eric Kendricks),0.280,-0.610
+1,6:20,2,15,CLE 20,7,3,Deshaun Watson pass complete short left to Jerry Jeudy for 4 yards (tackle by DeMarvion Overshown),-0.610,-0.760
+1,5:44,3,11,CLE 24,7,3,Deshaun Watson pass complete short middle to Jerome Ford for 8 yards (tackle by DeMarvion Overshown and Eric Kendricks),-0.760,-1.240
+1,4:57,4,3,CLE 32,7,3,Corey Bojorquez punts 58 yards downed by Mike Ford,-1.240,0.380
+1,4:45,1,10,DAL 10,7,3,Ezekiel Elliott up the middle for 1 yard (tackle by Quinton Jefferson and Mohamoud Diabate),-0.380,-0.710
+1,4:11,2,9,DAL 11,7,3,Dak Prescott pass complete short right to Jake Ferguson for 6 yards (tackle by Jeremiah Owusu-Koramoah and Quinton Jefferson),-0.710,-0.600
+1,3:32,3,3,DAL 17,7,3,Ezekiel Elliott right guard for 7 yards (tackle by Maurice Hurst and Jeremiah Owusu-Koramoah),-0.600,0.540
+1,3:03,1,10,DAL 24,7,3,Ezekiel Elliott left guard for 1 yard (tackle by Jordan Hicks and Dalvin Tomlinson),0.540,0.130
+1,2:31,2,9,DAL 25,7,3,Dak Prescott pass complete short middle to CeeDee Lamb for 11 yards (tackle by Juan Thornhill and Martin Emerson),0.130,1.330
+1,2:01,1,10,DAL 36,7,3,Dak Prescott pass complete short left to CeeDee Lamb for 5 yards (tackle by Martin Emerson and Jordan Hicks),1.330,1.470
+1,1:31,2,5,DAL 41,7,3,Dak Prescott pass incomplete short right intended for CeeDee Lamb (defended by Denzel Ward),1.470,0.760
+1,1:23,3,5,DAL 41,7,3,Dak Prescott pass incomplete short right intended for Brandin Cooks,0.760,-0.650
+1,1:20,4,5,DAL 41,7,3,Bryan Anger punts 52 yards returned by Jaelon Darden for 13 yards (tackle by Trent Sieg),-0.650,-0.280
+1,1:10,1,10,CLE 20,7,3,Deshaun Watson pass incomplete deep right intended for Jerry Jeudy (defended by Caelen Carson),0.280,-0.270
+1,1:01,2,10,CLE 20,7,3,Deshaun Watson pass incomplete short right intended for David Njoku,-0.270,-0.960
+1,0:56,3,10,CLE 20,7,3,Deshaun Watson sacked by Micah Parsons for -5 yards,-0.960,-2.440
+1,0:11,4,15,CLE 15,7,3,Corey Bojorquez punts 53 yards returned by KaVontae Turpin for 7 yards (tackle by Devin Bush). Penalty on Israel Mukuamu: Offensive Holding 10 yards (accepted),-2.440,-0.870
+2,15:00,1,10,DAL 29,7,3,Rico Dowdle left guard for 2 yards (tackle by Alex Wright),0.870,0.600
+2,14:28,2,8,DAL 31,7,3,Dak Prescott sacked by Myles Garrett for -7 yards. Dak Prescott fumbles (forced by Myles Garrett) recovered by Jalen Tolbert at DAL-24,0.600,-1.020
+2,13:39,3,15,DAL 24,7,3,Dak Prescott pass complete short left to Jake Ferguson for 7 yards (tackle by Juan Thornhill),-1.020,-1.310
+2,13:03,4,8,DAL 31,7,3,Bryan Anger punts 46 yards out of bounds,-1.310,-0.480
+2,12:56,1,10,CLE 23,7,3,Jerome Ford right tackle for 1 yard (tackle by Marshawn Kneeland),0.480,0.070
+2,12:11,2,9,CLE 24,7,3,Deshaun Watson pass incomplete short middle intended for Elijah Moore,0.070,-0.630
+2,12:07,3,9,CLE 24,7,3,Deshaun Watson pass complete short left to David Njoku for 7 yards (tackle by Jourdan Lewis),-0.630,-1.310
+2,11:25,4,2,CLE 31,7,3,Corey Bojorquez punts 56 yards returned by KaVontae Turpin for 9 yards (tackle by Pierre Strong and Devin Bush),-1.310,-0.410
+2,11:11,1,10,DAL 22,7,3,Dak Prescott pass incomplete deep right intended for CeeDee Lamb (defended by Martin Emerson),0.410,-0.130
+2,11:03,2,10,DAL 22,7,3,Ezekiel Elliott left end for 9 yards (tackle by Martin Emerson),-0.130,0.370
+2,10:38,3,1,DAL 31,7,3,Dak Prescott up the middle for 3 yards (tackle by Mohamoud Diabate),0.370,1.200
+2,10:03,1,10,DAL 34,7,3,CeeDee Lamb right end for 12 yards (tackle by Juan Thornhill),1.200,1.990
+2,9:37,1,10,DAL 46,7,3,Ezekiel Elliott left guard for 3 yards (tackle by Grant Delpit and Quinton Jefferson),1.990,1.860
+2,9:03,2,7,DAL 49,7,3,Dak Prescott pass complete short right to Hunter Luepke for 6 yards (tackle by Grant Delpit),1.860,1.950
+2,8:27,3,1,CLE 45,7,3,Rico Dowdle right tackle for 6 yards (tackle by Za'Darius Smith),1.950,2.980
+2,7:44,1,10,CLE 39,7,3,Dak Prescott pass complete short middle to Jalen Brooks for 18 yards (tackle by Juan Thornhill),2.980,4.170
+2,7:01,1,10,CLE 21,7,3,Dak Prescott pass complete short right to Brandin Cooks for 5 yards (tackle by Greg Newsome),4.170,4.370
+2,6:24,2,5,CLE 16,7,3,Dak Prescott pass complete short left to Ezekiel Elliott for 9 yards (tackle by Juan Thornhill),4.370,5.600
+2,5:41,1,7,CLE 7,7,3,Dak Prescott sacked by Myles Garrett for no gain. Penalty on Myles Garrett: Defensive Offside 4 yards (accepted) (no play),5.600,6.510
+2,5:18,1,3,CLE 3,13,3,Ezekiel Elliott up the middle for 3 yards touchdown,6.510,7.000
+2,5:15,,,CLE 15,14,3,Brandon Aubrey kicks extra point good,0.000,0.000
+2,5:15,,,DAL 35,14,3,Brandon Aubrey kicks off 65 yards touchback.,0.000,0.280
+2,5:15,1,10,CLE 20,14,3,Deshaun Watson pass incomplete short left intended for Jordan Akins,0.280,-0.270
+2,5:08,2,10,CLE 20,14,3,Deshaun Watson pass incomplete deep right intended for Amari Cooper,-0.270,-0.960
+2,5:01,3,10,CLE 20,14,3,Deshaun Watson pass complete short right to Elijah Moore for 3 yards (tackle by Malik Hooker). Penalty on Cedric Tillman: Offensive Holding 10 yards (declined),-0.960,-1.830
+2,4:42,4,7,CLE 23,14,3,Corey Bojorquez punts 33 yards out of bounds,-1.830,-1.860
+2,4:34,1,10,DAL 44,14,3,Dak Prescott pass complete short left to Brandin Cooks for 15 yards (tackle by Martin Emerson),1.860,2.850
+2,4:00,1,10,CLE 41,14,3,Rico Dowdle left guard for -1 yards (tackle by Shelby Harris and Martin Emerson),2.850,2.170
+2,3:27,2,11,CLE 42,14,3,Deuce Vaughn right guard for 4 yards (tackle by Za'Darius Smith and Jeremiah Owusu-Koramoah),2.170,2.020
+2,2:54,3,7,CLE 38,14,3,Dak Prescott pass complete short right to Brandin Cooks for -1 yards (tackle by Juan Thornhill),2.020,0.660
+2,2:11,4,8,CLE 39,17,3,Brandon Aubrey 57 yard field goal good,0.660,3.000
+2,2:06,,,DAL 35,17,3,Brandon Aubrey kicks off 65 yards touchback.,0.000,0.940
+2,2:06,1,10,CLE 30,17,3,Jerome Ford right tackle for 6 yards (tackle by DeMarcus Lawrence and Jourdan Lewis),0.940,1.200
+2,2:00,2,4,CLE 36,17,3,Jerome Ford left end for no gain (tackle by Malik Hooker). Penalty on David Njoku: Offensive Holding 10 yards (accepted) (no play),1.200,-0.150
+2,1:52,2,14,CLE 26,17,3,Deshaun Watson pass short right (defended by Micah Parsons) intended for Elijah Moore is intercepted by Eric Kendricks at CLE-31 and returned for 8 yards (tackle by David Njoku),-0.150,-4.040
+2,1:46,1,10,CLE 23,17,3,Ezekiel Elliott up the middle for 3 yards (tackle by Jordan Hicks and Juan Thornhill),4.040,3.900
+2,1:06,2,7,CLE 20,17,3,Dak Prescott pass incomplete deep right intended for Jake Ferguson,3.900,3.200
+2,1:01,3,7,CLE 20,17,3,Dak Prescott sacked by Za'Darius Smith for -2 yards,3.200,1.990
+2,0:55,,,,,,Timeout #2 by Cleveland Browns,,
+2,0:55,4,9,CLE 22,20,3,Brandon Aubrey 40 yard field goal good,1.990,3.000
+2,0:51,,,DAL 35,20,3,Brandon Aubrey kicks off 59 yards returned by Jaelon Darden for 21 yards (tackle by Marist Liufau and DeMarvion Overshown),0.000,0.740
+2,0:46,1,10,CLE 27,20,3,Deshaun Watson pass complete short right to David Njoku for 3 yards (tackle by DeMarvion Overshown),0.740,0.600
+2,0:26,2,7,CLE 30,20,3,Deshaun Watson pass incomplete short right intended for Jerry Jeudy (defended by Donovan Wilson),0.600,-0.100
+2,0:23,3,7,CLE 30,20,3,Pierre Strong up the middle for 4 yards (tackle by Marshawn Kneeland and Micah Parsons),-0.100,-1.110
+2,0:17,,,,,,Timeout #1 by Dallas Cowboys,,
+2,0:17,4,3,CLE 34,20,3,Corey Bojorquez punts 46 yards returned by KaVontae Turpin for 20 yards (tackle by Charley Hughlett),-1.110,-1.600
+2,0:09,1,10,DAL 40,20,3,Dak Prescott pass complete short left to Jalen Tolbert for 12 yards (tackle by Martin Emerson),1.600,2.390
+2,0:04,1,10,CLE 48,20,3,Penalty on DAL: Delay of Game 5 yards (accepted) (no play),2.390,2.060
+2,0:04,,,,,,Timeout #3 by Cleveland Browns,,
+2,0:04,1,15,DAL 47,20,3,Dak Prescott pass incomplete deep middle,2.060,1.170
+3,15:00,,,DAL 35,20,3,Brandon Aubrey kicks off 64 yards returned by Jaelon Darden for 24 yards (tackle by Jalen Brooks),0.000,0.610
+3,14:54,1,10,CLE 25,20,3,Jerome Ford right end for 4 yards (tackle by Eric Kendricks and DeMarcus Lawrence),0.610,0.600
+3,14:25,2,6,CLE 29,20,3,Deshaun Watson pass complete short right to Jerome Ford for no gain (tackle by Donovan Wilson). Penalty on Dawand Jones: Illegal Formation 5 yards (accepted) (no play),0.600,-0.070
+3,14:03,2,11,CLE 24,20,3,Deshaun Watson pass incomplete short middle intended for Amari Cooper,-0.070,-0.760
+3,14:00,3,11,CLE 24,20,3,Deshaun Watson sacked by DeMarcus Lawrence for -13 yards,-0.760,-2.490
+3,13:15,4,24,CLE 11,26,3,Corey Bojorquez punts 49 yards returned by KaVontae Turpin for 60 yards touchdown,-2.490,-7.000
+3,12:59,,,CLE 15,27,3,Brandon Aubrey kicks extra point good,0.000,0.000
+3,12:59,,,DAL 35,27,3,Brandon Aubrey kicks off 68 yards returned by Jaelon Darden for 28 yards (tackle by DeMarvion Overshown and Tyrus Wheat),0.000,0.610
+3,12:53,1,10,CLE 25,27,3,Jerome Ford right tackle for 4 yards (tackle by Jordan Phillips and Chauncey Golston),0.610,0.600
+3,12:30,2,6,CLE 29,27,3,Deshaun Watson pass incomplete deep middle intended for Amari Cooper,0.600,-0.100
+3,12:23,,,,,,Timeout #1 by Cleveland Browns,,
+3,12:23,3,6,CLE 29,27,3,Deshaun Watson pass complete short right to Jerry Jeudy for 15 yards (tackle by Caelen Carson),-0.100,1.860
+3,11:47,1,10,CLE 44,27,3,Deshaun Watson sacked by Eric Kendricks for no gain,1.860,1.320
+3,11:15,2,10,CLE 44,27,3,Deshaun Watson pass complete short right to David Njoku for 29 yards (tackle by Eric Kendricks and Malik Hooker),1.320,3.780
+3,10:38,1,10,DAL 27,27,3,Deshaun Watson pass complete short right to Jordan Akins for 7 yards (tackle by Caelen Carson),3.780,4.180
+3,10:03,2,3,DAL 20,27,3,Deshaun Watson pass complete short left to Elijah Moore for 4 yards (tackle by Eric Kendricks),4.180,4.510
+3,9:25,1,10,DAL 16,27,3,Deshaun Watson pass incomplete deep left intended for Jerry Jeudy,4.510,3.900
+3,9:18,2,10,DAL 16,27,3,Deshaun Watson pass incomplete deep right intended for Amari Cooper,3.900,3.080
+3,9:13,3,10,DAL 16,27,3,Deshaun Watson pass complete short right to Amari Cooper for 10 yards (tackle by Caelen Carson),3.080,5.830
+3,8:52,1,6,DAL 6,27,3,Deshaun Watson pass incomplete short left,5.830,4.950
+3,8:46,2,6,DAL 6,27,9,Deshaun Watson pass complete short right to Jerry Jeudy for 6 yards touchdown,4.950,7.000
+3,8:42,,,DAL 15,27,10,Dustin Hopkins kicks extra point good,0.000,0.000
+3,8:42,,,CLE 35,27,10,Dustin Hopkins kicks off 65 yards touchback.,0.000,0.940
+3,8:42,1,10,DAL 30,27,10,Dak Prescott pass incomplete deep left intended for Brandin Cooks,0.940,0.390
+3,8:38,2,10,DAL 30,27,10,CeeDee Lamb right end for 3 yards (tackle by Juan Thornhill),0.390,0.100
+3,8:03,3,7,DAL 33,27,10,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Greg Newsome),0.100,-1.180
+3,7:58,4,7,DAL 33,27,10,Bryan Anger punts 43 yards returned by Jaelon Darden for no gain (tackle by Trent Sieg). Penalty on Ogbonnia Okoronkwo: Offensive Holding 10 yards (accepted),-1.180,0.280
+3,7:47,1,10,CLE 14,27,10,Deshaun Watson pass incomplete deep right intended for Amari Cooper. Penalty on Caelen Carson: Illegal Contact 5 yards (accepted) (no play),-0.280,0.150
+3,7:41,1,10,CLE 19,27,10,Deshaun Watson pass incomplete deep left intended for Jerry Jeudy,0.150,-0.390
+3,7:34,2,10,CLE 19,27,10,Deshaun Watson pass complete short left to Jerome Ford for 4 yards (tackle by Jourdan Lewis),-0.390,-0.550
+3,6:58,3,6,CLE 23,27,10,Deshaun Watson sacked by Eric Kendricks for -8 yards Penalty on CLE: Illegal Formation 5 yards (declined),-0.550,-2.440
+3,6:45,4,14,CLE 15,27,10,Corey Bojorquez punts 62 yards returned by KaVontae Turpin for no gain (tackle by Pierre Strong). Penalty on C.J. Goodwin: Offensive Holding 10 yards (accepted),-2.440,0.320
+3,6:35,1,10,DAL 13,27,10,Dak Prescott pass complete short right to Jake Ferguson for 2 yards (tackle by Jordan Hicks),-0.320,-0.570
+3,6:11,2,8,DAL 15,27,10,Ezekiel Elliott left guard for 2 yards (tackle by Jeremiah Owusu-Koramoah),-0.570,-0.940
+3,5:33,3,6,DAL 17,27,10,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Jeremiah Owusu-Koramoah),-0.940,-2.320
+3,5:29,4,6,DAL 17,27,10,Bryan Anger punts 52 yards returned by Jaelon Darden for 14 yards (tackle by Markquese Bell),-2.320,-1.930
+3,5:17,1,10,CLE 45,27,10,Jerome Ford right tackle for 6 yards (tackle by Osa Odighizuwa and DeMarvion Overshown),1.930,2.190
+3,4:50,2,4,DAL 49,27,10,Deshaun Watson pass incomplete short right intended for Jerry Jeudy,2.190,1.490
+3,4:47,3,4,DAL 49,27,10,Jerome Ford left tackle for -2 yards (tackle by DeMarcus Lawrence),1.490,-0.130
+3,4:02,4,6,CLE 49,27,10,Deshaun Watson sacked by DeMarvion Overshown for -3 yards,-0.130,-2.520
+3,3:55,1,10,CLE 46,27,10,Rico Dowdle right guard for 5 yards (tackle by Maurice Hurst and Tony Fields),2.520,2.650
+3,3:29,2,5,CLE 41,27,10,Rico Dowdle left tackle for 10 yards (tackle by Martin Emerson),2.650,3.510
+3,2:58,1,10,CLE 31,27,10,Rico Dowdle left guard for 1 yard (tackle by Myles Garrett),3.510,3.100
+3,2:16,2,9,CLE 30,27,10,Dak Prescott pass incomplete short right intended for Jalen Tolbert,3.100,2.410
+3,2:09,3,9,CLE 30,27,10,Penalty on DAL: Delay of Game 5 yards (accepted) (no play),2.410,1.750
+3,2:09,3,14,CLE 35,27,10,Dak Prescott pass complete short right to CeeDee Lamb for 3 yards (tackle by Shelby Harris),1.750,1.240
+3,1:31,4,11,CLE 32,30,10,Brandon Aubrey 50 yard field goal good,1.240,3.000
+3,1:27,,,DAL 35,30,10,Brandon Aubrey kicks off 57 yards returned by Jaelon Darden for 24 yards (tackle by Nick Vigil),0.000,1.070
+3,1:22,1,10,CLE 32,30,10,Deshaun Watson pass complete short middle to Jerome Ford for 5 yards (tackle by DeMarvion Overshown),1.070,1.200
+3,0:53,2,5,CLE 37,30,10,Deshaun Watson pass complete short left to Cedric Tillman for 3 yards (tackle by Trevon Diggs),1.200,0.890
+3,0:23,3,2,CLE 40,30,10,Deshaun Watson scrambles left end for no gain (tackle by Donovan Wilson). Penalty on Amari Cooper: Illegal Shift 5 yards (accepted) (no play),0.890,0.230
+4,15:00,3,7,CLE 35,30,10,Deshaun Watson scrambles right end for 3 yards (tackle by Damone Clark and Nick Vigil),0.230,-0.850
+4,14:15,4,4,CLE 38,30,10,Deshaun Watson pass incomplete deep left intended for Jerome Ford (defended by Marshawn Kneeland),-0.850,-3.050
+4,14:07,1,10,CLE 38,30,10,Dak Prescott pass complete short right to Hunter Luepke for 12 yards (tackle by Jeremiah Owusu-Koramoah),3.050,3.840
+4,13:34,1,10,CLE 26,30,10,Ezekiel Elliott up the middle for 3 yards (tackle by Tony Fields),3.840,3.700
+4,13:16,2,7,CLE 23,30,10,Brandin Cooks left end for 5 yards (tackle by Jordan Hicks). Penalty on Tyler Guyton: Offensive Illegal Block Above the Waist 10 yards (accepted),3.700,3.030
+4,12:42,2,12,CLE 28,30,10,Dak Prescott pass incomplete short right intended for Brandin Cooks (defended by Denzel Ward),3.030,2.350
+4,12:36,3,12,CLE 28,30,10,Dak Prescott pass complete short left to Ezekiel Elliott for no gain (tackle by Jeremiah Owusu-Koramoah),2.350,1.590
+4,11:55,4,12,CLE 28,33,10,Brandon Aubrey 46 yard field goal good,1.590,3.000
+4,11:51,,,DAL 35,33,10,Brandon Aubrey kicks off 65 yards touchback.,0.000,0.940
+4,11:51,1,10,CLE 30,33,10,Jerome Ford up the middle for 11 yards (tackle by DeMarvion Overshown and Donovan Wilson),0.940,1.660
+4,11:26,1,10,CLE 41,33,10,Deshaun Watson pass complete short left to Jerome Ford for 2 yards (tackle by DeMarvion Overshown),1.660,1.390
+4,10:57,2,8,CLE 43,33,10,Deshaun Watson pass complete short middle to Pierre Strong for 20 yards (tackle by Donovan Wilson and Trevon Diggs),1.390,3.120
+4,10:28,1,10,DAL 37,33,10,Deshaun Watson pass incomplete deep left,3.120,2.570
+4,10:17,2,10,DAL 37,33,10,Deshaun Watson pass complete short middle to Jordan Akins for 13 yards (tackle by Malik Hooker),2.570,3.970
+4,9:50,1,10,DAL 24,33,10,Deshaun Watson pass complete short right to Elijah Moore for 2 yards (tackle by Jourdan Lewis),3.970,3.700
+4,9:12,2,8,DAL 22,33,10,Deshaun Watson pass short left intended for Elijah Moore is intercepted by Trevon Diggs at DAL-22 and returned for 1 yard (tackle by Elijah Moore),3.700,-0.480
+4,9:06,1,10,DAL 23,33,10,Rico Dowdle left guard for -2 yards (tackle by Maurice Hurst and Jordan Hicks),0.480,-0.340
+4,8:23,2,12,DAL 21,33,10,Dak Prescott pass complete short right to Rico Dowdle for 6 yards (tackle by Jeremiah Owusu-Koramoah and Jordan Hicks),-0.340,-0.230
+4,7:36,3,6,DAL 27,33,10,Dak Prescott pass incomplete short middle intended for CeeDee Lamb,-0.230,-1.570
+4,7:22,4,6,DAL 27,33,10,Bryan Anger punts 59 yards returned by Jaelon Darden for 17 yards (tackle by Markquese Bell). Penalty on C.J. Goodwin: Player Out of Bounds on a Punt 5 yards (accepted),-1.570,-1.330
+4,7:22,1,10,CLE 36,33,10,Jerome Ford left tackle for no gain (tackle by Damone Clark) (no play),1.330,1.000
+4,6:59,1,15,CLE 31,33,10,Deshaun Watson pass complete short left to Jerome Ford for 4 yards (tackle by Damone Clark). Penalty on Trevon Diggs: Unnecessary Roughness / Defense 15 yards (accepted),1.000,2.260
+4,6:30,1,10,CLE 50,33,10,Deshaun Watson pass incomplete short left intended for Amari Cooper (defended by Trevon Diggs),2.260,1.710
+4,6:23,2,10,CLE 50,33,10,Deshaun Watson pass complete short left to Pierre Strong for no gain (tackle by Trevon Diggs),1.710,1.030
+4,5:41,3,10,CLE 50,33,10,Deshaun Watson scrambles up the middle for 6 yards (tackle by Marshawn Kneeland),1.030,0.330
+4,4:56,4,4,DAL 44,33,10,Deshaun Watson scrambles left end for 6 yards (tackle by Damone Clark),0.330,3.050
+4,4:15,1,10,DAL 38,33,10,Deshaun Watson pass complete short right to Jerome Ford for 2 yards (tackle by Micah Parsons and Damone Clark),3.050,2.780
+4,3:41,2,8,DAL 36,33,10,Deshaun Watson pass incomplete deep right intended for Amari Cooper,2.780,2.080
+4,3:34,,,,,,Timeout #2 by Cleveland Browns,,
+4,3:34,3,8,DAL 36,33,10,Deshaun Watson pass complete short left to Jordan Akins for 7 yards (tackle by Trevon Diggs and Jourdan Lewis),2.080,1.620
+4,3:17,4,1,DAL 29,33,10,Pierre Strong right guard for 6 yards (tackle by Micah Parsons and Malik Hooker),1.620,4.040
+4,2:33,1,10,DAL 23,33,10,Deshaun Watson pass incomplete short middle intended for Pierre Strong,4.040,3.500
+4,2:30,2,10,DAL 23,33,10,Deshaun Watson sacked by DeMarcus Lawrence for -3 yards. Deshaun Watson fumbles (forced by DeMarcus Lawrence) recovered by Joel Bitonio at DAL-26,3.500,2.410
+4,2:00,3,13,DAL 26,33,10,Jerome Ford right guard for 4 yards (tackle by Osa Odighizuwa),2.410,1.990
+4,1:32,4,9,DAL 22,33,10,Deshaun Watson scrambles up the middle for 16 yards (tackle by Juanyeh Thomas),1.990,5.830
+4,0:54,1,6,DAL 6,33,10,Jerome Ford right guard for 4 yards (tackle by Marist Liufau),5.830,5.720
+4,0:33,2,2,DAL 2,33,16,Jerome Ford right tackle for 2 yards touchdown,5.720,7.000
+4,0:29,,,DAL 15,33,16,Penalty on DAL: Defensive Too Many Men on Field 5 yards (accepted) (no play),0.000,0.000
+4,0:29,1,10,DAL 10,33,17,Dustin Hopkins kicks extra point good,0.000,0.000
+4,0:29,,,CLE 35,33,17,Dustin Hopkins kicks off 65 yards touchback.,0.000,0.940
+4,0:29,1,10,DAL 30,33,17,Cooper Rush kneels for -1 yards,0.940,0.260

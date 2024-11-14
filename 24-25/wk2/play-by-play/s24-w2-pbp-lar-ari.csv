@@ -1,0 +1,149 @@
+Quarter,Time,Down,ToGo,Location,LAR,ARI,Detail,EPB,EPA
+,,,,,,,Cardinals won the coin toss and deferred Rams to receive the opening kickoff.,,
+1,15:00,,,ARI 35,0,0,Matt Prater kicks off 55 yards returned by Blake Corum for 41 yards (tackle by Max Melton),0.000,2.320
+1,14:50,1,10,ARI 49,0,0,Kyren Williams right tackle for 9 yards (tackle by Starling Thomas),2.320,3.000
+1,14:18,2,1,ARI 40,0,0,Kyren Williams up the middle for -1 yards (tackle by Budda Baker and Bilal Nichols),3.000,2.150
+1,13:39,3,2,ARI 41,0,0,Matthew Stafford pass complete short right to Demarcus Robinson for 3 yards (tackle by Sean Murphy-Bunting) ARI challenged the pass completion ruling and the original play was overturned. Matthew Stafford pass incomplete short right intended for Demarcus Robinson,2.150,0.530
+1,13:37,4,2,ARI 41,0,0,Matthew Stafford pass complete short left to Cooper Kupp for 1 yard (tackle by Budda Baker),0.530,-1.600
+1,13:30,1,10,ARI 40,0,0,Kyler Murray pass incomplete short right intended for Marvin Harrison (defended by Tre'Davious White),1.600,1.050
+1,13:26,2,10,ARI 40,0,0,James Conner up the middle for 16 yards (tackle by John Johnson),1.050,2.650
+1,13:01,1,10,LAR 44,0,0,Kyler Murray scrambles right end for 6 yards (tackle by Troy Reeder),2.650,2.920
+1,12:21,2,4,LAR 38,0,0,James Conner up the middle for 13 yards (tackle by Kamren Curl and Quentin Lake),2.920,3.910
+1,11:45,1,10,LAR 25,0,0,Kyler Murray pass complete short left to James Conner for 2 yards (tackle by Christian Rozeboom),3.910,3.630
+1,11:09,2,8,LAR 23,0,6,Kyler Murray pass complete deep left to Marvin Harrison for 23 yards touchdown,3.630,7.000
+1,11:03,,,LAR 15,0,7,Matt Prater kicks extra point good,0.000,0.000
+1,11:03,,,ARI 35,0,7,Matt Prater kicks off 65 yards touchback.,0.000,0.940
+1,11:03,1,10,LAR 30,0,7,Kyren Williams right tackle for -1 yards (tackle by Justin Jones),0.940,0.260
+1,10:27,2,11,LAR 29,0,7,Matthew Stafford pass complete short middle to Tyler Johnson for 7 yards (tackle by Dennis Gardeck),0.260,0.500
+1,9:46,3,4,LAR 36,0,7,Matthew Stafford sacked by Dennis Gardeck for -8 yards,0.500,-1.500
+1,9:09,4,12,LAR 28,0,7,Ethan Evans punts 49 yards returned by Greg Dortch for 17 yards (tackle by Jake Hummel),-1.500,-1.600
+1,8:57,1,10,ARI 40,0,13,Kyler Murray pass complete deep right to Marvin Harrison for 60 yards touchdown,1.600,7.000
+1,8:47,,,LAR 15,0,14,Matt Prater kicks extra point good,0.000,0.000
+1,8:47,,,ARI 35,0,14,Matt Prater kicks off 65 yards touchback.,0.000,0.940
+1,8:47,1,10,LAR 30,0,14,Matthew Stafford pass complete short right to Cooper Kupp for 7 yards (tackle by Max Melton),0.940,1.340
+1,8:01,2,3,LAR 37,0,14,Kyren Williams up the middle for -1 yards (tackle by Sean Murphy-Bunting and Julian Okwara),1.340,0.500
+1,7:20,3,4,LAR 36,0,14,Matthew Stafford pass incomplete short right intended for Cooper Kupp (defended by Budda Baker),0.500,-0.980
+1,7:13,4,4,LAR 36,0,14,Ethan Evans punts 63 yards downed by Charles Woods,-0.980,0.380
+1,7:00,1,10,ARI 1,0,14,Kyler Murray pass complete short left to Marvin Harrison for 15 yards (tackle by Tre'Davious White),-0.380,-0.140
+1,6:29,1,10,ARI 16,0,14,James Conner right tackle for no gain (tackle by Troy Reeder and Braden Fiske). Penalty on Kelvin Beachum: Offensive Holding 8 yards (accepted) (no play),-0.140,-0.680
+1,6:04,1,18,ARI 8,0,14,James Conner left end for -1 yards (tackle by Byron Young),-0.680,-1.440
+1,5:19,2,19,ARI 7,0,14,Kyler Murray pass complete short right to James Conner for no gain (tackle by Christian Rozeboom). Penalty on Quentin Lake: Defensive Holding 5 yards (accepted) (no play),-1.440,-0.350
+1,5:01,1,10,ARI 12,0,14,James Conner up the middle for 4 yards (tackle by Michael Hoecht and Quentin Lake),-0.350,-0.370
+1,4:21,2,6,ARI 16,0,14,Trey Benson up the middle for 1 yard (tackle by Bobby Brown),-0.370,-0.840
+1,3:34,3,5,ARI 17,0,14,Kyler Murray pass complete deep left to Marvin Harrison for 32 yards (tackle by Kamren Kinchens),-0.840,2.190
+1,2:45,1,10,ARI 49,0,14,Kyler Murray pass complete short left to Trey Benson for 7 yards (tackle by Tre'Davious White),2.190,2.590
+1,2:07,2,3,LAR 44,0,14,Trey Benson left tackle for 2 yards (tackle by Troy Reeder),2.590,2.150
+1,1:33,3,1,LAR 42,0,14,James Conner up the middle for 6 yards (tackle by Quentin Lake and Kamren Curl),2.150,3.180
+1,0:52,1,10,LAR 36,0,14,Kyler Murray pass complete short middle to Trey McBride for 9 yards (tackle by Troy Reeder and Cobie Durant),3.180,3.850
+1,0:09,2,1,LAR 27,0,14,James Conner left tackle for 4 yards (tackle by Quentin Lake and Kobie Turner),3.850,4.040
+2,15:00,1,10,LAR 23,0,14,James Conner up the middle for 3 yards (tackle by Byron Young),4.040,3.900
+2,14:21,2,7,LAR 20,0,14,James Conner left end for 2 yards (tackle by Quentin Lake),3.900,3.490
+2,13:39,3,5,LAR 18,0,20,Kyler Murray pass complete deep left to Elijah Higgins for 18 yards touchdown,3.490,7.000
+2,13:29,,,LAR 15,0,21,Matt Prater kicks extra point good,0.000,0.000
+2,13:29,,,ARI 35,0,21,Matt Prater kicks off 65 yards touchback.,0.000,0.940
+2,13:29,1,10,LAR 30,0,21,Kyren Williams right end for 1 yard (tackle by Budda Baker),0.940,0.530
+2,12:53,2,9,LAR 31,0,21,Matthew Stafford pass complete deep left to Demarcus Robinson for 42 yards (tackle by Budda Baker),0.530,3.780
+2,12:16,1,10,ARI 27,0,21,Matthew Stafford pass complete short left to Jordan Whittington for no gain (tackle by Kyzir White). Penalty on Julian Okwara: Unnecessary Roughness / Defense 14 yards (accepted),3.780,4.710
+2,11:45,1,10,ARI 13,0,21,Kyren Williams up the middle for 9 yards (tackle by Mack Wilson and Jalen Thompson),4.710,5.730
+2,11:05,2,1,ARI 4,0,21,Kyren Williams up the middle for -3 yards (tackle by Dennis Gardeck and Mack Wilson),5.730,4.500
+2,10:25,3,3,ARI 7,0,21,Matthew Stafford sacked by Zaven Collins for -4 yards,4.500,2.700
+2,9:41,4,7,ARI 11,3,21,Joshua Karty 29 yard field goal good,2.700,3.000
+2,9:38,,,LAR 35,3,21,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+2,9:38,1,10,ARI 30,3,21,Kyler Murray pass complete deep right to Michael Wilson for 23 yards (tackle by Kamren Curl),0.940,2.460
+2,9:00,1,10,LAR 47,3,21,Kyler Murray scrambles right end for 8 yards (tackle by Christian Rozeboom),2.460,2.990
+2,8:14,2,2,LAR 39,3,21,Trey Benson left end for 4 yards (tackle by Quentin Lake),2.990,3.250
+2,7:36,1,10,LAR 35,3,21,Trey Benson up the middle for -1 yards (tackle by Michael Hoecht),3.250,2.570
+2,6:54,2,11,LAR 36,3,21,Kyler Murray pass complete short left to Trey McBride for 2 yards (tackle by Kobie Turner and Troy Reeder),2.570,2.150
+2,6:10,3,9,LAR 34,3,21,Penalty on Hjalte Froholdt: False Start 5 yards (accepted) (no play),2.150,1.490
+2,5:48,3,14,LAR 39,3,21,Kyler Murray scrambles left end for 9 yards (tackle by Troy Reeder),1.490,1.450
+2,5:13,4,5,LAR 30,3,24,Matt Prater 48 yard field goal good,1.450,3.000
+2,5:09,,,ARI 35,3,24,Matt Prater kicks off 65 yards touchback.,0.000,0.940
+2,5:09,1,10,LAR 30,3,24,Matthew Stafford pass complete short right to Ronnie Rivers for no gain (tackle by Starling Thomas and Mack Wilson),0.940,0.390
+2,4:30,2,10,LAR 30,3,24,Matthew Stafford pass complete short left to Cooper Kupp for 5 yards (tackle by Dennis Gardeck),0.390,0.370
+2,3:49,3,5,LAR 35,3,24,Matthew Stafford sacked by Dennis Gardeck for -9 yards,0.370,-1.630
+2,3:14,4,14,LAR 26,3,24,Ethan Evans punts 46 yards out of bounds,-1.630,-0.810
+2,3:06,1,10,ARI 28,3,24,Kyler Murray pass incomplete deep right intended for Marvin Harrison,0.810,0.260
+2,3:01,2,10,ARI 28,3,24,James Conner up the middle for 3 yards (tackle by Desjuan Johnson and Jared Verse),0.260,-0.030
+2,2:17,3,7,ARI 31,3,24,Kyler Murray sacked by Kobie Turner for -8 yards,-0.030,-1.830
+2,2:00,4,15,ARI 23,3,24,Blake Gillikin punts 60 yards returned by Kyren Williams for 12 yards (tackle by DeeJay Dallas),-1.830,-0.870
+2,1:50,1,10,LAR 29,3,24,Kyren Williams up the middle for 2 yards (tackle by Budda Baker),0.870,0.600
+2,1:28,2,8,LAR 31,3,24,Matthew Stafford pass incomplete deep left intended for Cooper Kupp,0.600,-0.100
+2,1:23,3,8,LAR 31,3,24,Matthew Stafford pass complete short left to Colby Parkinson for 12 yards (tackle by Krys Barnes and Kyzir White),-0.100,1.800
+2,1:04,1,10,LAR 43,3,24,Matthew Stafford pass complete deep left to Tutu Atwell for 16 yards,1.800,2.850
+2,0:58,1,10,ARI 41,3,24,Matthew Stafford pass incomplete short left intended for Tutu Atwell (defended by L.J. Collier),2.850,2.310
+2,0:52,2,10,ARI 41,3,24,Matthew Stafford pass complete short middle to Cooper Kupp for 24 yards (tackle by Jalen Thompson and Starling Thomas),2.310,4.440
+2,0:43,,,,,,Timeout #1 by Los Angeles Rams,,
+2,0:43,1,10,ARI 17,3,24,Matthew Stafford pass complete short middle to Tyler Johnson for 13 yards (tackle by Jalen Thompson and Julian Okwara),4.440,6.280
+2,0:34,,,,,,Timeout #2 by Los Angeles Rams,,
+2,0:34,1,4,ARI 4,3,24,Kyren Williams up the middle for 1 yard (tackle by Garrett Williams),6.280,5.530
+2,0:14,2,3,ARI 3,3,24,Matthew Stafford pass incomplete short left intended for Demarcus Robinson,5.530,4.720
+2,0:09,3,3,ARI 3,3,24,Matthew Stafford pass complete short right to Kyren Williams for -1 yards (tackle by Budda Baker),4.720,3.030
+2,0:05,,,,,,Timeout #3 by Los Angeles Rams,,
+2,0:05,4,4,ARI 4,3,24,Matthew Stafford pass incomplete short right intended for Tyler Johnson,3.030,-0.380
+3,15:00,,,LAR 35,3,24,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,ARI 30,3,24,Kyler Murray pass complete short middle to Trey McBride for 9 yards (tackle by John Johnson and Quentin Lake),0.940,1.610
+3,14:26,2,1,ARI 39,3,24,James Conner up the middle for 7 yards (tackle by Cobie Durant and Quentin Lake),1.610,1.990
+3,13:53,1,10,ARI 46,3,24,James Conner left tackle for no gain (tackle by Byron Young). Penalty on Will Hernandez: Offensive Holding 10 yards (accepted) (no play),1.990,1.330
+3,13:30,1,20,ARI 36,3,24,James Conner left tackle for 5 yards (tackle by Christian Rozeboom),1.330,0.780
+3,12:54,2,15,ARI 41,3,24,Kyler Murray scrambles right tackle for 26 yards (tackle by Kamren Curl),0.780,3.380
+3,12:08,1,10,LAR 33,3,24,James Conner up the middle for 6 yards (tackle by Jared Verse),3.380,3.650
+3,11:29,2,4,LAR 27,3,24,James Conner right tackle for 22 yards (tackle by Kamren Curl),3.650,6.060
+3,10:42,1,5,LAR 5,3,24,Kyler Murray pass incomplete short left intended for Marvin Harrison,6.060,5.150
+3,10:38,2,5,LAR 5,3,30,James Conner left end for 5 yards touchdown,5.150,7.000
+3,10:33,,,LAR 15,3,31,Matt Prater kicks extra point good,0.000,0.000
+3,10:33,,,ARI 35,3,31,Matt Prater kicks off 65 yards touchback.,0.000,0.940
+3,10:33,1,10,LAR 30,3,31,Kyren Williams up the middle for 1 yard (tackle by Budda Baker),0.940,0.530
+3,9:55,2,9,LAR 31,3,31,Matthew Stafford pass complete short right to Demarcus Robinson for 8 yards (tackle by Sean Murphy-Bunting and Kyzir White),0.530,0.890
+3,9:28,3,1,LAR 39,3,31,Matthew Stafford sacked by Krys Barnes for -1 yards,0.890,-0.850
+3,8:53,4,2,LAR 38,3,31,Ethan Evans punts 57 yards returned by Greg Dortch for 13 yards (tackle by Hunter Long),-0.850,-0.040
+3,8:40,1,10,ARI 18,3,31,James Conner left end for -1 yards (tackle by Jared Verse),0.040,-0.650
+3,8:04,2,11,ARI 17,3,31,Kyler Murray pass complete short right to Trey McBride for 8 yards (tackle by Troy Reeder),-0.650,-0.270
+3,7:21,3,3,ARI 25,3,31,Kyler Murray pass complete short left to Michael Wilson for 8 yards (tackle by Kamren Kinchens),-0.270,1.140
+3,6:37,1,10,ARI 33,3,31,James Conner up the middle for 2 yards (tackle by Neville Gallimore and Bobby Brown),1.140,0.860
+3,6:00,2,8,ARI 35,3,31,Kyler Murray pass complete deep left to Trey McBride for 21 yards (tackle by Christian Rozeboom),0.860,2.650
+3,5:31,1,10,LAR 44,3,31,Trey Benson left end for 1 yard (tackle by Tre'Davious White),2.650,2.250
+3,4:51,2,9,LAR 43,3,31,Trey Benson right tackle for 1 yard (tackle by Michael Hoecht and Braden Fiske),2.250,1.690
+3,4:13,3,8,LAR 42,3,31,Kyler Murray pass complete short left to Greg Dortch for 3 yards (tackle by Jaylen McCollough),1.690,0.660
+3,3:32,4,5,LAR 39,3,34,Matt Prater 57 yard field goal good,0.660,3.000
+3,3:27,,,ARI 35,3,34,Matt Prater kicks off 65 yards touchback.,0.000,0.940
+3,3:27,1,10,LAR 30,3,34,Matthew Stafford pass complete short middle to Kyren Williams for 10 yards (tackle by Mack Wilson and Kyzir White),0.940,1.600
+3,2:45,1,10,LAR 40,3,34,Matthew Stafford pass complete deep left to Tutu Atwell for 21 yards (tackle by Jalen Thompson),1.600,2.980
+3,2:17,1,10,ARI 39,3,34,Matthew Stafford pass complete short left to Jordan Whittington for 22 yards (tackle by Kyzir White),2.980,4.440
+3,1:52,1,10,ARI 17,3,34,Matthew Stafford pass incomplete short left intended for Colby Parkinson,4.440,3.850
+3,1:48,2,10,ARI 17,3,34,Matthew Stafford pass incomplete short left intended for Kyren Williams,3.850,3.070
+3,1:44,3,10,ARI 17,3,34,Matthew Stafford pass complete short left to Kyren Williams for 9 yards (tackle by Budda Baker),3.070,2.990
+3,1:21,4,1,ARI 8,3,34,Kyren Williams up the middle for 4 yards (tackle by Kyzir White and Zaven Collins),2.990,6.280
+3,0:44,1,4,ARI 4,9,34,Kyren Williams up the middle for 4 yards touchdown,6.280,7.000
+3,0:41,,,ARI 15,10,34,Joshua Karty kicks extra point good,0.000,0.000
+3,0:41,,,LAR 35,10,34,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+3,0:41,1,10,ARI 30,10,34,James Conner left end for no gain (tackle by Troy Reeder). Penalty on Tre'Davious White: Defensive Offside 5 yards (accepted) (no play),0.940,1.670
+3,0:16,1,5,ARI 35,10,34,James Conner up the middle for 5 yards (tackle by Jared Verse),1.670,1.600
+4,15:00,1,10,ARI 40,10,34,Trey Benson left end for -3 yards (tackle by Jared Verse),1.600,0.650
+4,14:17,2,13,ARI 37,10,34,Kyler Murray pass complete short right to Greg Dortch for 8 yards (tackle by Kamren Curl and Troy Reeder),0.650,1.030
+4,13:39,3,5,ARI 45,10,34,Kyler Murray pass complete short left to Trey McBride for 18 yards (tackle by Quentin Lake),1.030,3.120
+4,12:59,1,10,LAR 37,10,34,Trey Benson right tackle for 1 yard (tackle by Desjuan Johnson),3.120,2.710
+4,12:16,2,9,LAR 36,10,34,James Conner up the middle for 10 yards (tackle by Quentin Lake),2.710,3.840
+4,11:29,1,10,LAR 26,10,34,James Conner up the middle for 8 yards (tackle by Quentin Lake and Kamren Curl),3.840,4.450
+4,10:44,2,2,LAR 18,10,34,James Conner up the middle for 1 yard (tackle by Bobby Brown),4.450,3.950
+4,9:59,3,1,LAR 17,10,34,Kyler Murray right end for 10 yards (tackle by Kamren Curl),3.950,5.600
+4,9:13,1,7,LAR 7,10,34,Kyler Murray pass incomplete short left intended for Marvin Harrison,5.600,4.760
+4,9:09,2,7,LAR 7,10,40,James Conner left end for 2 yards. James Conner fumbles (forced by Jared Verse) recovered by Trey McBride in end zone touchdown,4.760,7.000
+4,9:02,,,LAR 15,10,41,Matt Prater kicks extra point good,0.000,0.000
+4,9:02,,,ARI 35,10,41,Matt Prater kicks off 65 yards touchback.,0.000,0.940
+4,9:02,1,10,LAR 30,10,41,Matthew Stafford pass complete short right to Tutu Atwell for 11 yards (tackle by Jalen Thompson),0.940,1.660
+4,8:38,1,10,LAR 41,10,41,Matthew Stafford pass complete short left to Kyren Williams for 9 yards (tackle by Kyzir White and Starling Thomas),1.660,2.340
+4,8:11,2,1,LAR 50,10,41,Matthew Stafford sacked by Dennis Gardeck for -2 yards. Matthew Stafford fumbles (forced by Dennis Gardeck) recovered by L.J. Collier at LA-48 (tackle by Beaux Limmer). Penalty on Mack Wilson: Taunting / Defense 15 yards (accepted),2.340,-1.400
+4,7:59,1,10,ARI 37,10,41,Trey Benson up the middle for 2 yards (tackle by Braden Fiske and Desjuan Johnson),1.400,1.130
+4,7:16,2,8,ARI 39,10,41,Trey Benson up the middle for -1 yards (tackle by Jared Verse),1.130,0.300
+4,6:40,3,9,ARI 38,10,41,Emari Demercado left tackle for 41 yards (tackle by Charles Woods),0.300,4.170
+4,5:52,1,10,LAR 21,10,41,Emari Demercado left tackle for 5 yards (tackle by Michael Hoecht and Troy Reeder),4.170,4.370
+4,5:10,2,5,LAR 16,10,41,Trey Benson up the middle for 3 yards (tackle by Braden Fiske and Michael Hoecht),4.370,4.240
+4,4:26,3,2,LAR 13,10,41,Clayton Tune up the middle for -6 yards. Clayton Tune fumbles recovered by Braden Fiske at LA-20 and returned for 8 yards (tackle by Jackson Barton),4.240,-0.810
+4,4:17,1,10,LAR 28,10,41,Blake Corum right tackle for 2 yards (tackle by Roy Lopez),0.810,0.530
+4,3:47,2,8,LAR 30,10,41,Blake Corum up the middle for 8 yards (tackle by Krys Barnes),0.530,1.470
+4,3:08,1,10,LAR 38,10,41,Blake Corum up the middle for 9 yards (tackle by Owen Pappoe and Xavier Thomas),1.470,2.140
+4,2:34,2,1,LAR 47,10,41,Blake Corum up the middle for -1 yards (tackle by Kei'Trel Clark and Roy Lopez),2.140,1.290
+4,2:00,3,2,LAR 46,10,41,Blake Corum up the middle for 5 yards (tackle by Owen Pappoe),1.290,2.320
+4,1:31,1,10,ARI 49,10,41,Blake Corum up the middle for 2 yards (tackle by Victor Dimukeje and Krys Barnes),2.320,2.050
+4,1:02,2,8,ARI 47,10,41,Blake Corum right tackle for -1 yards (tackle by Victor Dimukeje),2.050,1.220
+4,0:29,3,9,ARI 48,10,41,Blake Corum right tackle for 4 yards (tackle by Owen Pappoe),1.220,0.330

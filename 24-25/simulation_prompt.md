@@ -107,10 +107,10 @@ Quarter,Time,Down,ToGo,Location,DEN,SEA,Detail
 1,14:12,1,10,SEA 20,0,0,DEN rush for 9 yards
 1,13:27,2,1,SEA 11,0,0,DEN rush for -1 yards
 1,12:47,3,2,SEA 12,0,0,DEN pass incomplete
-1,12:40,4,2,SEA 12,0,0,Penalty on DEN: "Delay of Game" - 5 yards
+1,12:40,4,2,SEA 12,0,0,Penalty on DEN: "Delay of Game" -5 yards
 1,12:40,4,7,SEA 17,3,0,DEN FG - Success, 35 yard field goal good
 1,12:36,,,DEN 35,3,0,DEN kicks off 67 yards returned by SEA for 29 yards
-1,12:31,1,10,SEA 27,3,0,Penalty on SEA: "False Start"  - 5 yards
+1,12:31,1,10,SEA 27,3,0,Penalty on SEA: "False Start"  -5 yards
 1,12:31,1,15,SEA 22,3,0,SEA rush for 8 yards
 1,11:47,2,7,SEA 30,3,0,SEA pass complete short right for 2 yards
 1,11:09,3,5,SEA 32,3,0,SEA pass incomplete deep right
@@ -119,7 +119,7 @@ Quarter,Time,Down,ToGo,Location,DEN,SEA,Detail
 1,10:15,2,7,DEN 38,3,0,DEN pass complete short left for -2 yards
 1,9:50,3,9,DEN 36,3,0,DEN pass complete short right for 4 yards
 1,9:11,4,5,DEN 40,3,0,DEN punts 39 yards fair catch (no return) at SEA 21
-1,9:04,1,10,SEA 21,3,0,SEA rush for 3 yards. Penalty on SEA: "Offensive Holding - 10 yards"
+1,9:04,1,10,SEA 21,3,0,SEA rush for 3 yards. Penalty on SEA: "Offensive Holding -10 yards"
 1,8:38,1,17,SEA 14,3,0,SEA rush for -3 yards
 1,8:00,2,20,SEA 11,3,0,SEA pass complete short right for 9 yards
 1,7:18,3,11,SEA 20,3,0,SEA pass incomplete short right
@@ -130,9 +130,9 @@ Quarter,Time,Down,ToGo,Location,DEN,SEA,Detail
 1,5:44,4,3,DEN 40,3,0,DEN punts 38 yards fair catch (no return) at SEA 22
 1,5:38,1,10,SEA 22,3,0,SEA rush for 4 yards
 1,5:16,2,6,SEA 26,3,0,SEA pass complete short right for 9 yards
-1,4:52,1,10,SEA 35,3,0,Penalty on DEN: "Neutral Zone Infraction" -5 yards
+1,4:52,1,10,SEA 35,3,0,Penalty on DEN: "Neutral Zone Infraction" +5 yards
 1,4:39,1,5,SEA 40,3,0,SEA pass complete short right for 10 yards
-1,3:59,1,10,DEN 50,3,0,SEA pass incomplete deep right. Penalty on DEN: "Roughing the Passer" -15 yards
+1,3:59,1,10,DEN 50,3,0,SEA pass incomplete deep right. Penalty on DEN: "Roughing the Passer" +15 yards
 1,3:56,1,10,DEN 35,3,0,SEA pass complete short left for no gain
 1,3:20,2,10,DEN 35,3,0,SEA rush for 3 yards
 1,2:49,3,7,DEN 32,3,0,SEA pass incomplete short right
@@ -144,7 +144,7 @@ Quarter,Time,Down,ToGo,Location,DEN,SEA,Detail
 1,0:56,1,10,DEN 40,3,3,DEN pass incomplete deep middle
 1,0:51,2,10,DEN 40,3,3,DEN pass complete short left for 9 yards
 1,0:09,3,1,DEN 49,3,3,DEN rush for 4 yards
-2,15:00,1,10,SEA 47,3,3,DEN rush for 12 yards. DEN fumbles (forced by Julian Love) recovered by DEN at SEA 35 and returned for +2 yards
+2,15:00,1,10,SEA 47,3,3,DEN rush for 12 yards. DEN fumbles recovered by DEN at SEA 35 and returned for +2 yards
 2,14:13,1,10,SEA 33,3,3,DEN rush for 4 yards
 2,13:32,2,6,SEA 29,3,3,DEN rush for 7 yards
 2,12:51,1,10,SEA 22,3,3,DEN pass complete short right for 3 yards
@@ -163,7 +163,7 @@ Quarter,Time,Down,ToGo,Location,DEN,SEA,Detail
 2,8:48,4,11,SEA 11,8,3,DEN FG - Success, 30 yard field goal good
 2,8:45,,,DEN 35,8,3,DEN kicks off 65 yards touchback (no return)
 2,8:45,1,10,SEA 30,8,3,SEA rush for 3 yards
-2,8:05,2,7,SEA 33,8,3,SEA pass incomplete short left. Penalty on DEN: "Defensive Pass Interference" -6 yards
+2,8:05,2,7,SEA 33,8,3,SEA pass incomplete short left. Penalty on DEN: "Defensive Pass Interference" +6 yards
 2,8:00,1,10,SEA 39,8,3,SEA rush for -4 yards
 2,7:14,2,14,SEA 35,8,3,SEA pass complete short middle for 12 yards
 2,6:38,3,2,SEA 47,8,3,SEA pass complete deep left for 19 yards
@@ -199,94 +199,94 @@ Quarter,Time,Down,ToGo,Location,DEN,SEA,Detail
 2,0:13,1,10,SEA 27,10,9,DEN sacked by SEA for 0 yards (no gain)
 2,0:07,2,10,SEA 27,13,9,DEN FG - Success, 45 yard field goal good
 2,0:02,,,DEN 35,13,9,DEN kicks off 63 yards returned by SEA for 14 yards
-3,15:00,,,SEA 35,13,9,Jason Myers kicks off 64 yards returned by Marvin Mims for 26 yards (tackle by Dareke Young),0.000,0.740
-3,14:55,1,10,DEN 27,13,9,Jaleel McLaughlin right tackle for -4 yards (tackle by Boye Mafe),0.740,-0.340
-3,14:13,2,14,DEN 23,13,9,Bo Nix pass incomplete short left intended for Adam Trautman,-0.340,-1.020
-3,14:10,3,14,DEN 23,13,9,Penalty on Bo Nix: Delay of Game 5 yards (accepted) (no play),-1.020,-1.880
-3,14:10,3,19,DEN 18,13,9,Bo Nix pass complete short right to Jaleel McLaughlin for 1 yard (tackle by Jerome Baker),-1.880,-2.140
-3,13:36,4,18,DEN 19,13,9,Riley Dixon punts 42 yards fair catch by Dee Williams at SEA-39,-2.140,-1.530
-3,13:31,1,10,SEA 39,13,9,Kenneth Walker left guard for 5 yards (tackle by Alex Singleton and Jonathon Cooper),1.530,1.660
-3,13:10,2,5,SEA 44,13,9,Geno Smith pass complete deep right to Tyler Lockett for 13 yards (tackle by Riley Moss),1.660,2.720
-3,12:40,1,10,DEN 43,13,9,Kenneth Walker right tackle for 6 yards (tackle by Alex Singleton and Riley Moss),2.720,2.990
-3,12:05,2,4,DEN 37,13,9,Kenneth Walker right guard for 15 yards (tackle by Brandon Jones),2.990,4.110
-3,11:43,1,10,DEN 22,13,9,Penalty on Stone Forsythe: False Start 5 yards (accepted) (no play),4.110,3.780
-3,11:27,1,15,DEN 27,13,9,Kenneth Walker right tackle for 4 yards (tackle by Alex Singleton),3.780,3.430
-3,10:51,2,11,DEN 23,13,15,Kenneth Walker up the middle for 23 yards touchdown,3.430,7.000
-3,10:44,,,DEN 15,13,16,Jason Myers kicks extra point good,0.000,0.000
-3,10:44,,,SEA 35,13,16,Jason Myers kicks off 65 yards touchback.,0.000,0.940
-3,10:44,1,10,DEN 30,13,16,Bo Nix pass complete short right to Devaughn Vele for 2 yards (tackle by Julian Love),0.940,0.660
-3,10:03,2,8,DEN 32,13,16,Jaleel McLaughlin right guard for 15 yards (tackle by Julian Love),0.660,2.060
-3,9:23,1,10,DEN 47,13,16,Audric Estime left guard for 2 yards (tackle by Leonard Williams and Jerome Baker),2.060,1.790
-3,8:42,2,8,DEN 49,13,16,Jaleel McLaughlin left end for -3 yards (tackle by Tyrel Dodson and Jerome Baker),1.790,0.700
-3,8:12,3,11,DEN 46,13,16,Bo Nix pass complete short left to Jaleel McLaughlin for 1 yard. Jaleel McLaughlin fumbles (forced by K'Von Wallace) recovered by Jerome Baker at DEN-47,0.700,-2.460
-3,8:03,1,10,DEN 47,13,16,Zach Charbonnet left end for 6 yards (tackle by P.J. Locke and Riley Moss),2.460,2.720
-3,7:29,2,4,DEN 41,13,16,Zach Charbonnet right guard for 3 yards (tackle by D.J. Jones),2.720,2.410
-3,6:49,3,1,DEN 38,13,16,Kenneth Walker right guard for 2 yards (tackle by John Franklin-Myers),2.410,3.180
-3,6:10,1,10,DEN 36,13,16,Geno Smith pass incomplete deep right intended for Jaxon Smith-Njigba. Penalty on Ja'Quan McMillian: Defensive Pass Interference 14 yards (accepted) (no play),3.180,4.110
-3,6:04,1,10,DEN 22,13,16,Kenneth Walker right guard for 8 yards (tackle by Riley Moss),4.110,4.850
-3,5:31,2,2,DEN 14,13,16,Geno Smith pass complete short right to Kenneth Walker for 8 yards (tackle by Brandon Jones),4.850,5.830
-3,4:52,1,6,DEN 6,13,16,Kenneth Walker right end for 2 yards touchdown. Penalty on D.K. Metcalf: Offensive Holding 10 yards (accepted),5.830,4.440
-3,4:48,1,14,DEN 14,13,16,Geno Smith pass incomplete short right intended for Noah Fant,4.440,3.580
-3,4:45,2,14,DEN 14,13,16,Kenneth Walker left guard for 4 yards (tackle by Patrick Surtain and Baron Browning),3.580,3.130
-3,4:19,3,10,DEN 10,13,16,Geno Smith pass incomplete short left intended for Kenneth Walker,3.130,2.760
-3,4:12,4,10,DEN 10,13,19,Jason Myers 28 yard field goal good,2.760,3.000
-3,4:09,,,SEA 35,13,19,Jason Myers kicks off 65 yards touchback.,0.000,0.940
-3,4:09,1,10,DEN 30,13,19,Jaleel McLaughlin left guard for 1 yard (tackle by Mike Morris),0.940,0.530
-3,3:30,2,9,DEN 31,13,19,Bo Nix pass complete short left to Devaughn Vele for 4 yards (tackle by Rayshawn Jenkins),0.530,0.370
-3,2:48,3,5,DEN 35,13,19,Bo Nix pass incomplete short right intended for Courtland Sutton (defended by Tre Brown),0.370,-1.040
-3,2:46,4,5,DEN 35,13,19,Riley Dixon punts 65 yards touchback.,-1.040,-0.280
-3,2:37,1,10,SEA 20,13,19,Kenneth Walker right guard for no gain (tackle by Alex Singleton and Kristian Welch),0.280,-0.270
-3,2:02,2,10,SEA 20,13,19,Kenneth Walker left tackle for 12 yards (tackle by Alex Singleton),-0.270,1.070
-3,1:35,1,10,SEA 32,13,19,Geno Smith pass complete short right to Tyler Lockett for 16 yards (tackle by Riley Moss),1.070,2.130
-3,0:57,1,10,SEA 48,13,19,Geno Smith pass complete short left to D.K. Metcalf for 11 yards (tackle by Patrick Surtain),2.130,2.850
-3,0:15,1,10,DEN 41,13,19,Geno Smith pass complete short right to Tyler Lockett for 11 yards (tackle by Riley Moss),2.850,3.580
-4,15:00,1,10,DEN 30,13,25,Geno Smith pass complete deep right to Zach Charbonnet for 30 yards touchdown,3.580,7.000
-4,14:54,,,DEN 15,13,26,Jason Myers kicks extra point good,0.000,0.000
-4,14:54,,,SEA 35,13,26,Jason Myers kicks off 65 yards touchback.,0.000,0.940
-4,14:54,1,10,DEN 30,13,26,Javonte Williams right guard for no gain (tackle by Devon Witherspoon and Byron Murphy),0.940,0.390
-4,14:12,2,10,DEN 30,13,26,Bo Nix pass complete short right to Devaughn Vele for 4 yards (tackle by Rayshawn Jenkins),0.390,0.230
-4,13:43,3,6,DEN 34,13,26,Bo Nix pass complete short middle to Greg Dulcich for 5 yards (tackle by Tyrel Dodson),0.230,-0.780
-4,13:07,4,1,DEN 39,13,26,Riley Dixon punts 49 yards downed by Keidron Smith,-0.780,0.350
-4,12:59,1,10,SEA 12,13,26,Kenneth Walker right tackle for -4 yards (tackle by Alex Singleton and Jonathon Cooper),-0.350,-1.070
-4,12:15,2,14,SEA 8,13,26,Geno Smith pass complete short left to Tyler Lockett for 9 yards (tackle by Riley Moss),-1.070,-0.840
-4,11:38,3,5,SEA 17,13,26,Geno Smith pass complete short right to D.K. Metcalf for 6 yards (tackle by Patrick Surtain),-0.840,0.480
-4,10:57,1,10,SEA 23,13,26,Laviska Shenault left end for 1 yard (tackle by Ja'Quan McMillian and Alex Singleton),0.480,0.070
-4,10:11,2,9,SEA 24,13,26,Kenneth Walker left guard for 7 yards (tackle by P.J. Locke),0.070,0.300
-4,9:30,3,2,SEA 31,13,26,Geno Smith pass complete short right to Zach Charbonnet for -1 yards (tackle by John Franklin-Myers and Alex Singleton),0.300,-1.370
-4,8:47,4,3,SEA 30,13,26,Michael Dickson punts 50 yards returned by Marvin Mims for 3 yards (tackle by Dareke Young),-1.370,-0.480
-4,8:37,1,10,DEN 23,13,26,Bo Nix pass complete short middle to Devaughn Vele for 6 yards (tackle by Julian Love and Tyrel Dodson),0.480,0.740
-4,8:11,2,4,DEN 29,13,26,Bo Nix pass complete short left to Devaughn Vele for 7 yards (tackle by Tyrel Dodson),0.740,1.330
-4,7:34,1,10,DEN 36,13,26,Bo Nix pass incomplete deep right intended for Courtland Sutton,1.330,0.790
-4,7:26,2,10,DEN 36,13,26,Jaleel McLaughlin right guard for 1 yard (tackle by Mike Morris and Leonard Williams),0.790,0.230
-4,6:46,3,9,DEN 37,13,26,Bo Nix pass complete short left to Greg Dulcich for 7 yards (tackle by Devon Witherspoon),0.230,-0.460
-4,6:05,4,2,DEN 44,13,26,Bo Nix pass complete short middle to Josh Reynolds for 7 yards (tackle by Rayshawn Jenkins),-0.460,2.320
-4,5:40,1,10,SEA 49,13,26,Bo Nix pass incomplete deep left intended for Courtland Sutton,2.320,1.780
-4,5:37,2,10,SEA 49,13,26,Bo Nix pass short right intended for Courtland Sutton is intercepted by Riq Woolen at SEA-34 and returned for 4 yards,1.780,-1.470
-4,5:30,1,10,SEA 38,13,26,Zach Charbonnet right end for 1 yard (tackle by Jonathon Cooper and Patrick Surtain),1.470,1.060
-4,4:50,2,9,SEA 39,13,26,Geno Smith pass complete short right to Jaxon Smith-Njigba for no gain (tackle by Cody Barton). Penalty on D.K. Metcalf: Offensive Pass Interference 10 yards (accepted) (no play),1.060,-0.290
-4,4:44,,,,,,Timeout #1 by Seattle Seahawks,,
-4,4:44,2,19,SEA 29,13,26,Geno Smith pass incomplete short right intended for Zach Charbonnet,-0.290,-0.960
-4,4:42,3,19,SEA 29,13,26,Zach Charbonnet left guard for no gain (tackle by Baron Browning and Malcolm Roach),-0.960,-1.440
-4,4:37,,,,,,Timeout #1 by Denver Broncos,,
-4,4:37,4,19,SEA 29,13,26,Michael Dickson punts 43 yards returned by Marvin Mims for 18 yards (tackle by Zach Charbonnet),-1.440,-1.990
-4,4:28,1,10,DEN 46,13,26,Bo Nix scrambles left end for 23 yards (tackle by Riq Woolen),1.990,3.510
-4,4:20,1,10,SEA 31,13,26,Bo Nix pass incomplete short middle intended for Josh Reynolds,3.510,2.970
-4,4:17,2,10,SEA 31,13,26,Bo Nix pass complete short left to Courtland Sutton for 7 yards (tackle by Jerome Baker),2.970,3.200
-4,3:35,3,3,SEA 24,13,26,Bo Nix pass complete short right to Josh Reynolds for 5 yards (tackle by Tre Brown),3.200,4.310
-4,3:10,1,10,SEA 19,13,26,Bo Nix pass complete short right to Josh Reynolds for 5 yards (tackle by Tre Brown),4.310,4.530
-4,2:43,2,5,SEA 14,13,26,Bo Nix pass complete short middle to Courtland Sutton for 10 yards (tackle by Julian Love and Riq Woolen),4.530,6.280
-4,2:17,1,4,SEA 4,19,26,Bo Nix scrambles right end for 4 yards touchdown,6.280,7.000
-4,2:09,,,SEA 15,20,26,Wil Lutz kicks extra point good,0.000,0.000
-4,2:09,,,DEN 35,20,26,Wil Lutz kicks off 65 yards touchback.,0.000,0.940
-4,2:09,1,10,SEA 30,20,26,Zach Charbonnet left guard for no gain (tackle by D.J. Jones),0.940,0.390
-4,2:00,2,10,SEA 30,20,26,Zach Charbonnet right end for -1 yards (tackle by Baron Browning and D.J. Jones),0.390,-0.430
-4,1:54,,,,,,Timeout #2 by Denver Broncos,,
-4,1:54,3,11,SEA 29,20,26,Geno Smith pass complete short left to Noah Fant for no gain (tackle by P.J. Locke and Alex Singleton). Penalty on Baron Browning: Defensive Offside 5 yards (accepted) (no play),-0.430,0.230
-4,1:48,3,6,SEA 34,20,26,Geno Smith pass complete short right to Tyler Lockett for 9 yards (tackle by Riley Moss),0.230,1.800
-4,1:40,,,,,,Timeout #3 by Denver Broncos,,
-4,1:40,1,10,SEA 43,20,26,Geno Smith kneels for -2 yards,1.800,0.980
-4,0:59,2,12,SEA 41,20,26,Geno Smith kneels for -1 yards,0.980,0.170
-4,0:38,3,13,SEA 40,20,26,Geno Smith kneels for -1 yards,0.170,-0.780
+3,15:00,,,SEA 35,13,9,SEA kicks off 64 yards returned by DEN for 26 yards
+3,14:55,1,10,DEN 27,13,9,DEN rush for -4 yards
+3,14:13,2,14,DEN 23,13,9,DEN pass incomplete short left
+3,14:10,3,14,DEN 23,13,9,Penalty on DEN: "Delay of Game" -5 yards
+3,14:10,3,19,DEN 18,13,9,DEN pass complete short right for 1 yard
+3,13:36,4,18,DEN 19,13,9,DEN punts for 42 yards
+3,13:31,1,10,SEA 39,13,9,SEA rush for 5 yards
+3,13:10,2,5,SEA 44,13,9,SEA pass complete deep right for 13 yards
+3,12:40,1,10,DEN 43,13,9,SEA rush for 6 yards
+3,12:05,2,4,DEN 37,13,9,SEA rush for 15 yards
+3,11:43,1,10,DEN 22,13,9,Penalty on SEA: "False Start" -5 yards
+3,11:27,1,15,DEN 27,13,9,SEA rush for 4 yards
+3,10:51,2,11,DEN 23,13,15,SEA rush - Touchdown for 23 yards
+3,10:44,,,DEN 15,13,16,SEA XP - made
+3,10:44,,,SEA 35,13,16,SEA kicks off 65 yards touchback (no gain)
+3,10:44,1,10,DEN 30,13,16,DEN pass complete short right for 2 yards
+3,10:03,2,8,DEN 32,13,16,DEN rush for 15 yards
+3,9:23,1,10,DEN 47,13,16,DEN rush for 2 yards
+3,8:42,2,8,DEN 49,13,16,DEN rush for -3 yards
+3,8:12,3,11,DEN 46,13,16,DEN pass complete short left for 1 yard. DEN fumbles recovered by SEA at DEN 47
+3,8:03,1,10,DEN 47,13,16,SEA rush for 6 yards
+3,7:29,2,4,DEN 41,13,16,SEA rush for 3 yards
+3,6:49,3,1,DEN 38,13,16,SEA rush for 2 yards
+3,6:10,1,10,DEN 36,13,16,SEA pass incomplete deep right. Penalty on DEN: "Defensive Pass Interference" +14 yards
+3,6:04,1,10,DEN 22,13,16,SEA rush for 8 yards
+3,5:31,2,2,DEN 14,13,16,SEA pass complete short right for 8 yards
+3,4:52,1,6,DEN 6,13,16,SEA rush - Touchdown for 2 yards. Penalty on SEA: "Offensive Holding" -10 yards, touchdown removed
+3,4:48,1,14,DEN 14,13,16,SEA pass incomplete short right
+3,4:45,2,14,DEN 14,13,16,SEA rush for 4 yards
+3,4:19,3,10,DEN 10,13,16,SEA pass incomplete short left
+3,4:12,4,10,DEN 10,13,19,SEA FG - Success, 28 yard field goal good
+3,4:09,,,SEA 35,13,19,SEA kicks off 65 yards touchback (no gain)
+3,4:09,1,10,DEN 30,13,19,DEN rush for 1 yard
+3,3:30,2,9,DEN 31,13,19,DEN pass complete short left for 4 yards
+3,2:48,3,5,DEN 35,13,19,DEN pass incomplete short right
+3,2:46,4,5,DEN 35,13,19,DEN punts 65 yards touchback (no return)
+3,2:37,1,10,SEA 20,13,19,SEA rush for no gain
+3,2:02,2,10,SEA 20,13,19,SEA rush for 12 yards
+3,1:35,1,10,SEA 32,13,19,SEA pass complete short right for 16 yards
+3,0:57,1,10,SEA 48,13,19,SEA pass complete short left for 11 yards
+3,0:15,1,10,DEN 41,13,19,SEA pass complete short right for 11 yards
+4,15:00,1,10,DEN 30,13,25,SEA pass - touchdown deep right for 30 yards
+4,14:54,,,DEN 15,13,26,SEA XP - made
+4,14:54,,,SEA 35,13,26,SEA kicks off 65 yards touchback (no gain)
+4,14:54,1,10,DEN 30,13,26,DEN rush for no gain
+4,14:12,2,10,DEN 30,13,26,DEN pass complete short right for 4 yards
+4,13:43,3,6,DEN 34,13,26,DEN pass complete short middle for 5 yards
+4,13:07,4,1,DEN 39,13,26,DEN punts 49 yards
+4,12:59,1,10,SEA 12,13,26,SEA rush for -4 yards
+4,12:15,2,14,SEA 8,13,26,SEA pass complete short left for 9 yards
+4,11:38,3,5,SEA 17,13,26,SEA pass complete short right for 6 yards
+4,10:57,1,10,SEA 23,13,26,SEA rush for 1 yard
+4,10:11,2,9,SEA 24,13,26,SEA rush for 7 yards
+4,9:30,3,2,SEA 31,13,26,SEA pass complete short right for -1 yards
+4,8:47,4,3,SEA 30,13,26,SEA punts 50 yards returned by DEN for 3 yards
+4,8:37,1,10,DEN 23,13,26,DEN pass complete short middle for 6 yards
+4,8:11,2,4,DEN 29,13,26,DEN pass complete short left for 7 yards
+4,7:34,1,10,DEN 36,13,26,DEN pass incomplete deep right
+4,7:26,2,10,DEN 36,13,26,DEN rush for 1 yard
+4,6:46,3,9,DEN 37,13,26,DEN pass complete short left for 7 yards
+4,6:05,4,2,DEN 44,13,26,DEN pass complete short middle for 7 yards
+4,5:40,1,10,SEA 49,13,26,DEN pass incomplete deep left
+4,5:37,2,10,SEA 49,13,26,DEN pass short right is intercepted by SEA at SEA 34 and returned for 4 yards
+4,5:30,1,10,SEA 38,13,26,SEA rush for 1 yard
+4,4:50,2,9,SEA 39,13,26,SEA pass complete short right for no gain. Penalty on SEA: "Offensive Pass Interference" -10 yards
+4,4:44,,,,,,SEA - Timeout #1,,
+4,4:44,2,19,SEA 29,13,26,SEA pass incomplete short right
+4,4:42,3,19,SEA 29,13,26,SEA rush for no gain
+4,4:37,,,,,,DEN - Timeout #1,,
+4,4:37,4,19,SEA 29,13,26,SEA punts 43 yards returned by DEN for 18 yards
+4,4:28,1,10,DEN 46,13,26,DEN rush for 23 yards
+4,4:20,1,10,SEA 31,13,26,DEN pass incomplete short middle
+4,4:17,2,10,SEA 31,13,26,DEN pass complete short left for 7 yards
+4,3:35,3,3,SEA 24,13,26,DEN pass complete short right for 5 yards
+4,3:10,1,10,SEA 19,13,26,DEN pass complete short right for 5 yards
+4,2:43,2,5,SEA 14,13,26,DEN pass complete short middle for 10 yards
+4,2:17,1,4,SEA 4,19,26,DEN rush - Touchdown for 4 yards
+4,2:09,,,SEA 15,20,26,DEN XP - Made
+4,2:09,,,DEN 35,20,26,DEN kicks off 65 yards touchback (no gain)
+4,2:09,1,10,SEA 30,20,26,SEA rush for no gain
+4,2:00,2,10,SEA 30,20,26,SEA rush for -1 yards
+4,1:54,,,,,,DEN - Timeout #2,,
+4,1:54,3,11,SEA 29,20,26,SEA pass complete short left for no gain. Penalty on DEN: "Defensive Offside" +5 yards
+4,1:48,3,6,SEA 34,20,26,SEA pass complete short right for 9 yards
+4,1:40,,,,,,DEN - Timeout #3,,
+4,1:40,1,10,SEA 43,20,26,SEA rush (kneels) for -2 yards
+4,0:59,2,12,SEA 41,20,26,SEA rush (kneels) for -1 yards
+4,0:38,3,13,SEA 40,20,26,SEA rush (kneels) for -1 yards
 
 
 

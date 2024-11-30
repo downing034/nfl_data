@@ -100,6 +100,38 @@ You are an NFL game predictor. I want you to analyze this play-by-play data and 
 6. **Columns for Output:**
    - `quarter`, `time_left`, `away_score`, `home_score`, `possession`, `current_down`, `togo`, `display_field_position`, `previous_play_yards_gained`, `play_type`.
 
+### NFL Overtime Rules
+
+1. **Coin Toss:**
+   - A coin toss determines which team starts with possession in overtime.
+   - The winner of the toss can choose to receive, kick, or defer their choice to the second possession.
+
+2. **First Possession Rules:**
+   - If the team that receives the opening kickoff scores a **touchdown**, the game ends immediately (no extra point or two-point conversion is attempted).
+   - If the team scores a **field goal**, the opposing team gets one possession to match or win:
+     - If the second team scores a **touchdown**, they win (no extra point or two-point conversion is attempted).
+     - If they score a **field goal**, the game becomes **sudden death**, where the first team to score wins.
+
+3. **Sudden Death:**
+   - If neither team scores on their opening possessions, or if both teams score field goals, the game enters sudden death.
+   - The first team to score, by any means (touchdown, field goal, or safety), wins.
+
+4. **Timing:**
+   - Overtime consists of a single 10-minute period.
+   - If no team scores during the 10-minute period, the game ends in a **tie**.
+
+5. **Timeouts:**
+   - Each team is allotted **2 timeouts** during overtime.
+   - Unused timeouts from regulation do not carry over.
+
+6. **Turnovers:**
+   - If a turnover occurs (e.g., interception or fumble), the opposing team takes possession at the spot of the turnover.
+
+7. **Special Scenarios:**
+   - If the defense scores on the initial possession (e.g., safety or interception returned for a touchdown), the game ends immediately.
+   - Penalties or unusual situations (e.g., a safety) can modify the flow but are adjudicated according to NFL rules.
+
+
 **Play By Play Examples**
 - SEA vs DEN
 Quarter,Time,Down,ToGo,Location,DEN,SEA,Detail

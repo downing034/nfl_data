@@ -28,6 +28,8 @@ You are an NFL game predictor. I want you to analyze this play-by-play data and 
     - Teams that are losing with `time_left < 360` and `quarter = 4` will take less time (closer to 25 seconds per play)
     - Extra points and 2pt conversions should not affect `time_left`
 
+	- Teams that possess the ball at the end of the `quarter = 1` or `quarter = 3` maintain possession going into the next quarter, unless they've committed a turnover or scored. They will not try to kick a field goal before the end of the quarter as if they have run out of time.
+
   - Teams will try to stay balanced (50/50 split) between pass plays and running plays, but this isn't always the case.
   - If a team is on `current_down = 3` and the `togo` is 5 or greater, they will likely attempt a pass instead of run.
   - Teams will pass the ball more often when `time_left < 120` and `quarter = 2`

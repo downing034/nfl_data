@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,SFO,MIN,Detail,EPB,EPA
+,,,,,,,Vikings won the coin toss and deferred 49ers to receive the opening kickoff.,,
+1,15:00,,,MIN 35,0,0,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,SFO 30,0,0,Brock Purdy pass complete short right to Kyle Juszczyk for 5 yards (tackle by Blake Cashman),0.940,1.070
+1,14:25,2,5,SFO 35,0,0,Brock Purdy pass complete short right to Brandon Aiyuk for 2 yards (tackle by Blake Cashman),1.070,0.630
+1,13:42,3,3,SFO 37,0,0,Brock Purdy pass incomplete short left intended for Deebo Samuel (defended by Blake Cashman),0.630,-0.910
+1,13:35,4,3,SFO 37,0,0,Mitch Wishnowsky punts 58 yards returned by Brandon Powell for 10 yards (tackle by Jake Tonges),-0.910,0.220
+1,13:25,1,10,MIN 15,0,0,Sam Darnold pass incomplete short left intended for Justin Jefferson,-0.220,-0.710
+1,13:22,2,10,MIN 15,0,0,Sam Darnold pass complete short left to Justin Jefferson for 7 yards (tackle by Nick Bosa),-0.710,-0.510
+1,12:46,3,3,MIN 22,0,0,Sam Darnold scrambles left end for 16 yards (tackle by Ji'Ayir Brown),-0.510,1.470
+1,12:08,1,10,MIN 38,0,0,Aaron Jones right end for 9 yards (tackle by Maliek Collins),1.470,2.140
+1,11:38,2,1,MIN 47,0,0,Sam Darnold pass incomplete deep right intended for Justin Jefferson (defended by Charvarius Ward) (defended by George Odum),2.140,1.420
+1,11:34,,,,,,Timeout #1 by Minnesota Vikings,,
+1,11:34,3,1,MIN 47,0,0,Aaron Jones up the middle for 1 yard (tackle by De'Vondre Campbell and Deommodore Lenoir),1.420,2.130
+1,10:50,1,10,MIN 48,0,0,Penalty on Justin Jefferson: Illegal Shift 5 yards (declined),2.130,-0.170
+1,10:42,2,23,MIN 35,0,0,Sam Darnold pass complete right to Justin Jefferson for 13 yards (tackle by Ji'Ayir Brown),-0.170,0.890
+1,9:47,3,10,MIN 48,0,0,Sam Darnold pass incomplete short middle intended for Aaron Jones (defended by Fred Warner),0.890,-0.190
+1,9:43,4,10,MIN 48,0,0,Ryan Wright punts 52 yards touchback.,-0.190,-0.280
+1,9:31,1,10,SFO 20,0,0,Brock Purdy pass complete short left to George Kittle for 25 yards (tackle by Ivan Pace),0.280,1.930
+1,9:09,1,10,SFO 45,0,0,Jordan Mason right end for no gain (tackle by Harrison Smith). Penalty on Deebo Samuel: Offensive Holding 10 yards (accepted) (no play),1.930,1.270
+1,8:37,1,20,SFO 35,0,0,Brock Purdy pass complete short left to Jauan Jennings for 12 yards (tackle by Blake Cashman and Harrison Smith),1.270,1.650
+1,7:58,2,8,SFO 47,0,0,Jordan Mason right end for 3 yards (tackle by Byron Murphy),1.650,1.360
+1,7:12,3,5,MIN 50,0,0,Brock Purdy pass incomplete deep middle intended for Jauan Jennings,1.360,-0.060
+1,7:04,4,5,MIN 50,0,0,Mitch Wishnowsky punts blocked by C.J. Ham (tackle by Eric Saubert),-0.060,-3.970
+1,6:55,1,10,SFO 24,0,0,Sam Darnold pass complete short right to Aaron Jones for 14 yards (tackle by Charvarius Ward),3.970,4.910
+1,6:15,1,10,SFO 10,0,0,Aaron Jones up the middle for 2 yards (tackle by Fred Warner),4.910,4.570
+1,5:36,2,8,SFO 8,0,0,Sam Darnold pass complete short right to Aaron Jones for 4 yards (tackle by Jordan Elliott),4.570,4.490
+1,4:58,3,4,SFO 4,0,0,Sam Darnold pass incomplete short left intended for Jalen Nailor (defended by George Odum),4.490,3.030
+1,4:48,4,4,SFO 4,0,3,Will Reichard 22 yard field goal good,3.030,3.000
+1,4:45,,,MIN 35,0,3,Will Reichard kicks off 66 yards returned by Deebo Samuel for 21 yards (tackle by Jay Ward and Akayleb Evans). Penalty on Renardo Green: Offensive Illegal Block Above the Waist 10 yards (accepted),0.000,-0.380
+1,4:40,1,10,SFO 10,0,3,Penalty on Trent Williams: False Start 5 yards (accepted) (no play),-0.380,-0.570
+1,4:40,1,15,SFO 5,0,3,Brock Purdy pass complete short right to Deebo Samuel for 1 yard (tackle by Camryn Bynum and Blake Cashman),-0.570,-1.070
+1,4:00,2,14,SFO 6,0,3,Jordan Mason left end for 8 yards (tackle by Blake Cashman and Camryn Bynum),-1.070,-0.950
+1,3:13,3,6,SFO 14,0,3,Brock Purdy pass complete short middle to George Kittle for 10 yards (tackle by Camryn Bynum),-0.950,0.540
+1,2:32,1,10,SFO 24,0,3,Jordan Mason up the middle for 9 yards (tackle by Ivan Pace and Camryn Bynum),0.540,1.210
+1,1:48,,,,,,Timeout #1 by San Francisco 49ers,,
+1,1:48,2,1,SFO 33,0,3,Jordan Mason left guard for 5 yards (tackle by Taki Taimani and Blake Cashman),1.210,1.470
+1,1:11,1,10,SFO 38,0,3,Jordan Mason right guard for no gain (tackle by Blake Cashman and Jonah Williams). Penalty on Jonathan Greenard: Defensive Offside 5 yards (accepted) (no play),1.470,2.200
+1,0:53,1,5,SFO 43,0,3,Jordan Mason up the middle for no gain (tackle by Harrison Phillips). Penalty on Jonathan Bullard: Defensive Offside 5 yards (accepted) (no play),2.200,2.130
+1,0:29,1,10,SFO 48,0,3,Isaac Guerendo left tackle for no gain (tackle by Jerry Tillery and Ivan Pace),2.130,1.580
+2,15:00,2,10,SFO 48,0,3,Brock Purdy sacked by Andrew Van Ginkel for -4 yards,1.580,0.370
+2,14:25,3,14,SFO 44,0,3,Brock Purdy pass complete short left to George Kittle for 11 yards (tackle by Blake Cashman),0.370,0.270
+2,13:50,4,3,MIN 45,0,3,Brock Purdy pass complete deep left to Jauan Jennings for 25 yards (tackle by Camryn Bynum),0.270,4.240
+2,12:59,1,10,MIN 20,0,3,Jordan Mason right end for 9 yards (tackle by Josh Metellus),4.240,5.260
+2,12:20,2,1,MIN 11,0,3,Jordan Mason left guard for 7 yards (tackle by Harrison Smith),5.260,6.280
+2,11:42,1,4,MIN 4,0,3,Brock Purdy pass incomplete short left intended for Brandon Aiyuk,6.280,5.340
+2,11:28,,,,,,Timeout #2 by San Francisco 49ers,,
+2,11:28,2,4,MIN 4,0,3,Jordan Mason right guard for -1 yards (tackle by Ivan Pace),5.340,4.260
+2,10:52,3,5,MIN 5,0,3,Brock Purdy pass complete short right to George Kittle for 3 yards (tackle by Josh Metellus),4.260,3.250
+2,10:31,4,2,MIN 2,0,3,Brock Purdy pass incomplete short left intended for Jauan Jennings (defended by Andrew Van Ginkel) (defended by Harrison Smith),3.250,0.380
+2,10:27,1,10,MIN 2,0,3,Penalty on Blake Brandel: False Start 1 yard (accepted) (no play),-0.380,-0.420
+2,10:27,1,11,MIN 1,0,3,Aaron Jones left tackle for 2 yards (tackle by Fred Warner and Kevin Givens),-0.420,-0.710
+2,9:51,2,9,MIN 3,0,9,Sam Darnold pass complete deep middle to Justin Jefferson for 97 yards touchdown,-0.710,7.000
+2,9:35,,,SFO 15,0,10,Will Reichard kicks extra point good,0.000,0.000
+2,9:35,,,MIN 35,0,10,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+2,9:35,1,10,SFO 30,0,10,Brock Purdy pass incomplete short left intended for Kyle Juszczyk,0.940,0.390
+2,9:31,2,10,SFO 30,0,10,Brock Purdy pass complete deep middle to Deebo Samuel for 19 yards (tackle by Stephon Gilmore),0.390,2.190
+2,8:51,1,10,SFO 49,0,10,Jordan Mason left tackle for 1 yard (tackle by Harrison Phillips and Blake Cashman),2.190,1.780
+2,8:12,2,9,MIN 50,0,10,Brock Purdy pass complete short middle to Kyle Juszczyk for 6 yards (tackle by Dallas Turner),1.780,1.880
+2,7:31,3,3,MIN 44,0,10,Jordan Mason left tackle for 1 yard. Jordan Mason fumbles (tackle by Stephon Gilmore recovered by Jordan Mason at MIN-43,1.880,0.400
+2,6:46,4,2,MIN 43,0,10,Brock Purdy scrambles right tackle for 1 yard (tackle by Blake Cashman). Penalty on Brandon Aiyuk: Illegal Shift 5 yards (declined),0.400,-1.730
+2,6:36,1,10,MIN 42,0,10,Ty Chandler left guard for 7 yards (tackle by De'Vondre Campbell and Malik Mustapha),1.730,2.130
+2,5:57,2,3,MIN 49,0,10,Ty Chandler right end for 5 yards (tackle by Nick Bosa),2.130,2.520
+2,5:30,1,10,SFO 46,0,10,Ty Chandler right end for 25 yards (tackle by Ji'Ayir Brown),2.520,4.170
+2,4:52,1,10,SFO 21,0,10,Sam Darnold pass short middle intended for Trent Sherfield is intercepted by Fred Warner at SF-10 and returned for 25 yards (tackle by Christian Darrisaw and Sam Darnold),4.170,-1.270
+2,4:38,1,10,SFO 35,0,10,Brock Purdy pass complete deep middle to Deebo Samuel for 28 yards (tackle by Ivan Pace and Harrison Smith),1.270,3.120
+2,3:57,1,10,MIN 37,0,10,Jordan Mason left end for 7 yards (tackle by Jonathan Bullard and Ivan Pace),3.120,3.520
+2,3:19,2,3,MIN 30,0,10,Jordan Mason right end for 22 yards (tackle by Andrew Van Ginkel),3.520,5.370
+2,2:30,1,8,MIN 8,0,10,Jordan Mason up the middle for 1 yard (tackle by Ivan Pace and Blake Cashman),5.370,4.760
+2,2:00,2,7,MIN 7,6,10,Brock Purdy pass complete short left to George Kittle for 7 yards touchdown,4.760,7.000
+2,1:53,,,MIN 15,7,10,Jake Moody kicks extra point good,0.000,0.000
+2,1:53,,,SFO 35,7,10,Jake Moody kicks off 65 yards touchback.,0.000,0.940
+2,1:53,1,10,MIN 30,7,10,Sam Darnold pass complete short middle to Jalen Nailor for 18 yards (tackle by Malik Mustapha),0.940,2.130
+2,1:29,1,10,MIN 48,7,10,Sam Darnold sacked by Nick Bosa for -5 yards,2.130,0.910
+2,1:18,,,,,,Timeout #2 by Minnesota Vikings,,
+2,1:18,2,15,MIN 43,7,10,Sam Darnold pass complete short left to Aaron Jones for 2 yards (tackle by Deommodore Lenoir and Javon Hargrave),0.910,0.500
+2,0:40,3,13,MIN 45,7,10,Sam Darnold pass complete short middle to Justin Jefferson for 16 yards (tackle by Fred Warner),0.500,2.980
+2,0:18,1,10,SFO 39,7,10,Sam Darnold spiked the ball,2.980,2.440
+2,0:17,,,,,,Timeout #3 by San Francisco 49ers,,
+2,0:17,2,10,SFO 39,7,10,Sam Darnold pass incomplete deep right intended for Justin Jefferson,2.440,1.750
+2,0:11,3,10,SFO 39,7,10,Sam Darnold scrambles up the middle for 18 yards (tackle by Ji'Ayir Brown),1.750,4.170
+2,0:03,,,,,,Timeout #3 by Minnesota Vikings,,
+2,0:03,1,10,SFO 21,7,13,Will Reichard 39 yard field goal good,4.170,3.000
+3,15:00,,,SFO 35,7,13,Jake Moody kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,MIN 30,7,13,Aaron Jones left tackle for 4 yards (tackle by Maliek Collins and De'Vondre Campbell),0.940,0.930
+3,14:19,2,6,MIN 34,7,13,Sam Darnold pass incomplete short right. Penalty on Sam Darnold: Intentional Grounding 17 yards (accepted),0.930,-2.360
+3,14:19,3,23,MIN 17,7,13,Sam Darnold pass complete short left to Johnny Mundt for 6 yards (tackle by Deommodore Lenoir),-2.360,-1.830
+3,13:42,4,17,MIN 23,7,13,Ryan Wright punts 43 yards out of bounds,-1.830,-1.200
+3,13:35,1,10,SFO 34,7,13,Jordan Mason left end for 9 yards (tackle by Josh Metellus),1.200,1.870
+3,13:03,2,1,SFO 43,7,13,Brock Purdy pass complete short left to Kyle Juszczyk for 8 yards,1.870,2.320
+3,12:23,1,10,MIN 49,7,13,Brock Purdy sacked by Jonathan Greenard for no gain,2.320,1.780
+3,11:48,2,10,MIN 49,7,13,Jordan Mason right end for -2 yards (tackle by Jonathan Bullard and Patrick Jones),1.780,0.830
+3,11:01,3,12,SFO 49,7,13,Brock Purdy sacked by Patrick Jones for -5 yards,0.830,-0.460
+3,10:30,4,17,SFO 44,7,13,Mitch Wishnowsky punts 41 yards fair catch by Brandon Powell at MIN-15,-0.460,0.220
+3,10:19,1,10,MIN 15,7,13,Sam Darnold pass complete short right to Trent Sherfield for 17 yards (tackle by George Odum),-0.220,1.070
+3,9:56,1,10,MIN 32,7,13,Aaron Jones right end for 9 yards (tackle by George Odum),1.070,1.740
+3,9:20,2,1,MIN 41,7,13,Aaron Jones left end for -2 yards (tackle by Fred Warner and Deommodore Lenoir),1.740,0.760
+3,8:40,3,3,MIN 39,7,13,Sam Darnold sacked by Nick Bosa for -5 yards,0.760,-1.110
+3,7:58,4,8,MIN 34,7,13,Ryan Wright punts 56 yards recovered by Isaac Yiadom at SF-13,-1.110,0.320
+3,7:41,1,10,SFO 13,7,13,Jordan Mason right guard for no gain (tackle by Jonathan Greenard),-0.320,-0.770
+3,7:07,2,10,SFO 13,7,13,Brock Purdy pass short middle (defended by Blake Cashman) intended for Kyle Juszczyk is intercepted by Josh Metellus at SF-22 and returned for 12 yards (tackle by Dominick Puni and Aaron Banks),-0.770,-4.910
+3,6:53,1,10,SFO 10,7,19,Sam Darnold pass complete short right to Jalen Nailor for 10 yards touchdown,4.910,7.000
+3,6:49,,,SFO 15,7,20,Will Reichard kicks extra point good,0.000,0.000
+3,6:49,,,MIN 35,7,20,Will Reichard kicks off 65 yards touchback.. Penalty on Will Reichard: Illegal Formation 5 yards (accepted),0.000,1.270
+3,6:49,1,10,SFO 35,7,20,Brock Purdy sacked by Patrick Jones for -7 yards,1.270,-0.220
+3,6:07,2,17,SFO 28,7,20,Brock Purdy pass complete deep left to Brandon Aiyuk for 22 yards (tackle by Stephon Gilmore and Blake Cashman),-0.220,2.260
+3,5:19,1,10,MIN 50,7,20,Deebo Samuel right end for -1 yards (tackle by Josh Metellus),2.260,1.580
+3,4:39,,,,,,Timeout #1 by San Francisco 49ers,,
+3,4:39,2,11,SFO 49,7,20,Brock Purdy scrambles right end for 11 yards (tackle by Ivan Pace),1.580,2.920
+3,4:08,1,10,MIN 40,7,20,Jordan Mason left tackle for 1 yard (tackle by Dallas Turner and Taki Taimani),2.920,2.510
+3,3:27,2,9,MIN 39,7,20,Brock Purdy sacked by Blake Cashman for -6 yards,2.510,1.030
+3,2:38,3,15,MIN 45,7,20,Brock Purdy sacked by. Brock Purdy fumbles recovered by Jihad Ward at MIN-45 and returned for 2 yards (tackle by Brock Purdy),1.030,-2.260
+3,2:28,1,10,MIN 50,7,20,Ty Chandler left tackle for 7 yards (tackle by Maliek Collins and Fred Warner),2.260,2.660
+3,2:02,2,3,SFO 43,7,20,Ty Chandler left tackle for 12 yards (tackle by Malik Mustapha),2.660,3.510
+3,1:36,1,10,SFO 31,7,20,Ty Chandler up the middle for 6 yards (tackle by Maliek Collins),3.510,3.780
+3,0:53,2,4,SFO 25,7,20,Ty Chandler left end for 5 yards (tackle by Demetrius Flannigan-Fowles and Deommodore Lenoir),3.780,4.240
+3,0:38,1,10,SFO 20,7,20,Sam Darnold pass complete short left to Aaron Jones for 18 yards. Aaron Jones fumbles (forced by Fred Warner) recovered by Isaac Yiadom at SF-1 Replay Assistant challenged the loose ball recovery ruling and the play was upheld.,4.240,0.380
+3,0:08,1,10,SFO 1,7,20,Jordan Mason right tackle for 4 yards (tackle by Ivan Pace),-0.380,-0.490
+4,15:00,2,6,SFO 5,7,20,Brock Purdy pass complete short right to Deebo Samuel for 9 yards (tackle by Stephon Gilmore),-0.490,-0.280
+4,14:29,1,10,SFO 14,7,20,Brock Purdy pass complete deep middle to Deebo Samuel for 17 yards (tackle by Josh Metellus and Camryn Bynum),-0.280,1.000
+4,13:47,1,10,SFO 31,7,20,Brock Purdy pass complete short left to Chris Conley for 4 yards (tackle by Stephon Gilmore),1.000,1.000
+4,13:07,2,6,SFO 35,7,20,Brock Purdy pass complete short left to Brandon Aiyuk for 7 yards (tackle by Stephon Gilmore),1.000,1.730
+4,12:39,1,10,SFO 42,7,20,Jordan Mason up the middle for no gain (tackle by Blake Cashman and Patrick Jones),1.730,1.190
+4,12:00,2,10,SFO 42,7,20,Brock Purdy pass incomplete short middle intended for Deebo Samuel (defended by Blake Cashman),1.190,0.500
+4,11:52,3,10,SFO 42,7,20,Brock Purdy pass complete short right to George Kittle for 14 yards (tackle by Josh Metellus). Penalty on Jihad Ward: Roughing the Passer 15 yards (accepted),0.500,3.640
+4,11:21,1,10,MIN 29,7,20,Brock Purdy pass incomplete deep left intended for George Kittle,3.640,3.100
+4,11:16,2,10,MIN 29,7,20,Brock Purdy pass complete short left to Deebo Samuel for 13 yards MIN challenged the runner was in bounds ruling and the play was upheld.,3.100,4.510
+4,10:59,1,10,MIN 16,7,20,Jordan Mason up the middle for 6 yards (tackle by Harrison Phillips),4.510,4.970
+4,10:21,2,4,MIN 10,13,20,Jordan Mason right end for 10 yards touchdown,4.970,7.000
+4,10:16,,,MIN 15,14,20,Jake Moody kicks extra point good,0.000,0.000
+4,10:16,,,SFO 35,14,20,Jake Moody kicks off 65 yards touchback.,0.000,0.940
+4,10:16,1,10,MIN 30,14,20,Aaron Jones up the middle for 3 yards (tackle by Ji'Ayir Brown and Nick Bosa),0.940,0.800
+4,9:37,2,7,MIN 33,14,20,Sam Darnold sacked by Fred Warner for no gain. Sam Darnold fumbles ball out of bounds at MIN-33 (forced by Fred Warner). Sam Darnold fumbles out of bounds,0.800,0.100
+4,8:53,3,7,MIN 33,14,20,Sam Darnold pass complete short right to Brandon Powell for 11 yards (tackle by Isaac Yiadom),0.100,1.860
+4,8:23,1,10,MIN 44,14,20,Ty Chandler left end for 2 yards (tackle by Fred Warner),1.860,1.590
+4,7:45,2,8,MIN 46,14,20,Sam Darnold pass incomplete short left intended for Johnny Mundt,1.590,0.890
+4,7:41,3,8,MIN 46,14,20,Sam Darnold pass complete deep right to Jalen Nailor for 26 yards (tackle by Isaac Yiadom),0.890,3.710
+4,6:54,1,10,SFO 28,14,20,Ty Chandler right tackle for 2 yards (tackle by Fred Warner),3.710,3.440
+4,6:12,2,8,SFO 26,14,20,Sam Darnold pass complete short right to Johnny Mundt for 6 yards (tackle by De'Vondre Campbell),3.440,3.530
+4,5:37,3,2,SFO 20,14,20,Sam Darnold pass complete short middle to Brandon Powell for 5 yards (tackle by Isaac Yiadom),3.530,4.580
+4,4:50,1,10,SFO 15,14,20,Ty Chandler left end for 11 yards (tackle by Deommodore Lenoir),4.580,6.280
+4,3:59,1,4,SFO 4,14,20,Penalty on Blake Brandel: False Start 5 yards (accepted) (no play),6.280,5.140
+4,3:47,1,9,SFO 9,14,20,Ty Chandler sacked by Kevin Givens for -1 yards,5.140,4.190
+4,3:42,2,10,SFO 10,14,20,Sam Darnold pass complete short right to Aaron Jones for -2 yards (tackle by De'Vondre Campbell),4.190,3.100
+4,3:35,,,,,,Timeout #2 by San Francisco 49ers,,
+4,3:35,3,12,SFO 12,14,20,Aaron Jones up the middle for 4 yards (tackle by Demetrius Flannigan-Fowles and Javon Hargrave),3.100,2.950
+4,3:32,,,,,,Timeout #3 by San Francisco 49ers,,
+4,3:32,4,8,SFO 8,14,23,Will Reichard 27 yard field goal good,2.950,3.000
+4,3:30,,,MIN 35,14,23,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+4,3:30,1,10,SFO 30,14,23,Brock Purdy pass complete short right to George Kittle for 6 yards (tackle by Byron Murphy),0.940,1.200
+4,3:23,2,4,SFO 36,14,23,Brock Purdy pass complete short left to Jordan Mason for 4 yards (tackle by Andrew Van Ginkel),1.200,1.600
+4,2:59,1,10,SFO 40,14,23,Brock Purdy pass complete deep right to Deebo Samuel for 21 yards (tackle by Josh Metellus and Camryn Bynum),1.600,2.980
+4,2:39,1,10,MIN 39,14,23,Brock Purdy pass complete short left to Eric Saubert for 12 yards (tackle by Byron Murphy and Camryn Bynum),2.980,3.780
+4,2:21,1,10,MIN 27,14,23,Brock Purdy pass complete short middle to Eric Saubert for 14 yards (tackle by Harrison Smith). Penalty on Andrew Van Ginkel: Defensive Offside 5 yards (declined),3.780,4.710
+4,2:15,1,10,MIN 13,14,23,Brock Purdy pass complete short right to Deebo Samuel for 2 yards (tackle by Byron Murphy),4.710,4.390
+4,2:01,2,8,MIN 11,14,23,Penalty on Colton McKivitz: False Start 5 yards (accepted) (no play),4.390,3.620
+4,2:01,2,13,MIN 16,14,23,Brock Purdy pass complete short left to Brandon Aiyuk for 12 yards (tackle by Harrison Smith),3.620,5.010
+4,1:57,3,1,MIN 4,14,23,Deebo Samuel right end for -9 yards (tackle by Andrew Van Ginkel),5.010,2.570
+4,1:15,4,10,MIN 13,17,23,Jake Moody 31 yard field goal good,2.570,3.000
+4,1:12,,,,,,Timeout #2 by Minnesota Vikings,,
+4,1:12,,,SFO 35,17,23,Mitch Wishnowsky kicks onside 7 yards returned by Nick Muse for no gain,0.000,2.790
+4,1:11,1,10,SFO 42,17,23,Sam Darnold kneels for -1 yards,2.790,2.110
+4,0:41,2,11,SFO 43,17,23,Sam Darnold kneels for -1 yards,2.110,1.290

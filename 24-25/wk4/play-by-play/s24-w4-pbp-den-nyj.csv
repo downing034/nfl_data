@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,DEN,NYJ,Detail,EPB,EPA
+,,,,,,,Broncos won the coin toss and deferred Jets to receive the opening kickoff.,,
+1,15:00,,,DEN 35,0,0,Wil Lutz kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,NYJ 30,0,0,Aaron Rodgers sacked by Justin Strnad for -8 yards,0.940,-0.690
+1,14:20,2,18,NYJ 22,0,0,Aaron Rodgers pass incomplete deep right intended for Tyler Conklin,-0.690,-1.350
+1,14:16,3,18,NYJ 22,0,0,Aaron Rodgers pass complete short middle to Garrett Wilson for 7 yards. Garrett Wilson fumbles (forced by Brandon Jones) recovered by Riley Moss at NYJ-30,-1.350,-3.580
+1,14:08,1,10,NYJ 30,0,0,Bo Nix pass complete short left to Javonte Williams for no gain (tackle by Quinnen Williams). Penalty on Troy Franklin: Offensive Pass Interference 10 yards (accepted) (no play),3.580,2.920
+1,13:44,1,20,NYJ 40,0,0,Bo Nix pass incomplete short left intended for Courtland Sutton. Penalty on Ben Powers: Ineligible Downfield Pass 5 yards (declined),2.920,1.680
+1,13:44,2,20,NYJ 40,0,0,Bo Nix pass incomplete deep left intended for Courtland Sutton,1.680,1.020
+1,13:39,3,20,NYJ 40,0,0,Bo Nix pass complete short right to Troy Franklin for -4 yards (tackle by D.J. Reed),1.020,0.330
+1,12:58,4,24,NYJ 44,0,0,Riley Dixon punts 43 yards downed by Marvin Mims,0.330,0.380
+1,12:50,1,10,NYJ 1,0,0,Breece Hall left guard for 1 yard (tackle by John Franklin-Myers and Nik Bonitto). Penalty on Tyron Smith: Offensive Holding 10 yards (declined),-0.380,-0.710
+1,12:29,2,9,NYJ 2,0,0,Breece Hall up the middle for no gain (tackle by D.J. Jones and Justin Strnad),-0.710,-1.300
+1,11:50,3,9,NYJ 2,0,0,Penalty on John Simpson: False Start 1 yard (accepted) (no play),-1.300,-1.420
+1,11:33,3,10,NYJ 1,0,0,Penalty on Breece Hall: False Start (accepted) (no play),-1.420,-1.420
+1,11:13,3,10,NYJ 1,0,0,Aaron Rodgers pass incomplete short middle intended for Allen Lazard (defended by Ja'Quan McMillian),-1.420,-2.490
+1,11:11,4,10,NYJ 1,0,0,Thomas Morstead punts 56 yards returned by Marvin Mims for 5 yards (tackle by Marcelino McCrary-Ball),-2.490,-2.130
+1,10:57,1,10,DEN 48,0,0,Tyler Badie right guard for no gain (tackle by Chazz Surratt),2.130,1.580
+1,10:21,2,10,DEN 48,0,0,Bo Nix pass complete short left to Tyler Badie for -1 yards (tackle by Jamien Sherwood),1.580,0.760
+1,9:41,3,11,DEN 47,0,0,Bo Nix pass incomplete short right intended for Greg Dulcich,0.760,-0.260
+1,9:37,4,11,DEN 47,0,0,Riley Dixon punts 33 yards fair catch by Xavier Gipson at NYJ-20,-0.260,-0.280
+1,9:29,1,10,NYJ 20,0,0,Breece Hall right end for no gain (tackle by Jonathon Cooper and Cody Barton),0.280,-0.270
+1,8:47,2,10,NYJ 20,0,0,Breece Hall right tackle for -2 yards (tackle by Justin Strnad),-0.270,-1.330
+1,8:08,3,12,NYJ 18,0,0,Aaron Rodgers pass incomplete short right intended for Tyler Conklin (defended by Riley Moss),-1.330,-2.240
+1,8:00,4,12,NYJ 18,0,0,Thomas Morstead punts 48 yards fair catch by Marvin Mims at DEN-34,-2.240,-1.200
+1,7:52,1,10,DEN 34,0,0,Jaleel McLaughlin left end for 5 yards (tackle by Quincy Williams),1.200,1.330
+1,7:15,2,5,DEN 39,0,0,Javonte Williams up the middle for 2 yards (tackle by Bruce Hector and Jamien Sherwood),1.330,0.890
+1,6:31,3,3,DEN 41,0,0,Bo Nix pass incomplete deep middle intended for Josh Reynolds,0.890,-0.650
+1,6:25,4,3,DEN 41,0,0,Riley Dixon punts 44 yards returned by Xavier Gipson for 8 yards (tackle by P.J. Locke),-0.650,-0.480
+1,6:14,1,10,NYJ 23,0,0,Aaron Rodgers pass complete short left to Jeremy Ruckert for 9 yards (tackle by Riley Moss),0.480,1.150
+1,5:38,2,1,NYJ 32,0,0,Breece Hall right tackle for -2 yards (tackle by Jonah Elliss),1.150,0.170
+1,4:59,3,3,NYJ 30,0,0,Penalty on Tyron Smith: False Start 5 yards (accepted) (no play),0.170,-0.490
+1,4:41,3,8,NYJ 25,0,0,Aaron Rodgers scrambles left guard for 1 yard (tackle by Zach Allen),-0.490,-1.630
+1,4:00,4,7,NYJ 26,0,0,Thomas Morstead punts 42 yards fair catch by Marvin Mims at DEN-32. Penalty on Irvin Charles: Kick Catch Interference 15 yards (accepted),-1.630,-2.060
+1,3:53,1,10,DEN 47,0,0,Tyler Badie right end for no gain (tackle by Quincy Williams). Penalty on Alex Palczewski: Offensive Holding 10 yards (accepted) (no play),2.060,1.400
+1,3:38,1,20,DEN 37,0,0,Bo Nix pass complete short right to Jaleel McLaughlin for no gain (tackle by Sauce Gardner),1.400,0.170
+1,2:58,2,20,DEN 37,0,0,Bo Nix scrambles left guard for 7 yards (tackle by Jamien Sherwood),0.170,0.430
+1,2:14,3,13,DEN 44,0,0,Bo Nix pass complete short right to Tyler Badie for -3 yards. Tyler Badie fumbles (forced by Quincy Williams) recovered by Michael Carter at DEN-41 and returned for 7 yards (tackle by Luke Wattenberg),0.430,-3.310
+1,2:07,1,10,DEN 34,0,0,Braelon Allen right tackle for 9 yards (tackle by Dondrea Tillman and Riley Moss),3.310,3.990
+1,1:28,2,1,DEN 25,0,0,Aaron Rodgers pass incomplete deep right intended for Breece Hall,3.990,3.270
+1,1:19,3,1,DEN 25,0,0,Braelon Allen right end for 2 yards (tackle by Riley Moss). Penalty on Allen Lazard: Offensive Holding 10 yards (accepted) (no play),3.270,1.950
+1,1:01,3,11,DEN 35,0,0,Aaron Rodgers pass incomplete deep right intended for Allen Lazard. Penalty on Riley Moss: Defensive Pass Interference 34 yards (accepted) (no play),1.950,6.970
+1,0:53,1,1,DEN 1,0,0,Breece Hall right guard for no gain (tackle by Kristian Welch and John Franklin-Myers),6.970,5.910
+1,0:11,2,1,DEN 1,0,0,Breece Hall left tackle for no gain (tackle by Kristian Welch and Cody Barton),5.910,5.170
+2,15:00,3,1,DEN 1,0,0,Aaron Rodgers pass incomplete short right,5.170,3.550
+2,14:54,4,1,DEN 1,0,0,Penalty on John Simpson: False Start 4 yards (accepted) (no play),3.550,3.010
+2,14:54,4,5,DEN 5,0,3,Greg Zuerlein 23 yard field goal good,3.010,3.000
+2,14:51,,,NYJ 35,0,3,Greg Zuerlein kicks off 65 yards touchback.,0.000,0.940
+2,14:51,1,10,DEN 30,0,3,Javonte Williams up the middle for 3 yards (tackle by Javon Kinlaw),0.940,0.800
+2,14:12,2,7,DEN 33,0,3,Bo Nix pass complete short right to Javonte Williams for -1 yards (tackle by Ashtyn Davis),0.800,-0.030
+2,13:31,3,8,DEN 32,0,3,Bo Nix pass incomplete deep right intended for Courtland Sutton,-0.030,-1.240
+2,13:27,4,8,DEN 32,0,3,Riley Dixon punts 54 yards returned by Xavier Gipson for 10 yards (tackle by Mitchell Fraboni),-1.240,-0.540
+2,13:15,1,10,NYJ 24,0,3,Braelon Allen up the middle for 6 yards (tackle by P.J. Locke and D.J. Jones),0.540,0.810
+2,12:33,2,4,NYJ 30,0,3,Braelon Allen up the middle for 7 yards (tackle by P.J. Locke and Cody Barton),0.810,1.400
+2,11:56,1,10,NYJ 37,0,3,Braelon Allen right guard for 5 yards (tackle by Cody Barton),1.400,1.530
+2,11:21,2,5,NYJ 42,0,3,Braelon Allen up the middle for -1 yards (tackle by Zach Allen),1.530,0.700
+2,10:42,3,6,NYJ 41,0,3,Aaron Rodgers sacked by Nik Bonitto for -10 yards. Penalty on Allen Lazard: Illegal Motion 5 yards (declined),0.700,-1.310
+2,10:20,4,16,NYJ 31,0,3,Thomas Morstead punts 42 yards fair catch by Marvin Mims at DEN-27,-1.310,-0.740
+2,10:15,1,10,DEN 27,0,3,Javonte Williams left guard for 12 yards (tackle by Tony Adams and Michael Carter),0.740,1.530
+2,9:37,1,10,DEN 39,0,3,Jaleel McLaughlin right end for 10 yards (tackle by Bruce Hector and Chuck Clark),1.530,2.190
+2,9:01,1,10,DEN 49,0,3,Bo Nix pass complete short right to Troy Franklin for 2 yards (tackle by Quincy Williams),2.190,1.920
+2,8:18,2,8,NYJ 49,0,3,Bo Nix pass incomplete short right intended for Courtland Sutton DEN challenged the pass completion ruling and the play was upheld.,1.920,1.220
+2,8:11,,,,,,Timeout #2 by Denver Broncos,,
+2,8:11,3,8,NYJ 49,0,3,Javonte Williams right tackle for no gain (tackle by Isaiah Oliver). Penalty on Will McDonald: Defensive Offside 5 yards (accepted) (no play),1.220,1.880
+2,7:47,3,3,NYJ 44,0,3,Bo Nix pass incomplete deep right intended for Troy Franklin,1.880,0.330
+2,7:43,4,3,NYJ 44,0,3,Riley Dixon punts 29 yards returned by Xavier Gipson for no gain (tackle by Tremon Smith),0.330,0.220
+2,7:35,1,10,NYJ 15,0,3,Aaron Rodgers pass incomplete deep right intended for Xavier Gipson,-0.220,-0.710
+2,7:31,2,10,NYJ 15,0,3,Aaron Rodgers pass incomplete short left intended for Xavier Gipson,-0.710,-1.370
+2,7:28,3,10,NYJ 15,0,3,Aaron Rodgers scrambles right end for 14 yards (tackle by Levi Wallace),-1.370,0.870
+2,6:51,1,10,NYJ 29,0,3,Breece Hall left tackle for 3 yards (tackle by Riley Moss),0.870,0.730
+2,6:13,2,7,NYJ 32,0,3,Aaron Rodgers pass complete short right to Jeremy Ruckert for 1 yard (tackle by Ja'Quan McMillian),0.730,0.170
+2,5:26,3,6,NYJ 33,0,3,Aaron Rodgers pass complete short right to Breece Hall for 5 yards (tackle by Levi Wallace),0.170,-0.850
+2,4:52,4,1,NYJ 38,0,3,Thomas Morstead punts 45 yards fair catch by Marvin Mims at DEN-17,-0.850,0.060
+2,4:45,1,10,DEN 17,0,3,Jaleel McLaughlin left tackle for 7 yards (tackle by Jamien Sherwood and Chuck Clark),-0.060,0.480
+2,4:03,2,3,DEN 24,0,3,Javonte Williams right guard for 5 yards (tackle by Chuck Clark),0.480,0.870
+2,3:23,1,10,DEN 29,0,3,Javonte Williams up the middle for 2 yards (tackle by Tony Adams and Quincy Williams),0.870,0.600
+2,2:48,2,8,DEN 31,0,3,Bo Nix pass complete short left to Nate Adkins for no gain (tackle by Tony Adams),0.600,-0.100
+2,2:08,3,8,DEN 31,0,3,Bo Nix pass incomplete deep right intended for Lil'Jordan Humphrey,-0.100,-1.310
+2,2:00,4,8,DEN 31,0,3,Riley Dixon punts 53 yards returned by Xavier Gipson for 11 yards (tackle by Michael Burton and Devon Key),-1.310,-0.740
+2,1:47,1,10,NYJ 27,0,3,Aaron Rodgers pass complete short middle to Allen Lazard for 25 yards (tackle by P.J. Locke and Brandon Jones),0.740,2.390
+2,1:18,1,10,DEN 48,0,3,Aaron Rodgers pass incomplete short left intended for Allen Lazard,2.390,1.850
+2,1:15,2,10,DEN 48,0,3,Aaron Rodgers pass complete short left to Allen Lazard for no gain (tackle by Ja'Quan McMillian),1.850,1.160
+2,0:34,3,10,DEN 48,0,3,Aaron Rodgers pass complete short right to Allen Lazard for 13 yards (tackle by Ja'Quan McMillian),1.160,3.250
+2,0:28,,,,,,Timeout #1 by New York Jets,,
+2,0:28,1,10,DEN 35,0,3,Aaron Rodgers pass incomplete deep right intended for Mike Williams Replay Assistant challenged the pass completion ruling and the original play was overturned. Aaron Rodgers pass complete deep right to Mike Williams for 21 yards (tackle by Brandon Jones),3.250,4.650
+2,0:23,1,10,DEN 14,0,3,Aaron Rodgers scrambles right end for 1 yard (tackle by Zach Allen),4.650,4.160
+2,0:16,2,9,DEN 13,0,3,Aaron Rodgers sacked by John Franklin-Myers for -7 yards,4.160,2.610
+2,0:10,,,,,,Timeout #2 by New York Jets,,
+2,0:10,3,16,DEN 20,0,3,Breece Hall right guard for 3 yards (tackle by Malcolm Roach and Zach Allen),2.610,2.310
+2,0:02,,,,,,Timeout #3 by New York Jets,,
+2,0:02,4,13,DEN 17,0,6,Greg Zuerlein 35 yard field goal good,2.310,3.000
+3,15:00,,,NYJ 35,0,6,Greg Zuerlein kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,DEN 30,0,6,Jaleel McLaughlin left tackle for 3 yards (tackle by Michael Carter),0.940,0.800
+3,14:27,2,7,DEN 33,0,6,Bo Nix pass complete short right to Courtland Sutton for 23 yards (tackle by Sauce Gardner),0.800,2.650
+3,13:48,1,10,NYJ 44,0,6,Javonte Williams right guard for -5 yards (tackle by Quincy Williams),2.650,1.440
+3,13:08,2,15,NYJ 49,0,6,Bo Nix pass incomplete deep left intended for Courtland Sutton,1.440,0.760
+3,13:02,3,15,NYJ 49,0,6,Bo Nix pass incomplete short right intended for Javonte Williams,0.760,0.000
+3,12:57,4,15,NYJ 49,0,6,Riley Dixon punts 37 yards fair catch by Xavier Gipson at NYJ-12. Penalty on Qwan'tez Stiggers: Defensive Holding 6 yards (accepted),0.000,0.380
+3,12:51,1,10,NYJ 6,0,6,Breece Hall right guard for 1 yard (tackle by Brandon Jones),-0.380,-0.710
+3,12:11,2,9,NYJ 7,0,6,Aaron Rodgers pass complete short left to Braelon Allen for 12 yards (tackle by Cody Barton),-0.710,0.150
+3,11:31,1,10,NYJ 19,0,6,Aaron Rodgers pass incomplete short left intended for Breece Hall,0.150,-0.390
+3,11:27,2,10,NYJ 19,0,6,Aaron Rodgers pass complete short right to Tyler Conklin for no gain (tackle by Ja'Quan McMillian and Brandon Jones). Penalty on Olumuyiwa Fashanu: Ineligible Downfield Pass 5 yards (accepted) (no play),-0.390,-1.110
+3,10:59,2,15,NYJ 14,0,6,Aaron Rodgers pass complete deep left to Mike Williams for 20 yards (tackle by P.J. Locke),-1.110,1.200
+3,10:12,1,10,NYJ 34,0,6,Aaron Rodgers pass complete short left to Garrett Wilson for 1 yard (tackle by Patrick Surtain),1.200,0.790
+3,9:28,2,9,NYJ 35,0,6,Aaron Rodgers pass incomplete short left intended for Garrett Wilson,0.790,0.100
+3,9:25,3,9,NYJ 35,0,6,Penalty on Breece Hall: False Start 5 yards (accepted) (no play),0.100,-0.560
+3,9:25,3,14,NYJ 30,0,6,Aaron Rodgers pass complete short right to Xavier Gipson for 6 yards (tackle by Malcolm Roach and Cody Barton),-0.560,-0.980
+3,8:47,4,8,NYJ 36,0,6,Thomas Morstead punts 51 yards out of bounds,-0.980,0.320
+3,8:35,1,10,DEN 13,0,6,Penalty on Garett Bolles: False Start 5 yards (accepted) (no play),-0.320,-0.570
+3,8:35,1,15,DEN 8,0,6,Jaleel McLaughlin right guard for 5 yards (tackle by Bruce Hector and Tony Adams),-0.570,-0.770
+3,7:57,2,10,DEN 13,0,6,Jaleel McLaughlin right tackle for 8 yards (tackle by Tony Adams and Eric Watts),-0.770,-0.470
+3,7:20,3,2,DEN 21,0,6,Javonte Williams right guard for 4 yards (tackle by Jamien Sherwood and Micheal Clemons),-0.470,0.610
+3,6:34,1,10,DEN 25,0,6,Javonte Williams right guard for -1 yards (tackle by Tony Adams and Eric Watts). Penalty on Lil'Jordan Humphrey: Illegal Shift 5 yards (declined),0.610,-0.070
+3,6:16,2,11,DEN 24,0,6,Bo Nix pass incomplete deep left intended for Troy Franklin (defended by D.J. Reed),-0.070,-0.760
+3,6:09,3,11,DEN 24,0,6,Bo Nix pass complete deep middle to Courtland Sutton for 29 yards (tackle by Chuck Clark and Tony Adams),-0.760,2.460
+3,5:38,1,10,NYJ 47,0,6,Bo Nix pass incomplete short middle intended for Lil'Jordan Humphrey. Penalty on Michael Carter: Defensive Pass Interference 14 yards (accepted) (no play),2.460,3.380
+3,5:32,1,10,NYJ 33,0,6,Bo Nix pass incomplete short left intended for Jaleel McLaughlin. Penalty on Will McDonald: Defensive Offside 5 yards (accepted) (no play),3.380,4.110
+3,5:23,1,5,NYJ 28,0,6,Javonte Williams right guard for 5 yards (tackle by D.J. Reed and Chuck Clark),4.110,4.040
+3,4:42,1,10,NYJ 23,0,6,Javonte Williams left tackle for 12 yards (tackle by D.J. Reed),4.040,4.840
+3,4:02,1,10,NYJ 11,0,6,Jaleel McLaughlin right end for 3 yards (tackle by Micheal Clemons),4.840,4.700
+3,3:19,2,7,NYJ 8,0,6,Bo Nix pass incomplete short left intended for Courtland Sutton,4.700,3.760
+3,3:13,3,7,NYJ 8,6,6,Bo Nix pass complete short right to Courtland Sutton for 8 yards touchdown,3.760,7.000
+3,3:08,,,NYJ 15,7,6,Wil Lutz kicks extra point good,0.000,0.000
+3,3:08,,,DEN 35,7,6,Wil Lutz kicks off 67 yards returned by Xavier Gipson for 27 yards (tackle by Dondrea Tillman and Jonah Elliss),0.000,0.610
+3,3:02,1,10,NYJ 25,7,6,Braelon Allen right end for no gain (tackle by Cody Barton and Brandon Jones),0.610,0.060
+3,2:18,2,10,NYJ 25,7,6,Aaron Rodgers pass incomplete short middle intended for Tyler Conklin (defended by Brandon Jones),0.060,-0.620
+3,2:15,3,10,NYJ 25,7,6,Aaron Rodgers pass complete deep left to Mike Williams for 22 yards (tackle by P.J. Locke),-0.620,2.060
+3,1:41,1,10,NYJ 47,7,6,Aaron Rodgers pass complete deep right to Garrett Wilson for 23 yards (tackle by Patrick Surtain). Penalty on Cody Barton: Defensive Offside 5 yards (declined) DEN challenged the pass completion ruling and the play was upheld.,2.060,3.580
+3,1:31,1,10,DEN 30,7,6,Aaron Rodgers pass complete short right to Allen Lazard for 12 yards (tackle by Riley Moss). Penalty on Allen Lazard: Unsportsmanlike Conduct / Offense 15 yards (accepted),3.580,3.380
+3,1:05,1,10,DEN 33,7,6,Aaron Rodgers pass complete short left to Tyler Conklin for 4 yards (tackle by Jonathon Cooper),3.380,3.380
+3,0:18,2,6,DEN 29,7,6,Braelon Allen right tackle for 6 yards (tackle by Riley Moss and Cody Barton),3.380,4.040
+4,15:00,1,10,DEN 23,7,6,Aaron Rodgers pass complete short left to Garrett Wilson for -1 yards (tackle by Ja'Quan McMillian),4.040,3.360
+4,14:19,2,11,DEN 24,7,6,Aaron Rodgers pass incomplete short right intended for Breece Hall,3.360,2.680
+4,14:15,3,11,DEN 24,7,6,Aaron Rodgers scrambles right end for 2 yards (tackle by Zach Allen),2.680,1.990
+4,13:38,4,9,DEN 22,7,9,Greg Zuerlein 40 yard field goal good,1.990,3.000
+4,13:34,,,NYJ 35,7,9,Greg Zuerlein kicks off 65 yards touchback.,0.000,0.940
+4,13:34,1,10,DEN 30,7,9,Javonte Williams left guard for 9 yards (tackle by Chuck Clark),0.940,1.610
+4,12:52,2,1,DEN 39,7,9,Javonte Williams right tackle for 9 yards (tackle by Tony Adams and Sauce Gardner),1.610,2.130
+4,12:07,1,10,DEN 48,7,9,Javonte Williams right tackle for 1 yard (tackle by Solomon Thomas and Chuck Clark),2.130,1.720
+4,11:27,2,9,DEN 49,7,9,Javonte Williams up the middle for 16 yards (tackle by Sauce Gardner and Tony Adams),1.720,3.250
+4,10:52,1,10,NYJ 35,7,9,Bo Nix scrambles right end for 1 yard (tackle by Sauce Gardner),3.250,2.840
+4,10:21,2,9,NYJ 34,7,9,Jaleel McLaughlin up the middle for 5 yards (tackle by Takkarist McKinley and Tony Adams),2.840,2.810
+4,9:36,3,4,NYJ 29,7,9,Javonte Williams up the middle for no gain (tackle by Quincy Williams and Takkarist McKinley),2.810,1.560
+4,8:59,4,4,NYJ 29,10,9,Wil Lutz 47 yard field goal good,1.560,3.000
+4,8:55,,,DEN 35,10,9,Wil Lutz kicks off 61 yards returned by Xavier Gipson for 23 yards (tackle by Michael Burton and Keidron Smith),0.000,0.740
+4,8:51,1,10,NYJ 27,10,9,Aaron Rodgers pass incomplete deep left intended for Tyler Conklin,0.740,0.200
+4,8:43,2,10,NYJ 27,10,9,Aaron Rodgers pass complete short left to Tyler Conklin for 9 yards (tackle by P.J. Locke and Jonathon Cooper),0.200,0.700
+4,8:02,3,1,NYJ 36,10,9,Braelon Allen up the middle for 2 yards (tackle by Cody Barton and Ja'Quan McMillian),0.700,1.470
+4,7:21,1,10,NYJ 38,10,9,Aaron Rodgers pass complete short middle to Garrett Wilson for 11 yards (tackle by Cody Barton),1.470,2.190
+4,6:39,1,10,NYJ 49,10,9,Aaron Rodgers left tackle for 8 yards (tackle by P.J. Locke),2.190,2.730
+4,5:52,2,2,DEN 43,10,9,Aaron Rodgers pass complete short left to Tyler Conklin for no gain (tackle by Riley Moss and Nik Bonitto),2.730,2.010
+4,5:05,3,2,DEN 43,10,9,Aaron Rodgers sacked by and Malcolm Roach for -6 yards and Jonah Elliss for -6 yards,2.010,0.000
+4,4:09,4,8,DEN 49,10,9,Thomas Morstead punts 32 yards fair catch by Marvin Mims at DEN-17,0.000,0.060
+4,4:02,1,10,DEN 17,10,9,Bo Nix pass complete short right to Michael Burton for 3 yards (tackle by Jamien Sherwood and Quincy Williams),-0.060,-0.060
+4,3:23,2,7,DEN 20,10,9,Javonte Williams right tackle for 3 yards (tackle by Quinnen Williams),-0.060,-0.490
+4,2:44,3,4,DEN 23,10,9,Bo Nix pass incomplete short left intended for Josh Reynolds (defended by D.J. Reed),-0.490,-1.830
+4,2:40,4,4,DEN 23,10,9,Riley Dixon punts 46 yards returned by Xavier Gipson for 2 yards (tackle by Keidron Smith),-1.830,-1.140
+4,2:31,1,10,NYJ 33,10,9,Aaron Rodgers pass complete short left to Allen Lazard for 8 yards (tackle by Riley Moss),1.140,1.670
+4,2:04,2,2,NYJ 41,10,9,Aaron Rodgers pass complete short middle to Tyler Conklin for 4 yards (tackle by P.J. Locke),1.670,1.930
+4,2:00,1,10,NYJ 45,10,9,Aaron Rodgers pass incomplete short right intended for Garrett Wilson (defended by Patrick Surtain),1.930,1.380
+4,1:57,2,10,NYJ 45,10,9,Aaron Rodgers pass incomplete deep middle intended for Garrett Wilson,1.380,0.700
+4,1:53,3,10,NYJ 45,10,9,Aaron Rodgers pass incomplete short left intended for Xavier Gipson,0.700,-0.390
+4,1:50,4,10,NYJ 45,10,9,Aaron Rodgers sacked by P.J. Locke for -10 yards,-0.390,-3.250
+4,1:46,1,10,NYJ 35,10,9,Jaleel McLaughlin right tackle for no gain (tackle by Chazz Surratt),3.250,2.700
+4,1:42,,,,,,Timeout #1 by New York Jets,,
+4,1:42,2,10,NYJ 35,10,9,Bo Nix pass complete short right to Javonte Williams for 4 yards (tackle by Jamien Sherwood),2.700,2.540
+4,1:36,,,,,,Timeout #2 by New York Jets,,
+4,1:36,3,6,NYJ 31,10,9,Bo Nix right end for -1 yards (tackle by Tony Adams),2.540,1.240
+4,1:31,,,,,,Timeout #3 by New York Jets,,
+4,1:31,4,7,NYJ 32,10,9,Wil Lutz 50 yard field goal no good,1.240,-1.600
+4,1:27,1,10,NYJ 40,10,9,Aaron Rodgers pass complete short left to Breece Hall for 9 yards (tackle by Justin Strnad and Ja'Quan McMillian),1.600,2.270
+4,1:04,2,1,NYJ 49,10,9,Aaron Rodgers pass incomplete short left intended for Mike Williams. Penalty on Riley Moss: Defensive Pass Interference 15 yards (accepted) (no play),2.270,3.180
+4,1:04,1,10,DEN 36,10,9,Aaron Rodgers pass incomplete short right intended for Allen Lazard,3.180,2.640
+4,1:01,2,10,DEN 36,10,9,Aaron Rodgers pass complete short right to Mike Williams for 4 yards (tackle by Riley Moss),2.640,2.480
+4,0:56,,,,,,Timeout #2 by Denver Broncos,,
+4,0:56,3,6,DEN 32,10,9,Aaron Rodgers pass incomplete deep right intended for Mike Williams,2.480,1.250
+4,0:51,4,6,DEN 32,10,9,Greg Zuerlein 50 yard field goal no good,1.250,-1.600
+4,0:47,1,10,DEN 40,10,9,Bo Nix kneels for -2 yards,1.600,0.780
+4,0:17,2,12,DEN 38,10,9,Bo Nix kneels for -2 yards,0.780,-0.160

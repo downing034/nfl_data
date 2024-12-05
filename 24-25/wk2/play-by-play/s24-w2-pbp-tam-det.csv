@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,TAM,DET,Detail,EPB,EPA
+,,,,,,,Lions won the coin toss and deferred Buccaneers to receive the opening kickoff.,,
+1,15:00,,,DET 35,0,0,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,TAM 30,0,0,Baker Mayfield pass complete short left to Chris Godwin for 1 yard (tackle by Derrick Barnes),0.940,0.530
+1,14:22,2,9,TAM 31,0,0,Baker Mayfield pass complete short middle to Chris Godwin for 18 yards (tackle by Carlton Davis),0.530,2.190
+1,13:39,1,10,TAM 49,0,0,Rachaad White right tackle for 5 yards (tackle by Carlton Davis),2.190,2.320
+1,13:01,2,5,DET 46,0,0,Baker Mayfield pass incomplete deep left intended for Trey Palmer. Penalty on Terrion Arnold: Defensive Pass Interference 41 yards (accepted) (no play),2.320,6.060
+1,12:54,1,5,DET 5,0,0,Rachaad White up the middle for 2 yards (tackle by Brian Branch),6.060,5.530
+1,12:19,2,3,DET 3,0,0,Baker Mayfield pass incomplete short middle intended for Cade Otton (defended by Brian Branch),5.530,4.720
+1,12:16,3,3,DET 3,0,0,Baker Mayfield sacked by Aidan Hutchinson for -9 yards. Baker Mayfield fumbles (forced by Aidan Hutchinson) recovered by Justin Skule at DET-12,4.720,2.630
+1,11:34,4,12,DET 12,3,0,Chase McLaughlin 30 yard field goal good,2.630,3.000
+1,11:31,,,TAM 35,3,0,Jake Camarda kicks off 65 yards touchback.,0.000,0.940
+1,11:31,1,10,DET 30,3,0,Jared Goff pass deep middle intended for Jameson Williams is intercepted by Zyon McCollum at DET-48 and returned for 4 yards (tackle by Amon-Ra St. Brown),0.940,-2.650
+1,11:20,1,10,DET 44,3,0,Penalty on Cody Mauch: False Start 5 yards (accepted) (no play),2.650,2.320
+1,11:20,1,15,DET 49,3,0,Rachaad White left tackle for 5 yards (tackle by Alex Anzalone),2.320,2.110
+1,10:35,2,10,DET 44,3,0,Baker Mayfield sacked by Aidan Hutchinson for -12 yards,2.110,-0.160
+1,9:52,3,22,TAM 44,3,0,Baker Mayfield pass complete short right to Chris Godwin for 19 yards (tackle by Carlton Davis),-0.160,0.790
+1,9:05,4,3,DET 37,6,0,Chase McLaughlin 55 yard field goal good,0.790,3.000
+1,9:00,,,TAM 35,6,0,Jake Camarda kicks off 66 yards returned by Tom Kennedy for 31 yards (tackle by Tavierre Thomas),0.000,0.940
+1,8:55,1,10,DET 30,6,0,Jared Goff pass complete deep right to Jameson Williams for 50 yards (tackle by Jamel Dean),0.940,4.240
+1,8:08,1,10,TAM 20,6,0,Jared Goff pass incomplete deep left intended for Sam LaPorta. Penalty on YaYa Diaby: Roughing the Passer 10 yards (accepted) (no play),4.240,4.910
+1,8:01,1,10,TAM 10,6,0,Jared Goff pass incomplete short right,4.910,4.190
+1,7:56,2,10,TAM 10,6,0,David Montgomery right tackle for 7 yards (tackle by Jordan Whitehead),4.190,4.720
+1,7:17,3,3,TAM 3,6,0,Jared Goff pass incomplete short right intended for Jameson Williams,4.720,3.040
+1,7:16,4,3,TAM 3,6,3,Jake Bates 22 yard field goal good,3.040,3.000
+1,7:13,,,DET 35,6,3,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+1,7:13,1,10,TAM 30,6,3,Baker Mayfield pass incomplete short middle intended for Mike Evans,0.940,0.390
+1,7:07,2,10,TAM 30,6,3,Baker Mayfield scrambles up the middle for 12 yards (tackle by Brian Branch),0.390,1.730
+1,6:22,1,10,TAM 42,6,3,Bucky Irving left tackle for 2 yards (tackle by Derrick Barnes),1.730,1.460
+1,5:42,2,8,TAM 44,6,3,Baker Mayfield pass incomplete deep right intended for Chris Godwin (defended by Amik Robertson),1.460,0.760
+1,5:38,3,8,TAM 44,6,3,Baker Mayfield sacked by Aidan Hutchinson for -7 yards,0.760,-0.910
+1,4:45,4,15,TAM 37,6,3,Jake Camarda punts 47 yards downed by SirVocea Dennis,-0.910,0.140
+1,4:36,1,10,DET 16,6,3,Jahmyr Gibbs left end for 4 yards (tackle by William Gholston),-0.140,0.010
+1,3:58,2,6,DET 20,6,3,Jared Goff pass complete short left to Jameson Williams for 5 yards (tackle by Jamel Dean),0.010,-0.200
+1,3:20,3,1,DET 25,6,3,Jared Goff pass complete short middle to Amon-Ra St. Brown for 15 yards (tackle by Christian Izien). Penalty on Jamel Dean: Defensive Holding 5 yards (declined),-0.200,1.600
+1,2:56,1,10,DET 40,6,3,Jahmyr Gibbs right tackle for 8 yards (tackle by K.J. Britt),1.600,2.130
+1,2:23,2,2,DET 48,6,3,Jared Goff pass complete short right to Amon-Ra St. Brown for 4 yards (tackle by Zyon McCollum),2.130,2.390
+1,1:47,1,10,TAM 48,6,3,Jahmyr Gibbs left end for 4 yards (tackle by Jordan Whitehead and Jamel Dean),2.390,2.390
+1,1:14,2,6,TAM 44,6,3,Jared Goff pass complete deep right to Amon-Ra St. Brown for 16 yards (tackle by Jordan Whitehead),2.390,3.710
+1,0:28,1,10,TAM 28,6,3,Jared Goff pass complete short middle to Amon-Ra St. Brown for 6 yards (tackle by Zyon McCollum),3.710,3.980
+2,15:00,2,4,TAM 22,6,3,Jared Goff pass complete short right to Jahmyr Gibbs for 4 yards (tackle by Lavonte David),3.980,4.370
+2,14:13,1,10,TAM 18,6,3,Jahmyr Gibbs right tackle for no gain (tackle by Joe Tryon-Shoyinka and YaYa Diaby),4.370,3.800
+2,13:36,2,10,TAM 18,6,3,Jared Goff pass incomplete short left intended for Jameson Williams,3.800,3.050
+2,13:34,3,10,TAM 18,6,3,Jared Goff pass complete short right to Jahmyr Gibbs for 1 yard (tackle by Lavonte David and SirVocea Dennis),3.050,2.310
+2,12:51,4,9,TAM 17,6,6,Jake Bates 35 yard field goal good,2.310,3.000
+2,12:47,,,DET 35,6,6,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+2,12:47,1,10,TAM 30,6,6,Rachaad White up the middle for no gain (tackle by Derrick Barnes and Levi Onwuzurike),0.940,0.390
+2,12:04,2,10,TAM 30,6,6,Rachaad White left tackle for no gain (tackle by Malcolm Rodriguez),0.390,-0.300
+2,11:23,3,10,TAM 30,6,6,Baker Mayfield pass complete deep right to Chris Godwin for 17 yards,-0.300,2.060
+2,10:37,1,10,TAM 47,6,6,Rachaad White left tackle for 1 yard (tackle by Kerby Joseph and Levi Onwuzurike),2.060,1.650
+2,9:58,2,9,TAM 48,6,6,Baker Mayfield pass complete short right to Chris Godwin for 11 yards (tackle by Carlton Davis),1.650,2.850
+2,9:15,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+2,9:15,1,10,DET 41,12,6,Baker Mayfield pass complete deep left to Chris Godwin for 41 yards touchdown,2.850,7.000
+2,9:08,,,DET 15,13,6,Chase McLaughlin kicks extra point good,0.000,0.000
+2,9:08,,,TAM 35,13,6,Jake Camarda kicks off 65 yards returned by Tom Kennedy for 22 yards (tackle by Tavierre Thomas),0.000,0.410
+2,9:04,1,10,DET 22,13,6,David Montgomery right tackle for -2 yards (tackle by YaYa Diaby and Jordan Whitehead),0.410,-0.400
+2,8:22,2,12,DET 20,13,6,Jared Goff pass incomplete short left intended for Amon-Ra St. Brown (defended by Jamel Dean),-0.400,-1.090
+2,8:17,3,12,DET 20,13,6,Jared Goff pass incomplete deep right intended for Tim Patrick (defended by Zyon McCollum),-1.090,-2.030
+2,8:11,4,12,DET 20,13,6,Jack Fox pass complete short middle to Sione Vaki for 17 yards (tackle by SirVocea Dennis),-2.030,1.400
+2,7:24,1,10,DET 37,13,6,Jared Goff pass incomplete deep middle intended for Amon-Ra St. Brown (defended by Jordan Whitehead),1.400,0.860
+2,7:23,2,10,DET 37,13,6,Jared Goff pass complete short left to David Montgomery for 8 yards (tackle by Lavonte David and Christian Izien),0.860,1.220
+2,6:39,3,2,DET 45,13,6,Jared Goff pass incomplete deep right intended for Amon-Ra St. Brown,1.220,-0.390
+2,6:37,4,2,DET 45,13,6,David Montgomery right end for 3 yards (tackle by Joe Tryon-Shoyinka and Lavonte David),-0.390,2.130
+2,5:56,1,10,DET 48,13,6,David Montgomery left end for 4 yards (tackle by Chris Braswell),2.130,2.120
+2,5:19,2,6,TAM 48,13,6,Jared Goff pass incomplete short left intended for Amon-Ra St. Brown,2.120,1.420
+2,5:14,3,6,TAM 48,13,6,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown (defended by Christian Izien),1.420,0.070
+2,5:09,4,6,TAM 48,13,6,Jack Fox punts 35 yards fair catch by Trey Palmer at TB-13,0.070,0.320
+2,5:02,1,10,TAM 13,13,6,Bucky Irving right tackle for 3 yards (tackle by Jack Campbell and Alex Anzalone),-0.320,-0.440
+2,4:22,2,7,TAM 16,13,6,Baker Mayfield pass complete short left to Chris Godwin for 10 yards (tackle by Brian Branch),-0.440,0.670
+2,3:42,1,10,TAM 26,13,6,Baker Mayfield pass complete short left to Mike Evans for 16 yards (tackle by Terrion Arnold),0.670,1.730
+2,2:57,1,10,TAM 42,13,6,Bucky Irving right end for 2 yards (tackle by Alex Anzalone),1.730,1.460
+2,2:09,2,8,TAM 44,13,6,Baker Mayfield scrambles up the middle for 1 yard (tackle by Josh Paschal),1.460,0.890
+2,2:00,3,7,TAM 45,13,6,Baker Mayfield pass short right intended for Mike Evans is intercepted by Brian Branch at DET-43 and returned for 1 yard (tackle by Chris Godwin),0.890,-1.860
+2,1:52,1,10,DET 44,13,6,David Montgomery left end for 9 yards (tackle by Anthony Nelson and Jordan Whitehead),1.860,2.530
+2,1:16,2,1,TAM 47,13,6,Jared Goff pass complete short left to Amon-Ra St. Brown for 9 yards (tackle by Jamel Dean),2.530,3.050
+2,1:10,,,,,,Timeout #1 by Detroit Lions,,
+2,1:10,1,10,TAM 38,13,6,Jared Goff pass incomplete short middle intended for Sam LaPorta (defended by Vita Vea),3.050,2.510
+2,1:06,2,10,TAM 38,13,6,Jared Goff pass complete short middle to Tim Patrick for 10 yards (tackle by Jordan Whitehead),2.510,3.710
+2,0:49,,,,,,Timeout #2 by Detroit Lions,,
+2,0:49,1,10,TAM 28,13,6,Jahmyr Gibbs left end for 6 yards (tackle by SirVocea Dennis),3.710,3.980
+2,0:34,,,,,,Timeout #2 by Tampa Bay Buccaneers,,
+2,0:34,2,4,TAM 22,13,6,Jared Goff scrambles up the middle for 2 yards (tackle by SirVocea Dennis),3.980,3.530
+2,0:28,3,2,TAM 20,13,6,Jared Goff scrambles right end for 3 yards (tackle by Zyon McCollum),3.530,4.440
+2,0:22,1,10,TAM 17,13,6,Jared Goff pass incomplete deep left intended for Jameson Williams,4.440,3.850
+2,0:18,2,10,TAM 17,13,6,Jared Goff pass complete short middle to Amon-Ra St. Brown for 8 yards (tackle by Zyon McCollum and Christian Izien),3.850,4.570
+2,0:03,3,2,TAM 9,13,6,Penalty on DET: Offensive Too Many Men on Field 5 yards (accepted) (no play),4.570,2.950
+3,15:00,,,TAM 35,13,6,Jake Camarda kicks off 63 yards returned by Tom Kennedy for 28 yards (tackle by J.J. Russell and SirVocea Dennis),0.000,0.940
+3,14:52,1,10,DET 30,13,6,Jared Goff pass complete deep left to Amon-Ra St. Brown for 20 yards (tackle by Jamel Dean). Penalty on William Gholston: Roughing the Passer 15 yards (accepted),0.940,3.250
+3,14:37,1,10,TAM 35,13,6,Jameson Williams right end for 15 yards (tackle by Jordan Whitehead),3.250,4.240
+3,13:53,1,10,TAM 20,13,6,Jared Goff pass complete short left to Kalif Raymond for 1 yard (tackle by K.J. Britt and William Gholston),4.240,3.820
+3,13:12,2,9,TAM 19,13,6,David Montgomery up the middle for 3 yards (tackle by Lavonte David and K.J. Britt),3.820,3.520
+3,12:40,3,6,TAM 16,13,6,Jared Goff pass complete short middle to David Montgomery for 3 yards (tackle by Lavonte David and SirVocea Dennis),3.520,2.670
+3,11:57,4,3,TAM 13,13,9,Jake Bates 32 yard field goal good,2.670,3.000
+3,11:53,,,DET 35,13,9,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+3,11:53,1,10,TAM 30,13,9,Baker Mayfield pass complete short right to Rachaad White for 5 yards (tackle by Jack Campbell),0.940,1.070
+3,11:11,2,5,TAM 35,13,9,Rachaad White up the middle for -1 yards (tackle by Jack Campbell),1.070,0.230
+3,10:27,3,6,TAM 34,13,9,Baker Mayfield sacked by Aidan Hutchinson for -7 yards,0.230,-1.570
+3,9:43,4,13,TAM 27,13,9,Jake Camarda punts 51 yards returned by Kalif Raymond for 10 yards (tackle by Tykee Smith),-1.570,-1.070
+3,9:33,1,10,DET 32,13,9,Jared Goff pass incomplete deep middle intended for Amon-Ra St. Brown (defended by Zyon McCollum),1.070,0.530
+3,9:30,2,10,DET 32,13,9,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown,0.530,-0.160
+3,9:22,3,10,DET 32,13,9,Jared Goff pass complete short middle to Jameson Williams for 13 yards (tackle by SirVocea Dennis),-0.160,1.930
+3,8:52,1,10,DET 45,13,9,Jared Goff pass complete short middle to Amon-Ra St. Brown for 6 yards (tackle by K.J. Britt),1.930,2.190
+3,8:15,2,4,TAM 49,13,9,Jahmyr Gibbs right tackle for 16 yards (tackle by Zyon McCollum),2.190,3.380
+3,7:26,1,10,TAM 33,13,9,Jared Goff pass complete short left to Tim Patrick for 2 yards (tackle by Jamel Dean),3.380,3.110
+3,6:50,2,8,TAM 31,13,9,Jahmyr Gibbs right tackle for 4 yards (tackle by C.J. Brewer and Mike Greene),3.110,2.940
+3,6:09,3,4,TAM 27,13,9,Jared Goff pass complete short left to Sam LaPorta for 7 yards (tackle by Tykee Smith and Jamel Dean),2.940,4.240
+3,5:24,1,10,TAM 20,13,9,Jahmyr Gibbs left end for -4 yards (tackle by Jordan Whitehead),4.240,3.150
+3,4:41,2,14,TAM 24,13,9,Jared Goff pass complete short left to Jahmyr Gibbs for 6 yards (tackle by SirVocea Dennis and Jamel Dean),3.150,3.220
+3,4:10,3,8,TAM 18,13,9,Jared Goff pass complete short right to Amon-Ra St. Brown for 17 yards (tackle by Christian Izien and Tykee Smith),3.220,6.970
+3,3:32,1,1,TAM 1,13,15,David Montgomery up the middle for 1 yard touchdown,6.970,7.000
+3,3:26,,,TAM 15,13,16,Jake Bates kicks extra point good,0.000,0.000
+3,3:26,,,DET 35,13,16,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+3,3:26,1,10,TAM 30,13,16,Bucky Irving left end for 6 yards (tackle by Derrick Barnes). Penalty on Terrion Arnold: Face Mask (15 Yards) 15 yards (accepted),0.940,2.320
+3,2:56,1,10,DET 49,13,16,Baker Mayfield pass complete deep left to Jalen McMillan for 21 yards (tackle by Jack Campbell),2.320,3.710
+3,2:15,1,10,DET 28,13,16,Bucky Irving right end for 6 yards (tackle by Alex Anzalone and D.J. Reader),3.710,3.980
+3,1:34,2,4,DET 22,13,16,Baker Mayfield pass incomplete short right intended for Cade Otton,3.980,3.270
+3,1:30,3,4,DET 22,13,16,Baker Mayfield scrambles right tackle for 11 yards (tackle by Brian Branch),3.270,4.840
+3,0:42,1,10,DET 11,19,16,Baker Mayfield scrambles up the middle for 11 yards touchdown,4.840,7.000
+3,0:34,,,DET 15,20,16,Chase McLaughlin kicks extra point good,0.000,0.000
+3,0:34,,,TAM 35,20,16,Jake Camarda kicks off 65 yards touchback.,0.000,0.940
+3,0:34,1,10,DET 30,20,16,David Montgomery up the middle for 6 yards (tackle by C.J. Brewer),0.940,1.200
+3,0:02,2,4,DET 36,20,16,Penalty on Joe Tryon-Shoyinka: Neutral Zone Infraction 5 yards (accepted) (no play),1.200,1.660
+4,15:00,1,10,DET 41,20,16,Jared Goff pass complete short right to David Montgomery for 15 yards (tackle by C.J. Brewer and Christian Izien),1.660,2.650
+4,14:19,1,10,TAM 44,20,16,David Montgomery right tackle for no gain (tackle by Jordan Whitehead),2.650,2.110
+4,13:39,2,10,TAM 44,20,16,David Montgomery left tackle for 3 yards (tackle by Tykee Smith),2.110,1.820
+4,13:05,3,7,TAM 41,20,16,Jared Goff pass incomplete short right intended for Kalif Raymond,1.820,0.530
+4,13:01,4,7,TAM 41,20,16,Jack Fox punts 32 yards out of bounds,0.530,0.380
+4,12:53,1,10,TAM 9,20,16,Baker Mayfield pass complete short left to Mike Evans for 15 yards (tackle by Kerby Joseph),-0.380,0.540
+4,12:15,1,10,TAM 24,20,16,Bucky Irving right end for -1 yards (tackle by Jack Campbell),0.540,-0.140
+4,11:34,2,11,TAM 23,20,16,Bucky Irving up the middle for 4 yards (tackle by Malcolm Rodriguez and Derrick Barnes),-0.140,-0.300
+4,10:54,3,7,TAM 27,20,16,Baker Mayfield sacked by and Levi Onwuzurike for -4 yards and Aidan Hutchinson for -4 yards. Baker Mayfield fumbles (forced by Levi Onwuzurike) recovered by Baker Mayfield at TB-23,-0.300,-1.830
+4,10:08,4,11,TAM 23,20,16,Jake Camarda punts 42 yards returned by Kalif Raymond for 13 yards (tackle by Sean Tucker),-1.830,-2.130
+4,9:57,1,10,DET 48,20,16,Jared Goff pass complete short right to Jameson Williams for 6 yards (tackle by Anthony Nelson),2.130,2.390
+4,9:26,2,4,TAM 46,20,16,Jared Goff pass incomplete short right,2.390,1.680
+4,9:22,3,4,TAM 46,20,16,Jahmyr Gibbs left tackle for 24 yards (tackle by Jamel Dean),1.680,4.110
+4,8:36,1,10,TAM 22,20,16,Jahmyr Gibbs up the middle for 4 yards (tackle by Logan Hall and Christian Izien),4.110,4.130
+4,7:58,2,6,TAM 18,20,16,Jahmyr Gibbs up the middle for no gain (tackle by YaYa Diaby and Tykee Smith). Penalty on Frank Ragnow: Offensive Holding 10 yards (accepted) (no play),4.130,2.750
+4,7:41,2,16,TAM 28,20,16,Jared Goff pass deep middle intended for Tim Patrick is intercepted by Christian Izien at TB-9 and returned for 17 yards (tackle by Jameson Williams),2.750,-0.670
+4,7:34,1,10,TAM 26,20,16,Baker Mayfield pass complete short right to Mike Evans for 11 yards (tackle by Kerby Joseph),0.670,1.400
+4,6:52,1,10,TAM 37,20,16,Rachaad White right tackle for 2 yards (tackle by Kerby Joseph),1.400,1.130
+4,6:09,2,8,TAM 39,20,16,Cade Otton right end for -4 yards (tackle by Alim McNeill and Brian Branch),1.130,-0.100
+4,5:23,3,12,TAM 35,20,16,Baker Mayfield pass incomplete deep right intended for Jalen McMillan,-0.100,-1.040
+4,5:19,4,12,TAM 35,20,16,Jake Camarda punts 47 yards fair catch by Kalif Raymond at DET-18,-1.040,-0.040
+4,5:12,1,10,DET 18,20,16,Jared Goff pass complete short right to David Montgomery for 9 yards (tackle by Zyon McCollum),0.040,0.820
+4,4:33,2,1,DET 27,20,16,Jared Goff pass complete deep right to Kalif Raymond for 18 yards (tackle by Tykee Smith),0.820,1.930
+4,4:30,1,10,DET 45,20,16,David Montgomery left tackle for 1 yard (tackle by Greg Gaines and Jordan Whitehead),1.930,1.520
+4,3:54,2,9,DET 46,20,16,Jahmyr Gibbs left end for no gain (tackle by SirVocea Dennis),1.520,0.830
+4,3:10,3,9,DET 46,20,16,Jared Goff pass complete short right to Amon-Ra St. Brown for 9 yards (tackle by Tykee Smith),0.830,2.590
+4,3:05,1,10,TAM 45,20,16,Jared Goff pass complete short middle to Kalif Raymond for 8 yards (tackle by Christian Izien),2.590,3.120
+4,2:26,2,2,TAM 37,20,16,Jahmyr Gibbs right end for -5 yards (tackle by Tykee Smith),3.120,1.750
+4,2:00,3,7,TAM 42,20,16,Jared Goff pass complete short left to Sam LaPorta for 6 yards (tackle by Christian Izien),1.750,0.890
+4,1:22,4,1,TAM 36,20,16,Jahmyr Gibbs left end for 23 yards (tackle by Christian Izien),0.890,4.710
+4,1:17,1,10,TAM 13,20,16,Jared Goff pass complete short left to Jahmyr Gibbs for -4 yards (tackle by Joe Tryon-Shoyinka),4.710,3.500
+4,1:12,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+4,1:12,2,14,TAM 17,20,16,Jared Goff pass complete short left to Jameson Williams for 5 yards (tackle by Jamel Dean),3.500,3.280
+4,1:08,3,9,TAM 12,20,16,Jared Goff pass complete short left to Jahmyr Gibbs for 1 yard (tackle by SirVocea Dennis),3.280,2.700
+4,1:01,,,,,,Timeout #2 by Tampa Bay Buccaneers,,
+4,1:01,4,8,TAM 11,20,16,Jared Goff pass complete short middle to Jahmyr Gibbs for 5 yards (tackle by Jordan Whitehead and Christian Izien),2.700,0.380
+4,0:53,1,10,TAM 6,20,16,Rachaad White right end for 1 yard (tackle by Brian Branch),-0.380,-0.710
+4,0:49,,,,,,Timeout #1 by Detroit Lions,,
+4,0:49,2,9,TAM 7,20,16,Rachaad White right tackle for 3 yards (tackle by Jack Campbell and Levi Onwuzurike),-0.710,-0.950
+4,0:45,3,6,TAM 10,20,16,Baker Mayfield pass incomplete short right intended for Mike Evans (defended by Derrick Barnes),-0.950,-2.490
+4,0:42,4,6,TAM 10,20,16,Jake Camarda punts 43 yards returned by Kalif Raymond for 9 yards (tackle by Ko Kieft),-2.490,-2.650
+4,0:33,1,10,TAM 44,20,16,Jared Goff pass complete short left to Amon-Ra St. Brown for 9 yards (tackle by Lavonte David),2.650,3.260
+4,0:27,,,,,,Timeout #2 by Detroit Lions,,
+4,0:27,2,2,TAM 35,20,16,Jared Goff pass complete short right to Jahmyr Gibbs for 9 yards (tackle by Tykee Smith and SirVocea Dennis),3.260,3.840
+4,0:16,1,10,TAM 26,20,16,Jared Goff spiked the ball,3.840,3.300
+4,0:14,2,10,TAM 26,20,16,Jared Goff pass incomplete short left intended for Jameson Williams,3.300,2.610
+4,0:10,3,10,TAM 26,20,16,Jared Goff pass incomplete short right intended for Jameson Williams (defended by Zyon McCollum),2.610,1.740
+4,0:06,4,10,TAM 26,20,16,Jared Goff pass incomplete short left intended for Tom Kennedy,1.740,-0.670
+4,0:02,1,10,TAM 26,20,16,Baker Mayfield kneels for -1 yards,0.670,-0.010

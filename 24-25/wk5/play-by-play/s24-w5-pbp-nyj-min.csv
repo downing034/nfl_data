@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,NYJ,MIN,Detail,EPB,EPA
+,,,,,,,Vikings won the coin toss and deferred Jets to receive the opening kickoff.,,
+1,15:00,,,MIN 35,0,0,Will Reichard kicks off 62 yards returned by Isaiah Davis for 23 yards (tackle by Ivan Pace and Blake Cashman),0.000,0.670
+1,14:54,1,10,NYJ 26,0,0,Breece Hall right guard for 1 yard (tackle by Jerry Tillery),0.670,0.270
+1,14:20,2,9,NYJ 27,0,0,Aaron Rodgers pass incomplete short right intended for Garrett Wilson,0.270,-0.430
+1,14:15,3,9,NYJ 27,0,0,Aaron Rodgers pass complete short left to Garrett Wilson for 8 yards (tackle by Shaquill Griffin),-0.430,-1.040
+1,13:34,4,1,NYJ 35,0,0,Thomas Morstead punts 53 yards fair catch by Brandon Powell at MIN-12,-1.040,0.350
+1,13:27,1,10,MIN 12,0,0,Sam Darnold pass complete short right to Justin Jefferson for -1 yards. Justin Jefferson fumbles ball out of bounds at MIN-11. Justin Jefferson fumbles out of bounds,-0.350,-0.850
+1,12:54,2,11,MIN 11,0,0,Aaron Jones left end for 9 yards (tackle by D.J. Reed and Chuck Clark),-0.850,-0.480
+1,12:17,3,2,MIN 20,0,0,Sam Darnold pass complete short left to Johnny Mundt for 11 yards (tackle by Quincy Williams),-0.480,1.000
+1,11:36,1,10,MIN 31,0,0,Sam Darnold pass complete deep middle to Justin Jefferson for 26 yards (tackle by Tony Adams),1.000,2.720
+1,10:53,1,10,NYJ 43,0,0,Aaron Jones up the middle for 3 yards (tackle by Chuck Clark),2.720,2.580
+1,10:13,2,7,NYJ 40,0,0,Sam Darnold pass incomplete short left intended for Justin Jefferson (defended by D.J. Reed),2.580,1.880
+1,10:08,3,7,NYJ 40,0,0,Sam Darnold pass complete short right to Justin Jefferson for 8 yards (tackle by Tony Adams),1.880,3.450
+1,9:44,1,10,NYJ 32,0,0,C.J. Ham left end for 8 yards (tackle by Jamien Sherwood and Javon Kinlaw),3.450,4.050
+1,9:03,2,1,NYJ 24,0,0,Aaron Jones left tackle for no gain (tackle by Jamien Sherwood),4.050,3.340
+1,8:25,3,1,NYJ 24,0,0,Sam Darnold sacked by Will McDonald for -12 yards,3.340,0.880
+1,7:45,4,13,NYJ 36,0,3,Will Reichard 54 yard field goal good,0.880,3.000
+1,7:41,,,MIN 35,0,3,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+1,7:41,1,10,NYJ 30,0,3,Aaron Rodgers pass complete short left to Garrett Wilson for 4 yards (tackle by Stephon Gilmore),0.940,0.930
+1,7:08,2,6,NYJ 34,0,3,Breece Hall right guard for no gain (tackle by Ivan Pace),0.930,0.230
+1,6:29,3,6,NYJ 34,0,3,Aaron Rodgers pass incomplete deep right intended for Garrett Wilson,0.230,-1.110
+1,6:24,4,6,NYJ 34,0,3,Thomas Morstead punts 44 yards downed by Irvin Charles,-1.110,-0.410
+1,6:14,1,10,MIN 22,0,3,Aaron Jones right tackle for 2 yards (tackle by Micheal Clemons),0.410,0.140
+1,5:39,2,8,MIN 24,0,3,Sam Darnold scrambles right end for 10 yards (tackle by Jamien Sherwood),0.140,1.200
+1,4:55,1,10,MIN 34,0,3,Aaron Jones right tackle for 6 yards (tackle by D.J. Reed and Chuck Clark),1.200,1.470
+1,4:13,2,4,MIN 40,0,3,Sam Darnold pass incomplete short left intended for Justin Jefferson,1.470,0.760
+1,4:07,3,4,MIN 40,0,3,Nick Mullens pass complete deep left to Aaron Jones for 24 yards (tackle by Quincy Williams),0.760,3.180
+1,3:22,1,10,NYJ 36,0,3,Sam Darnold aborted snap recovered by Quincy Williams at NYJ-43 and returned for 15 yards (tackle by Sam Darnold),3.180,-2.790
+1,3:14,1,10,MIN 42,0,3,Aaron Rodgers pass complete short left to Garrett Wilson for 4 yards (tackle by Byron Murphy),2.790,2.780
+1,2:36,2,6,MIN 38,0,3,Aaron Rodgers pass incomplete short right intended for Allen Lazard (defended by Byron Murphy),2.780,2.080
+1,2:30,3,6,MIN 38,0,9,Aaron Rodgers pass short right intended for Garrett Wilson is intercepted by Andrew Van Ginkel at MIN-37 and returned for 63 yards touchdown,2.080,-7.000
+1,2:18,,,NYJ 15,0,10,Will Reichard kicks extra point good,0.000,0.000
+1,2:18,,,MIN 35,0,10,Will Reichard kicks off 62 yards returned by Isaiah Davis for 27 yards (tackle by Ivan Pace and C.J. Ham),0.000,0.940
+1,2:12,1,10,NYJ 30,0,10,Braelon Allen right tackle for 2 yards (tackle by Blake Cashman),0.940,0.660
+1,1:35,2,8,NYJ 32,0,10,Aaron Rodgers pass incomplete short left intended for Braelon Allen,0.660,-0.030
+1,1:30,3,8,NYJ 32,0,10,Aaron Rodgers pass deep middle intended for Allen Lazard is intercepted by Camryn Bynum at MIN-43 and returned for no gain (tackle by Allen Lazard),-0.030,-1.800
+1,1:24,1,10,MIN 43,0,10,Aaron Jones right guard for 7 yards (tackle by Chuck Clark),1.800,2.200
+1,1:05,2,3,NYJ 50,0,10,Aaron Jones right end for 2 yards (tackle by Jamien Sherwood and Isaiah Oliver),2.200,1.750
+1,0:43,3,1,NYJ 48,0,10,Sam Darnold up the middle for 3 yards (tackle by Quinnen Williams),1.750,2.590
+1,0:15,1,10,NYJ 45,0,10,Penalty on Javon Kinlaw: Neutral Zone Infraction 5 yards (accepted) (no play),2.590,3.320
+2,15:00,1,5,NYJ 40,0,10,Ty Chandler right tackle for -1 yards (tackle by Takkarist McKinley and Jamien Sherwood),3.320,2.580
+2,14:23,2,6,NYJ 41,0,10,Sam Darnold sacked by Isaiah Oliver for -6 yards,2.580,1.090
+2,13:44,3,12,NYJ 47,0,10,Sam Darnold pass incomplete deep middle intended for Justin Jefferson. Penalty on Sauce Gardner: Illegal Contact 6 yards (accepted) (no play),1.090,2.850
+2,13:37,1,10,NYJ 41,0,10,Ty Chandler left guard for 3 yards (tackle by Jamien Sherwood),2.850,2.780
+2,13:05,2,6,NYJ 38,0,10,Ty Chandler left tackle for 5 yards (tackle by Jamien Sherwood),2.780,2.740
+2,12:27,3,1,NYJ 33,0,10,Sam Darnold pass incomplete short right intended for Justin Jefferson (defended by Tony Adams),2.740,1.210
+2,12:20,4,1,NYJ 33,0,10,Sam Darnold pass incomplete deep left intended for Jordan Addison (defended by D.J. Reed),1.210,-1.140
+2,12:15,1,10,NYJ 33,0,10,Breece Hall left end for 1 yard (tackle by Jonathan Greenard),1.140,0.790
+2,11:39,2,9,NYJ 35,0,10,Aaron Rodgers pass complete short middle to Breece Hall for 6 yards (tackle by Kamu Grugier-Hill and Blake Cashman),0.790,0.890
+2,10:57,3,3,NYJ 41,0,10,Aaron Rodgers pass complete deep middle to Tyler Conklin for 25 yards (tackle by Camryn Bynum),0.890,3.310
+2,10:18,1,10,MIN 34,0,10,Aaron Rodgers pass incomplete short left,3.310,2.770
+2,10:11,2,10,MIN 34,0,10,Aaron Rodgers pass complete short right to Mike Williams for 7 yards (tackle by Kamu Grugier-Hill),2.770,3.010
+2,9:32,3,3,MIN 27,0,10,Braelon Allen right guard for 1 yard (tackle by Ivan Pace),3.010,1.860
+2,8:49,4,2,MIN 26,0,10,Braelon Allen up the middle for no gain (tackle by Dallas Turner and Blake Cashman),1.860,-0.670
+2,8:46,1,10,MIN 26,0,10,Sam Darnold pass incomplete deep left intended for Jordan Addison,0.670,0.130
+2,8:41,2,10,MIN 26,0,10,Sam Darnold pass complete deep right to Justin Jefferson for 27 yards (tackle by Isaiah Oliver),0.130,2.460
+2,7:59,1,10,NYJ 47,0,10,Ty Chandler right end for 32 yards (tackle by Chazz Surratt and Tony Adams). Penalty on Justin Jefferson: Illegal Shift 5 yards (accepted) (no play),2.460,2.130
+2,7:16,1,15,MIN 48,0,10,Sam Darnold pass complete short right to Myles Gaskin for 11 yards (tackle by Quincy Williams),2.130,2.720
+2,6:51,2,4,NYJ 41,0,10,Ty Chandler left guard for 5 yards (tackle by Will McDonald and Tony Adams),2.720,3.180
+2,6:12,1,10,NYJ 36,0,10,Ty Chandler right tackle for 5 yards (tackle by D.J. Reed),3.180,3.310
+2,5:34,2,5,NYJ 31,0,10,Sam Darnold pass incomplete deep left intended for Justin Jefferson. Penalty on D.J. Reed: Defensive Pass Interference 18 yards (accepted) (no play),3.310,4.710
+2,5:28,1,10,NYJ 13,0,10,Myles Gaskin left tackle for no gain (tackle by Isaiah Oliver),4.710,4.050
+2,4:53,2,10,NYJ 13,0,10,Sam Darnold pass incomplete short left intended for Justin Jefferson. Penalty on Sauce Gardner: Defensive Pass Interference 11 yards (accepted) (no play),4.050,6.740
+2,4:49,1,2,NYJ 2,0,10,Sam Darnold pass incomplete short left intended for Ty Chandler. Penalty on Brian O'Neill: Illegal Formation 5 yards (accepted) (no play),6.740,5.600
+2,4:46,1,7,NYJ 7,0,10,Ty Chandler right end for 3 yards (tackle by Solomon Thomas),5.600,5.340
+2,4:06,2,4,NYJ 4,0,10,Sam Darnold pass incomplete short right intended for Justin Jefferson. Penalty on Sauce Gardner: Defensive Holding 2 yards (accepted) (no play),5.340,6.740
+2,4:01,1,2,NYJ 2,0,16,C.J. Ham left guard for 2 yards touchdown,6.740,7.000
+2,3:58,,,NYJ 15,0,17,Will Reichard kicks extra point good,0.000,0.000
+2,3:58,,,MIN 35,0,17,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+2,3:58,1,10,NYJ 30,0,17,Aaron Rodgers pass complete short right to Tyler Conklin for 13 yards (tackle by Shaquill Griffin),0.940,1.800
+2,3:33,1,10,NYJ 43,0,17,Aaron Rodgers pass complete short left to Garrett Wilson for 4 yards (tackle by Josh Metellus and Patrick Jones),1.800,1.790
+2,2:56,2,6,NYJ 47,0,17,Aaron Rodgers pass incomplete short right intended for Tyler Conklin,1.790,1.090
+2,2:51,3,6,NYJ 47,0,17,Aaron Rodgers sacked by Harrison Smith for -8 yards,1.090,-0.780
+2,2:05,4,14,NYJ 39,0,17,Penalty on Thomas Morstead: Delay of Game 5 yards (accepted) (no play),-0.780,-1.110
+2,2:00,4,19,NYJ 34,0,17,Thomas Morstead punts 56 yards returned by Brandon Powell for no gain (tackle by Samuel Eguavoen). Penalty on Jay Ward: Illegal Block Above the Waist 5 yards (accepted),-1.110,0.380
+2,1:50,1,10,MIN 5,0,17,Ty Chandler left guard for 4 yards (tackle by Jamien Sherwood and Quincy Williams),-0.380,-0.490
+2,1:42,,,,,,Timeout #1 by New York Jets,,
+2,1:42,2,6,MIN 9,0,17,Sam Darnold pass incomplete short right intended for Justin Jefferson (defended by Sauce Gardner),-0.490,-0.950
+2,1:39,3,6,MIN 9,0,17,Penalty on Sam Darnold: Delay of Game 4 yards (accepted) (no play),-0.950,-1.420
+2,1:39,3,10,MIN 5,0,17,Ty Chandler right tackle for -1 yards (tackle by Jamien Sherwood and Javon Kinlaw),-1.420,-2.490
+2,1:36,,,,,,Timeout #2 by New York Jets,,
+2,1:36,4,11,MIN 4,0,17,Ryan Wright punts 58 yards returned by Xavier Gipson for 31 yards (tackle by Theo Jackson),-2.490,-3.510
+2,1:22,1,10,MIN 31,0,17,Breece Hall left tackle for 7 yards (tackle by Harrison Smith),3.510,3.910
+2,0:53,2,3,MIN 24,0,17,Aaron Rodgers pass complete short left to Garrett Wilson for 10 yards (tackle by Stephon Gilmore),3.910,4.650
+2,0:48,1,10,MIN 14,0,17,Aaron Rodgers pass incomplete short middle intended for Allen Lazard,4.650,4.000
+2,0:45,2,10,MIN 14,0,17,Aaron Rodgers pass incomplete short left intended for Garrett Wilson,4.000,3.110
+2,0:42,3,10,MIN 14,6,17,Aaron Rodgers pass complete short middle to Allen Lazard for 14 yards touchdown,3.110,7.000
+2,0:36,,,MIN 15,7,17,Greg Zuerlein kicks extra point good,0.000,0.000
+2,0:36,,,NYJ 35,7,17,Greg Zuerlein kicks off 65 yards touchback.,0.000,0.940
+2,0:36,1,10,MIN 30,7,17,Sam Darnold pass incomplete short left,0.940,0.390
+2,0:29,2,10,MIN 30,7,17,Sam Darnold sacked by Micheal Clemons for -9 yards,0.390,-1.480
+3,15:00,,,NYJ 35,7,17,Greg Zuerlein kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,MIN 30,7,17,Ty Chandler right guard for 1 yard (tackle by Jamien Sherwood),0.940,0.530
+3,14:25,2,9,MIN 31,7,17,Sam Darnold pass complete short right to Ty Chandler for 1 yard (tackle by Tony Adams and Jamien Sherwood),0.530,-0.030
+3,13:41,3,8,MIN 32,7,17,Sam Darnold pass incomplete short left,-0.030,-1.240
+3,13:29,4,8,MIN 32,7,17,Ryan Wright punts 43 yards fair catch by Xavier Gipson at NYJ-25. Penalty on Akayleb Evans: Fair Catch Interference 15 yards (accepted),-1.240,-1.600
+3,13:21,1,10,NYJ 40,7,17,Breece Hall left end for 3 yards (tackle by Jonathan Bullard),1.600,1.460
+3,12:44,2,7,NYJ 43,7,17,Breece Hall up the middle for -5 yards (tackle by Ivan Pace),1.460,0.100
+3,12:00,3,12,NYJ 38,7,17,Aaron Rodgers pass complete short right to Tyler Conklin for 7 yards (tackle by Josh Metellus),0.100,-0.390
+3,11:21,4,5,NYJ 45,7,17,Thomas Morstead punts 55 yards touchback.,-0.390,-0.280
+3,11:10,1,10,MIN 20,7,17,Sam Darnold pass complete short right to Jordan Addison for 5 yards (tackle by Sauce Gardner),0.280,0.410
+3,10:37,2,5,MIN 25,7,17,Sam Darnold pass complete deep left to Jordan Addison for 26 yards (tackle by Tony Adams),0.410,2.320
+3,10:13,1,10,NYJ 49,7,17,Penalty on Blake Brandel: False Start 5 yards (accepted) (no play),2.320,1.990
+3,9:54,1,15,MIN 46,7,17,Sam Darnold pass complete short left to Jordan Addison for 5 yards (tackle by D.J. Reed),1.990,1.780
+3,9:18,2,10,NYJ 49,7,17,Sam Darnold sacked by Leonard Taylor for -5 yards,1.780,0.430
+3,8:33,3,15,MIN 46,7,17,Sam Darnold pass complete short left to Ty Chandler for 8 yards (tackle by Isaiah Oliver),0.430,0.200
+3,7:51,4,7,NYJ 46,7,17,Ryan Wright punts 43 yards returned by Xavier Gipson for no gain (tackle by Jay Ward and Andrew DePaola),0.200,0.380
+3,7:41,1,10,NYJ 3,7,17,Aaron Rodgers pass complete short left to Tyler Conklin for 1 yard (tackle by Byron Murphy and Patrick Jones),-0.380,-0.710
+3,6:59,2,9,NYJ 4,7,17,Aaron Rodgers pass complete short left to Garrett Wilson for 10 yards (tackle by Stephon Gilmore),-0.710,-0.280
+3,6:22,1,10,NYJ 14,7,17,Aaron Rodgers pass incomplete short left intended for Garrett Wilson,-0.280,-0.750
+3,6:19,2,10,NYJ 14,7,17,Aaron Rodgers pass incomplete deep right intended for Garrett Wilson (defended by Blake Cashman),-0.750,-1.400
+3,6:11,3,10,NYJ 14,7,17,Aaron Rodgers pass incomplete short right intended for Breece Hall,-1.400,-2.470
+3,6:07,4,10,NYJ 14,7,17,Thomas Morstead punts returned by Brandon Powell for no gain (tackle by Irvin Charles). Penalty on Ivan Pace: Roughing the Kicker 15 yards (accepted) (no play),-2.470,0.870
+3,5:59,1,10,NYJ 29,7,17,Breece Hall right tackle for 10 yards (tackle by Camryn Bynum and Byron Murphy),0.870,1.530
+3,5:21,1,10,NYJ 39,7,17,Breece Hall right guard for no gain (tackle by Jonathan Greenard),1.530,0.990
+3,4:42,2,10,NYJ 39,7,17,Aaron Rodgers pass complete short middle to Garrett Wilson for 11 yards (tackle by Josh Metellus and Kamu Grugier-Hill),0.990,2.260
+3,3:59,1,10,NYJ 50,7,17,Aaron Rodgers pass complete short left to Breece Hall for 3 yards (tackle by Josh Metellus),2.260,2.120
+3,3:17,2,7,MIN 47,7,17,Aaron Rodgers pass complete short left to Braelon Allen for 15 yards (tackle by Blake Cashman),2.120,3.450
+3,2:39,1,10,MIN 32,7,17,Braelon Allen left tackle for 7 yards (tackle by Blake Cashman and Camryn Bynum),3.450,3.850
+3,2:00,2,3,MIN 25,7,17,Aaron Rodgers pass incomplete short middle,3.850,3.140
+3,1:57,3,3,MIN 25,7,17,Aaron Rodgers pass complete short middle to Garrett Wilson for 9 yards (tackle by Harrison Smith),3.140,4.510
+3,1:36,1,10,MIN 16,7,17,Aaron Rodgers pass complete short right to Tyler Conklin for 2 yards (tackle by Byron Murphy),4.510,4.210
+3,1:00,2,8,MIN 14,7,17,Aaron Rodgers pass incomplete short right intended for Garrett Wilson (defended by Stephon Gilmore),4.210,3.370
+3,0:56,3,8,MIN 14,7,17,Aaron Rodgers pass incomplete short left intended for Allen Lazard,3.370,2.510
+3,0:53,4,8,MIN 14,10,17,Greg Zuerlein 32 yard field goal good,2.510,3.000
+3,0:50,,,NYJ 35,10,17,Greg Zuerlein kicks off 65 yards touchback.,0.000,0.940
+3,0:50,1,10,MIN 30,10,17,Ty Chandler left end for no gain (tackle by Quincy Williams),0.940,0.390
+3,0:08,2,10,MIN 30,10,17,Sam Darnold pass incomplete deep left intended for Justin Jefferson. Penalty on D.J. Reed: Defensive Pass Interference 24 yards (accepted) (no play),0.390,2.520
+3,0:02,1,10,NYJ 46,10,17,Sam Darnold pass incomplete deep left intended for Justin Jefferson,2.520,1.980
+4,15:00,2,10,NYJ 46,10,17,Sam Darnold pass incomplete short left,1.980,1.290
+4,14:57,3,10,NYJ 46,10,17,Sam Darnold pass incomplete short left,1.290,0.200
+4,14:50,4,10,NYJ 46,10,17,Ryan Wright punts 39 yards downed by Kamu Grugier-Hill,0.200,0.380
+4,14:41,1,10,NYJ 7,10,17,Braelon Allen left guard for 3 yards (tackle by Andrew Van Ginkel and Jerry Tillery),-0.380,-0.560
+4,14:01,2,7,NYJ 10,10,17,Aaron Rodgers sacked by Ivan Pace for -6 yards,-0.560,-1.770
+4,13:17,3,13,NYJ 4,10,17,Aaron Rodgers pass incomplete deep right,-1.770,-2.490
+4,13:11,4,13,NYJ 4,10,17,Thomas Morstead punts 39 yards returned by Brandon Powell for 6 yards (tackle by Ashtyn Davis),-2.490,-3.120
+4,13:03,1,10,NYJ 37,10,17,Sam Darnold pass incomplete deep right intended for Justin Jefferson,3.120,2.570
+4,12:57,2,10,NYJ 37,10,17,Myles Gaskin left guard for 2 yards (tackle by Eric Watts),2.570,2.150
+4,12:18,3,8,NYJ 35,10,17,Sam Darnold pass incomplete short left intended for Jordan Addison,2.150,0.970
+4,12:12,4,8,NYJ 35,10,20,Will Reichard 53 yard field goal good,0.970,3.000
+4,12:07,,,MIN 35,10,20,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+4,12:07,1,10,NYJ 30,10,20,Aaron Rodgers pass complete short right to Tyler Conklin for 7 yards (tackle by Harrison Smith),0.940,1.340
+4,11:32,2,3,NYJ 37,10,20,Aaron Rodgers sacked by Harrison Phillips for -12 yards. Aaron Rodgers fumbles (forced by Harrison Phillips) recovered by Aaron Rodgers at NYJ-25 (tackle by Harrison Phillips),1.340,-0.960
+4,10:56,3,15,NYJ 25,10,20,Aaron Rodgers pass incomplete deep left intended for Garrett Wilson,-0.960,-1.700
+4,10:52,4,15,NYJ 25,10,20,Thomas Morstead punts 48 yards returned by Brandon Powell for no gain (tackle by Qwan'tez Stiggers). Penalty on Dallas Turner: Offensive Holding 10 yards (accepted),-1.700,0.060
+4,10:43,1,10,MIN 17,10,20,Ty Chandler left end for no gain (tackle by D.J. Reed and Jamien Sherwood),-0.060,-0.580
+4,9:59,2,10,MIN 17,10,20,Sam Darnold pass incomplete deep middle intended for Jordan Addison,-0.580,-1.250
+4,9:54,3,10,MIN 17,10,20,Penalty on Christian Darrisaw: False Start 5 yards (accepted) (no play),-1.250,-2.010
+4,9:54,3,15,MIN 12,10,20,Sam Darnold pass deep right intended for Jordan Addison is intercepted by Brandin Echols at MIN-42 and returned for no gain (tackle by Jordan Addison),-2.010,-2.790
+4,9:47,1,10,MIN 42,10,20,Aaron Rodgers pass complete short right to Allen Lazard for 7 yards (tackle by Josh Metellus),2.790,3.190
+4,9:11,2,3,MIN 35,10,20,Aaron Rodgers pass complete short right to Garrett Wilson for 10 yards (tackle by Stephon Gilmore and Harrison Smith),3.190,3.910
+4,8:28,1,10,MIN 25,10,20,Aaron Rodgers pass incomplete deep middle intended for Tyler Conklin (defended by Camryn Bynum),3.910,3.360
+4,8:20,2,10,MIN 25,10,20,Aaron Rodgers pass incomplete deep right intended for Mike Williams,3.360,2.680
+4,8:17,3,10,MIN 25,10,20,Aaron Rodgers pass complete deep middle to Mike Williams for 18 yards (tackle by Harrison Smith),2.680,5.600
+4,7:32,1,7,MIN 7,10,20,Penalty on Aaron Rodgers: Delay of Game 5 yards (accepted) (no play),5.600,4.640
+4,7:32,1,12,MIN 12,10,20,Aaron Rodgers pass complete short left to Breece Hall for 5 yards (tackle by Stephon Gilmore),4.640,4.760
+4,6:55,2,7,MIN 7,10,20,Aaron Rodgers pass complete short right to Garrett Wilson for 5 yards (tackle by Byron Murphy),4.760,4.950
+4,6:15,3,2,MIN 2,10,20,Aaron Rodgers pass incomplete short right intended for Garrett Wilson. Penalty on Stephon Gilmore: Defensive Pass Interference 1 yard (accepted) (no play),4.950,6.970
+4,6:10,1,1,MIN 1,16,20,Aaron Rodgers pass complete short left to Garrett Wilson for 1 yard touchdown,6.970,7.000
+4,6:04,,,MIN 15,17,20,Greg Zuerlein kicks extra point good,0.000,0.000
+4,6:04,,,NYJ 35,17,20,Greg Zuerlein kicks off 65 yards touchback.,0.000,0.940
+4,6:04,1,10,MIN 30,17,20,Ty Chandler right end for 1 yard (tackle by Quinnen Williams and Sauce Gardner),0.940,0.530
+4,5:43,2,9,MIN 31,17,20,Sam Darnold pass complete deep middle to Justin Jefferson for 25 yards (tackle by Chuck Clark),0.530,2.650
+4,5:01,1,10,NYJ 44,17,20,Ty Chandler right end for 2 yards (tackle by Quincy Williams). Penalty on Ed Ingram: Offensive Illegal Block Above the Waist 10 yards (accepted),2.650,2.130
+4,4:53,1,18,MIN 48,17,20,Sam Darnold pass complete short left to Justin Jefferson for 6 yards (tackle by Isaiah Oliver),2.130,1.840
+4,4:13,2,12,NYJ 46,17,20,Sam Darnold pass complete deep middle to Johnny Mundt for 20 yards (tackle by Tony Adams),1.840,3.840
+4,3:28,1,10,NYJ 26,17,20,Sam Darnold pass incomplete short right intended for Justin Jefferson,3.840,3.300
+4,3:19,2,10,NYJ 26,17,20,Ty Chandler left guard for 3 yards (tackle by Javon Kinlaw),3.300,3.010
+4,3:15,,,,,,Timeout #1 by New York Jets,,
+4,3:15,3,7,NYJ 23,17,20,Sam Darnold pass incomplete short right intended for Justin Jefferson (defended by Chuck Clark),3.010,1.930
+4,3:11,4,7,NYJ 23,17,23,Will Reichard 41 yard field goal good,1.930,3.000
+4,3:07,,,MIN 35,17,23,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+4,3:07,1,10,NYJ 30,17,23,Aaron Rodgers pass incomplete deep right intended for Allen Lazard (defended by Shaquill Griffin),0.940,0.390
+4,3:02,2,10,NYJ 30,17,23,Aaron Rodgers pass complete short left to Garrett Wilson for 16 yards (tackle by Camryn Bynum),0.390,1.990
+4,2:31,1,10,NYJ 46,17,23,Aaron Rodgers pass complete short left to Allen Lazard for 7 yards (tackle by Camryn Bynum),1.990,2.400
+4,2:00,2,3,MIN 47,17,23,Aaron Rodgers pass complete short right to Allen Lazard for 6 yards (tackle by Camryn Bynum),2.400,2.850
+4,1:36,1,10,MIN 41,17,23,Aaron Rodgers pass incomplete deep right intended for Garrett Wilson,2.850,2.310
+4,1:31,2,10,MIN 41,17,23,Aaron Rodgers pass complete short right to Garrett Wilson for 9 yards (tackle by Stephon Gilmore),2.310,2.810
+4,1:06,3,1,MIN 32,17,23,Breece Hall right guard for 6 yards (tackle by Jonathan Greenard),2.810,3.840
+4,0:58,,,,,,Timeout #2 by New York Jets,,
+4,0:58,1,10,MIN 26,17,23,Aaron Rodgers pass incomplete short right intended for Tyler Conklin (defended by Jihad Ward),3.840,3.300
+4,0:54,2,10,MIN 26,17,23,Aaron Rodgers pass incomplete short left intended for Garrett Wilson,3.300,2.610
+4,0:49,3,10,MIN 26,17,23,Aaron Rodgers pass deep right intended for Mike Williams is intercepted by Stephon Gilmore at MIN-9 and returned for no gain (tackle by Mike Williams),2.610,0.380
+4,0:44,1,10,MIN 9,17,23,Sam Darnold kneels for -1 yards,-0.380,-0.850
+4,0:25,2,11,MIN 8,17,23,Sam Darnold kneels for -1 yards,-0.850,-1.650

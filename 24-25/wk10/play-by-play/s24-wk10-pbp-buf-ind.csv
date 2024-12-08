@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,BUF,IND,Detail,EPB,EPA
+,,,,,,,Colts won the coin toss and deferred Bills to receive the opening kickoff.,,
+1,15:00,,,IND 35,0,0,Matt Gay kicks off 69 yards returned by Brandon Codrington for 26 yards (tackle by Cameron McGrone),0.000,0.410
+1,14:55,1,10,BUF 22,0,0,Josh Allen pass complete short right to Curtis Samuel for 14 yards (tackle by E.J. Speed),0.410,1.330
+1,14:33,1,10,BUF 36,0,0,Josh Allen up the middle for no gain (tackle by DeForest Buckner),1.330,0.790
+1,13:50,2,10,BUF 36,0,0,Josh Allen pass complete short left to Khalil Shakir for 7 yards (tackle by Zaire Franklin and E.J. Speed),0.790,1.030
+1,13:13,3,3,BUF 43,0,0,Josh Allen sacked by Kwity Paye for no gain,1.030,-0.520
+1,12:32,4,3,BUF 43,0,0,Sam Martin punts 48 yards fair catch by Josh Downs at IND-9,-0.520,0.380
+1,12:24,1,10,IND 9,6,0,Joe Flacco pass short left intended for Josh Downs is intercepted by Taron Johnson at IND-23 and returned for 23 yards touchdown,-0.380,-7.000
+1,12:14,,,IND 15,7,0,Tyler Bass kicks extra point good,0.000,0.000
+1,12:14,,,BUF 35,7,0,Tyler Bass kicks off 65 yards touchback.,0.000,0.940
+1,12:14,1,10,IND 30,7,0,Jonathan Taylor up the middle for 1 yard (tackle by Ed Oliver and Damar Hamlin),0.940,0.530
+1,11:37,2,9,IND 31,7,0,Joe Flacco pass complete deep right to Josh Downs for 21 yards (tackle by Damar Hamlin),0.530,2.390
+1,11:09,1,10,BUF 48,7,0,Joe Flacco pass incomplete short right intended for Jonathan Taylor,2.390,1.850
+1,11:04,2,10,BUF 48,7,0,Joe Flacco pass complete short left to Adonai Mitchell for 7 yards. Adonai Mitchell fumbles (forced by Christian Benford) recovered by Josh Downs at BUF-39 (tackle by Christian Benford),1.850,2.340
+1,10:26,3,1,BUF 39,7,0,Jonathan Taylor up the middle for no gain (tackle by A.J. Epenesa and Terrel Bernard),2.340,0.660
+1,9:57,4,1,BUF 39,7,0,Jonathan Taylor right tackle for 2 yards (tackle by Rasul Douglas and Gregory Rousseau),0.660,3.120
+1,9:17,1,10,BUF 37,7,0,Joe Flacco pass short right intended for Jonathan Taylor is intercepted by Austin Johnson at BUF-43 and returned for 4 yards (tackle by Jonathan Taylor),3.120,-2.060
+1,9:06,1,10,BUF 47,7,0,James Cook left guard for 3 yards (tackle by DeForest Buckner and Kenny Moore),2.060,1.920
+1,8:32,2,7,IND 50,7,0,Josh Allen pass complete short left to Curtis Samuel for 5 yards (tackle by E.J. Speed),1.920,1.880
+1,8:11,3,2,IND 45,7,0,James Cook up the middle for 20 yards (tackle by Samuel Womack),1.880,3.910
+1,7:40,1,10,IND 25,7,0,Josh Allen pass incomplete short left intended for Dalton Kincaid,3.910,3.360
+1,7:34,2,10,IND 25,7,0,Josh Allen pass complete short right to Dalton Kincaid for 12 yards (tackle by Nick Cross),3.360,4.710
+1,6:54,1,10,IND 13,7,0,James Cook up the middle for 1 yard (tackle by Kenny Moore),4.710,4.220
+1,6:20,2,9,IND 12,7,0,Josh Allen up the middle for 1 yard (tackle by Laiatu Latu and Raekwon Davis),4.220,3.450
+1,5:40,3,8,IND 11,7,0,Josh Allen pass incomplete short right intended for Curtis Samuel (defended by Kenny Moore),3.450,2.700
+1,5:36,4,8,IND 11,10,0,Tyler Bass 29 yard field goal good,2.700,3.000
+1,5:33,,,BUF 35,10,0,Tyler Bass kicks off 65 yards touchback.,0.000,0.940
+1,5:33,1,10,IND 30,10,0,Jonathan Taylor up the middle for 3 yards (tackle by Taron Johnson),0.940,0.800
+1,4:59,2,7,IND 33,10,0,Jonathan Taylor right end for 58 yards (tackle by Dorian Williams and Taylor Rapp),0.800,5.140
+1,4:20,1,9,BUF 9,10,0,Jonathan Taylor right end for no gain (tackle by Gregory Rousseau),5.140,4.380
+1,3:42,2,9,BUF 9,10,0,Joe Flacco pass incomplete short left intended for Josh Downs,4.380,3.360
+1,3:38,3,9,BUF 9,10,0,Joe Flacco pass incomplete short middle intended for Josh Downs (defended by Terrel Bernard),3.360,2.830
+1,3:34,4,9,BUF 9,10,3,Matt Gay 27 yard field goal good,2.830,3.000
+1,3:31,,,IND 35,10,3,Matt Gay kicks off 65 yards touchback.,0.000,0.940
+1,3:31,1,10,BUF 30,10,3,James Cook up the middle for 4 yards (tackle by Laiatu Latu and Nick Cross),0.940,0.930
+1,2:50,2,6,BUF 34,10,3,Josh Allen pass complete deep left to Curtis Samuel for 17 yards (tackle by Zaire Franklin),0.930,2.320
+1,2:12,1,10,IND 49,10,3,James Cook up the middle for 5 yards (tackle by Nick Cross and Laiatu Latu),2.320,2.460
+1,1:35,2,5,IND 44,10,3,Ray Davis up the middle for 4 yards (tackle by Nick Cross and Jaylon Jones),2.460,2.280
+1,1:16,3,1,IND 40,10,3,Josh Allen left guard for no gain (tackle by DeForest Buckner and Grover Stewart). Penalty on Raekwon Davis: Defensive Offside 5 yards (declined) (no play),2.280,3.250
+1,0:56,1,10,IND 35,10,3,Josh Allen pass incomplete short left intended for James Cook,3.250,2.700
+1,0:52,2,10,IND 35,10,3,Penalty on Spencer Brown: False Start 5 yards (accepted) (no play),2.700,2.030
+1,0:52,2,15,IND 40,10,3,Josh Allen pass complete short middle to Dalton Kincaid for 12 yards (tackle by E.J. Speed and Zaire Franklin),2.030,2.940
+1,0:16,3,3,IND 28,10,3,Josh Allen pass incomplete deep right intended for Dalton Kincaid,2.940,1.680
+1,0:11,4,3,IND 28,10,3,Josh Allen pass incomplete short right intended for Curtis Samuel (defended by Zaire Franklin),1.680,-0.810
+1,0:08,1,10,IND 28,10,3,Ashton Dulin left end for 7 yards (tackle by Dorian Williams and Terrel Bernard),0.810,1.210
+2,15:00,2,3,IND 35,10,3,Jonathan Taylor right end for -4 yards (tackle by Christian Benford and Terrel Bernard),1.210,-0.030
+2,14:20,3,7,IND 31,10,3,Joe Flacco pass complete short left to Adonai Mitchell for 18 yards (tackle by Cameron Lewis and Rasul Douglas),-0.030,2.190
+2,13:56,1,10,IND 49,10,3,Joe Flacco pass complete short left to Alec Pierce for 16 yards (tackle by Taylor Rapp),2.190,3.250
+2,13:33,1,10,BUF 35,10,3,Joe Flacco pass complete short right to Josh Downs for 8 yards (tackle by Terrel Bernard),3.250,3.780
+2,12:47,2,2,BUF 27,10,3,Jonathan Taylor up the middle for 13 yards (tackle by Taylor Rapp),3.780,4.650
+2,12:12,1,10,BUF 14,10,3,Jonathan Taylor right tackle for 3 yards (tackle by Terrel Bernard),4.650,4.520
+2,11:33,2,7,BUF 11,10,3,Jonathan Taylor right tackle for no gain (tackle by Christian Benford and Terrel Bernard),4.520,3.620
+2,10:53,3,7,BUF 11,10,3,Joe Flacco pass incomplete short right intended for Adonai Mitchell. Penalty on Rasul Douglas: Illegal Contact 5 yards (accepted) (no play),3.620,5.830
+2,10:47,1,6,BUF 6,10,3,Joe Flacco pass complete short right to Kylen Granson for 3 yards (tackle by Rasul Douglas),5.830,5.530
+2,10:01,,,,,,Timeout #1 by Indianapolis Colts,,
+2,10:01,2,3,BUF 3,10,3,Jonathan Taylor up the middle for 1 yard (tackle by Dorian Williams and Taylor Rapp),5.530,4.950
+2,9:26,3,2,BUF 2,10,9,Joe Flacco pass complete short left to Tyler Goodson for 2 yards touchdown,4.950,7.000
+2,9:22,,,BUF 15,10,10,Matt Gay kicks extra point good,0.000,0.000
+2,9:22,,,IND 35,10,10,Matt Gay kicks off 65 yards touchback.,0.000,0.940
+2,9:22,1,10,BUF 30,10,10,Josh Allen pass short left intended for Khalil Shakir is intercepted by E.J. Speed at BUF-45 and returned for 12 yards (tackle by Mack Hollins),0.940,-3.380
+2,9:12,1,10,BUF 33,10,10,Jonathan Taylor up the middle for 22 yards (tackle by Taylor Rapp and Dorian Williams),3.380,4.840
+2,8:44,1,10,BUF 11,10,10,Jonathan Taylor right guard for 2 yards (tackle by A.J. Epenesa and DaQuan Jones),4.840,4.510
+2,8:11,2,8,BUF 9,10,10,Jonathan Taylor left end for 2 yards (tackle by Terrel Bernard),4.510,3.980
+2,7:35,3,6,BUF 7,10,10,Penalty on Braden Smith: False Start 5 yards (accepted) (no play),3.980,3.110
+2,7:13,3,11,BUF 12,10,10,Joe Flacco pass complete short middle to Josh Downs for 7 yards (tackle by Cameron Lewis),3.110,3.010
+2,6:35,4,4,BUF 5,10,13,Matt Gay 23 yard field goal good,3.010,3.000
+2,6:32,,,IND 35,10,13,Matt Gay kicks off 67 yards returned by Brandon Codrington for 23 yards. Brandon Codrington fumbles (forced by Ronnie Harrison) recovered by Alec Anderson at BUF-30 (tackle by Ronnie Harrison),0.000,0.940
+2,6:25,1,10,BUF 30,10,13,James Cook left tackle for -1 yards (tackle by Kwity Paye and Grover Stewart),0.940,0.260
+2,5:53,2,11,BUF 29,10,13,Penalty on Dion Dawkins: False Start 5 yards (accepted) (no play),0.260,-0.420
+2,5:41,2,16,BUF 24,10,13,Josh Allen pass complete deep left to Mack Hollins for 16 yards (tackle by E.J. Speed),-0.420,1.600
+2,5:03,1,10,BUF 40,10,13,James Cook right guard for 6 yards (tackle by Zaire Franklin and Kenny Moore),1.600,1.860
+2,4:26,2,4,BUF 46,10,13,Josh Allen pass incomplete short right intended for Dawson Knox,1.860,1.160
+2,4:22,3,4,BUF 46,10,13,Josh Allen pass complete short left to Khalil Shakir for 6 yards (tackle by Jaylon Jones),1.160,2.390
+2,3:41,1,10,IND 48,10,13,James Cook left guard for 1 yard (tackle by Laiatu Latu and DeForest Buckner),2.390,1.980
+2,3:02,2,9,IND 47,10,13,Josh Allen pass complete deep left to Dawson Knox for 34 yards (tackle by Jaylon Jones),1.980,4.710
+2,2:21,1,10,IND 13,16,13,Josh Allen left guard for 13 yards touchdown,4.710,7.000
+2,2:14,,,IND 15,16,13,Penalty on Spencer Brown: Unsportsmanlike Conduct / Offense 15 yards (accepted) (no play),0.000,0.000
+2,2:14,,,IND 30,17,13,Tyler Bass kicks extra point good,0.000,0.000
+2,2:14,,,BUF 35,17,13,Tyler Bass kicks off 65 yards touchback.,0.000,0.940
+2,2:14,1,10,IND 30,17,13,Jonathan Taylor left tackle for 4 yards (tackle by Dorian Williams),0.940,0.930
+2,2:00,2,6,IND 34,17,13,Joe Flacco pass complete short left to Josh Downs for 5 yards (tackle by Dorian Williams),0.930,0.890
+2,1:25,3,1,IND 39,17,13,Jonathan Taylor left guard for no gain (tackle by Gregory Rousseau),0.890,-0.780
+2,1:16,,,,,,Timeout #1 by Buffalo Bills,,
+2,1:16,4,1,IND 39,17,13,Penalty on Joe Flacco: Delay of Game 5 yards (accepted) (no play),-0.780,-1.110
+2,1:16,4,6,IND 34,17,13,Rigoberto Sanchez punts 55 yards fair catch by Brandon Codrington at BUF-11,-1.110,0.370
+2,1:10,1,10,BUF 11,17,13,Josh Allen pass complete short middle to Dawson Knox for 6 yards (tackle by Kenny Moore),-0.370,-0.160
+2,0:56,2,4,BUF 17,17,13,Penalty on Dion Dawkins: False Start 5 yards (accepted) (no play),-0.160,-0.710
+2,0:44,2,9,BUF 12,17,13,Josh Allen pass complete short left to Ty Johnson for 7 yards (tackle by Jaylon Jones),-0.710,-0.480
+2,0:32,,,,,,Timeout #2 by Indianapolis Colts,,
+2,0:32,3,2,BUF 19,17,13,Josh Allen pass complete short middle to Ty Johnson for 8 yards (tackle by Kenny Moore),-0.480,0.740
+2,0:30,,,,,,Timeout #2 by Buffalo Bills,,
+2,0:30,1,10,BUF 27,17,13,Josh Allen pass incomplete deep left intended for Curtis Samuel,0.740,0.200
+2,0:23,2,10,BUF 27,17,13,Josh Allen pass incomplete deep middle intended for Khalil Shakir,0.200,-0.490
+2,0:19,3,10,BUF 27,17,13,Josh Allen pass complete deep right to Mack Hollins for 44 yards (tackle by Zaire Franklin),-0.490,3.640
+2,0:08,1,10,IND 29,17,13,Josh Allen pass incomplete short right,3.640,3.100
+2,0:02,2,10,IND 29,20,13,Tyler Bass 47 yard field goal good,3.100,3.000
+3,15:00,,,BUF 35,20,13,Tyler Bass kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,IND 30,20,13,Jonathan Taylor right end for -1 yards (tackle by Dorian Williams),0.940,0.260
+3,14:13,2,11,IND 29,20,13,Joe Flacco sacked by Taron Johnson for -1 yards,0.260,-0.560
+3,13:40,3,12,IND 28,20,13,Joe Flacco pass complete short middle to Trey Sermon for 4 yards (tackle by Cameron Lewis),-0.560,-1.240
+3,13:07,4,8,IND 32,20,13,Rigoberto Sanchez punts 53 yards returned by Brandon Codrington for 8 yards (tackle by Kylen Granson and Andrew Ogletree),-1.240,-0.480
+3,12:48,1,10,BUF 23,20,13,James Cook left guard for 4 yards (tackle by Jaylon Jones),0.480,0.470
+3,12:12,2,6,BUF 27,20,13,Josh Allen pass complete short left to Curtis Samuel for -1 yards (tackle by Nick Cross),0.470,-0.360
+3,11:28,3,7,BUF 26,20,13,Josh Allen pass complete short right to Khalil Shakir for 6 yards (tackle by Kenny Moore),-0.360,-1.240
+3,11:07,4,1,BUF 32,20,13,Josh Allen up the middle for 3 yards (tackle by Grover Stewart),-1.240,1.270
+3,10:30,1,10,BUF 35,20,13,Ray Davis right tackle for 1 yard (tackle by DeForest Buckner and Kenny Moore),1.270,0.860
+3,9:49,2,9,BUF 36,20,13,Josh Allen pass incomplete short middle intended for Khalil Shakir,0.860,0.170
+3,9:45,3,9,BUF 36,20,13,Josh Allen pass incomplete short right intended for Dalton Kincaid (defended by E.J. Speed),0.170,-0.980
+3,9:39,4,9,BUF 36,20,13,Sam Martin punts 61 yards downed by Cameron Lewis,-0.980,0.380
+3,9:28,1,10,IND 3,20,13,Jonathan Taylor up the middle for 3 yards (tackle by Jordan Phillips and Dorian Williams),-0.380,-0.560
+3,8:48,2,7,IND 6,20,13,Joe Flacco pass complete short left to Adonai Mitchell for 8 yards (tackle by Rasul Douglas),-0.560,-0.280
+3,8:19,1,10,IND 14,20,13,Joe Flacco pass complete short right to Adonai Mitchell for 14 yards (tackle by Taron Johnson),-0.280,0.810
+3,7:54,1,10,IND 28,20,13,Joe Flacco pass complete short right to Andrew Ogletree for 2 yards (tackle by Taylor Rapp),0.810,0.530
+3,7:14,2,8,IND 30,20,13,Joe Flacco pass complete deep right to Alec Pierce for 32 yards (tackle by Rasul Douglas),0.530,3.050
+3,6:27,1,10,BUF 38,20,13,Jonathan Taylor right tackle for no gain (tackle by Damar Hamlin),3.050,2.510
+3,5:53,2,10,BUF 38,20,13,Joe Flacco sacked by Gregory Rousseau for -11 yards. Joe Flacco fumbles (forced by Gregory Rousseau) recovered by Damar Hamlin at BUF-49 (tackle by Gregory Rousseau),2.510,-2.190
+3,5:36,1,10,BUF 49,20,13,Josh Allen pass short right intended for Curtis Samuel is intercepted by Kenny Moore at IND-48 and returned for 12 yards (tackle by Curtis Samuel),2.190,-2.920
+3,5:29,1,10,BUF 40,20,13,Joe Flacco pass incomplete short left intended for Tyler Goodson,2.920,2.370
+3,5:23,2,10,BUF 40,20,13,Jonathan Taylor up the middle for 2 yards (tackle by Dorian Williams),2.370,1.950
+3,4:41,3,8,BUF 38,20,13,Joe Flacco pass complete short right to Adonai Mitchell for 10 yards (tackle by Christian Benford),1.950,3.710
+3,4:19,1,10,BUF 28,20,13,Joe Flacco pass incomplete short left intended for Alec Pierce (defended by Taron Johnson),3.710,3.170
+3,4:15,2,10,BUF 28,20,13,Jonathan Taylor up the middle for 3 yards (tackle by Jordan Phillips),3.170,2.870
+3,3:35,3,7,BUF 25,20,13,Joe Flacco pass complete short middle to Josh Downs for 5 yards (tackle by Terrel Bernard and Damar Hamlin),2.870,2.250
+3,2:51,4,2,BUF 20,20,13,Joe Flacco sacked by Quinton Jefferson for -10 yards,2.250,-0.940
+3,2:45,1,10,BUF 30,20,13,James Cook up the middle for 16 yards (tackle by Zaire Franklin),0.940,1.990
+3,2:07,1,10,BUF 46,20,13,James Cook up the middle for 9 yards (tackle by Nick Cross and Julian Blackmon),1.990,2.670
+3,1:29,2,1,IND 45,20,13,James Cook up the middle for 1 yard (tackle by Grover Stewart and DeForest Buckner),2.670,2.650
+3,0:49,1,10,IND 44,20,13,Josh Allen pass complete short left to Khalil Shakir for 1 yard (tackle by Zaire Franklin),2.650,2.250
+3,0:08,2,9,IND 43,20,13,Josh Allen pass complete short left to Mack Hollins for 19 yards (tackle by Julian Blackmon),2.250,3.970
+4,15:00,1,10,IND 24,20,13,Ray Davis right tackle for 1 yard (tackle by DeForest Buckner and Grover Stewart),3.970,3.570
+4,14:20,2,9,IND 23,20,13,Josh Allen pass complete short middle to Khalil Shakir for 8 yards (tackle by Nick Cross and Samuel Womack),3.570,4.170
+4,13:56,3,1,IND 15,20,13,Josh Allen up the middle for no gain (tackle by Grover Stewart and Zaire Franklin),4.170,2.590
+4,13:12,,,,,,Timeout #1 by Buffalo Bills,,
+4,13:12,4,1,IND 15,20,13,Josh Allen up the middle for 5 yards (tackle by DeForest Buckner),2.590,4.910
+4,12:28,1,10,IND 10,20,13,James Cook left guard for no gain (tackle by Grover Stewart),4.910,4.190
+4,11:47,2,10,IND 10,20,13,Josh Allen sacked by Grover Stewart for no gain,4.190,3.130
+4,11:05,3,10,IND 10,20,13,Josh Allen pass incomplete short right,3.130,2.760
+4,11:01,4,10,IND 10,23,13,Tyler Bass 28 yard field goal good,2.760,3.000
+4,10:58,,,BUF 35,23,13,Tyler Bass kicks off 65 yards touchback.,0.000,0.940
+4,10:58,1,10,IND 30,23,13,Joe Flacco pass complete short right to Josh Downs for 11 yards (tackle by Christian Benford),0.940,1.660
+4,10:28,1,10,IND 41,23,13,Joe Flacco pass complete short left to Adonai Mitchell for 14 yards,1.660,2.590
+4,9:55,1,10,BUF 45,23,13,Joe Flacco pass deep left intended for Alec Pierce is intercepted by Taylor Rapp at BUF-16 and returned for no gain (tackle by Alec Pierce),2.590,0.140
+4,9:46,1,10,BUF 16,23,13,James Cook up the middle for no gain (tackle by Nick Cross). Penalty on Dawson Knox: Offensive Holding 8 yards (accepted) (no play),-0.140,-0.680
+4,9:34,1,18,BUF 8,23,13,Josh Allen pass complete short right to James Cook for 5 yards (tackle by Nick Cross),-0.680,-0.990
+4,8:55,2,13,BUF 13,23,13,Josh Allen scrambles right end for no gain (tackle by E.J. Speed). Penalty on O'Cyrus Torrence: Offensive Holding 6 yards (accepted) (no play),-0.990,-1.440
+4,8:34,2,19,BUF 7,23,13,Josh Allen scrambles left end for 21 yards (tackle by Kenny Moore),-1.440,0.810
+4,7:49,1,10,BUF 28,23,13,James Cook left tackle for 2 yards (tackle by Kwity Paye),0.810,0.530
+4,7:11,2,8,BUF 30,23,13,Josh Allen pass incomplete short left intended for James Cook,0.530,-0.160
+4,7:08,3,8,BUF 30,23,13,Josh Allen pass incomplete short left intended for Mack Hollins. Penalty on Jaylon Jones: Defensive Pass Interference 15 yards (offset) . Penalty on Dawson Knox: Illegal Shift 5 yards (offset) (no play),-0.160,-0.160
+4,7:04,3,8,BUF 30,23,13,Josh Allen pass complete short right to Khalil Shakir for 30 yards (tackle by Nick Cross),-0.160,2.920
+4,6:24,1,10,IND 40,23,13,James Cook right tackle for no gain (tackle by E.J. Speed),2.920,2.370
+4,5:39,2,10,IND 40,23,13,Josh Allen pass complete short right to Mack Hollins for 7 yards (tackle by Nick Cross),2.370,2.610
+4,4:56,3,3,IND 33,23,13,Josh Allen pass complete short right to Ty Johnson for 17 yards (tackle by Nick Cross and Julian Blackmon),2.610,4.510
+4,4:44,,,,,,Timeout #1 by Indianapolis Colts,,
+4,4:44,1,10,IND 16,23,13,James Cook right tackle for 4 yards (tackle by DeForest Buckner and Zaire Franklin),4.510,4.570
+4,4:40,,,,,,Timeout #2 by Indianapolis Colts,,
+4,4:40,2,6,IND 12,23,13,James Cook right tackle for 3 yards (tackle by Grover Stewart),4.570,4.390
+4,4:36,,,,,,Timeout #3 by Indianapolis Colts,,
+4,4:36,3,3,IND 9,23,13,Josh Allen right end for 7 yards (tackle by Nick Cross),4.390,6.740
+4,3:53,1,2,IND 2,23,13,James Cook right guard for no gain (tackle by Julian Blackmon),6.740,5.720
+4,3:09,,,,,,Timeout #2 by Buffalo Bills,,
+4,3:09,2,2,IND 2,29,13,James Cook left end for 2 yards touchdown,5.720,7.000
+4,3:04,,,IND 15,30,13,Tyler Bass kicks extra point good,0.000,0.000
+4,3:04,,,BUF 35,30,13,Tyler Bass kicks off 65 yards touchback.,0.000,0.940
+4,3:04,1,10,IND 30,30,13,Joe Flacco pass complete short left to Jonathan Taylor for 2 yards (tackle by Cameron Lewis),0.940,0.660
+4,2:59,2,8,IND 32,30,13,Joe Flacco pass complete short right to Jonathan Taylor for 6 yards (tackle by Cameron Lewis),0.660,0.760
+4,2:37,3,2,IND 38,30,13,Joe Flacco pass complete short right to Jonathan Taylor for no gain (tackle by Cameron Lewis). Penalty on Braden Smith: Illegal Shift 5 yards (accepted) (no play),0.760,0.100
+4,2:29,3,7,IND 33,30,13,Joe Flacco pass complete short middle to Kylen Granson for 12 yards (tackle by Terrel Bernard),0.100,1.930
+4,2:10,1,10,IND 45,30,13,Joe Flacco pass complete deep left to Alec Pierce for 23 yards (tackle by Taylor Rapp),1.930,3.450
+4,2:05,1,10,BUF 32,30,13,Joe Flacco pass complete short left to Jonathan Taylor for no gain (tackle by Cameron Lewis). Penalty on Matt Goncalves: Illegal Shift 5 yards (accepted) (no play),3.450,3.120
+4,1:59,1,15,BUF 37,30,13,Joe Flacco sacked by A.J. Epenesa for -10 yards,3.120,0.880
+4,1:22,,,,,,Timeout #3 by Buffalo Bills,,
+4,1:22,2,25,BUF 47,30,13,Joe Flacco pass complete short right to Will Mallory for 10 yards (tackle by Ja'Marcus Ingram),0.880,1.550
+4,1:00,3,15,BUF 37,30,13,Joe Flacco pass complete short middle to Tyler Goodson for 7 yards (tackle by Ja'Marcus Ingram and Nicholas Morrow),1.550,1.410
+4,0:38,4,8,BUF 30,30,13,Joe Flacco pass complete short right to Josh Downs for 15 yards (tackle by Cole Bishop),1.410,4.580
+4,0:12,1,10,BUF 15,30,13,Penalty on Quinton Jefferson: Neutral Zone Infraction 5 yards (accepted) (no play),4.580,5.740
+4,0:12,1,5,BUF 10,30,13,Joe Flacco pass incomplete short right intended for Alec Pierce,5.740,4.840
+4,0:08,2,5,BUF 10,30,19,Joe Flacco pass complete short right to Alec Pierce for 10 yards touchdown,4.840,7.000
+4,0:02,,,BUF 15,30,20,Matt Gay kicks extra point good,0.000,0.000
+4,0:02,,,IND 35,30,20,Matt Gay kicks off 65 yards touchback.,0.000,0.940
+4,0:02,1,10,BUF 30,30,20,Mitchell Trubisky kneels for -1 yards,0.940,0.260

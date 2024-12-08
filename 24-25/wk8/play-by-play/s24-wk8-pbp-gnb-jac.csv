@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,GNB,JAX,Detail,EPB,EPA
+,,,,,,,Packers won the coin toss Packers to receive the opening kickoff.,,
+1,15:00,,,JAX 35,0,0,Cam Little kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,GNB 30,0,0,Jordan Love pass complete short right to Christian Watson for 7 yards (tackle by Foyesade Oluokun),0.940,1.340
+1,14:19,2,3,GNB 37,0,0,Jordan Love pass complete short left to Tucker Kraft for 8 yards (tackle by Foyesade Oluokun),1.340,1.930
+1,13:45,1,10,GNB 45,0,0,Josh Jacobs up the middle for 7 yards (tackle by Devin Lloyd and Foyesade Oluokun),1.930,2.330
+1,12:59,,,,,,Timeout #1 by Green Bay Packers,,
+1,12:59,2,3,JAX 48,0,0,Jayden Reed right end for no gain (tackle by Travon Walker),2.330,1.620
+1,12:20,3,3,JAX 48,0,0,Josh Jacobs right end for 4 yards (tackle by Darnell Savage). Penalty on Sean Rhyan: Offensive Holding 10 yards (accepted),1.620,0.830
+1,11:50,3,9,GNB 46,0,0,Jordan Love pass incomplete short middle intended for Josh Jacobs. Penalty on Zach Tom: Offensive Holding 10 yards (declined),0.830,-0.320
+1,11:41,4,9,GNB 46,0,0,Daniel Whelan punts 45 yards returned by Parker Washington for 8 yards (tackle by Zayne Anderson),-0.320,0.060
+1,11:31,1,10,JAX 17,0,0,Trevor Lawrence pass complete short right to Tank Bigsby for 6 yards (tackle by Isaiah McDuffie),-0.060,0.350
+1,10:50,2,4,JAX 23,0,0,Trevor Lawrence pass incomplete short left intended for Christian Kirk,0.350,-0.490
+1,10:45,3,4,JAX 23,0,0,Trevor Lawrence scrambles right end for 2 yards (tackle by Eric Wilson),-0.490,-1.700
+1,10:00,4,2,JAX 25,0,0,Logan Cooke punts 73 yards out of bounds,-1.700,0.380
+1,9:54,1,10,GNB 2,0,0,Josh Jacobs up the middle for 3 yards (tackle by Travon Walker and DaVon Hamilton),-0.380,-0.560
+1,9:13,2,7,GNB 5,0,0,Josh Jacobs up the middle for 2 yards (tackle by DaVon Hamilton and Jeremiah Ledbetter),-0.560,-0.840
+1,8:35,3,5,GNB 7,0,0,Jordan Love pass incomplete short middle intended for Jayden Reed,-0.840,-2.490
+1,8:29,4,5,GNB 7,0,0,Daniel Whelan punts 43 yards downed by Arron Mosby,-2.490,-2.260
+1,8:15,1,10,JAX 50,0,0,Tank Bigsby left end for no gain (tackle by Preston Smith and Isaiah McDuffie),2.260,1.710
+1,7:32,2,10,JAX 50,0,0,Trevor Lawrence pass complete short right to Brenton Strange for 7 yards (tackle by Evan Williams),1.710,1.950
+1,6:44,3,3,GNB 43,0,0,Penalty on Gabriel Davis: False Start 5 yards (accepted) (no play),1.950,1.290
+1,6:24,3,8,GNB 48,0,0,Trevor Lawrence pass incomplete short right intended for Brian Thomas,1.290,0.070
+1,6:18,4,8,GNB 48,0,0,Logan Cooke punts 40 yards fair catch by Jayden Reed at GB-8,0.070,0.380
+1,6:11,1,10,GNB 8,0,0,Jordan Love pass complete deep middle to Romeo Doubs for 29 yards (tackle by Andre Cisco),-0.380,1.400
+1,5:31,1,10,GNB 37,0,0,Josh Jacobs left end for 7 yards (tackle by Tyson Campbell),1.400,1.800
+1,4:55,2,3,GNB 44,0,0,Chris Brooks left tackle for 5 yards (tackle by Jordan Jefferson and Joe Gaziano),1.800,2.190
+1,4:17,1,10,GNB 49,0,0,Jordan Love pass complete short middle to Romeo Doubs for 18 yards (tackle by Darnell Savage),2.190,3.380
+1,3:35,1,10,JAX 33,0,0,Emanuel Wilson up the middle for 4 yards (tackle by Josh Hines-Allen and Tyson Campbell),3.380,3.380
+1,2:47,2,6,JAX 29,0,0,Penalty on Rasheed Walker: False Start 5 yards (accepted) (no play),3.380,2.700
+1,2:23,2,11,JAX 34,0,0,Jordan Love pass complete short right to Dontayvion Wicks for 6 yards (tackle by Montaric Brown),2.700,2.810
+1,1:52,3,5,JAX 28,0,0,Jordan Love pass complete short right to Christian Watson for 6 yards (tackle by Ventrell Miller),2.810,4.110
+1,1:14,1,10,JAX 22,0,0,Josh Jacobs right end for -2 yards (tackle by Montaric Brown),4.110,3.290
+1,0:28,2,12,JAX 24,0,0,Jordan Love pass complete short left to Jayden Reed for 4 yards (tackle by Jeremiah Ledbetter),3.290,3.140
+2,14:48,3,8,JAX 20,0,0,Jordan Love pass complete short middle to Chris Brooks for 6 yards (tackle by Foyesade Oluokun). Penalty on Travon Walker: Illegal Use of Hands / Defense 5 yards (accepted) (no play),3.140,4.580
+2,14:46,1,10,JAX 15,0,0,Josh Jacobs right end for -1 yards (tackle by Foyesade Oluokun),4.580,3.810
+2,14:08,2,11,JAX 16,0,0,Jordan Love pass short left intended for Romeo Doubs is intercepted by Jarrian Jones at JAC-6 and returned for no gain Replay Assistant challenged the pass interception ruling and the play was upheld.,3.810,0.380
+2,13:58,1,10,JAX 6,0,0,Tank Bigsby up the middle for 1 yard (tackle by Kenny Clark and Eric Wilson),-0.380,-0.630
+2,13:18,2,8,JAX 7,0,0,Penalty on Luke Farrell: False Start 3 yards (accepted) (no play),-0.630,-0.930
+2,13:08,2,12,JAX 4,0,0,Trevor Lawrence pass deep right intended for Christian Kirk is intercepted by Xavier McKinney at JAC-28 and returned for no gain (tackle by Christian Kirk),-0.930,-3.710
+2,12:56,1,10,JAX 28,0,0,Josh Jacobs up the middle for 5 yards (tackle by Ventrell Miller),3.710,3.840
+2,12:22,2,5,JAX 23,0,0,Chris Brooks left tackle for -1 yards (tackle by Ventrell Miller and Josh Hines-Allen),3.840,3.010
+2,11:43,3,6,JAX 24,0,0,Jordan Love pass incomplete deep right intended for Romeo Doubs. Penalty on Montaric Brown: Defensive Pass Interference 21 yards (accepted) (no play),3.010,6.510
+2,11:35,1,3,JAX 3,6,0,Josh Jacobs up the middle for 3 yards touchdown,6.510,7.000
+2,11:31,,,JAX 15,7,0,Brandon McManus kicks extra point good,0.000,0.000
+2,11:31,,,GNB 35,7,0,Brandon McManus kicks off 65 yards touchback.,0.000,0.940
+2,11:31,1,10,JAX 30,7,0,Tank Bigsby right end for 1 yard (tackle by Keisean Nixon and Isaiah McDuffie),0.940,0.530
+2,10:54,2,9,JAX 31,7,0,Tank Bigsby right tackle for 7 yards (tackle by Keisean Nixon),0.530,0.760
+2,10:15,3,2,JAX 38,7,0,Tank Bigsby left end for -1 yards (tackle by Eric Wilson and Edgerrin Cooper),0.760,-0.910
+2,9:24,4,3,JAX 37,7,0,Logan Cooke punts 63 yards touchback.,-0.910,-0.280
+2,9:24,1,10,GNB 20,7,0,Josh Jacobs right guard for 4 yards (tackle by Jordan Jefferson and Tyler Lacy),0.280,0.270
+2,8:47,2,6,GNB 24,7,0,Jordan Love pass complete deep middle to Tucker Kraft for 67 yards (tackle by Andre Cisco),0.270,5.140
+2,7:59,1,9,JAX 9,7,0,Josh Jacobs right end for no gain (tackle by Travon Walker). Penalty on Christian Watson: Illegal Shift 5 yards (accepted) (no play),5.140,4.440
+2,7:35,1,14,JAX 14,7,0,Jordan Love pass incomplete short right intended for Ben Sims,4.440,3.580
+2,7:26,2,14,JAX 14,7,0,Emanuel Wilson left end for no gain (tackle by Jeremiah Ledbetter and Foyesade Oluokun),3.580,3.000
+2,6:46,3,14,JAX 14,7,0,Jordan Love pass complete short left to Emanuel Wilson for 1 yard (tackle by Foyesade Oluokun),3.000,2.570
+2,6:07,4,13,JAX 13,10,0,Brandon McManus 31 yard field goal good,2.570,3.000
+2,6:03,,,GNB 35,10,0,Brandon McManus kicks off 65 yards touchback.,0.000,0.940
+2,6:03,1,10,JAX 30,10,0,Trevor Lawrence pass complete deep right to Christian Kirk for 33 yards (tackle by Xavier McKinney and Evan Williams),0.940,3.120
+2,5:23,1,10,GNB 37,10,0,D'Ernest Johnson left guard for 3 yards (tackle by Isaiah McDuffie and Karl Brooks),3.120,2.980
+2,4:45,2,7,GNB 34,10,0,Trevor Lawrence pass complete short right to Brian Thomas for 18 yards (tackle by Edgerrin Cooper and Javon Bullard),2.980,4.510
+2,4:04,1,10,GNB 16,10,0,Tank Bigsby up the middle for 14 yards (tackle by Xavier McKinney and Edgerrin Cooper),4.510,6.740
+2,3:18,1,2,GNB 2,10,0,Tank Bigsby up the middle for 1 yard (tackle by Eric Wilson),6.740,5.910
+2,2:58,2,1,GNB 1,10,0,Trevor Lawrence pass incomplete short right intended for Evan Engram. Penalty on Tim Jones: Illegal Motion 5 yards (accepted) (no play),5.910,4.950
+2,2:46,2,6,GNB 6,10,6,Trevor Lawrence left end for 6 yards touchdown,4.950,7.000
+2,2:37,,,GNB 15,10,7,Cam Little kicks extra point good,0.000,0.000
+2,2:37,,,JAX 35,10,7,Cam Little kicks off 65 yards touchback.,0.000,0.940
+2,2:37,1,10,GNB 30,10,7,Jordan Love pass complete short right to Christian Watson for 12 yards (tackle by Ventrell Miller and Jarrian Jones),0.940,1.730
+2,2:00,1,10,GNB 42,10,7,Jordan Love pass incomplete deep left intended for Christian Watson,1.730,1.190
+2,1:55,2,10,GNB 42,10,7,Jordan Love pass complete deep right to Romeo Doubs for 25 yards (tackle by Deantre Prince),1.190,3.380
+2,1:45,1,10,JAX 33,10,7,Chris Brooks up the middle for 4 yards (tackle by DaVon Hamilton),3.380,3.380
+2,1:20,2,6,JAX 29,10,7,Jordan Love pass complete short left to Chris Brooks for 1 yard (tackle by Ventrell Miller),3.380,2.810
+2,1:18,,,,,,Timeout #1 by Jacksonville Jaguars,,
+2,1:18,,,,,,Timeout #2 by Green Bay Packers,,
+2,1:18,3,5,JAX 28,10,7,Jordan Love pass incomplete deep right intended for Bo Melton,2.810,1.630
+2,1:12,,,,,,Timeout #3 by Green Bay Packers,,
+2,1:12,4,5,JAX 28,10,7,Penalty on JAX: Defensive Delay of Game 5 yards (accepted) (no play),1.630,4.040
+2,1:12,1,10,JAX 23,10,7,Jordan Love pass incomplete deep left intended for Romeo Doubs,4.040,3.500
+2,1:07,2,10,JAX 23,10,7,Josh Jacobs up the middle for 4 yards (tackle by Ventrell Miller),3.500,3.340
+2,1:03,,,,,,Timeout #2 by Jacksonville Jaguars,,
+2,1:03,3,6,JAX 19,10,7,Jordan Love pass incomplete deep left intended for Christian Watson,3.340,2.210
+2,0:58,4,6,JAX 19,13,7,Brandon McManus 38 yard field goal good,2.210,3.000
+2,0:54,,,GNB 35,13,7,Brandon McManus kicks off 69 yards returned by Parker Washington for 30 yards (tackle by Edgerrin Cooper and Chris Brooks),0.000,0.670
+2,0:48,1,10,JAX 26,13,7,Trevor Lawrence pass complete short left to Evan Engram for 2 yards (tackle by Keisean Nixon),0.670,0.400
+2,0:30,2,8,JAX 28,13,7,Trevor Lawrence pass complete deep left to Parker Washington for 23 yards (tackle by Xavier McKinney),0.400,2.320
+2,0:23,1,10,GNB 49,13,7,Trevor Lawrence pass complete deep right to Brian Thomas for 28 yards (tackle by Xavier McKinney),2.320,4.170
+2,0:16,,,,,,Timeout #3 by Jacksonville Jaguars,,
+2,0:16,1,10,GNB 21,13,7,Trevor Lawrence pass incomplete short right,4.170,3.630
+2,0:10,2,10,GNB 21,13,7,Trevor Lawrence pass incomplete short right,3.630,2.940
+2,0:07,3,10,GNB 21,13,10,Cam Little 39 yard field goal good,2.940,3.000
+2,0:03,,,JAX 35,13,10,Cam Little kicks off 65 yards touchback.,0.000,0.940
+2,0:03,1,10,GNB 30,13,10,Jordan Love kneels for -1 yards,0.940,0.260
+3,15:00,,,GNB 35,13,10,Brandon McManus kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,JAX 30,13,10,Tank Bigsby left end for 4 yards (tackle by Isaiah McDuffie),0.940,0.930
+3,14:22,2,6,JAX 34,13,10,Tank Bigsby up the middle for 4 yards (tackle by Rashan Gary),0.930,0.760
+3,13:45,3,2,JAX 38,13,10,Trevor Lawrence pass incomplete short left intended for D'Ernest Johnson,0.760,-0.850
+3,13:38,4,2,JAX 38,13,10,Logan Cooke punts 62 yards touchback.,-0.850,-0.280
+3,13:31,1,10,GNB 20,13,10,Jordan Love pass complete short middle to Christian Watson for 14 yards (tackle by Montaric Brown),0.280,1.200
+3,12:52,1,10,GNB 34,13,10,Josh Jacobs up the middle for 3 yards (tackle by Tyler Lacy and DaVon Hamilton),1.200,1.060
+3,12:10,2,7,GNB 37,13,10,Jordan Love pass complete short left to Josh Jacobs for -2 yards (tackle by Devin Lloyd),1.060,0.100
+3,11:30,3,9,GNB 35,13,10,Malik Willis scrambles up the middle for 5 yards (tackle by Arik Armstead),0.100,-0.720
+3,10:51,4,4,GNB 40,13,10,Daniel Whelan punts 53 yards fair catch by Parker Washington at JAC-7,-0.720,0.380
+3,10:43,1,10,JAX 7,13,10,Trevor Lawrence pass complete short left to Tim Jones for 20 yards (tackle by Jaire Alexander),-0.380,0.740
+3,10:07,1,10,JAX 27,13,10,Tank Bigsby right tackle for 16 yards (tackle by Lukas Van Ness),0.740,1.800
+3,9:42,1,10,JAX 43,13,10,Tank Bigsby up the middle for 6 yards (tackle by Lukas Van Ness) GNB challenged the fumble ruling and the play was upheld.,1.800,2.060
+3,9:15,2,4,JAX 49,13,10,Penalty on Tim Jones: False Start 5 yards (accepted) (no play),2.060,1.390
+3,9:15,2,9,JAX 44,13,10,Trevor Lawrence pass complete short left to Evan Engram for 8 yards (tackle by Xavier McKinney and Eric Wilson),1.390,1.750
+3,8:34,3,1,GNB 48,13,10,Tank Bigsby up the middle for no gain (tackle by Edgerrin Cooper and Javon Bullard),1.750,0.070
+3,7:56,4,1,GNB 48,13,10,Trevor Lawrence up the middle for 2 yards (tackle by Kenny Clark),0.070,2.520
+3,7:15,1,10,GNB 46,13,10,Tank Bigsby up the middle for 1 yard (tackle by Karl Brooks and Kingsley Enagbare),2.520,2.110
+3,6:39,2,9,GNB 45,13,10,Trevor Lawrence pass complete deep left to Christian Kirk for 26 yards (tackle by Javon Bullard),2.110,4.310
+3,5:56,1,10,GNB 19,13,10,Tank Bigsby up the middle for 5 yards (tackle by Colby Wooden and Kingsley Enagbare),4.310,4.530
+3,5:17,2,5,GNB 14,13,16,Trevor Lawrence pass complete short middle to Brian Thomas for 14 yards touchdown,4.530,7.000
+3,5:10,,,GNB 15,13,17,Cam Little kicks extra point good,0.000,0.000
+3,5:10,,,JAX 35,13,17,Cam Little kicks off 65 yards touchback.,0.000,0.280
+3,5:10,1,10,GNB 20,13,17,Josh Jacobs up the middle for 5 yards (tackle by Devin Lloyd and Darnell Savage),0.280,0.410
+3,4:59,2,5,GNB 25,13,17,Josh Jacobs up the middle for 4 yards (tackle by Jeremiah Ledbetter),0.410,0.230
+3,3:59,3,1,GNB 29,13,17,Josh Jacobs up the middle for 2 yards (tackle by Jordan Jefferson),0.230,1.000
+3,3:17,1,10,GNB 31,13,17,Josh Jacobs up the middle for 5 yards (tackle by Jeremiah Ledbetter),1.000,1.140
+3,2:44,2,5,GNB 36,13,17,Emanuel Wilson up the middle for 1 yard (tackle by DaVon Hamilton),1.140,0.560
+3,1:59,3,4,GNB 37,13,17,Malik Willis pass complete short left to Dontayvion Wicks for 5 yards (tackle by Tyson Campbell),0.560,1.730
+3,1:21,1,10,GNB 42,13,17,Malik Willis scrambles right end for 20 yards (tackle by Darnell Savage),1.730,3.050
+3,0:31,1,10,JAX 38,19,17,Josh Jacobs up the middle for 38 yards touchdown,3.050,7.000
+3,0:21,,,JAX 15,20,17,Brandon McManus kicks extra point good,0.000,0.000
+3,0:21,,,GNB 35,20,17,Brandon McManus kicks off 65 yards returned by Parker Washington for 21 yards (tackle by Javon Bullard). Penalty on Daniel Thomas: Offensive Illegal Block Above the Waist 10 yards (accepted),0.000,-0.370
+3,0:12,1,10,JAX 11,20,17,Tank Bigsby right end for 3 yards (tackle by Javon Bullard and Isaiah McDuffie),-0.370,-0.530
+4,15:00,2,7,JAX 14,20,17,Trevor Lawrence pass incomplete short left intended for Tank Bigsby (defended by Colby Wooden),-0.530,-1.070
+4,14:55,3,7,JAX 14,20,17,Trevor Lawrence sacked by Edgerrin Cooper for -9 yards. Trevor Lawrence fumbles (forced by Edgerrin Cooper) recovered by Devonte Wyatt at JAC-5. Penalty on Parker Washington: Illegal Motion 5 yards (declined),-1.070,-6.060
+4,14:46,1,5,JAX 5,20,17,Josh Jacobs up the middle for 2 yards (tackle by Tyler Lacy and Travon Walker),6.060,5.530
+4,14:12,2,3,JAX 3,26,17,Malik Willis pass complete short right to Tucker Kraft for 3 yards touchdown,5.530,7.000
+4,14:06,,,JAX 15,27,17,Brandon McManus kicks extra point good,0.000,0.000
+4,14:06,,,GNB 35,27,17,Brandon McManus kicks off 65 yards touchback.,0.000,0.940
+4,14:06,1,10,JAX 30,27,17,Tank Bigsby right end for -1 yards (tackle by Lukas Van Ness and Kenny Clark),0.940,0.260
+4,13:31,2,11,JAX 29,27,17,Trevor Lawrence pass incomplete short middle intended for Evan Engram,0.260,-0.430
+4,13:24,3,11,JAX 29,27,17,Trevor Lawrence pass incomplete deep middle intended for Christian Kirk (defended by Edgerrin Cooper),-0.430,-1.440
+4,13:17,4,11,JAX 29,27,17,Logan Cooke punts 60 yards returned by Jayden Reed for 13 yards (tackle by Ross Matiscik and Ventrell Miller),-1.440,-0.540
+4,13:05,1,10,GNB 24,27,17,Josh Jacobs up the middle for 11 yards (tackle by Andre Cisco),0.540,1.270
+4,12:28,1,10,GNB 35,27,17,Josh Jacobs up the middle for 8 yards (tackle by Josh Hines-Allen),1.270,1.800
+4,11:52,2,2,GNB 43,27,17,Josh Jacobs up the middle for 3 yards (tackle by Tyler Lacy),1.800,1.990
+4,11:17,1,10,GNB 46,27,17,Emanuel Wilson right tackle for no gain (tackle by Joe Gaziano and Foyesade Oluokun),1.990,1.450
+4,10:32,2,10,GNB 46,27,17,Malik Willis pass incomplete short middle intended for Romeo Doubs,1.450,0.760
+4,10:21,3,10,GNB 46,27,17,Malik Willis pass complete short right to Emanuel Wilson for -3 yards (tackle by Montaric Brown),0.760,-0.520
+4,9:47,4,13,GNB 43,27,17,Daniel Whelan punts 37 yards fair catch by Parker Washington at JAC-20,-0.520,-0.280
+4,9:40,1,10,JAX 20,27,17,Tank Bigsby up the middle for 3 yards (tackle by Colby Wooden),0.280,0.140
+4,9:13,2,7,JAX 23,27,17,Trevor Lawrence pass complete short middle to Parker Washington for 8 yards (tackle by Eric Wilson and Edgerrin Cooper),0.140,1.000
+4,8:49,1,10,JAX 31,27,17,Trevor Lawrence pass complete short left to Brenton Strange for 21 yards (tackle by Isaiah McDuffie and Eric Wilson),1.000,2.390
+4,8:17,1,10,GNB 48,27,17,Tank Bigsby left tackle for 14 yards (tackle by Xavier McKinney),2.390,3.310
+4,7:43,1,10,GNB 34,27,17,Trevor Lawrence pass complete short left to Brenton Strange for 5 yards (tackle by Isaiah McDuffie),3.310,3.450
+4,7:09,2,5,GNB 29,27,17,Trevor Lawrence pass complete short left to Tank Bigsby for 2 yards (tackle by Edgerrin Cooper),3.450,3.010
+4,6:17,3,3,GNB 27,27,17,Mitch Morse aborted snap recovered by Trevor Lawrence at GB-29,3.010,1.540
+4,5:39,4,5,GNB 29,27,20,Cam Little 47 yard field goal good,1.540,3.000
+4,5:36,,,JAX 35,27,20,Cam Little kicks off 65 yards touchback.,0.000,0.940
+4,5:36,1,10,GNB 30,27,20,Josh Jacobs up the middle for 1 yard (tackle by Jeremiah Ledbetter),0.940,0.530
+4,4:54,2,9,GNB 31,27,20,Josh Jacobs right end for 2 yards (tackle by DaVon Hamilton and Foyesade Oluokun),0.530,0.100
+4,4:14,3,7,GNB 33,27,20,Malik Willis sacked by and Travon Walker for no gain and Josh Hines-Allen for no gain,0.100,-1.180
+4,4:03,,,,,,Timeout #1 by Jacksonville Jaguars,,
+4,4:03,4,7,GNB 33,27,20,Daniel Whelan punts 63 yards returned by Parker Washington for 9 yards (tackle by Bo Melton),-1.180,0.320
+4,3:50,1,10,JAX 13,27,20,Trevor Lawrence pass complete short right to Evan Engram for 12 yards (tackle by Keisean Nixon and Eric Wilson),-0.320,0.610
+4,3:25,1,10,JAX 25,27,20,Trevor Lawrence pass complete short right to Parker Washington for 15 yards (tackle by Eric Stokes),0.610,1.600
+4,3:19,1,10,JAX 40,27,20,Trevor Lawrence pass complete short middle to D'Ernest Johnson for 20 yards (tackle by Eric Wilson),1.600,2.920
+4,2:53,1,10,GNB 40,27,20,Trevor Lawrence pass complete short right to Brenton Strange for 5 yards (tackle by Javon Bullard),2.920,3.050
+4,2:24,2,5,GNB 35,27,20,Trevor Lawrence pass incomplete short left intended for Tim Jones (defended by Jaire Alexander),3.050,2.340
+4,2:12,3,5,GNB 35,27,20,Trevor Lawrence pass complete deep middle to Brenton Strange for 21 yards (tackle by Edgerrin Cooper),2.340,4.650
+4,2:00,1,10,GNB 14,27,20,Trevor Lawrence pass incomplete short right intended for Parker Washington (defended by Jaire Alexander),4.650,4.000
+4,1:54,2,10,GNB 14,27,26,Trevor Lawrence pass complete short right to Evan Engram for 14 yards touchdown,4.000,7.000
+4,1:48,,,GNB 15,27,27,Cam Little kicks extra point good,0.000,0.000
+4,1:48,,,JAX 35,27,27,Cam Little kicks off 65 yards touchback.,0.000,0.940
+4,1:48,1,10,GNB 30,27,27,Josh Jacobs up the middle for 4 yards (tackle by Foyesade Oluokun and Darnell Savage),0.940,0.930
+4,1:14,2,6,GNB 34,27,27,Malik Willis pass complete deep left to Jayden Reed for 51 yards (tackle by Darnell Savage),0.930,4.580
+4,1:04,1,10,JAX 15,27,27,Josh Jacobs right guard for 3 yards (tackle by DaVon Hamilton),4.580,4.450
+4,0:59,,,,,,Timeout #2 by Jacksonville Jaguars,,
+4,0:59,2,7,JAX 12,27,27,Chris Brooks up the middle for 8 yards (tackle by Antonio Johnson),4.450,6.280
+4,0:54,,,,,,Timeout #3 by Jacksonville Jaguars,,
+4,0:54,1,4,JAX 4,27,27,Malik Willis kneels for -1 yards,6.280,5.150
+4,0:25,2,5,JAX 5,27,27,Malik Willis kneels for -1 yards,5.150,4.040
+4,0:02,,,,,,Timeout #2 by Green Bay Packers,,
+4,0:02,3,6,JAX 6,30,27,Brandon McManus 24 yard field goal good,4.040,3.000

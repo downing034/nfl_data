@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,CIN,CLE,Detail,EPB,EPA
+,,,,,,,Browns won the coin toss and deferred Bengals to receive the opening kickoff.,,
+1,15:00,,,CLE 35,6,0,Dustin Hopkins kicks off 65 yards returned by Charlie Jones for 100 yards touchdown,0.000,7.000
+1,14:48,,,CLE 15,7,0,Evan McPherson kicks extra point good,0.000,0.000
+1,14:48,,,CIN 35,7,0,Evan McPherson kicks off 65 yards returned by D'Onta Foreman for 24 yards (tackle by Maema Njongmeta and Akeem Davis-Gaither),0.000,0.540
+1,14:43,1,10,CLE 24,7,0,Deshaun Watson pass incomplete short middle intended for Nick Chubb,0.540,0.000
+1,14:37,2,10,CLE 24,7,0,Deshaun Watson pass complete short right to Cedric Tillman for 7 yards (tackle by Germaine Pratt),0.000,0.230
+1,14:02,3,3,CLE 31,7,0,Nick Chubb left guard for 2 yards (tackle by Logan Wilson),0.230,-1.180
+1,13:19,4,1,CLE 33,7,0,Corey Bojorquez punts 47 yards returned by Charlie Jones for 1 yard (tackle by Mike Ford),-1.180,-0.340
+1,13:09,1,10,CIN 21,7,0,Chase Brown right end for no gain (tackle by Jordan Hicks),0.340,-0.200
+1,12:31,2,10,CIN 21,7,0,Joe Burrow pass complete short left to Ja'Marr Chase for 6 yards (tackle by Greg Newsome and Martin Emerson),-0.200,-0.100
+1,11:46,3,4,CIN 27,7,0,Joe Burrow pass incomplete deep right intended for Tanner Hudson,-0.100,-1.570
+1,11:39,4,4,CIN 27,7,0,Ryan Rehkow punts 47 yards returned by Jaelon Darden for 11 yards (tackle by Jordan Battle),-1.570,-1.400
+1,11:30,1,10,CLE 37,7,0,Nick Chubb right tackle for 1 yard (tackle by Logan Wilson),1.400,0.990
+1,10:56,2,9,CLE 38,7,0,Deshaun Watson pass complete short left to Cedric Tillman for 8 yards (tackle by Cam Taylor-Britt),0.990,1.360
+1,10:28,3,1,CLE 46,7,0,D'Onta Foreman left guard for 5 yards (tackle by Logan Wilson and Vonn Bell),1.360,2.320
+1,9:54,1,10,CIN 49,7,0,Deshaun Watson pass complete short left to David Njoku for 4 yards (tackle by Germaine Pratt),2.320,2.320
+1,9:16,2,6,CIN 45,7,0,Nick Chubb up the middle for 3 yards (tackle by Sheldon Rankins and Trey Hendrickson),2.320,2.020
+1,8:39,3,3,CIN 42,7,0,Deshaun Watson pass complete short left to Jordan Akins for 5 yards (tackle by Cam Taylor-Britt),2.020,3.120
+1,8:00,1,10,CIN 37,7,0,Deshaun Watson pass complete short right to Jordan Akins for 7 yards (tackle by Logan Wilson and Germaine Pratt),3.120,3.520
+1,7:20,2,3,CIN 30,7,0,Deshaun Watson pass incomplete deep right intended for Cedric Tillman,3.520,2.810
+1,7:15,3,3,CIN 30,7,0,Nick Chubb left guard for -1 yards (tackle by Mike Hilton and Myles Murphy),2.810,1.370
+1,6:32,4,4,CIN 31,7,0,Dustin Hopkins 49 yard field goal no good,1.370,-1.530
+1,6:28,1,10,CIN 39,7,0,Joe Burrow pass complete short middle to Tee Higgins for 17 yards (tackle by Jeremiah Owusu-Koramoah and Juan Thornhill),1.530,2.650
+1,5:56,1,10,CLE 44,7,0,Chase Brown left guard for 4 yards (tackle by Grant Delpit). Penalty on Cordell Volson: Offensive Holding 10 yards (accepted),2.650,2.260
+1,5:25,1,16,CLE 50,7,0,Zack Moss up the middle for 3 yards (tackle by Grant Delpit),2.260,1.710
+1,4:40,2,13,CLE 47,7,0,Joe Burrow pass incomplete short right,1.710,1.030
+1,4:33,3,13,CLE 47,7,0,Joe Burrow pass complete short middle to Zack Moss for 10 yards (tackle by Grant Delpit and Greg Newsome),1.030,0.790
+1,3:49,4,3,CLE 37,7,0,Joe Burrow sacked by Shelby Harris for -5 yards,0.790,-1.730
+1,3:42,1,10,CLE 42,7,0,Deshaun Watson pass complete short left to David Njoku for 6 yards (tackle by Cam Taylor-Britt and Akeem Davis-Gaither),1.730,2.000
+1,3:06,2,4,CLE 48,7,0,D'Onta Foreman left tackle for no gain (tackle by Joseph Ossai),2.000,1.290
+1,2:27,3,4,CLE 48,7,0,Deshaun Watson sacked by Trey Hendrickson for -6 yards,1.290,-0.590
+1,1:50,4,10,CLE 42,7,0,Corey Bojorquez punts 48 yards fair catch by Charlie Jones at CIN-10,-0.590,0.380
+1,1:42,1,10,CIN 10,7,0,Ja'Marr Chase left end for 11 yards (tackle by Grant Delpit),-0.380,0.340
+1,1:14,1,10,CIN 21,7,0,Joe Burrow pass complete deep left to Tee Higgins for 21 yards (tackle by Martin Emerson),0.340,1.730
+1,0:45,1,10,CIN 42,7,0,Joe Burrow pass complete short left to Chase Brown for 3 yards (tackle by Martin Emerson),1.730,1.590
+2,15:00,2,7,CIN 45,7,0,Joe Burrow pass complete short right to Ja'Marr Chase for 5 yards (tackle by Denzel Ward and Mohamoud Diabate),1.590,1.550
+2,14:29,3,2,CIN 50,7,0,Joe Burrow pass incomplete short right intended for Tee Higgins (defended by Martin Emerson),1.550,-0.060
+2,14:23,4,2,CIN 50,7,0,Penalty on Joe Burrow: Delay of Game 5 yards (accepted) (no play),-0.060,-0.390
+2,14:23,4,7,CIN 45,7,0,Ryan Rehkow punts 46 yards fair catch by Jaelon Darden at CLE-9,-0.390,0.380
+2,14:16,1,10,CLE 9,7,0,Deshaun Watson pass complete short middle to Nick Chubb for 10 yards (tackle by Joseph Ossai),-0.380,0.150
+2,13:50,1,10,CLE 19,7,0,Deshaun Watson pass incomplete deep right intended for Jerry Jeudy. Penalty on Joel Bitonio: Illegal Use of Hands / Offense 10 yards (accepted) (no play),0.150,-0.760
+2,13:42,1,20,CLE 9,7,0,Nick Chubb left guard for no gain (tackle by Germaine Pratt and Joseph Ossai),-0.760,-1.510
+2,13:00,2,20,CLE 9,7,0,Deshaun Watson pass complete short left to Elijah Moore for 3 yards (tackle by Germaine Pratt),-1.510,-2.240
+2,12:27,3,17,CLE 12,7,0,Deshaun Watson pass complete short middle to Jordan Akins for 9 yards (tackle by Germaine Pratt and Vonn Bell). Penalty on Jedrick Wills: Illegal Formation 5 yards (declined),-2.240,-1.960
+2,12:03,4,8,CLE 21,7,0,Corey Bojorquez punts 58 yards returned by Charlie Jones for 23 yards (tackle by Tony Brown and Khaleke Hudson),-1.960,-1.860
+2,11:53,1,10,CIN 44,7,0,Chase Brown up the middle for 2 yards (tackle by Jeremiah Owusu-Koramoah),1.860,1.590
+2,11:15,2,8,CIN 46,7,0,Joe Burrow pass incomplete short left intended for Tee Higgins,1.590,0.890
+2,11:13,3,8,CIN 46,7,0,Joe Burrow pass incomplete deep right intended for Andrei Iosivas (defended by Denzel Ward),0.890,-0.320
+2,11:07,4,8,CIN 46,7,0,Ryan Rehkow punts 45 yards fair catch by Jaelon Darden at CLE-9,-0.320,0.380
+2,11:01,1,10,CLE 9,7,0,Deshaun Watson pass complete short middle to David Njoku for 15 yards (tackle by Germaine Pratt),-0.380,0.540
+2,10:18,1,10,CLE 24,7,0,Nick Chubb left guard for no gain (tackle by Logan Wilson and Germaine Pratt) (no play),0.540,0.130
+2,9:55,1,15,CLE 19,7,0,Deshaun Watson sacked by Sheldon Rankins for -7 yards,0.130,-1.660
+2,9:10,2,22,CLE 12,7,0,Deshaun Watson pass complete short middle to David Njoku for 6 yards (tackle by Logan Wilson and Germaine Pratt),-1.660,-1.640
+2,8:30,3,16,CLE 18,7,0,Deshaun Watson pass complete short left to Elijah Moore for 6 yards (tackle by Germaine Pratt),-1.640,-1.770
+2,7:56,4,10,CLE 24,7,0,Corey Bojorquez punts 47 yards fair catch by Charlie Jones at CIN-29,-1.770,-0.870
+2,7:44,1,10,CIN 29,7,0,Joe Burrow pass complete short middle to Ja'Marr Chase for 17 yards (tackle by Rodney McLeod and Mohamoud Diabate). Penalty on Martin Emerson: Illegal Use of Hands / Defense 5 yards (declined),0.870,1.990
+2,7:26,1,10,CIN 46,7,0,Zack Moss up the middle for 2 yards (tackle by Jeremiah Owusu-Koramoah and Michael Hall),1.990,1.720
+2,6:54,2,8,CIN 48,7,0,Joe Burrow sacked by and Maurice Hurst for -5 yards and Isaiah McGuire for -5 yards,1.720,0.370
+2,6:08,3,13,CIN 43,7,0,Joe Burrow sacked by Za'Darius Smith for -7 yards,0.370,-0.980
+2,5:35,4,20,CIN 36,7,0,Ryan Rehkow punts 48 yards returned by Jaelon Darden for 6 yards (tackle by Jordan Battle),-0.980,-0.410
+2,5:25,1,10,CLE 22,7,0,Nick Chubb left tackle for 5 yards (tackle by Joseph Ossai),0.410,0.540
+2,4:47,2,5,CLE 27,7,0,Nick Chubb right guard for 4 yards (tackle by Geno Stone),0.540,0.370
+2,4:21,3,1,CLE 31,7,0,Deshaun Watson right guard for 2 yards (tackle by Logan Wilson and B.J. Hill),0.370,1.140
+2,3:34,,,,,,Timeout #1 by Cleveland Browns,,
+2,3:34,1,10,CLE 33,7,0,Deshaun Watson pass complete short right to David Njoku for 13 yards (tackle by Vonn Bell),1.140,1.990
+2,2:58,1,10,CLE 46,7,0,Deshaun Watson pass complete short left to Elijah Moore for 8 yards (tackle by Cam Taylor-Britt),1.990,2.530
+2,2:17,2,2,CIN 46,7,0,Deshaun Watson pass complete deep right to Jordan Akins for 21 yards (tackle by DJ Turner),2.530,3.910
+2,2:00,1,10,CIN 25,7,0,Pierre Strong right tackle for 4 yards (tackle by Sam Hubbard),3.910,3.900
+2,1:26,2,6,CIN 21,7,0,Deshaun Watson up the middle for -2 yards,3.900,2.940
+2,1:22,,,,,,Timeout #2 by Cleveland Browns,,
+2,1:22,3,8,CIN 23,7,0,Dorian Thompson-Robinson pass incomplete deep right intended for Cedric Tillman. Penalty on DJ Turner: Defensive Pass Interference 22 yards (accepted) (no play),2.940,6.970
+2,1:17,1,1,CIN 1,7,0,Nick Chubb up the middle for no gain touchdown. Penalty on Michael Dunn: Offensive Offside 5 yards (accepted) (no play),6.970,5.830
+2,1:15,1,6,CIN 6,7,0,Nick Chubb up the middle for 5 yards (tackle by Sam Hubbard and Geno Stone),5.830,5.910
+2,1:09,,,,,,Timeout #1 by Cincinnati Bengals,,
+2,1:09,2,1,CIN 1,7,0,Dorian Thompson-Robinson pass incomplete short left intended for David Njoku (defended by Myles Murphy),5.910,5.170
+2,1:06,3,1,CIN 1,7,0,Nick Chubb right guard for no gain (tackle by Joe Bachie and Vonn Bell),5.170,3.550
+2,0:59,,,,,,Timeout #2 by Cincinnati Bengals,,
+2,0:59,4,1,CIN 1,7,6,Nick Chubb left end for 1 yard touchdown,3.550,7.000
+2,0:56,,,CIN 15,7,6,Dustin Hopkins kicks extra point no good,0.000,-1.000
+2,0:56,,,CLE 35,7,6,Dustin Hopkins kicks off 65 yards touchback.,0.000,0.940
+2,0:52,1,10,CIN 30,7,6,Joe Burrow pass incomplete short left intended for Zack Moss (defended by Myles Garrett). Penalty on Ogbonnia Okoronkwo: Roughing the Passer 15 yards (accepted) (no play),0.940,1.930
+2,0:52,1,10,CIN 45,7,6,Joe Burrow pass incomplete deep left intended for Ja'Marr Chase,1.930,1.380
+2,0:42,2,10,CIN 45,7,6,Joe Burrow pass complete short right to Mike Gesicki for 2 yards (tackle by Denzel Ward),1.380,0.960
+2,0:41,,,,,,Timeout #3 by Cincinnati Bengals,,
+2,0:41,3,8,CIN 47,7,6,Joe Burrow pass incomplete short left intended for Tee Higgins (defended by Martin Emerson),0.960,-0.260
+2,0:37,4,8,CIN 47,7,6,Ryan Rehkow punts 38 yards returned by Jaelon Darden for 5 yards (tackle by Tycen Anderson),-0.260,-0.280
+2,0:30,1,10,CLE 20,7,6,Dorian Thompson-Robinson kneels for -2 yards,0.280,-0.630
+3,15:00,,,CIN 35,7,6,Evan McPherson kicks off 64 yards returned by D'Onta Foreman for 7 yards (tackle by Akeem Davis-Gaither),0.000,-0.380
+3,14:58,1,10,CLE 8,7,6,Dorian Thompson-Robinson pass complete short middle to David Njoku for 9 yards (tackle by Geno Stone and Logan Wilson),-0.380,0.050
+3,14:20,2,1,CLE 17,7,6,Dorian Thompson-Robinson pass complete short right to David Njoku for 6 yards (tackle by Geno Stone and Logan Wilson),0.050,0.480
+3,13:45,1,10,CLE 23,7,6,Dorian Thompson-Robinson pass incomplete deep left intended for Cedric Tillman (defended by DJ Turner),0.480,-0.070
+3,13:35,2,10,CLE 23,7,6,Dorian Thompson-Robinson right end for 34 yards (tackle by DJ Turner),-0.070,2.720
+3,12:55,1,10,CIN 43,7,6,Dorian Thompson-Robinson pass incomplete short left intended for David Njoku,2.720,2.180
+3,12:46,2,10,CIN 43,7,6,Dorian Thompson-Robinson scrambles right end for no gain (tackle by DJ Turner) (no play),2.180,1.500
+3,12:20,2,15,CIN 48,7,6,Dorian Thompson-Robinson pass complete short right to Cedric Tillman for 5 yards (tackle by Mike Hilton),1.500,1.490
+3,11:35,3,10,CIN 43,7,6,Dorian Thompson-Robinson pass complete short middle to Elijah Moore for 8 yards (tackle by Josh Newton),1.490,0.990
+3,10:55,4,2,CIN 35,7,6,Dorian Thompson-Robinson pass incomplete short right intended for Nick Chubb,0.990,-1.270
+3,10:49,1,10,CIN 35,7,6,Chase Brown right end for 22 yards (tackle by Grant Delpit),1.270,2.720
+3,10:21,1,10,CLE 43,7,6,Zack Moss up the middle for 1 yard (tackle by Dalvin Tomlinson),2.720,2.310
+3,9:46,2,9,CLE 42,7,6,Joe Burrow pass complete short left to Zack Moss for 19 yards (tackle by Martin Emerson),2.310,4.040
+3,8:57,1,10,CLE 23,7,6,Penalty on Myles Garrett: Defensive Offside 5 yards (accepted) (no play),4.040,4.860
+3,8:37,1,5,CLE 18,7,6,Chase Brown left guard for no gain (tackle by Jeremiah Owusu-Koramoah),4.860,4.210
+3,8:00,2,5,CLE 18,13,6,Joe Burrow pass complete deep left to Ja'Marr Chase for 18 yards touchdown,4.210,7.000
+3,7:56,,,CLE 15,14,6,Evan McPherson kicks extra point good,0.000,0.000
+3,7:56,,,CIN 35,14,6,Evan McPherson kicks off 65 yards touchback.,0.000,0.940
+3,7:56,1,10,CLE 30,14,6,Dorian Thompson-Robinson pass complete short left to Jordan Akins for no gain (tackle by Logan Wilson and Cam Taylor-Britt). Penalty on Joel Bitonio: Ineligible Downfield Pass 5 yards (accepted) (no play),0.940,0.610
+3,7:34,1,15,CLE 25,14,6,Dorian Thompson-Robinson pass complete short right to Pierre Strong for 9 yards (tackle by Geno Stone and DJ Turner),0.610,0.930
+3,6:50,2,6,CLE 34,14,6,Dorian Thompson-Robinson pass short middle intended for Cedric Tillman is intercepted by Sam Hubbard at CLE-43 and returned for no gain (tackle by Jordan Akins),0.930,-2.720
+3,6:44,1,10,CLE 43,14,6,Chase Brown right tackle for 2 yards (tackle by Jordan Hicks and Isaiah McGuire),2.720,2.450
+3,6:08,2,8,CLE 41,14,6,Joe Burrow pass incomplete short right intended for Erick All,2.450,1.750
+3,6:02,3,8,CLE 41,14,6,Zack Moss left guard for 1 yard (tackle by Myles Garrett),1.750,0.590
+3,5:24,4,7,CLE 40,14,6,Ryan Rehkow punts 29 yards downed by Tycen Anderson,0.590,0.370
+3,5:19,1,10,CLE 11,14,6,Dorian Thompson-Robinson pass incomplete short right intended for David Njoku,-0.370,-0.780
+3,5:13,2,10,CLE 11,14,6,Dorian Thompson-Robinson left end for 12 yards (tackle by Logan Wilson),-0.780,0.480
+3,4:32,1,10,CLE 23,14,6,Nick Chubb right tackle for 2 yards (tackle by Myles Murphy and Geno Stone),0.480,0.200
+3,3:51,2,8,CLE 25,14,6,Dorian Thompson-Robinson pass incomplete short left,0.200,-0.490
+3,3:44,3,8,CLE 25,14,6,Dorian Thompson-Robinson pass incomplete deep right,-0.490,-1.700
+3,3:37,4,8,CLE 25,14,6,Corey Bojorquez punts 49 yards returned by Charlie Jones for 9 yards (tackle by Rex Sunahara and Mohamoud Diabate). Penalty on D'Anthony Bell: Unsportsmanlike Conduct / Defense 15 yards (accepted),-1.700,-2.260
+3,3:25,1,10,CIN 50,14,6,Joe Burrow pass complete short left to Tee Higgins for 19 yards (tackle by Martin Emerson and Devin Bush),2.260,3.510
+3,2:44,1,10,CLE 31,14,6,Chase Brown left end for -3 yards (tackle by Mohamoud Diabate),3.510,2.560
+3,1:59,2,13,CLE 34,14,6,Joe Burrow pass complete short right to Ja'Marr Chase for 9 yards (tackle by Denzel Ward),2.560,3.070
+3,1:35,3,4,CLE 25,20,6,Joe Burrow pass complete short middle to Tee Higgins for 25 yards touchdown,3.070,7.000
+3,1:30,,,CLE 15,21,6,Evan McPherson kicks extra point good,0.000,0.000
+3,1:30,,,CIN 35,21,6,Evan McPherson kicks off 65 yards touchback.,0.000,0.940
+3,1:30,1,10,CLE 30,21,6,Pierre Strong right end for no gain (tackle by Germaine Pratt),0.940,0.390
+3,0:49,2,10,CLE 30,21,6,Dorian Thompson-Robinson pass complete short left to Elijah Moore for 4 yards,0.390,0.230
+3,0:11,3,6,CLE 34,21,6,Dorian Thompson-Robinson pass incomplete short right intended for Pierre Strong,0.230,-1.110
+3,0:02,4,6,CLE 34,21,6,Corey Bojorquez punts 55 yards returned by Charlie Jones for 6 yards (tackle by Geoff Swaim),-1.110,0.060
+4,15:00,1,10,CIN 17,21,6,Chase Brown up the middle for 2 yards (tackle by Jeremiah Owusu-Koramoah and Za'Darius Smith),-0.060,-0.250
+4,14:20,2,8,CIN 19,21,6,Joe Burrow pass complete short left to Chase Brown for 6 yards (tackle by Martin Emerson),-0.250,-0.240
+4,13:43,3,2,CIN 25,21,6,Joe Burrow pass complete short left to Zack Moss for 4 yards (tackle by Jordan Hicks),-0.240,0.870
+4,12:58,1,10,CIN 29,21,6,Zack Moss up the middle for 1 yard (tackle by Devin Bush and Shelby Harris),0.870,0.460
+4,12:17,2,9,CIN 30,21,6,Joe Burrow pass incomplete short middle intended for Drew Sample,0.460,-0.230
+4,12:13,,,,,,Timeout #1 by Cincinnati Bengals,,
+4,12:13,3,9,CIN 30,21,6,Joe Burrow pass incomplete deep right intended for Tee Higgins (defended by Denzel Ward),-0.230,-1.370
+4,12:02,4,9,CIN 30,21,6,Ryan Rehkow punts 58 yards returned by Jaelon Darden for 7 yards (tackle by Tycen Anderson),-1.370,-0.150
+4,11:53,1,10,CLE 19,21,6,Dorian Thompson-Robinson sacked by Sam Hubbard for -3 yards. Dorian Thompson-Robinson fumbles (forced by Sam Hubbard) recovered by Joel Bitonio at CLE-16 (tackle by Sam Hubbard),0.150,-0.870
+4,11:15,2,13,CLE 16,21,6,Dorian Thompson-Robinson pass complete short left to Cedric Tillman for 9 yards (tackle by Jordan Battle and Cam Taylor-Britt),-0.870,-0.290
+4,10:49,3,4,CLE 25,21,6,Dorian Thompson-Robinson pass complete short middle to Cedric Tillman for 16 yards (tackle by Germaine Pratt),-0.290,1.660
+4,10:24,1,10,CLE 41,21,6,Pierre Strong left end for 2 yards (tackle by Mike Hilton and Cam Taylor-Britt),1.660,1.390
+4,9:59,2,8,CLE 43,21,6,Dorian Thompson-Robinson pass complete short right to Cedric Tillman for 8 yards (tackle by Geno Stone),1.390,2.320
+4,9:26,1,10,CIN 49,21,6,Dorian Thompson-Robinson pass incomplete short right intended for Jerry Jeudy (defended by B.J. Hill),2.320,1.780
+4,9:22,2,10,CIN 49,21,6,Dorian Thompson-Robinson pass complete short left to David Njoku for 5 yards (tackle by Sheldon Rankins and Germaine Pratt),1.780,1.750
+4,8:50,3,5,CIN 44,21,6,Dorian Thompson-Robinson pass incomplete short middle. Penalty on Dorian Thompson-Robinson: Intentional Grounding 10 yards (accepted) . Penalty on Jedrick Wills: Illegal Touch Pass 5 yards (declined),1.750,-0.320
+4,8:43,4,15,CLE 46,21,6,Corey Bojorquez punts 51 yards downed by Tony Brown,-0.320,0.380
+4,8:34,1,10,CIN 3,21,6,Chase Brown right tackle for -1 yards (tackle by Isaiah McGuire and Jordan Hicks),-0.380,-0.850
+4,7:53,2,11,CIN 2,21,6,Chase Brown up the middle for 11 yards (tackle by Juan Thornhill),-0.850,-0.320
+4,7:00,1,10,CIN 13,21,6,Zack Moss right end for -1 yards (tackle by Dalvin Tomlinson and Isaiah McGuire),-0.320,-0.850
+4,6:28,2,11,CIN 12,21,6,Chase Brown up the middle for 4 yards (tackle by Isaiah McGuire and Jeremiah Owusu-Koramoah),-0.850,-1.060
+4,5:40,,,,,,Timeout #2 by Cincinnati Bengals,,
+4,5:40,3,7,CIN 16,21,6,Chase Brown right guard for 3 yards (tackle by Jeremiah Owusu-Koramoah),-1.060,-2.140
+4,4:57,4,4,CIN 19,21,6,Ryan Rehkow punts 43 yards returned by Jaelon Darden for 14 yards (tackle by Tanner Hudson),-2.140,-2.390
+4,4:50,1,10,CIN 48,21,6,Dorian Thompson-Robinson pass incomplete short left,2.390,1.850
+4,4:43,2,10,CIN 48,21,6,Dorian Thompson-Robinson pass complete short left to Cedric Tillman for 3 yards (tackle by Cam Taylor-Britt),1.850,1.550
+4,4:17,3,7,CIN 45,21,6,Dorian Thompson-Robinson pass deep right intended for Jerry Jeudy is intercepted by Geno Stone at CIN-21 and returned for 49 yards (tackle by David Njoku),1.550,-3.580
+4,4:03,1,10,CLE 30,21,6,Chase Brown left guard for no gain (tackle by Myles Garrett and Jordan Hicks),3.580,3.030
+4,3:58,,,,,,Timeout #1 by Cleveland Browns,,
+4,3:58,2,10,CLE 30,21,6,Chase Brown left guard for -3 yards (tackle by Myles Garrett and Isaiah McGuire),3.030,1.950
+4,3:52,,,,,,Timeout #2 by Cleveland Browns,,
+4,3:52,3,13,CLE 33,21,6,Chase Brown right tackle for 1 yard (tackle by Myles Garrett),1.950,1.240
+4,3:48,,,,,,Timeout #3 by Cleveland Browns,,
+4,3:48,4,12,CLE 32,21,6,Evan McPherson 50 yard field goal no good,1.240,-1.600
+4,3:43,1,10,CLE 40,21,6,Jameis Winston pass incomplete short left intended for Pierre Strong (defended by Trey Hendrickson),1.600,1.050
+4,3:39,2,10,CLE 40,21,6,Jameis Winston pass complete short right to David Njoku for 4 yards (tackle by Mike Hilton and Akeem Davis-Gaither),1.050,0.890
+4,3:15,3,6,CLE 44,21,6,Jameis Winston pass complete deep right to Jerry Jeudy for 18 yards (tackle by DJ Turner),0.890,3.050
+4,2:52,1,10,CIN 38,21,6,Jameis Winston pass incomplete short right intended for Jerry Jeudy,3.050,2.510
+4,2:42,2,10,CIN 38,21,6,Jameis Winston pass incomplete short left intended for Jerry Jeudy,2.510,1.820
+4,2:38,3,10,CIN 38,21,6,Penalty on CLE: False Start 5 yards (accepted) (no play),1.820,1.160
+4,2:38,3,15,CIN 43,21,6,Jameis Winston pass complete deep right to Cedric Tillman for 25 yards (tackle by Germaine Pratt),1.160,4.370
+4,2:13,1,10,CIN 18,21,6,Jameis Winston pass incomplete deep middle intended for Cedric Tillman (defended by Vonn Bell),4.370,3.800
+4,2:09,2,10,CIN 18,21,6,Jameis Winston pass incomplete deep right intended for Jerry Jeudy,3.800,3.050
+4,2:04,3,10,CIN 18,21,6,Jameis Winston pass complete short left to Elijah Moore for 12 yards (tackle by Logan Wilson and Mike Hilton),3.050,5.830
+4,1:59,1,6,CIN 6,21,6,Jameis Winston pass incomplete short middle intended for David Njoku (defended by Jordan Battle),5.830,4.950
+4,1:54,2,6,CIN 6,21,6,Jameis Winston sacked by Trey Hendrickson for -2 yards,4.950,3.580
+4,1:32,3,8,CIN 8,21,12,Jameis Winston pass complete short left to David Njoku for 8 yards touchdown,3.580,7.000
+4,1:27,,,CIN 2,21,14,Two Point Attempt: Jameis Winston pass complete to to Cedric Tillman for no gain,1.000,1.000
+4,1:27,,,,,,Timeout #3 by Cincinnati Bengals,,
+4,1:27,,,CLE 35,21,14,Dustin Hopkins kicks onside 8 yards returned by Mike Gesicki for no gain,0.000,2.720
+4,1:26,1,10,CLE 43,21,14,Joe Burrow kneels for -1 yards,2.720,2.040
+4,0:52,2,11,CLE 44,21,14,Joe Burrow kneels for -1 yards,2.040,1.220
+4,0:33,3,12,CLE 45,21,14,Joe Burrow kneels for -1 yards,1.220,0.200

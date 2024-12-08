@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,MIA,LAR,Detail,EPB,EPA
+,,,,,,,Rams won the coin toss and deferred Dolphins to receive the opening kickoff.,,
+1,15:00,,,LAR 35,0,0,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,MIA 30,0,0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 19 yards (tackle by Omar Speights),0.940,2.190
+1,14:32,1,10,MIA 49,0,0,Tua Tagovailoa pass complete short left to De'Von Achane for -5 yards (tackle by Byron Young),2.190,0.970
+1,13:47,2,15,MIA 44,0,0,Tua Tagovailoa pass complete short right to De'Von Achane for 2 yards (tackle by Kobie Turner),0.970,0.560
+1,12:58,3,13,MIA 46,0,0,Tua Tagovailoa pass complete deep left to Jaylen Waddle for 36 yards (tackle by Cobie Durant),0.560,4.370
+1,12:08,1,10,LAR 18,6,0,Malik Washington right end for 18 yards touchdown,4.370,7.000
+1,12:01,,,LAR 15,7,0,Jason Sanders kicks extra point good,0.000,0.000
+1,12:01,,,MIA 35,7,0,Jason Sanders kicks off 65 yards touchback.,0.000,0.940
+1,12:01,1,10,LAR 30,7,0,Matthew Stafford pass complete short left to Kyren Williams for -10 yards (tackle by Zach Sieler),0.940,-0.960
+1,11:23,2,20,LAR 20,7,0,Kyren Williams left guard for 7 yards (tackle by Jordyn Brooks and Anthony Walker),-0.960,-0.690
+1,10:58,3,13,LAR 27,7,0,Matthew Stafford pass complete short middle to Davis Allen for 10 yards (tackle by Jordan Poyer),-0.690,-0.910
+1,10:04,4,3,LAR 37,7,0,Ethan Evans punts 47 yards returned by Malik Washington for 2 yards,-0.910,-0.040
+1,9:56,1,10,MIA 18,7,0,Tua Tagovailoa pass incomplete short left intended for Jaylen Waddle,0.040,-0.490
+1,9:53,2,10,MIA 18,7,0,Tua Tagovailoa pass incomplete short right intended for Jonnu Smith,-0.490,-1.170
+1,9:50,3,10,MIA 18,7,0,Tua Tagovailoa pass incomplete deep middle intended for Tyreek Hill,-1.170,-2.240
+1,9:45,4,10,MIA 18,7,0,Jake Bailey punts 48 yards out of bounds. Penalty on Siran Neal: Unsportsmanlike Conduct / Offense 15 yards (accepted),-2.240,-2.190
+1,9:38,1,10,LAR 49,7,0,Kyren Williams right guard for 1 yard (tackle by Jordyn Brooks and Calais Campbell),2.190,1.780
+1,8:59,2,9,LAR 50,7,0,Matthew Stafford pass incomplete short right intended for Puka Nacua (defended by Jordyn Brooks) (defended by Calais Campbell),1.780,1.090
+1,8:53,3,9,LAR 50,7,0,Matthew Stafford sacked by Chop Robinson for -10 yards,1.090,-0.720
+1,8:14,4,19,LAR 40,7,0,Ethan Evans punts 51 yards returned by Malik Washington for 7 yards (tackle by Jake Hummel),-0.720,0.140
+1,8:08,1,10,MIA 16,7,0,De'Von Achane left tackle for 4 yards (tackle by Christian Rozeboom),-0.140,0.010
+1,7:25,2,6,MIA 20,7,0,De'Von Achane right end for no gain (tackle by Kobie Turner and Michael Hoecht),0.010,-0.820
+1,6:38,3,6,MIA 20,7,0,Tua Tagovailoa pass complete short left to Raheem Mostert for 9 yards (tackle by Quentin Lake),-0.820,0.870
+1,5:55,1,10,MIA 29,7,0,Jaylen Wright left end for -3 yards (tackle by Cobie Durant),0.870,-0.080
+1,5:12,2,13,MIA 26,7,0,Tua Tagovailoa pass complete short middle to Odell Beckham for 6 yards (tackle by Omar Speights),-0.080,0.040
+1,4:27,3,7,MIA 32,7,0,Tua Tagovailoa pass incomplete short middle intended for Raheem Mostert (defended by Kobie Turner),0.040,-1.240
+1,4:20,4,7,MIA 32,7,0,Jake Bailey punts 35 yards out of bounds,-1.240,-1.140
+1,4:12,1,10,LAR 33,7,0,Matthew Stafford pass complete short right to Tutu Atwell for 6 yards,1.140,1.400
+1,3:34,2,4,LAR 39,7,0,Matthew Stafford pass complete short right to Blake Corum for 7 yards (tackle by Jevon Holland),1.400,1.990
+1,2:53,1,10,LAR 46,7,0,Blake Corum up the middle for 5 yards (tackle by Jordyn Brooks and Neil Farrell),1.990,2.130
+1,2:13,2,5,MIA 49,7,0,Blake Corum up the middle for no gain (tackle by Jordan Poyer and Anthony Walker). Penalty on Alaric Jackson: Illegal Formation 5 yards (accepted) (no play),2.130,1.450
+1,1:52,2,10,LAR 46,7,0,Blake Corum up the middle for 3 yards (tackle by Anthony Walker and Zach Sieler),1.450,1.160
+1,1:11,3,7,LAR 49,7,0,Matthew Stafford pass short middle (defended by Calais Campbell) intended for Demarcus Robinson is intercepted by Anthony Walker at MIA-41 and returned for 5 yards (tackle by Demarcus Robinson),1.160,-1.990
+1,1:01,1,10,MIA 46,7,0,De'Von Achane left tackle for 15 yards (tackle by Bobby Brown and Quentin Lake),1.990,2.980
+1,0:20,1,10,LAR 39,7,0,De'Von Achane left guard for 2 yards (tackle by Jared Verse),2.980,2.710
+2,15:00,2,8,LAR 37,7,0,Jaylen Wright right end for 5 yards (tackle by Omar Speights),2.710,2.680
+2,14:18,3,3,LAR 32,7,0,Tua Tagovailoa pass incomplete deep right intended for Jaylen Waddle,2.680,1.290
+2,14:12,4,3,LAR 32,10,0,Jason Sanders 50 yard field goal good,1.290,3.000
+2,14:07,,,MIA 35,10,0,Jason Sanders kicks off 64 yards returned by Xavier Smith for 15 yards (tackle by Channing Tindall),0.000,-0.140
+2,13:58,1,10,LAR 16,10,0,Matthew Stafford pass complete short right to Cooper Kupp for 7 yards (tackle by Kendall Fuller),-0.140,0.420
+2,13:41,2,3,LAR 23,10,0,Matthew Stafford pass complete short right to Puka Nacua for 5 yards (tackle by Jalen Ramsey),0.420,0.810
+2,13:16,1,10,LAR 28,10,0,Matthew Stafford pass complete short right to Kyren Williams for no gain (tackle by Jalen Ramsey),0.810,0.260
+2,12:44,2,10,LAR 28,10,0,Matthew Stafford pass complete short left to Cooper Kupp for 3 yards (tackle by Kader Kohou),0.260,-0.030
+2,11:55,3,7,LAR 31,10,0,Matthew Stafford sacked by Calais Campbell for -5 yards,-0.030,-1.630
+2,11:11,4,12,LAR 26,10,0,Ethan Evans punts 50 yards returned by Malik Washington for 12 yards (tackle by Christian Rozeboom and Jake Hummel),-1.630,-1.330
+2,10:59,1,10,MIA 36,10,0,De'Von Achane left tackle for -4 yards (tackle by Jared Verse),1.330,0.250
+2,10:18,2,14,MIA 32,10,0,Tua Tagovailoa pass short middle intended for Jaylen Waddle is intercepted by Christian Rozeboom at MIA-44 and returned for 16 yards (tackle by Tua Tagovailoa). Penalty on Braden Fiske: Illegal Blindside Block 15 yards (accepted),0.250,-2.720
+2,10:08,1,10,MIA 43,10,0,Kyren Williams left guard for 3 yards. Kyren Williams fumbles (tackle by Anthony Walker) recovered by Kendall Fuller at MIA-38 and returned for 1 yard (tackle by Puka Nacua),2.720,-1.530
+2,9:55,1,10,MIA 39,10,0,Tua Tagovailoa pass complete short left to Tyreek Hill for 12 yards (tackle by Kamren Kinchens),1.530,2.320
+2,9:15,1,10,LAR 49,10,0,Jaylen Wright right tackle for -3 yards (tackle by Bobby Brown),2.320,1.380
+2,8:33,2,13,MIA 48,10,0,Tua Tagovailoa pass complete short left to De'Von Achane for no gain (tackle by Kobie Turner and Jared Verse),1.380,0.700
+2,7:50,3,13,MIA 48,10,0,Tua Tagovailoa sacked by Jared Verse for -12 yards. Tua Tagovailoa fumbles (forced by Jared Verse) recovered by Jared Verse at MIA-36,0.700,-3.180
+2,7:37,1,10,MIA 36,10,0,Matthew Stafford pass incomplete short left intended for Puka Nacua (defended by Kendall Fuller),3.180,2.640
+2,7:31,,,,,,Timeout #1 by Los Angeles Rams,,
+2,7:31,2,10,MIA 36,10,0,Matthew Stafford pass complete short left to Cooper Kupp for 14 yards (tackle by Kendall Fuller),2.640,4.110
+2,7:06,1,10,MIA 22,10,0,Kyren Williams up the middle for 3 yards (tackle by Da'Shawn Hand and Anthony Walker),4.110,3.970
+2,6:32,2,7,MIA 19,10,0,Matthew Stafford pass complete short right to Puka Nacua for 3 yards,3.970,3.740
+2,5:55,3,4,MIA 16,10,0,Matthew Stafford pass incomplete short left intended for Davis Allen,3.740,2.450
+2,5:50,4,4,MIA 16,10,3,Joshua Karty 34 yard field goal good,2.450,3.000
+2,5:46,,,LAR 35,10,3,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+2,5:46,1,10,MIA 30,10,3,Tyreek Hill left end for 6 yards (tackle by Quentin Lake),0.940,1.200
+2,5:06,2,4,MIA 36,10,3,De'Von Achane up the middle for 6 yards (tackle by Darious Williams),1.200,1.730
+2,4:27,1,10,MIA 42,10,3,Tyreek Hill right end for 5 yards (tackle by Omar Speights),1.730,1.860
+2,3:49,2,5,MIA 47,10,3,Tua Tagovailoa sacked by Byron Young for -15 yards,1.860,-0.820
+2,3:01,3,20,MIA 32,10,3,Tua Tagovailoa pass complete short right to De'Von Achane for 8 yards (tackle by Kobie Turner),-0.820,-0.720
+2,2:22,4,12,MIA 40,10,3,Jake Bailey punts 51 yards out of bounds,-0.720,0.380
+2,2:13,1,10,LAR 9,10,3,Kyren Williams right guard for 9 yards (tackle by Jevon Holland and Jordan Poyer),-0.380,0.140
+2,2:00,2,1,LAR 18,10,3,Kyren Williams up the middle for 2 yards (tackle by Jordan Poyer),0.140,0.280
+2,1:43,1,10,LAR 20,10,3,Matthew Stafford pass complete short middle to Puka Nacua for 9 yards (tackle by Kader Kohou),0.280,0.950
+2,1:24,2,1,LAR 29,10,3,Matthew Stafford pass complete short right to Davis Allen for 4 yards (tackle by Kader Kohou),0.950,1.140
+2,1:06,1,10,LAR 33,10,3,Matthew Stafford pass complete short middle to Kyren Williams for 11 yards (tackle by Anthony Walker and Jordan Poyer),1.140,1.860
+2,0:48,1,10,LAR 44,10,3,Matthew Stafford pass incomplete deep left intended for Demarcus Robinson,1.860,1.320
+2,0:39,2,10,LAR 44,10,3,Matthew Stafford pass complete short left to Kyren Williams for 12 yards (tackle by Anthony Walker),1.320,2.650
+2,0:33,,,,,,Timeout #2 by Los Angeles Rams,,
+2,0:33,1,10,MIA 44,10,3,Matthew Stafford sacked by Quinton Bell for -9 yards. Matthew Stafford fumbles (forced by Quinton Bell) recovered by Matthew Stafford at LA-47,2.650,0.900
+2,0:19,,,,,,Timeout #3 by Los Angeles Rams,,
+2,0:19,2,19,LAR 47,10,3,Matthew Stafford pass complete deep middle to Puka Nacua for 16 yards (tackle by Kendall Fuller),0.900,2.350
+2,0:04,3,3,MIA 37,10,3,Matthew Stafford spiked the ball,2.350,0.790
+2,0:03,4,3,MIA 37,10,6,Joshua Karty 55 yard field goal good,0.790,3.000
+3,15:00,,,MIA 35,10,6,Jason Sanders kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,LAR 30,10,6,Kyren Williams left end for 9 yards (tackle by Jordan Poyer and Zach Sieler),0.940,1.610
+3,14:22,2,1,LAR 39,10,6,Kyren Williams right tackle for 3 yards (tackle by Jordyn Brooks and Anthony Walker),1.610,1.730
+3,13:38,1,10,LAR 42,10,6,Matthew Stafford pass complete deep left to Puka Nacua for 17 yards (tackle by Kendall Fuller),1.730,2.850
+3,12:58,1,10,MIA 41,10,6,Kyren Williams right tackle for 8 yards (tackle by Kendall Fuller and Jordan Poyer),2.850,3.390
+3,12:29,2,2,MIA 33,10,6,Kyren Williams up the middle for 5 yards (tackle by Zach Sieler),3.390,3.710
+3,11:51,1,10,MIA 28,10,6,Matthew Stafford aborted snap recovered by Matthew Stafford at MIA-41 and returned for -13 yards (tackle by Jordyn Brooks),3.710,1.410
+3,11:10,2,23,MIA 41,10,6,Kyren Williams right tackle for 2 yards (tackle by Calais Campbell),1.410,1.020
+3,10:18,3,21,MIA 39,10,6,Matthew Stafford pass complete short left to Puka Nacua for 5 yards (tackle by Cam Smith and Zach Sieler),1.020,1.060
+3,9:34,4,16,MIA 34,10,6,Penalty on Beaux Limmer: False Start 5 yards (accepted) (no play),1.060,0.660
+3,9:17,4,21,MIA 39,10,6,Joshua Karty 57 yard field goal no good,0.660,-2.060
+3,9:11,1,10,MIA 47,10,6,De'Von Achane up the middle for 2 yards (tackle by Kobie Turner),2.060,1.790
+3,8:32,2,8,MIA 49,10,6,Tua Tagovailoa pass complete short left to Jonnu Smith for 10 yards (tackle by Christian Rozeboom and Byron Young),1.790,2.850
+3,7:51,1,10,LAR 41,10,6,De'Von Achane right end for 1 yard (tackle by Tyler Davis),2.850,2.440
+3,7:15,2,9,LAR 40,10,6,Tua Tagovailoa pass complete short right to Durham Smythe for 6 yards (tackle by Darious Williams),2.440,2.540
+3,6:30,3,3,LAR 34,10,6,Tua Tagovailoa pass complete short middle to Jonnu Smith for 33 yards (tackle by Michael Hoecht),2.540,6.970
+3,5:35,,,,,,Timeout #1 by Miami Dolphins,,
+3,5:35,1,1,LAR 1,16,6,Tua Tagovailoa pass complete short left to Tyreek Hill for 1 yard touchdown,6.970,7.000
+3,5:32,,,LAR 15,17,6,Jason Sanders kicks extra point good. Penalty on Cobie Durant: Roughing the Kicker 15 yards (accepted),0.000,0.000
+3,5:32,,,MIA 50,17,6,Jason Sanders kicks off 49 yards returned by Jordan Whittington for 25 yards (tackle by Channing Tindall),0.000,0.670
+3,5:24,1,10,LAR 26,17,6,Matthew Stafford pass incomplete short right intended for Puka Nacua,0.670,0.130
+3,5:19,2,10,LAR 26,17,6,Matthew Stafford pass complete short left to Cooper Kupp for 5 yards (tackle by Jordyn Brooks),0.130,0.100
+3,4:41,3,5,LAR 31,17,6,Matthew Stafford pass complete deep right to Cooper Kupp for 17 yards (tackle by Cam Smith),0.100,2.130
+3,4:12,1,10,LAR 48,17,6,Matthew Stafford pass incomplete deep right intended for Puka Nacua,2.130,1.580
+3,3:59,2,10,LAR 48,17,6,Matthew Stafford pass complete short middle to Tyler Johnson for 10 yards (tackle by Anthony Walker and Jordyn Brooks),1.580,2.790
+3,3:19,1,10,MIA 42,17,6,Kyren Williams left guard for 4 yards (tackle by Emmanuel Ogbah),2.790,2.780
+3,2:40,2,6,MIA 38,17,6,Matthew Stafford pass complete short right to Puka Nacua for 12 yards (tackle by Quinton Bell),2.780,3.840
+3,1:57,1,10,MIA 26,17,6,Kyren Williams left end for 5 yards (tackle by Cam Smith and Jordyn Brooks),3.840,3.970
+3,1:13,2,5,MIA 21,17,6,Kyren Williams right tackle for -2 yards (tackle by Da'Shawn Hand and Emmanuel Ogbah),3.970,3.010
+3,0:31,3,7,MIA 23,17,6,Matthew Stafford sacked by Jevon Holland for -12 yards,3.010,0.970
+4,15:00,4,19,MIA 35,17,9,Joshua Karty 53 yard field goal good,0.970,3.000
+4,14:55,,,LAR 35,17,9,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+4,14:55,1,10,MIA 30,17,9,Tua Tagovailoa pass incomplete short middle intended for Julian Hill (defended by Christian Rozeboom). Penalty on Bobby Brown: Unnecessary Roughness / Defense 15 yards (accepted),0.940,1.930
+4,14:50,1,10,MIA 45,17,9,Tua Tagovailoa pass complete short right to Jonnu Smith for 2 yards (tackle by Quentin Lake and Omar Speights),1.930,1.650
+4,14:05,2,8,MIA 47,17,9,De'Von Achane up the middle for 5 yards (tackle by Cobie Durant and Omar Speights),1.650,1.620
+4,13:24,3,3,LAR 48,17,9,Tua Tagovailoa pass complete short middle to De'Von Achane for 10 yards (tackle by Quentin Lake),1.620,3.050
+4,12:40,1,10,LAR 38,17,9,Tua Tagovailoa pass incomplete short left intended for Malik Washington (defended by Christian Rozeboom),3.050,2.510
+4,12:34,,,,,,Timeout #2 by Miami Dolphins,,
+4,12:34,2,10,LAR 38,17,9,Tua Tagovailoa sacked by Kobie Turner for -9 yards,2.510,0.630
+4,11:45,3,19,LAR 47,17,9,Tua Tagovailoa pass complete short right to Raheem Mostert for 25 yards (tackle by Quentin Lake). Penalty on Jaylen McCollough: Defensive Holding 5 yards (declined),0.630,4.110
+4,11:24,1,10,LAR 22,17,9,De'Von Achane up the middle for 2 yards (tackle by Tyler Davis),4.110,3.830
+4,10:44,2,8,LAR 20,17,9,Jaylen Waddle left end for -1 yards (tackle by Jonah Williams),3.830,3.010
+4,9:58,3,9,LAR 21,17,9,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 2 yards (tackle by Darious Williams and Kamren Curl),3.010,2.180
+4,9:11,4,7,LAR 19,20,9,Jason Sanders 37 yard field goal good,2.180,3.000
+4,9:07,,,MIA 35,20,9,Jason Sanders kicks off 65 yards touchback.,0.000,0.940
+4,9:07,1,10,LAR 30,20,9,Matthew Stafford pass complete deep right to Cooper Kupp for 19 yards (tackle by Cam Smith),0.940,2.190
+4,8:44,1,10,LAR 49,20,9,Matthew Stafford pass complete short right to Davis Allen for 5 yards (tackle by Jalen Ramsey),2.190,2.320
+4,8:24,2,5,MIA 46,20,9,Matthew Stafford pass complete short right to Puka Nacua for 21 yards (tackle by Siran Neal),2.320,3.910
+4,7:54,1,10,MIA 25,20,9,Matthew Stafford pass complete short middle to Cooper Kupp for 15 yards (tackle by Jordyn Brooks),3.910,4.910
+4,7:23,1,10,MIA 10,20,9,Matthew Stafford pass incomplete short middle,4.910,4.190
+4,7:19,2,10,MIA 10,20,9,Matthew Stafford pass complete short right to Tyler Johnson for 6 yards (tackle by Jordyn Brooks and Anthony Walker),4.190,4.490
+4,6:39,3,4,MIA 4,20,9,Matthew Stafford pass incomplete short left intended for Demarcus Robinson,4.490,3.030
+4,6:34,4,4,MIA 4,20,12,Joshua Karty 22 yard field goal good,3.030,3.000
+4,6:31,,,LAR 35,20,12,Ethan Evans kicks off 65 yards touchback.,0.000,0.940
+4,6:31,1,10,MIA 30,20,12,Jaylen Wright up the middle for 5 yards (tackle by Byron Young and Jaylen McCollough),0.940,1.070
+4,5:51,2,5,MIA 35,20,12,Jaylen Wright right tackle for -1 yards (tackle by Omar Speights and Michael Hoecht),1.070,0.230
+4,5:06,3,6,MIA 34,20,12,Tua Tagovailoa pass complete short middle to Odell Beckham for 11 yards (tackle by Jaylen McCollough and Quentin Lake),0.230,1.930
+4,4:24,1,10,MIA 45,20,12,Tua Tagovailoa pass complete deep left to Malik Washington for 17 yards (tackle by Darious Williams),1.930,3.050
+4,3:41,1,10,LAR 38,20,12,De'Von Achane up the middle for 5 yards (tackle by Omar Speights),3.050,3.180
+4,3:00,2,5,LAR 33,20,12,De'Von Achane up the middle for -1 yards (tackle by Bobby Brown),3.180,2.340
+4,2:49,,,,,,Timeout #1 by Los Angeles Rams,,
+4,2:49,3,6,LAR 34,20,12,Tua Tagovailoa pass complete short left to Tyreek Hill for 3 yards (tackle by Kamren Curl),2.340,1.380
+4,2:43,,,,,,Timeout #2 by Los Angeles Rams,,
+4,2:43,4,3,LAR 31,23,12,Jason Sanders 50 yard field goal good,1.380,3.000
+4,2:38,,,MIA 35,23,12,Jason Sanders kicks off 65 yards touchback.,0.000,0.940
+4,2:38,1,10,LAR 30,23,12,Matthew Stafford pass complete short right to Kyren Williams for 7 yards (tackle by Jalen Ramsey),0.940,1.340
+4,2:17,2,3,LAR 37,23,12,Matthew Stafford pass complete short right to Davis Allen for 2 yards,1.340,0.890
+4,2:12,3,1,LAR 39,23,12,Kyren Williams right tackle for no gain (tackle by Chop Robinson and Jordyn Brooks). Penalty on Steve Avila: Offensive Holding 9 yards (accepted) (no play),0.890,-0.300
+4,2:06,3,10,LAR 30,23,12,Matthew Stafford pass complete short middle to Davis Allen for 13 yards (tackle by Chop Robinson),-0.300,1.800
+4,2:00,1,10,LAR 43,23,12,Matthew Stafford pass incomplete short left intended for Kyren Williams (defended by Zach Sieler),1.800,1.250
+4,1:55,2,10,LAR 43,23,12,Matthew Stafford pass complete short right to Puka Nacua for 10 yards (tackle by Jordyn Brooks and Jalen Ramsey),1.250,2.460
+4,1:38,1,10,MIA 47,23,12,Matthew Stafford pass complete deep left to Demarcus Robinson for 23 yards,2.460,3.970
+4,1:30,1,10,MIA 24,23,12,Matthew Stafford pass incomplete short middle intended for Tyler Johnson,3.970,3.430
+4,1:27,2,10,MIA 24,23,12,Matthew Stafford pass complete short right to Tyler Johnson for 9 yards (tackle by Tyus Bowser),3.430,4.170
+4,1:12,3,1,MIA 15,23,12,Kyren Williams right guard for 3 yards (tackle by Jordan Poyer and Jalen Ramsey),4.170,4.780
+4,0:53,1,10,MIA 12,23,12,Matthew Stafford pass incomplete short left intended for Demarcus Robinson,4.780,4.100
+4,0:46,2,10,MIA 12,23,12,Matthew Stafford pass incomplete short right intended for Puka Nacua,4.100,3.120
+4,0:42,3,10,MIA 12,23,15,Joshua Karty 31 yard field goal good,3.120,3.000
+4,0:39,,,LAR 35,23,15,Joshua Karty kicks onside 8 yards returned by Duke Riley for no gain,0.000,2.720
+4,0:38,1,10,LAR 43,23,15,Tua Tagovailoa kneels for -1 yards,2.720,2.040

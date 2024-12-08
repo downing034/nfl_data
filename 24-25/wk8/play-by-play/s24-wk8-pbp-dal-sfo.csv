@@ -1,0 +1,174 @@
+Quarter,Time,Down,ToGo,Location,DAL,SFO,Detail,EPB,EPA
+,,,,,,,Cowboys won the coin toss Cowboys to receive the opening kickoff.,,
+1,15:00,,,SFO 35,0,0,Anders Carlson kicks off 61 yards returned by KaVontae Turpin for 26 yards (tackle by Patrick Taylor). Penalty on Jalen Tolbert: Illegal Formation 5 yards (accepted),0.000,0.610
+1,14:55,1,10,DAL 25,0,0,Ezekiel Elliott right guard for 7 yards (tackle by Nick Bosa),0.610,1.010
+1,14:20,2,3,DAL 32,0,0,Dak Prescott pass complete short right to CeeDee Lamb for 4 yards (tackle by De'Vondre Campbell),1.010,1.330
+1,13:51,1,10,DAL 36,0,0,Ezekiel Elliott up the middle for no gain (tackle by Deommodore Lenoir and Leonard Floyd),1.330,0.790
+1,13:17,2,10,DAL 36,0,0,Dak Prescott pass complete short left to CeeDee Lamb for 5 yards (tackle by Ji'Ayir Brown),0.790,0.760
+1,12:39,3,5,DAL 41,0,0,Hunter Luepke right guard for no gain (tackle by Fred Warner and Maliek Collins),0.760,-0.650
+1,11:54,4,5,DAL 41,0,0,Bryan Anger punts 52 yards returned by Jacob Cowing for 6 yards (tackle by Ryan Flournoy),-0.650,0.320
+1,11:44,1,10,SFO 13,0,0,Deebo Samuel left end for 1 yard (tackle by Carl Lawson and DeMarvion Overshown),-0.320,-0.680
+1,11:10,2,9,SFO 14,0,0,Brock Purdy pass complete short middle to Ricky Pearsall for 8 yards (tackle by Amani Oruwariye and DeMarvion Overshown),-0.680,-0.350
+1,10:29,3,1,SFO 22,0,0,Penalty on Chris Conley: False Start 5 yards (accepted) (no play),-0.350,-0.940
+1,10:16,3,6,SFO 17,0,0,Brock Purdy pass complete deep right to Deebo Samuel for 47 yards (tackle by Malik Hooker),-0.940,3.180
+1,9:33,1,10,DAL 36,0,0,Jordan Mason up the middle for 4 yards (tackle by Mazi Smith),3.180,3.180
+1,9:11,2,6,DAL 32,0,0,Jordan Mason left end for no gain (tackle by Malik Hooker). Penalty on Kyle Juszczyk: Offensive Holding 10 yards (accepted) (no play),3.180,1.830
+1,8:45,2,16,DAL 42,0,0,Brock Purdy pass complete short middle to Ricky Pearsall for 6 yards (tackle by Amani Oruwariye),1.830,1.950
+1,7:59,3,10,DAL 36,0,0,Jordan Mason up the middle for 4 yards (tackle by Chauncey Golston),1.950,1.250
+1,7:19,4,6,DAL 32,0,3,Anders Carlson 50 yard field goal good,1.250,3.000
+1,7:14,,,SFO 35,0,3,Anders Carlson kicks off 59 yards returned by KaVontae Turpin for 26 yards (tackle by Demetrius Flannigan-Fowles),0.000,1.070
+1,7:08,1,10,DAL 32,0,3,Dak Prescott pass complete short right to Jake Ferguson for 2 yards (tackle by De'Vondre Campbell),1.070,0.800
+1,6:29,2,8,DAL 34,0,3,Dak Prescott pass complete short middle to Dalvin Cook for 10 yards (tackle by De'Vondre Campbell),0.800,1.860
+1,5:55,1,10,DAL 44,0,3,Dalvin Cook right tackle for 1 yard (tackle by De'Vondre Campbell),1.860,1.450
+1,5:18,2,9,DAL 45,0,3,Dak Prescott pass complete short right to CeeDee Lamb for 10 yards (tackle by Charvarius Ward),1.450,2.590
+1,4:36,1,10,SFO 45,0,3,Dak Prescott pass deep left intended for KaVontae Turpin is intercepted by Ji'Ayir Brown at SF-8 and returned for no gain (tackle by KaVontae Turpin),2.590,0.380
+1,4:27,1,10,SFO 8,0,3,Jordan Mason left tackle for 6 yards (tackle by Linval Joseph and Carlos Watkins),-0.380,-0.320
+1,4:07,2,4,SFO 14,0,3,Brock Purdy pass complete deep right to George Kittle for 16 yards (tackle by Jourdan Lewis),-0.320,0.940
+1,3:36,1,10,SFO 30,0,3,Brock Purdy pass incomplete deep left intended for Deebo Samuel,0.940,0.390
+1,3:29,2,10,SFO 30,0,3,Isaac Guerendo right tackle for 4 yards (tackle by Donovan Wilson),0.390,0.230
+1,2:49,3,6,SFO 34,0,3,Brock Purdy pass incomplete deep left intended for George Kittle,0.230,-1.110
+1,2:44,4,6,SFO 34,0,3,Mitch Wishnowsky punts 44 yards returned by KaVontae Turpin for 13 yards (tackle by Demetrius Flannigan-Fowles and Dee Winters). Penalty on Juanyeh Thomas: Unnecessary Roughness / Offense 15 yards (offset) . Penalty on Fred Warner: Unnecessary Roughness / Defense 15 yards (offset),-1.110,-1.270
+1,2:33,1,10,DAL 35,0,3,Dak Prescott pass complete short right to CeeDee Lamb for 6 yards (tackle by Charvarius Ward),1.270,1.530
+1,2:02,2,4,DAL 41,0,3,Dak Prescott pass complete short left to Jalen Tolbert for no gain (tackle by De'Vondre Campbell). Penalty on Tyler Guyton: Offensive Holding 10 yards (declined) . Penalty on Jake Ferguson: Offensive Holding 10 yards (accepted) (no play),1.530,0.180
+1,1:40,2,14,DAL 31,0,3,Ezekiel Elliott up the middle for 5 yards (tackle by Ji'Ayir Brown),0.180,0.170
+1,1:06,3,9,DAL 36,0,3,KaVontae Turpin left end for 11 yards. KaVontae Turpin fumbles (forced by Deommodore Lenoir) recovered by Cooper Beebe at DAL-48 (tackle by Deommodore Lenoir),0.170,2.130
+1,0:25,1,10,DAL 48,0,3,Dalvin Cook up the middle for 4 yards (tackle by De'Vondre Campbell),2.130,2.120
+2,15:00,2,6,SFO 48,0,3,Dalvin Cook right guard for 2 yards (tackle by Charvarius Ward),2.120,1.680
+2,14:22,3,4,SFO 46,0,3,Dak Prescott pass complete short middle to CeeDee Lamb for 15 yards (tackle by Ji'Ayir Brown),1.680,3.510
+2,13:45,1,10,SFO 31,0,3,Ezekiel Elliott up the middle for 11 yards (tackle by Fred Warner and Malik Mustapha),3.510,4.240
+2,13:03,1,10,SFO 20,0,3,Dak Prescott sacked by Nick Bosa for -5 yards,4.240,3.020
+2,12:21,2,15,SFO 25,0,3,Ezekiel Elliott up the middle for 5 yards (tackle by Malik Mustapha and Charvarius Ward),3.020,3.010
+2,11:44,3,10,SFO 20,0,3,Dak Prescott pass complete short right to Jake Ferguson for 10 yards (tackle by Fred Warner and Leonard Floyd),3.010,4.910
+2,11:09,1,10,SFO 10,0,3,Dak Prescott pass incomplete short right intended for Luke Schoonmaker. Penalty on Charvarius Ward: Defensive Pass Interference 9 yards (accepted) (no play),4.910,6.970
+2,11:02,1,1,SFO 1,6,3,Ezekiel Elliott up the middle for 1 yard touchdown,6.970,7.000
+2,10:58,,,SFO 15,7,3,Brandon Aubrey kicks extra point good,0.000,0.000
+2,10:58,,,DAL 35,7,3,Brandon Aubrey kicks off 61 yards returned by Patrick Taylor for 30 yards (tackle by Buddy Johnson),0.000,1.200
+2,10:52,1,10,SFO 34,7,3,Brock Purdy pass complete deep right to Deebo Samuel for no gain touchdown. Penalty on Eric Saubert: Offensive Holding 10 yards (accepted) (no play),1.200,0.540
+2,10:42,1,20,SFO 24,7,3,Brock Purdy pass complete short right to Ricky Pearsall for 11 yards (tackle by Marist Liufau),0.540,0.790
+2,9:59,2,9,SFO 35,7,3,Jordan Mason left guard for 2 yards (tackle by Chauncey Golston and Mazi Smith),0.790,0.370
+2,9:21,3,7,SFO 37,7,3,Brock Purdy pass complete short right to Ricky Pearsall for 13 yards (tackle by Amani Oruwariye),0.370,2.260
+2,8:40,1,10,SFO 50,7,3,Brock Purdy pass complete short left to Deebo Samuel for 5 yards (tackle by Jourdan Lewis),2.260,2.390
+2,7:57,2,5,DAL 45,7,3,Jordan Mason left end for 1 yard (tackle by Chauncey Golston),2.390,1.820
+2,7:14,3,4,DAL 44,7,3,Jordan Mason right tackle for 1 yard (tackle by Chauncey Golston and DeMarvion Overshown),1.820,0.400
+2,6:35,,,,,,Timeout #1 by Dallas Cowboys,,
+2,6:35,4,3,DAL 43,7,3,Brock Purdy pass incomplete short middle intended for Deebo Samuel,0.400,-1.800
+2,6:32,1,10,DAL 43,7,3,Penalty on Nick Bosa: Neutral Zone Infraction 5 yards (accepted) (no play),1.800,2.530
+2,6:32,1,5,DAL 48,7,3,Dak Prescott pass complete short left to CeeDee Lamb for 5 yards,2.530,2.460
+2,6:02,1,10,SFO 47,7,3,Dalvin Cook left guard for no gain (tackle by Jordan Elliott),2.460,1.910
+2,5:25,2,10,SFO 47,7,3,Dak Prescott pass complete short right to Jake Ferguson for 6 yards (tackle by Charvarius Ward and De'Vondre Campbell),1.910,2.010
+2,4:43,3,4,SFO 41,7,3,Dak Prescott pass complete deep left to Jalen Tolbert for 28 yards (tackle by Deommodore Lenoir). Penalty on Deommodore Lenoir: Illegal Contact 5 yards (declined),2.010,4.710
+2,4:25,1,10,SFO 13,7,3,Dak Prescott pass complete short middle to CeeDee Lamb for 3 yards (tackle by Dee Winters),4.710,4.580
+2,3:50,2,7,SFO 10,7,3,Dak Prescott pass incomplete short right intended for Brevyn Spann-Ford (defended by Malik Mustapha),4.580,3.650
+2,3:44,3,7,SFO 10,7,3,Dak Prescott pass complete short left to Jake Ferguson for -1 yards. Jake Ferguson fumbles recovered by Jake Ferguson at SF-11 (tackle by Malik Mustapha),3.650,2.700
+2,2:59,4,8,SFO 11,10,3,Brandon Aubrey 29 yard field goal good,2.700,3.000
+2,2:56,,,DAL 35,10,3,Brandon Aubrey kicks off 65 yards touchback.. Penalty on Markquese Bell: Illegal Formation 5 yards (accepted),0.000,1.270
+2,2:56,1,10,SFO 35,10,3,Isaac Guerendo right tackle for 19 yards (tackle by Jourdan Lewis and Malik Hooker),1.270,2.520
+2,2:16,1,10,DAL 46,10,3,Isaac Guerendo up the middle for 15 yards (tackle by Jourdan Lewis and Donovan Wilson),2.520,3.510
+2,2:00,1,10,DAL 31,10,3,Isaac Guerendo left end for no gain (tackle by Malik Hooker and Eric Kendricks). Penalty on George Kittle: Offensive Holding 10 yards (accepted) (no play),3.510,2.850
+2,1:54,1,20,DAL 41,10,3,Brock Purdy pass incomplete short left intended for Deebo Samuel,2.850,1.620
+2,1:50,2,20,DAL 41,10,3,Brock Purdy pass complete short right to Isaac Guerendo for 5 yards (tackle by Amani Oruwariye),1.620,1.620
+2,1:45,3,15,DAL 36,10,3,Brock Purdy pass complete short right to George Kittle for 10 yards (tackle by Amani Oruwariye and DeMarvion Overshown),1.620,1.790
+2,1:35,,,,,,Timeout #2 by Dallas Cowboys,,
+2,1:35,4,5,DAL 26,10,6,Anders Carlson 44 yard field goal good,1.790,3.000
+2,1:30,,,SFO 35,10,6,Anders Carlson kicks off 59 yards recovered by KaVontae Turpin at DAL-10 (tackle by Robert Beal),0.000,1.140
+2,1:24,1,10,DAL 33,10,6,Dak Prescott pass complete short left to Jalen Tolbert for 7 yards (tackle by Renardo Green),1.140,1.540
+2,1:09,2,3,DAL 40,10,6,Dak Prescott pass incomplete deep right intended for Jake Ferguson,1.540,0.830
+2,1:04,3,3,DAL 40,10,6,Dak Prescott pass incomplete short middle intended for CeeDee Lamb,0.830,-0.720
+2,1:01,4,3,DAL 40,10,6,Bryan Anger punts 43 yards fair catch by Jacob Cowing at SF-17,-0.720,0.060
+2,0:54,1,10,SFO 17,10,6,Brock Purdy scrambles left end for no gain (tackle by Amani Oruwariye) Replay Assistant challenged the runner was in bounds ruling and the original play was overturned. Brock Purdy scrambles left end for 13 yards (tackle by Amani Oruwariye),-0.060,0.940
+2,0:47,,,,,,Timeout #1 by San Francisco 49ers,,
+2,0:47,1,10,SFO 30,10,6,Brock Purdy pass complete short left to George Kittle for 30 yards (tackle by Malik Hooker and Jourdan Lewis),0.940,2.920
+2,0:39,,,,,,Timeout #2 by San Francisco 49ers,,
+2,0:39,1,10,DAL 40,10,6,Brock Purdy pass incomplete short right intended for Isaac Guerendo,2.920,2.370
+2,0:34,2,10,DAL 40,10,6,Brock Purdy sacked by. Brock Purdy fumbles recovered by Aaron Banks at DAL-47,2.370,0.760
+2,0:26,,,,,,Timeout #3 by San Francisco 49ers,,
+2,0:26,3,17,DAL 47,10,6,Brock Purdy pass incomplete deep left intended for Chris Conley,0.760,0.130
+2,0:20,4,17,DAL 47,10,6,Mitch Wishnowsky punts 45 yards downed by Ronnie Bell,0.130,0.380
+2,0:10,1,10,DAL 2,10,6,Dak Prescott kneels for -1 yards,-0.380,-0.850
+3,15:00,,,DAL 35,10,6,Brandon Aubrey kicks off 25 yards. Penalty on Brandon Aubrey: Kickoff Short of Landing Zone (accepted),0.000,1.600
+3,15:00,1,10,SFO 40,10,6,Isaac Guerendo left guard for no gain (tackle by Osa Odighizuwa),1.600,1.050
+3,14:23,2,10,SFO 40,10,6,Brock Purdy scrambles left tackle for 9 yards (tackle by DeMarvion Overshown and Eric Kendricks). Penalty on Chauncey Golston: Defensive Too Many Men on Field 5 yards (declined),1.050,1.550
+3,14:19,3,1,SFO 49,10,6,Brock Purdy up the middle for 4 yards (tackle by Carl Lawson),1.550,2.460
+3,13:39,1,10,DAL 47,10,6,Brock Purdy pass complete short middle to George Kittle for 43 yards (tackle by Trevon Diggs),2.460,6.280
+3,13:00,1,4,DAL 4,10,12,Isaac Guerendo up the middle for 4 yards touchdown,6.280,7.000
+3,12:57,,,DAL 15,10,13,Anders Carlson kicks extra point good,0.000,0.000
+3,12:57,,,SFO 35,10,13,Anders Carlson kicks off 63 yards returned by KaVontae Turpin for 14 yards lateral to C.J. Goodwin for 13 yards (tackle by Dee Winters). Penalty on KaVontae Turpin: Illegal Forward Pass 5 yards (accepted),0.000,-0.370
+3,12:48,1,10,DAL 11,10,13,Dak Prescott pass complete short left to Jake Ferguson for no gain (tackle by Ji'Ayir Brown),-0.370,-0.780
+3,12:16,2,10,DAL 11,10,13,Dak Prescott pass complete short right to CeeDee Lamb for 6 yards (tackle by Charvarius Ward and Nick Bosa),-0.780,-0.720
+3,11:38,3,4,DAL 17,10,13,Dak Prescott pass short left intended for CeeDee Lamb is intercepted by Deommodore Lenoir at DAL-32 and returned for no gain (tackle by CeeDee Lamb),-0.720,-3.450
+3,11:30,1,10,DAL 32,10,13,Brock Purdy pass complete short left to Isaac Guerendo for 12 yards (tackle by Eric Kendricks),3.450,4.240
+3,10:55,1,10,DAL 20,10,13,Brock Purdy pass complete short right to Deebo Samuel for 3 yards (tackle by Tyrus Wheat and Linval Joseph),4.240,4.120
+3,10:09,2,7,DAL 17,10,13,Deebo Samuel left end for 4 yards (tackle by Eric Kendricks),4.120,4.100
+3,9:29,3,3,DAL 13,10,13,Brock Purdy scrambles left end for 6 yards (tackle by DeMarvion Overshown),4.100,5.600
+3,8:44,1,7,DAL 7,10,13,Deebo Samuel right end for 4 yards (tackle by Trevon Diggs and Donovan Wilson),5.600,5.530
+3,8:01,2,3,DAL 3,10,13,Kyle Juszczyk up the middle for 1 yard (tackle by Carl Lawson and Donovan Wilson),5.530,4.950
+3,7:16,3,2,DAL 2,10,19,Brock Purdy pass complete short right to George Kittle for 2 yards touchdown,4.950,7.000
+3,7:14,,,DAL 15,10,20,Anders Carlson kicks extra point good,0.000,0.000
+3,7:14,,,SFO 35,10,20,Anders Carlson kicks off 65 yards returned by KaVontae Turpin for 26 yards (tackle by Darrell Luter),0.000,0.670
+3,7:08,1,10,DAL 26,10,20,Ezekiel Elliott left guard for 6 yards (tackle by Malik Mustapha and Ji'Ayir Brown),0.670,0.940
+3,6:34,2,4,DAL 32,10,20,Dak Prescott pass incomplete short right intended for Jake Ferguson,0.940,0.230
+3,6:28,3,4,DAL 32,10,20,Dak Prescott pass incomplete short right intended for KaVontae Turpin,0.230,-1.240
+3,6:20,4,4,DAL 32,10,20,Bryan Anger punts 59 yards returned by Jacob Cowing for 16 yards (tackle by Trent Sieg and Hunter Luepke),-1.240,-0.610
+3,6:09,1,10,SFO 25,10,20,Isaac Guerendo left end for 4 yards (tackle by Trevon Diggs and Linval Joseph),0.610,0.600
+3,5:27,2,6,SFO 29,10,20,Brock Purdy scrambles right tackle for 16 yards (tackle by Malik Hooker),0.600,1.930
+3,4:43,1,10,SFO 45,10,20,Brock Purdy pass complete deep middle to George Kittle for 27 yards (tackle by Eric Kendricks),1.930,3.710
+3,4:00,1,10,DAL 28,10,20,Isaac Guerendo left tackle for 3 yards (tackle by Chauncey Golston),3.710,3.570
+3,3:18,,,,,,Timeout #1 by San Francisco 49ers,,
+3,3:18,2,7,DAL 25,10,20,Brock Purdy pass complete short right to Isaac Guerendo for no gain (tackle by Amani Oruwariye),3.570,2.870
+3,2:33,3,7,DAL 25,10,20,Brock Purdy pass complete short middle to Deebo Samuel for 16 yards (tackle by Malik Hooker and Israel Mukuamu),2.870,5.140
+3,1:46,1,9,DAL 9,10,20,Isaac Guerendo left guard for 1 yard (tackle by Trevon Diggs and Eric Kendricks),5.140,4.570
+3,1:04,2,8,DAL 8,10,20,Deebo Samuel right end for 6 yards (tackle by Amani Oruwariye),4.570,4.950
+3,0:40,3,2,DAL 2,10,26,Brock Purdy up the middle for 2 yards touchdown,4.950,7.000
+3,0:36,,,DAL 15,10,27,Anders Carlson kicks extra point good,0.000,0.000
+3,0:36,,,SFO 35,10,27,Anders Carlson kicks off 25 yards out of bounds. Penalty on Anders Carlson: Kickoff Out of Bounds (accepted),0.000,1.600
+3,0:36,1,10,DAL 40,10,27,Dalvin Cook up the middle for 4 yards (tackle by De'Vondre Campbell),1.600,1.590
+4,15:00,2,6,DAL 44,10,27,Dalvin Cook right tackle for 1 yard (tackle by Deommodore Lenoir),1.590,1.030
+4,14:24,3,5,DAL 45,10,27,Dak Prescott sacked by Sam Okuayinonu for -2 yards,1.030,-0.520
+4,13:41,4,7,DAL 43,10,27,Bryan Anger punts 40 yards fair catch by Jacob Cowing at SF-17,-0.520,0.060
+4,13:34,1,10,SFO 17,10,27,Isaac Guerendo up the middle for 9 yards (tackle by Jourdan Lewis),-0.060,0.750
+4,12:58,2,1,SFO 26,10,27,Isaac Guerendo up the middle for no gain (tackle by Eric Kendricks),0.750,-0.120
+4,12:14,3,1,SFO 26,10,27,Brock Purdy pass incomplete short right intended for Ronnie Bell (defended by Trevon Diggs),-0.120,-1.630
+4,12:05,4,1,SFO 26,10,27,Mitch Wishnowsky punts 44 yards fair catch by KaVontae Turpin at DAL-30,-1.630,-0.940
+4,11:57,1,10,DAL 30,10,27,Penalty on Terence Steele: False Start 5 yards (accepted) (no play),0.940,0.610
+4,11:57,1,15,DAL 25,10,27,Ezekiel Elliott right tackle for 1 yard (tackle by Evan Anderson and Fred Warner),0.610,-0.150
+4,11:36,2,14,DAL 26,10,27,Dak Prescott pass complete short right to Ezekiel Elliott for 4 yards (tackle by Fred Warner),-0.150,-0.300
+4,11:07,3,10,DAL 30,10,27,Dak Prescott pass incomplete deep right intended for Jalen Tolbert. Penalty on Charvarius Ward: Defensive Pass Interference 19 yards (accepted) (no play),-0.300,2.190
+4,11:00,1,10,DAL 49,10,27,Dak Prescott pass incomplete short left intended for Brevyn Spann-Ford,2.190,1.650
+4,10:54,2,10,DAL 49,10,27,Dak Prescott pass incomplete deep left intended for CeeDee Lamb,1.650,0.960
+4,10:50,3,10,DAL 49,10,27,Dak Prescott pass complete short left to Jake Ferguson for 6 yards (tackle by Deommodore Lenoir),0.960,0.270
+4,10:15,4,4,SFO 45,10,27,Dak Prescott pass complete short right to KaVontae Turpin for 16 yards (tackle by Deommodore Lenoir),0.270,3.640
+4,9:48,1,10,SFO 29,10,27,Dak Prescott pass complete short right to Jalen Tolbert for 9 yards (tackle by Isaac Yiadom),3.640,4.320
+4,9:16,2,1,SFO 20,10,27,Dak Prescott pass complete short right to CeeDee Lamb for 15 yards (tackle by Charvarius Ward),4.320,6.060
+4,8:42,1,5,SFO 5,10,27,Ezekiel Elliott up the middle for -2 yards (tackle by Fred Warner),6.060,4.760
+4,8:04,2,7,SFO 7,16,27,Dak Prescott pass complete short left to CeeDee Lamb for 7 yards touchdown,4.760,7.000
+4,7:58,,,SFO 15,17,27,Brandon Aubrey kicks extra point good,0.000,0.000
+4,7:58,,,DAL 35,17,27,Brandon Aubrey kicks off 63 yards returned by Patrick Taylor for 29 yards (tackle by Juanyeh Thomas),0.000,1.000
+4,7:52,1,10,SFO 31,17,27,Isaac Guerendo right end for 4 yards (tackle by DeMarvion Overshown),1.000,1.000
+4,7:11,2,6,SFO 35,17,27,Ricky Pearsall left end for 39 yards (tackle by Donovan Wilson),1.000,3.840
+4,6:25,1,10,DAL 26,17,27,Patrick Taylor left guard for no gain (tackle by Carlos Watkins and Tyrus Wheat). Penalty on Ricky Pearsall: Illegal Formation 5 yards (accepted) (no play),3.840,3.510
+4,6:07,1,15,DAL 31,17,27,Patrick Taylor left guard for 4 yards (tackle by Tyrus Wheat and Eric Kendricks),3.510,3.160
+4,5:25,2,11,DAL 27,17,27,Patrick Taylor right end for 5 yards (tackle by Mazi Smith and Osa Odighizuwa),3.160,3.140
+4,4:39,3,6,DAL 22,17,27,Brock Purdy pass incomplete short right,3.140,2.020
+4,4:30,4,6,DAL 22,17,30,Anders Carlson 41 yard field goal good,2.020,3.000
+4,4:25,,,SFO 35,17,30,Anders Carlson kicks off 65 yards touchback.,0.000,0.940
+4,4:25,1,10,DAL 30,17,30,Ezekiel Elliott left end for no gain (tackle by Renardo Green),0.940,0.390
+4,4:03,2,10,DAL 30,17,30,Dak Prescott pass complete short left to CeeDee Lamb for 21 yards (tackle by Fred Warner),0.390,2.320
+4,3:56,1,10,SFO 49,17,30,Dak Prescott pass complete short right to CeeDee Lamb for 29 yards (tackle by Malik Mustapha and Fred Warner),2.320,4.240
+4,3:36,1,10,SFO 20,23,30,Dak Prescott pass complete deep left to CeeDee Lamb for 20 yards touchdown,4.240,7.000
+4,3:32,,,SFO 15,24,30,Brandon Aubrey kicks extra point good,0.000,0.000
+4,3:32,,,DAL 35,24,30,Brandon Aubrey kicks off 65 yards touchback.,0.000,0.940
+4,3:32,1,10,SFO 30,24,30,Brock Purdy scrambles left end for 7 yards (tackle by Marist Liufau),0.940,1.340
+4,3:25,,,,,,Timeout #1 by Dallas Cowboys,,
+4,3:25,2,3,SFO 37,24,30,Brock Purdy sacked by DeMarvion Overshown for -7 yards,1.340,-0.300
+4,3:22,,,,,,Timeout #2 by Dallas Cowboys,,
+4,3:22,3,10,SFO 30,24,30,Brock Purdy pass complete short middle to Kyle Juszczyk for 6 yards (tackle by Malik Hooker and Eric Kendricks),-0.300,-0.980
+4,3:15,,,,,,Timeout #3 by Dallas Cowboys,,
+4,3:15,4,4,SFO 36,24,30,Mitch Wishnowsky punts 39 yards downed by Chris Conley,-0.980,-0.610
+4,3:05,1,10,DAL 25,24,30,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Fred Warner),0.610,0.060
+4,3:00,2,10,DAL 25,24,30,Dak Prescott pass incomplete short right,0.060,-0.620
+4,2:55,3,10,DAL 25,24,30,Dak Prescott pass incomplete deep left intended for KaVontae Turpin,-0.620,-1.700
+4,2:49,4,10,DAL 25,24,30,Dak Prescott pass incomplete deep right intended for Jalen Brooks,-1.700,-3.910
+4,2:43,1,10,DAL 25,24,30,Isaac Guerendo right guard for 4 yards (tackle by Jourdan Lewis and Eric Kendricks),3.910,3.900
+4,2:00,2,6,DAL 21,24,30,Isaac Guerendo right guard for 4 yards (tackle by Trevon Diggs),3.900,3.850
+4,1:17,3,2,DAL 17,24,30,Isaac Guerendo left end for 14 yards (tackle by Markquese Bell),3.850,6.510
+4,0:31,1,3,DAL 3,24,30,Brock Purdy kneels for -1 yards,6.510,5.340

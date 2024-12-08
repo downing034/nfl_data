@@ -1,0 +1,155 @@
+Quarter,Time,Down,ToGo,Location,PHI,CIN,Detail,EPB,EPA
+,,,,,,,Eagles won the coin toss and deferred Bengals to receive the opening kickoff.,,
+1,15:00,,,PHI 35,0,0,Braden Mann kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,CIN 30,0,0,Zack Moss right tackle for 3 yards (tackle by Bryce Huff and Reed Blankenship),0.940,0.800
+1,14:23,2,7,CIN 33,0,0,Joe Burrow pass complete short middle to Zack Moss for 6 yards (tackle by Nakobe Dean),0.800,0.890
+1,13:44,3,1,CIN 39,0,0,Joe Burrow pass complete short right to Mike Gesicki for 7 yards (tackle by Reed Blankenship),0.890,1.990
+1,13:05,1,10,CIN 46,0,0,Joe Burrow pass complete short left to Chase Brown for -3 yards (tackle by Nakobe Dean),1.990,1.050
+1,12:26,2,13,CIN 43,0,0,Joe Burrow pass complete short right to Chase Brown for 5 yards (tackle by Darius Slay and Zack Baun),1.050,1.030
+1,11:43,3,8,CIN 48,0,0,Joe Burrow pass complete short right to Ja'Marr Chase for 12 yards (tackle by Reed Blankenship and Zack Baun),1.030,2.920
+1,11:08,1,10,PHI 40,0,0,Chase Brown left guard for 1 yard (tackle by Zack Baun),2.920,2.510
+1,10:27,2,9,PHI 39,0,0,Zack Moss right guard for 3 yards. Zack Moss fumbles (forced by Brandon Graham) recovered by Zack Moss at PHI-36,2.510,2.210
+1,9:46,3,6,PHI 36,0,0,Joe Burrow pass complete short left to Zack Moss for 9 yards (tackle by Zack Baun),2.210,3.780
+1,9:10,1,10,PHI 27,0,0,Joe Burrow pass complete short right to Ja'Marr Chase for 6 yards (tackle by Darius Slay),3.780,4.040
+1,8:26,2,4,PHI 21,0,0,Chase Brown right guard for 2 yards (tackle by Jordan Davis),4.040,3.640
+1,7:47,3,2,PHI 19,0,0,Joe Burrow pass complete short left to Ja'Marr Chase for 3 yards (tackle by Quinyon Mitchell),3.640,4.510
+1,7:11,1,10,PHI 16,0,0,Joe Burrow pass incomplete short right intended for Chase Brown (defended by Nolan Smith),4.510,3.900
+1,7:09,2,10,PHI 16,0,0,Joe Burrow pass complete short left to Zack Moss for 4 yards (tackle by Nakobe Dean),3.900,3.730
+1,6:29,3,6,PHI 12,0,0,Joe Burrow pass complete short middle to Mike Gesicki for 9 yards (tackle by Quinyon Mitchell),3.730,6.510
+1,5:47,1,3,PHI 3,0,0,Zack Moss right guard for 1 yard (tackle by Nakobe Dean and Zack Baun),6.510,5.720
+1,5:03,2,2,PHI 2,0,6,Joe Burrow pass complete short right to Ja'Marr Chase for 2 yards touchdown,5.720,7.000
+1,4:56,,,PHI 15,0,7,Evan McPherson kicks extra point good,0.000,0.000
+1,4:56,,,CIN 35,0,7,Evan McPherson kicks off 66 yards returned by Kenneth Gainwell for 28 yards (tackle by Tycen Anderson),0.000,0.740
+1,4:51,1,10,PHI 27,0,7,Saquon Barkley left guard for 7 yards (tackle by Sheldon Rankins and Logan Wilson),0.740,1.140
+1,4:13,2,3,PHI 34,0,7,Jalen Hurts scrambles up the middle for 7 yards (tackle by Sam Hubbard),1.140,1.660
+1,3:31,1,10,PHI 41,0,7,Saquon Barkley right end for 2 yards (tackle by Germaine Pratt and Logan Wilson),1.660,1.390
+1,2:57,2,8,PHI 43,0,7,Jalen Hurts pass complete short middle to A.J. Brown for 29 yards (tackle by Cam Taylor-Britt and Logan Wilson),1.390,3.710
+1,2:15,1,10,CIN 28,0,7,Jalen Hurts left tackle for 6 yards (tackle by Logan Wilson and Myles Murphy),3.710,3.980
+1,1:41,2,4,CIN 22,0,7,Saquon Barkley right guard for 6 yards (tackle by Trey Hendrickson),3.980,4.510
+1,1:01,1,10,CIN 16,0,7,Jalen Hurts pass complete short right to DeVonta Smith for -2 yards (tackle by Mike Hilton),4.510,3.640
+1,0:19,2,12,CIN 18,0,7,Jalen Hurts scrambles up the middle for no gain (tackle by Germaine Pratt). Penalty on Tyler Steen: Offensive Holding 10 yards (accepted) (no play),3.640,2.340
+2,15:00,2,22,CIN 28,0,7,Saquon Barkley left end for 7 yards (tackle by Germaine Pratt),2.340,2.610
+2,14:18,3,15,CIN 21,0,7,Jalen Hurts pass incomplete deep right intended for A.J. Brown,2.610,2.060
+2,14:14,4,15,CIN 21,3,7,Jake Elliott 39 yard field goal good,2.060,3.000
+2,14:10,,,PHI 35,3,7,Braden Mann kicks off 65 yards touchback.,0.000,0.940
+2,14:10,1,10,CIN 30,3,7,Joe Burrow pass complete deep left to Erick All for 28 yards (tackle by Nolan Smith and C.J. Gardner-Johnson),0.940,2.790
+2,13:27,1,10,PHI 42,3,7,Joe Burrow sacked by and Milton Williams for -12 yards and Nolan Smith for -12 yards,2.790,0.620
+2,13:03,2,22,CIN 46,3,7,Joe Burrow pass incomplete deep middle intended for Andrei Iosivas (defended by Cooper DeJean),0.620,-0.030
+2,12:59,3,22,CIN 46,3,7,Joe Burrow pass complete short right to Mike Gesicki for 24 yards (tackle by Zack Baun),-0.030,3.580
+2,12:07,1,10,PHI 30,3,7,Chase Brown right tackle for 3 yards (tackle by Reed Blankenship),3.580,3.440
+2,11:28,2,7,PHI 27,3,7,Joe Burrow pass incomplete short right intended for Chase Brown,3.440,2.740
+2,11:24,3,7,PHI 27,3,7,Joe Burrow pass complete short left to Mike Gesicki for 11 yards (tackle by Avonte Maddox),2.740,4.510
+2,11:06,1,10,PHI 16,3,7,Joe Burrow pass complete short left to Ja'Marr Chase for 5 yards (tackle by Reed Blankenship),4.510,4.760
+2,10:26,2,5,PHI 11,3,7,Chase Brown left guard for 2 yards (tackle by Nakobe Dean and Reed Blankenship),4.760,4.390
+2,9:41,3,3,PHI 9,3,7,Joe Burrow pass incomplete short right intended for Jermaine Burton (defended by Darius Slay),4.390,2.930
+2,9:36,4,3,PHI 9,3,10,Evan McPherson 27 yard field goal good,2.930,3.000
+2,9:32,,,CIN 35,3,10,Evan McPherson kicks off 65 yards touchback.,0.000,0.940
+2,9:32,1,10,PHI 30,3,10,Jalen Hurts pass incomplete short right intended for DeVonta Smith (defended by Cam Taylor-Britt),0.940,0.390
+2,9:29,2,10,PHI 30,3,10,Jalen Hurts pass incomplete short left. Penalty on Landon Dickerson: Ineligible Downfield Pass 5 yards (declined),0.390,-0.300
+2,9:23,3,10,PHI 30,3,10,Jalen Hurts pass complete short right to A.J. Brown for 9 yards (tackle by Cam Taylor-Britt),-0.300,-0.780
+2,8:50,4,1,PHI 39,3,10,Jalen Hurts left guard for 2 yards (tackle by Germaine Pratt and Trey Hendrickson),-0.780,1.660
+2,8:12,1,10,PHI 41,3,10,Saquon Barkley right end for 4 yards (tackle by Sheldon Rankins),1.660,1.660
+2,7:31,2,6,PHI 45,3,10,Kenneth Gainwell right guard for 3 yards (tackle by B.J. Hill),1.660,1.360
+2,6:49,3,3,PHI 48,3,10,Jalen Hurts pass incomplete short left intended for Kenneth Gainwell (defended by Logan Wilson),1.360,-0.190
+2,6:43,4,3,PHI 48,3,10,Braden Mann punts 52 yards touchback.,-0.190,-0.280
+2,6:34,1,10,CIN 20,3,10,Joe Burrow pass incomplete short left intended for Ja'Marr Chase,0.280,-0.270
+2,6:30,2,10,CIN 20,3,10,Joe Burrow pass complete deep right to Jermaine Burton for 41 yards (tackle by Darius Slay),-0.270,2.980
+2,5:54,1,10,PHI 39,3,10,Chase Brown right end for 3 yards (tackle by Darius Slay),2.980,2.850
+2,5:22,2,7,PHI 36,3,10,Joe Burrow pass incomplete short middle intended for Andrei Iosivas,2.850,2.150
+2,5:18,3,7,PHI 36,3,10,Joe Burrow pass incomplete short middle intended for Mike Gesicki (defended by Reed Blankenship),2.150,0.880
+2,5:13,4,7,PHI 36,3,10,Evan McPherson 54 yard field goal no good,0.880,-1.860
+2,5:08,1,10,PHI 44,3,10,Saquon Barkley right tackle for 7 yards (tackle by Kris Jenkins and Akeem Davis-Gaither),1.860,2.260
+2,4:32,2,3,CIN 49,3,10,Saquon Barkley left tackle for 2 yards (tackle by B.J. Hill),2.260,1.820
+2,4:00,3,1,CIN 47,3,10,Jalen Hurts left guard for 1 yard (tackle by Germaine Pratt and Trey Hendrickson),1.820,2.520
+2,3:18,1,10,CIN 46,3,10,Jalen Hurts pass complete short left to Grant Calcaterra for 19 yards (tackle by Vonn Bell),2.520,3.780
+2,2:47,1,10,CIN 27,3,10,Jalen Hurts pass complete short left to Saquon Barkley for 3 yards (tackle by Vonn Bell),3.780,3.640
+2,2:03,2,7,CIN 24,3,10,Penalty on DeVonta Smith: False Start 5 yards (accepted) (no play),3.640,2.960
+2,2:00,2,12,CIN 29,3,10,Jalen Hurts pass complete short left to DeVonta Smith for 11 yards (tackle by Geno Stone),2.960,3.840
+2,1:44,3,1,CIN 18,3,10,Penalty on Tyler Steen: Unnecessary Roughness / Offense 15 yards (accepted) (no play),3.840,1.750
+2,1:43,3,16,CIN 33,3,10,Jalen Hurts pass complete short left to A.J. Brown for 17 yards (tackle by Germaine Pratt),1.750,4.510
+2,1:36,,,,,,Timeout #1 by Cincinnati Bengals,,
+2,1:36,1,10,CIN 16,3,10,Jalen Hurts right tackle for 12 yards (tackle by Germaine Pratt and Geno Stone),4.510,6.280
+2,1:29,,,,,,Timeout #2 by Cincinnati Bengals,,
+2,1:29,,,,,,Timeout #1 by Philadelphia Eagles,,
+2,1:29,1,4,CIN 4,3,10,Saquon Barkley right end for -2 yards (tackle by Akeem Davis-Gaither),6.280,4.950
+2,1:24,,,,,,Timeout #3 by Cincinnati Bengals,,
+2,1:24,2,6,CIN 6,3,10,Jalen Hurts scrambles left end for no gain (tackle by Germaine Pratt). Penalty on Cam Taylor-Britt: Illegal Use of Hands / Defense 3 yards (accepted) (no play),4.950,6.510
+2,1:17,1,3,CIN 3,3,10,Saquon Barkley left guard for 2 yards (tackle by Sheldon Rankins),6.510,5.910
+2,0:45,2,1,CIN 1,3,10,Jalen Hurts left guard for no gain (tackle by Trey Hendrickson),5.910,5.170
+2,0:25,,,,,,Timeout #2 by Philadelphia Eagles,,
+2,0:25,3,1,CIN 1,9,10,Jalen Hurts up the middle for no gain (tackle by B.J. Hill and Lawrence Guy) Replay Assistant challenged the runner broke the plane ruling and the original play was overturned. Jalen Hurts up the middle for 1 yard touchdown,5.170,7.000
+2,0:22,,,,,,Timeout #3 by Philadelphia Eagles,,
+2,0:22,,,CIN 15,10,10,Jake Elliott kicks extra point good,0.000,0.000
+2,0:22,,,PHI 35,10,10,Braden Mann kicks off 74 yards returned by Charlie Jones for 37 yards. Charlie Jones fumbles (forced by Oren Burks). Charlie Jones fumbles out of bounds,0.000,0.810
+2,0:18,1,10,CIN 28,10,10,Joe Burrow pass incomplete deep left intended for Jermaine Burton,0.810,0.260
+2,0:11,2,10,CIN 28,10,10,Joe Burrow kneels for -1 yards,0.260,-0.560
+3,15:00,,,CIN 35,10,10,Evan McPherson kicks off 66 yards returned by Kenneth Gainwell for 31 yards (tackle by Jordan Battle),0.000,0.940
+3,14:55,1,10,PHI 30,10,10,Saquon Barkley right guard for 3 yards (tackle by Sam Hubbard),0.940,0.800
+3,14:14,2,7,PHI 33,10,10,Saquon Barkley left guard for 2 yards (tackle by B.J. Hill and Logan Wilson),0.800,0.370
+3,13:42,3,5,PHI 35,10,10,Jalen Hurts pass complete short right to DeVonta Smith for 15 yards (tackle by DJ Turner),0.370,2.260
+3,13:02,1,10,PHI 50,10,10,Jalen Hurts pass complete short left to Grant Calcaterra for 28 yards (tackle by Logan Wilson and Vonn Bell),2.260,4.110
+3,12:30,1,10,CIN 22,10,10,Saquon Barkley right guard for 1 yard (tackle by Logan Wilson),4.110,3.700
+3,11:48,2,9,CIN 21,10,10,Jalen Hurts pass complete short middle to Jack Stoll for 6 yards (tackle by Geno Stone),3.700,3.930
+3,11:15,3,3,CIN 15,10,10,Saquon Barkley right tackle for 8 yards (tackle by B.J. Hill and Myles Murphy),3.930,5.600
+3,10:40,1,7,CIN 7,16,10,Jalen Hurts right end for 7 yards touchdown,5.600,7.000
+3,10:35,,,CIN 15,17,10,Jake Elliott kicks extra point good,0.000,0.000
+3,10:35,,,PHI 35,17,10,Braden Mann kicks off 65 yards touchback.,0.000,0.940
+3,10:35,1,10,CIN 30,17,10,Chase Brown right tackle for 4 yards (tackle by Zack Baun),0.940,0.930
+3,9:58,2,6,CIN 34,17,10,Joe Burrow pass incomplete short middle,0.930,0.230
+3,9:54,3,6,CIN 34,17,10,Joe Burrow pass complete short right to Mike Gesicki for 7 yards (tackle by Reed Blankenship),0.230,1.660
+3,9:20,1,10,CIN 41,17,10,Chase Brown left tackle for 2 yards (tackle by Nakobe Dean),1.660,1.390
+3,8:43,2,8,CIN 43,17,10,Joe Burrow pass complete short right to Andrei Iosivas for 10 yards (tackle by Cooper DeJean) PHI challenged the pass completion ruling and the original play was overturned. Joe Burrow pass incomplete short right intended for Andrei Iosivas,1.390,0.700
+3,8:40,3,8,CIN 43,17,10,Joe Burrow scrambles right tackle for 8 yards (tackle by Zack Baun),0.700,2.320
+3,8:10,1,10,PHI 49,17,10,Zack Moss right tackle for 4 yards (tackle by Bryce Huff and Reed Blankenship),2.320,2.320
+3,7:27,2,6,PHI 45,17,10,Joe Burrow pass complete short right to Zack Moss for 9 yards (tackle by Nakobe Dean),2.320,3.180
+3,6:50,1,10,PHI 36,17,10,Joe Burrow pass complete short left to Ja'Marr Chase for 13 yards. Penalty on Quinyon Mitchell: Defensive Holding 5 yards (declined),3.180,4.040
+3,6:25,1,10,PHI 23,17,10,Joe Burrow pass complete short right to Ja'Marr Chase for 3 yards (tackle by Isaiah Rodgers),4.040,3.900
+3,5:39,2,7,PHI 20,17,10,Joe Burrow pass complete short middle to Ja'Marr Chase for 12 yards (tackle by Cooper DeJean),3.900,5.370
+3,4:57,1,8,PHI 8,17,10,Joe Burrow pass complete short left to Trenton Irwin for 4 yards (tackle by Cooper DeJean),5.370,5.340
+3,4:19,2,4,PHI 4,17,16,Chase Brown left guard for 4 yards touchdown,5.340,7.000
+3,4:16,,,PHI 15,17,17,Evan McPherson kicks extra point good,0.000,0.000
+3,4:16,,,CIN 35,17,17,Evan McPherson kicks off 65 yards touchback.,0.000,0.940
+3,4:16,1,10,PHI 30,17,17,Jalen Hurts pass complete short right to A.J. Brown for 23 yards (tackle by Cam Taylor-Britt),0.940,2.460
+3,3:29,1,10,CIN 47,17,17,Saquon Barkley right guard for 2 yards (tackle by Sam Hubbard),2.460,2.180
+3,2:51,2,8,CIN 45,23,17,Jalen Hurts pass complete deep middle to DeVonta Smith for 45 yards touchdown,2.180,7.000
+3,2:43,,,CIN 15,24,17,Jake Elliott kicks extra point good,0.000,0.000
+3,2:43,,,PHI 35,24,17,Braden Mann kicks off 65 yards touchback.,0.000,0.940
+3,2:43,1,10,CIN 30,24,17,Joe Burrow scrambles right end for 8 yards (tackle by Zack Baun),0.940,1.470
+3,2:08,2,2,CIN 38,24,17,Chase Brown left tackle for 1 yard (tackle by Zack Baun and Nakobe Dean),1.470,0.890
+3,1:26,,,,,,Timeout #1 by Cincinnati Bengals,,
+3,1:26,3,1,CIN 39,24,17,Zack Moss up the middle for no gain (tackle by Brandon Graham),0.890,-0.780
+3,0:46,4,1,CIN 39,24,17,Joe Burrow pass complete short right to Ja'Marr Chase for -2 yards (tackle by Cooper DeJean),-0.780,-3.120
+3,0:41,1,10,CIN 37,24,17,Saquon Barkley left tackle for no gain (tackle by Kris Jenkins),3.120,2.570
+4,15:00,2,10,CIN 37,24,17,Jalen Hurts left tackle for no gain (tackle by Cam Taylor-Britt),2.570,1.880
+4,14:18,,,,,,Timeout #1 by Philadelphia Eagles,,
+4,14:18,3,10,CIN 37,24,17,Jalen Hurts pass complete short left to A.J. Brown for 6 yards (tackle by Cam Taylor-Britt),1.880,1.370
+4,13:39,4,4,CIN 31,27,17,Jake Elliott 49 yard field goal good,1.370,3.000
+4,13:34,,,PHI 35,27,17,Braden Mann kicks off 65 yards touchback.,0.000,0.940
+4,13:34,1,10,CIN 30,27,17,Joe Burrow pass complete short right to Erick All for 4 yards (tackle by Zack Baun),0.940,0.930
+4,12:56,2,6,CIN 34,27,17,Joe Burrow pass complete short left to Mike Gesicki for 12 yards (tackle by Reed Blankenship),0.930,1.990
+4,12:21,1,10,CIN 46,27,17,Joe Burrow pass deep right (defended by Isaiah Rodgers) intended for Ja'Marr Chase is intercepted by C.J. Gardner-Johnson at PHI-15 and returned for no gain,1.990,0.220
+4,12:16,1,10,PHI 15,27,17,Saquon Barkley left guard for 11 yards (tackle by Cam Taylor-Britt and Geno Stone),-0.220,0.670
+4,11:37,1,10,PHI 26,27,17,Saquon Barkley up the middle for 5 yards (tackle by B.J. Hill),0.670,0.810
+4,10:58,2,5,PHI 31,27,17,Saquon Barkley left tackle for -2 yards (tackle by Myles Murphy),0.810,-0.160
+4,10:16,3,7,PHI 29,27,17,Jalen Hurts pass complete short middle to DeVonta Smith for 9 yards (tackle by DJ Turner),-0.160,1.470
+4,9:33,1,10,PHI 38,27,17,Saquon Barkley right guard for 3 yards (tackle by McKinnley Jackson),1.470,1.330
+4,8:51,2,7,PHI 41,27,17,Jalen Hurts pass complete short right to DeVonta Smith for 7 yards (tackle by Cam Taylor-Britt),1.330,2.130
+4,8:10,1,10,PHI 48,27,17,Saquon Barkley right tackle for 4 yards (tackle by Sam Hubbard),2.130,2.120
+4,7:31,2,6,CIN 48,27,17,Saquon Barkley left tackle for 19 yards (tackle by Geno Stone and Cam Taylor-Britt),2.120,3.640
+4,6:48,1,10,CIN 29,27,17,Kenneth Gainwell up the middle for no gain (tackle by Kris Jenkins and Germaine Pratt),3.640,3.100
+4,6:05,2,10,CIN 29,27,17,Jalen Hurts pass complete short left to Grant Calcaterra for 11 yards (tackle by Germaine Pratt),3.100,4.370
+4,5:22,1,10,CIN 18,27,17,Saquon Barkley right tackle for 17 yards (tackle by Sam Hubbard),4.370,6.970
+4,4:41,1,1,CIN 1,33,17,Jalen Hurts left guard for 1 yard touchdown,6.970,7.000
+4,4:39,,,CIN 15,34,17,Jake Elliott kicks extra point good,0.000,0.000
+4,4:39,,,PHI 35,34,17,Braden Mann kicks off 65 yards touchback.,0.000,0.940
+4,4:39,1,10,CIN 30,34,17,Joe Burrow pass complete short right to Mike Gesicki for 3 yards. Mike Gesicki fumbles (tackle by Nakobe Dean) recovered by Nakobe Dean at CIN-33,0.940,-3.380
+4,4:31,1,10,CIN 33,34,17,Kenneth Gainwell left guard for 10 yards (tackle by Cam Taylor-Britt),3.380,4.040
+4,3:50,1,10,CIN 23,34,17,Kenneth Gainwell right guard for 3 yards (tackle by Myles Murphy),4.040,3.830
+4,3:08,2,8,CIN 20,34,17,Kenneth Gainwell right tackle for 3 yards (tackle by B.J. Hill and Logan Wilson),3.830,3.560
+4,2:26,3,5,CIN 17,34,17,Will Shipley right tackle for 1 yard. Penalty on Nick Gates: Offensive Holding 10 yards (accepted),3.560,2.410
+4,2:19,3,13,CIN 26,34,17,Will Shipley right tackle for -4 yards (tackle by Mike Hilton and Germaine Pratt),2.410,1.410
+4,2:00,4,17,CIN 30,37,17,Jake Elliott 47 yard field goal good,1.410,3.000
+4,1:55,,,PHI 35,37,17,Braden Mann kicks off 54 yards returned by Charlie Jones for 5 yards (tackle by Will Shipley),0.000,-0.140
+4,1:53,1,10,CIN 16,37,17,Chase Brown right guard for 5 yards (tackle by Oren Burks),-0.140,0.150
+4,1:09,2,5,CIN 21,37,17,Chase Brown right tackle for 4 yards (tackle by Moro Ojomo),0.150,-0.200
+4,0:31,3,1,CIN 25,37,17,Chase Brown left guard for 1 yard (tackle by Tristin McCollum and Avonte Maddox),-0.200,0.670

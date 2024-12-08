@@ -1,0 +1,203 @@
+Quarter,Time,Down,ToGo,Location,LAR,SEA,Detail,EPB,EPA
+,,,,,,,Rams won the coin toss and deferred Seahawks to receive the opening kickoff.,,
+1,15:00,,,LAR 35,0,0,Joshua Karty kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,SEA 30,0,0,Kenneth Walker right guard for 4 yards (tackle by Bobby Brown and Jared Verse),0.940,0.930
+1,14:38,2,6,SEA 34,0,0,Geno Smith pass complete short middle to Kenneth Walker for 18 yards (tackle by Kamren Curl),0.930,2.390
+1,14:12,1,10,LAR 48,0,0,Kenneth Walker right guard for 3 yards (tackle by Kobie Turner and Jaylen McCollough),2.390,2.250
+1,13:31,2,7,LAR 45,0,0,Kenneth Walker up the middle for 6 yards (tackle by Kobie Turner),2.250,2.340
+1,13:10,3,1,LAR 39,0,0,Kenneth Walker left guard for no gain (tackle by Byron Young and Braden Fiske),2.340,0.660
+1,12:40,4,1,LAR 39,0,0,Kenneth Walker left end for 2 yards (tackle by Omar Speights),0.660,3.120
+1,12:01,1,10,LAR 37,0,0,Geno Smith pass complete short left to Zach Charbonnet for 1 yard (tackle by Kamren Curl),3.120,2.710
+1,11:24,2,9,LAR 36,0,0,Geno Smith sacked by and Tyler Davis for -4 yards and Michael Hoecht for -4 yards,2.710,1.490
+1,10:42,3,13,LAR 40,0,0,Geno Smith pass incomplete short right intended for Tyler Lockett,1.490,0.590
+1,10:38,4,13,LAR 40,0,0,Michael Dickson punts 29 yards fair catch by Xavier Smith at LA-11,0.590,0.370
+1,10:32,1,10,LAR 11,0,0,Matthew Stafford pass complete short middle to Cooper Kupp for 7 yards (tackle by Ernest Jones),-0.370,0.000
+1,10:09,2,3,LAR 18,0,0,Matthew Stafford pass incomplete short right intended for Cooper Kupp,0.000,-0.600
+1,10:05,3,3,LAR 18,0,0,Matthew Stafford pass incomplete short middle intended for Demarcus Robinson,-0.600,-2.240
+1,10:01,4,3,LAR 18,0,0,Ty Zentner punts 53 yards returned by Dee Williams for 11 yards (tackle by Xavier Smith),-2.240,-1.600
+1,9:49,1,10,SEA 40,0,0,Geno Smith aborted snap recovered by Kenneth Walker at SEA-22 and returned for -3 yards (tackle by Christian Rozeboom),1.600,-1.850
+1,9:07,2,31,SEA 19,0,0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 22 yards (tackle by Cobie Durant),-1.850,0.500
+1,8:37,3,9,SEA 41,0,0,Geno Smith pass short middle intended for Jaxon Smith-Njigba is intercepted by Jaylen McCollough at 50 and returned for no gain (tackle by Jaxon Smith-Njigba),0.500,-2.260
+1,8:31,1,10,SEA 50,0,0,Kyren Williams left end for 2 yards (tackle by Josh Jobe and Byron Murphy),2.260,1.980
+1,7:53,2,8,SEA 48,0,0,Kyren Williams left guard for 1 yard (tackle by Devon Witherspoon),1.980,1.420
+1,7:15,3,7,SEA 47,0,0,Matthew Stafford pass complete deep right to Demarcus Robinson for 18 yards (tackle by Coby Bryant),1.420,3.640
+1,6:37,1,10,SEA 29,0,0,Kyren Williams right end for no gain (tackle by Julian Love). Penalty on Hunter Long: Offensive Holding 10 yards (accepted) (no play),3.640,2.980
+1,6:11,1,20,SEA 39,0,0,Kyren Williams up the middle for 1 yard (tackle by Devon Witherspoon and Jarran Reed),2.980,1.890
+1,5:47,2,19,SEA 38,0,0,Matthew Stafford pass incomplete deep right intended for Puka Nacua,1.890,1.220
+1,5:41,3,19,SEA 38,0,0,Matthew Stafford pass incomplete short right intended for Tyler Johnson,1.220,0.720
+1,5:38,4,19,SEA 38,0,0,Ty Zentner punts 25 yards fair catch by Dee Williams at SEA-13,0.720,0.320
+1,5:31,1,10,SEA 13,0,0,Kenneth Walker right guard for 6 yards (tackle by Quentin Lake and Tyler Davis),-0.320,0.030
+1,5:08,2,4,SEA 19,0,0,Penalty on Jared Verse: Neutral Zone Infraction 5 yards (accepted) (no play),0.030,0.540
+1,4:52,1,10,SEA 24,0,0,Kenneth Walker right guard for 1 yard (tackle by Darious Williams),0.540,0.130
+1,4:28,2,9,SEA 25,0,0,Geno Smith sacked by Byron Young for no gain. Geno Smith fumbles (forced by Byron Young) recovered by Charles Cross at SEA-9. Penalty on Kobie Turner: Defensive Offside 5 yards (accepted) (no play),0.130,0.810
+1,4:18,2,4,SEA 30,0,0,Kenneth Walker right end for 1 yard (tackle by Darious Williams),0.810,0.230
+1,3:42,3,3,SEA 31,0,0,Zach Charbonnet right end for 2 yards (tackle by Christian Rozeboom),0.230,-1.180
+1,3:01,4,1,SEA 33,0,0,Michael Dickson punts 50 yards returned by Xavier Smith for 4 yards (tackle by Dee Williams),-1.180,-0.340
+1,2:53,1,10,LAR 21,0,0,Blake Corum right guard for -1 yards (tackle by Roy Robertson-Harris),0.340,-0.340
+1,2:12,2,11,LAR 20,0,0,Matthew Stafford pass complete short left to Cooper Kupp for 6 yards (tackle by Julian Love and Derick Hall),-0.340,-0.230
+1,1:29,3,5,LAR 26,0,0,Matthew Stafford pass incomplete short left intended for Cooper Kupp,-0.230,-1.630
+1,1:24,4,5,LAR 26,0,0,Ty Zentner punts 36 yards out of bounds,-1.630,-1.470
+1,1:18,1,10,SEA 38,0,0,Kenneth Walker right tackle for 2 yards (tackle by Christian Rozeboom and Byron Young),1.470,1.190
+1,0:44,2,8,SEA 40,0,0,Geno Smith pass incomplete short right intended for Cody White (defended by Darious Williams),1.190,0.500
+1,0:39,3,8,SEA 40,0,0,Geno Smith pass incomplete short left intended for Jaxon Smith-Njigba,0.500,-0.720
+1,0:34,4,8,SEA 40,0,0,Michael Dickson punts 51 yards returned by Xavier Smith for 1 yard (tackle by Laviska Shenault),-0.720,0.380
+1,0:25,1,10,LAR 10,0,0,Matthew Stafford pass complete short right to Demarcus Robinson for 13 yards (tackle by Julian Love),-0.380,0.480
+2,15:00,1,10,LAR 23,0,0,Matthew Stafford pass complete deep left to Cooper Kupp for 23 yards SEA challenged the pass completion ruling and the play was upheld.,0.480,1.990
+2,14:49,1,10,LAR 46,0,0,Kyren Williams right guard for 3 yards (tackle by Ernest Jones),1.990,1.860
+2,14:06,2,7,LAR 49,0,0,Matthew Stafford pass incomplete short left intended for Puka Nacua (defended by Josh Jobe),1.860,1.160
+2,14:02,3,7,LAR 49,0,0,Matthew Stafford pass incomplete short right intended for Kyren Williams,1.160,-0.130
+2,13:58,4,7,LAR 49,0,0,Ty Zentner punts 37 yards out of bounds,-0.130,0.280
+2,13:50,1,10,SEA 14,0,0,Geno Smith sacked by Jared Verse for -8 yards,-0.280,-1.360
+2,13:09,2,18,SEA 6,0,0,Geno Smith pass complete short middle to Zach Charbonnet for 24 yards (tackle by Kamren Curl and Quentin Lake),-1.360,0.940
+2,12:25,1,10,SEA 30,0,0,Kenneth Walker up the middle for no gain (tackle by Christian Rozeboom). Penalty on Laken Tomlinson: Offensive Holding 10 yards (accepted) (no play),0.940,0.280
+2,12:01,1,20,SEA 20,0,0,Kenneth Walker left guard for 10 yards (tackle by Michael Hoecht and Jaylen McCollough),0.280,0.390
+2,11:14,2,10,SEA 30,0,0,Connor Williams aborted snap recovered by Geno Smith at SEA-10,0.390,-4.110
+2,10:28,3,33,SEA 7,0,0,Geno Smith left guard for 3 yards (tackle by Kobie Turner),-4.110,-2.490
+2,9:40,4,30,SEA 10,0,0,Penalty on Michael Dickson: Delay of Game 5 yards (accepted) (no play),-2.490,-2.490
+2,9:38,4,35,SEA 5,0,0,Michael Dickson punts 62 yards returned by Xavier Smith for 4 yards (tackle by K'Von Wallace and Drake Thomas),-2.490,-1.400
+2,9:25,1,10,LAR 37,0,0,Matthew Stafford pass complete short right to Hunter Long for 4 yards (tackle by Tyrel Dodson and Devon Witherspoon),1.400,1.400
+2,8:48,2,6,LAR 41,0,0,Matthew Stafford pass complete short right to Puka Nacua for 11 yards (tackle by Tyrel Dodson),1.400,2.390
+2,8:08,1,10,SEA 48,0,0,Matthew Stafford pass complete short left to Tyler Johnson for 6 yards (tackle by Coby Bryant),2.390,2.660
+2,7:34,2,4,SEA 42,0,0,Kyren Williams right end for no gain (tackle by Devon Witherspoon). Penalty on Tyler Johnson: Offensive Holding 10 yards (accepted) (no play),2.660,1.310
+2,7:06,2,14,LAR 48,0,0,Matthew Stafford pass complete short right to Cooper Kupp for 19 yards (tackle by Josh Jobe),1.310,3.380
+2,6:26,1,10,SEA 33,0,0,Kyren Williams right guard for 8 yards (tackle by Ernest Jones and Boye Mafe),3.380,3.920
+2,5:48,2,2,SEA 25,0,0,Kyren Williams right guard for no gain (tackle by Byron Murphy and Tyrel Dodson),3.920,3.200
+2,5:05,3,2,SEA 25,0,0,Matthew Stafford pass complete short right to Cooper Kupp for 7 yards (tackle by Julian Love),3.200,4.370
+2,4:25,1,10,SEA 18,0,0,Matthew Stafford pass incomplete short middle intended for Tyler Johnson (defended by Ernest Jones) (defended by Tyrel Dodson),4.370,3.800
+2,4:19,2,10,SEA 18,0,0,Matthew Stafford pass incomplete short left intended for Kyren Williams,3.800,3.050
+2,4:14,3,10,SEA 18,0,0,Matthew Stafford aborted snap recovered by Matthew Stafford at SEA-22 and returned for -2 yards (tackle by Leonard Williams),3.050,2.120
+2,3:34,4,12,SEA 20,3,0,Joshua Karty 38 yard field goal good,2.120,3.000
+2,3:31,,,LAR 35,3,0,Joshua Karty kicks off 65 yards touchback.,0.000,0.940
+2,3:31,1,10,SEA 30,3,0,Geno Smith pass complete short middle to Tyler Lockett for 13 yards (tackle by Christian Rozeboom),0.940,1.800
+2,2:58,1,10,SEA 43,3,0,Geno Smith pass complete short left to AJ Barner for 6 yards (tackle by Christian Rozeboom),1.800,2.060
+2,2:37,2,4,SEA 49,3,0,Geno Smith pass complete short middle to AJ Barner for 6 yards (tackle by Ahkello Witherspoon and Christian Rozeboom),2.060,2.590
+2,2:08,1,10,LAR 45,3,0,Geno Smith pass incomplete short left intended for AJ Barner,2.590,2.040
+2,2:02,2,10,LAR 45,3,0,Kenneth Walker left guard for 8 yards (tackle by Ahkello Witherspoon and Christian Rozeboom),2.040,2.410
+2,1:56,3,2,LAR 37,3,0,Kenneth Walker left guard for 4 yards (tackle by Quentin Lake),2.410,3.380
+2,1:23,1,10,LAR 33,3,0,Geno Smith pass incomplete short left intended for AJ Barner,3.380,2.840
+2,1:17,2,10,LAR 33,3,0,Kenneth Walker left end for 3 yards (tackle by Ahkello Witherspoon),2.840,2.540
+2,0:55,3,7,LAR 30,3,6,Geno Smith pass complete deep right to Tyler Lockett for 30 yards touchdown. Penalty on Kobie Turner: Defensive Offside 5 yards (declined),2.540,7.000
+2,0:51,,,LAR 15,3,6,Jason Myers kicks extra point blocked,0.000,-1.000
+2,0:51,,,SEA 35,3,6,Jason Myers kicks off 64 yards returned by Blake Corum for 24 yards (tackle by Brady Russell and Mike Morris),0.000,0.610
+2,0:42,1,10,LAR 25,3,6,Matthew Stafford pass complete short left to Cooper Kupp for 5 yards (tackle by Julian Love),0.610,0.740
+2,0:38,2,5,LAR 30,3,6,Matthew Stafford pass complete short middle to Cooper Kupp for 14 yards (tackle by Riq Woolen),0.740,1.860
+2,0:33,,,,,,Timeout #1 by Los Angeles Rams,,
+2,0:33,1,10,LAR 44,3,6,Matthew Stafford pass deep right intended for Puka Nacua is intercepted by Riq Woolen at SEA-25 and returned for no gain (tackle by Puka Nacua). Penalty on Puka Nacua: Unnecessary Roughness / Offense 15 yards (accepted),1.860,-1.600
+2,0:27,1,10,SEA 40,3,6,Geno Smith pass incomplete short left intended for Jaxon Smith-Njigba (defended by Kobie Turner). Penalty on Anthony Bradford: Offensive Holding 10 yards (accepted) (no play),1.600,0.940
+2,0:24,1,20,SEA 30,3,6,Geno Smith pass complete deep right to Jaxon Smith-Njigba for 46 yards (tackle by Quentin Lake). Penalty on Braden Fiske: Defensive Offside 5 yards (declined) . Penalty on Jared Verse: Defensive Offside 5 yards (declined),0.940,3.970
+2,0:17,1,10,LAR 24,3,6,Geno Smith pass incomplete deep left intended for Jaxon Smith-Njigba (defended by Josh Wallace),3.970,3.430
+2,0:11,2,10,LAR 24,3,12,Geno Smith pass complete deep middle to Jaxon Smith-Njigba for 24 yards touchdown,3.430,7.000
+2,0:05,,,LAR 15,3,13,Jason Myers kicks extra point good,0.000,0.000
+2,0:05,,,SEA 35,3,13,Jason Myers kicks off 61 yards returned by Xavier Smith for 20 yards (tackle by Jerrick Reed),0.000,1.270
+3,15:00,,,SEA 35,3,13,Jason Myers kicks off 65 yards returned by Blake Corum for 25 yards (tackle by Brady Russell),0.000,0.610
+3,14:55,1,10,LAR 25,3,13,Kyren Williams right end for 6 yards (tackle by Ernest Jones),0.610,0.870
+3,14:20,2,4,LAR 31,3,13,Kyren Williams left tackle for 5 yards. Kyren Williams fumbles (tackle by Coby Bryant recovered by Cooper Kupp at LA-36 and returned for 5 yards and Byron Murphy and Ernest Jones),0.870,1.660
+3,13:37,1,10,LAR 41,3,13,Matthew Stafford pass complete deep left to Demarcus Robinson for 21 yards,1.660,3.050
+3,12:59,1,10,SEA 38,3,13,Matthew Stafford pass incomplete short right,3.050,2.510
+3,12:55,2,10,SEA 38,3,13,Matthew Stafford pass complete short left to Cooper Kupp for 9 yards (tackle by Tyrel Dodson),2.510,3.010
+3,12:15,3,1,SEA 29,3,13,Kyren Williams up the middle for 2 yards (tackle by Jarran Reed and Dre'Mont Jones),3.010,3.780
+3,11:34,1,10,SEA 27,3,13,Kyren Williams right tackle for 8 yards (tackle by Devon Witherspoon),3.780,4.350
+3,10:57,2,2,SEA 19,3,13,Kyren Williams up the middle for 5 yards (tackle by Tyrel Dodson and Johnathan Hankins). Penalty on Roy Robertson-Harris: Illegal Use of Hands / Defense 5 yards (declined) . Penalty on Johnathan Hankins: Defensive Holding 5 yards (accepted),4.350,5.140
+3,10:31,1,9,SEA 9,3,13,Matthew Stafford pass complete short right to Cooper Kupp for -1 yards (tackle by Boye Mafe),5.140,4.190
+3,9:41,2,10,SEA 10,3,13,Kyren Williams right tackle for no gain (tackle by Leonard Williams). Penalty on Colby Parkinson: Illegal Motion 5 yards (accepted) (no play),4.190,3.460
+3,9:13,2,15,SEA 15,3,13,Matthew Stafford pass incomplete short left intended for Cooper Kupp. Penalty on Josh Jobe: Defensive Pass Interference 13 yards (accepted) (no play),3.460,6.740
+3,9:08,1,2,SEA 2,3,13,Kyren Williams up the middle for 1 yard (tackle by Byron Murphy and Leonard Williams),6.740,5.910
+3,8:31,2,1,SEA 1,9,13,Matthew Stafford pass complete short right to Demarcus Robinson for 1 yard touchdown,5.910,7.000
+3,8:28,,,SEA 15,10,13,Joshua Karty kicks extra point good,0.000,0.000
+3,8:28,,,LAR 35,10,13,Joshua Karty kicks off 65 yards touchback.,0.000,0.940
+3,8:28,1,10,SEA 30,10,13,Geno Smith scrambles up the middle for 3 yards (tackle by Byron Young),0.940,0.800
+3,8:02,2,7,SEA 33,10,13,Penalty on Anthony Bradford: False Start 5 yards (accepted) (no play),0.800,0.120
+3,7:47,2,12,SEA 28,10,13,Geno Smith sacked by Byron Young for -4 yards,0.120,-1.090
+3,7:16,3,16,SEA 24,10,13,Geno Smith pass complete deep middle to Jaxon Smith-Njigba for 41 yards (tackle by Kamren Kinchens). Penalty on Michael Jerrell: Offensive Holding 10 yards (accepted) (no play),-1.090,-3.070
+3,6:52,3,26,SEA 14,10,13,Kenneth Walker left tackle for 7 yards (tackle by Christian Rozeboom),-3.070,-1.960
+3,6:13,4,19,SEA 21,10,13,Michael Dickson punts 44 yards fair catch by Xavier Smith at LA-35,-1.960,-1.270
+3,6:06,1,10,LAR 35,10,13,Matthew Stafford pass incomplete deep left intended for Tutu Atwell,1.270,0.720
+3,6:01,2,10,LAR 35,10,13,Matthew Stafford pass complete short middle to Demarcus Robinson for 2 yards (tackle by Devon Witherspoon),0.720,0.300
+3,5:26,3,8,LAR 37,10,13,Matthew Stafford pass incomplete intended for Colby Parkinson. Penalty on Riq Woolen: Illegal Contact 5 yards (accepted) (no play),0.300,1.730
+3,5:20,1,10,LAR 42,10,13,Kyren Williams right tackle for no gain (tackle by Tyrel Dodson). Penalty on Hunter Long: Offensive Holding 10 yards (offset) . Penalty on Johnathan Hankins: Defensive Holding 5 yards (offset) (no play),1.730,1.730
+3,4:55,1,10,LAR 42,10,13,Kyren Williams left tackle for 3 yards (tackle by Julian Love and Roy Robertson-Harris),1.730,1.590
+3,4:13,2,7,LAR 45,10,13,Matthew Stafford pass complete short left to Kyren Williams for 26 yards (tackle by Coby Bryant),1.590,3.640
+3,3:33,1,10,SEA 29,10,13,Matthew Stafford pass complete short left to Cooper Kupp for 9 yards (tackle by Tyrel Dodson),3.640,4.320
+3,2:58,2,1,SEA 20,10,13,Kyren Williams up the middle for 6 yards (tackle by Ernest Jones),4.320,4.650
+3,2:24,,,,,,Timeout #1 by Seattle Seahawks,,
+3,2:24,1,10,SEA 14,10,13,Matthew Stafford pass incomplete short left intended for Davis Allen (defended by Riq Woolen),4.650,4.000
+3,2:18,2,10,SEA 14,10,13,Kyren Williams left tackle for 2 yards (tackle by Leonard Williams),4.000,3.430
+3,1:32,3,8,SEA 12,10,13,Matthew Stafford pass incomplete short left intended for Kyren Williams. Penalty on Derick Hall: Roughing the Passer 6 yards (accepted) (no play),3.430,5.830
+3,1:32,1,6,SEA 6,10,13,Matthew Stafford pass complete short left to Davis Allen for 5 yards (tackle by Julian Love),5.830,5.910
+3,1:05,2,1,SEA 1,10,13,Kyren Williams up the middle for -2 yards (tackle by Ernest Jones),5.910,4.720
+3,0:36,3,3,SEA 3,10,13,Matthew Stafford pass incomplete short middle intended for Davis Allen (defended by Coby Bryant),4.720,3.040
+3,0:30,4,3,SEA 3,13,13,Joshua Karty 21 yard field goal good,3.040,3.000
+3,0:27,,,LAR 35,13,13,Joshua Karty kicks off 66 yards returned by Laviska Shenault for 32 yards (tackle by Jaylen McCollough),0.000,1.000
+3,0:17,1,10,SEA 31,13,13,Kenneth Walker right guard for 5 yards (tackle by Bobby Brown),1.000,1.140
+4,15:00,2,5,SEA 36,13,13,Kenneth Walker left guard for 1 yard (tackle by Kobie Turner and Braden Fiske),1.140,0.560
+4,14:22,3,4,SEA 37,13,13,Geno Smith pass complete deep right to Tyler Lockett for 20 yards (tackle by Darious Williams),0.560,2.720
+4,13:45,1,10,LAR 43,13,13,Geno Smith pass complete short right to Kenneth Walker for 2 yards (tackle by Christian Rozeboom),2.720,2.450
+4,13:18,2,8,LAR 41,13,13,Kenneth Walker right end for -2 yards (tackle by Christian Rozeboom and Darious Williams),2.450,1.490
+4,12:47,3,10,LAR 43,13,13,Geno Smith pass incomplete deep left intended for Cody White. Penalty on Ahkello Witherspoon: Defensive Pass Interference 23 yards (accepted) (no play),1.490,4.240
+4,12:42,1,10,LAR 20,13,13,Kenneth Walker up the middle for -2 yards (tackle by Jared Verse),4.240,3.420
+4,12:03,2,12,LAR 22,13,13,Geno Smith pass complete short middle to Cody White for 16 yards (tackle by Quentin Lake),3.420,5.830
+4,11:17,1,6,LAR 6,19,13,Geno Smith pass short left intended for Jaxon Smith-Njigba is intercepted by Kamren Kinchens in end zone and returned for 103 yards. Kamren Kinchens fumbles recovered by Kamren Kinchens at end zone touchdown,5.830,-7.000
+4,10:59,,,SEA 15,20,13,Joshua Karty kicks extra point good,0.000,0.000
+4,10:59,,,LAR 35,20,13,Joshua Karty kicks off 65 yards touchback.,0.000,0.940
+4,10:59,1,10,SEA 30,20,13,Zach Charbonnet up the middle for 6 yards (tackle by Quentin Lake),0.940,1.200
+4,10:41,2,4,SEA 36,20,13,Geno Smith pass incomplete short left intended for Zach Charbonnet (defended by Nick Hampton),1.200,0.500
+4,10:36,3,4,SEA 36,20,13,Geno Smith sacked by Kobie Turner for -10 yards,0.500,-1.630
+4,9:56,4,14,SEA 26,20,13,Michael Dickson punts 45 yards fair catch by Xavier Smith at LA-29,-1.630,-0.870
+4,9:49,1,10,LAR 29,20,13,Kyren Williams right guard for 2 yards (tackle by Ernest Jones),0.870,0.600
+4,9:06,2,8,LAR 31,20,13,Matthew Stafford pass incomplete deep left intended for Tutu Atwell,0.600,-0.100
+4,8:57,3,8,LAR 31,20,13,Matthew Stafford pass incomplete short middle intended for Demarcus Robinson,-0.100,-1.310
+4,8:52,4,8,LAR 31,20,13,Ty Zentner punts blocked by Cody White,-1.310,-4.310
+4,8:44,1,10,LAR 19,20,13,Geno Smith pass complete short right to Kenneth Walker for 4 yards (tackle by Quentin Lake),4.310,4.350
+4,8:01,2,6,LAR 15,20,13,Geno Smith sacked by Quentin Lake for no gain,4.350,3.580
+4,7:25,3,6,LAR 15,20,13,Geno Smith pass complete short right to AJ Barner for 10 yards (tackle by Darious Williams),3.580,6.060
+4,6:51,1,5,LAR 5,20,13,Kenneth Walker up the middle for 1 yard (tackle by Bobby Brown and Kobie Turner),6.060,5.340
+4,6:11,2,4,LAR 4,20,13,Geno Smith pass short right intended for AJ Barner is intercepted by Kamren Kinchens at LA-7 and returned for no gain (tackle by AJ Barner),5.340,0.380
+4,6:07,1,10,LAR 7,20,13,Kyren Williams up the middle for 1 yard (tackle by Byron Murphy and Roy Robertson-Harris),-0.380,-0.710
+4,5:26,2,9,LAR 8,20,13,Matthew Stafford pass complete short right to Cooper Kupp for 6 yards (tackle by Josh Jobe),-0.710,-0.600
+4,4:45,3,3,LAR 14,20,13,Matthew Stafford pass incomplete short right intended for Cooper Kupp (defended by Devon Witherspoon),-0.600,-2.470
+4,4:39,4,3,LAR 14,20,13,Ty Zentner punts 50 yards returned by Dee Williams for 2 yards (tackle by Blake Corum),-2.470,-1.470
+4,4:28,1,10,SEA 38,20,13,Geno Smith sacked by Braden Fiske for -6 yards,1.470,0.110
+4,3:54,2,16,SEA 32,20,13,Geno Smith pass complete deep right to Jaxon Smith-Njigba for no gain (tackle by Quentin Lake). Penalty on Michael Jerrell: Offensive Holding 10 yards (accepted) (no play),0.110,-1.240
+4,3:47,2,26,SEA 22,20,13,Penalty on Michael Jerrell: False Start 5 yards (accepted) (no play),-1.240,-2.060
+4,3:47,2,31,SEA 17,20,13,Geno Smith pass incomplete deep left intended for Jaxon Smith-Njigba,-2.060,-3.040
+4,3:41,3,31,SEA 17,20,13,Geno Smith pass complete short middle to Jaxon Smith-Njigba for 14 yards (tackle by Jaylen McCollough),-3.040,-1.310
+4,3:08,4,17,SEA 31,20,13,Michael Dickson punts 49 yards returned by Xavier Smith for 8 yards (tackle by Jerrick Reed),-1.310,-0.810
+4,2:59,1,10,LAR 28,20,13,Kyren Williams left guard for no gain (tackle by Coby Bryant). Penalty on Beaux Limmer: Offensive Holding 10 yards (accepted) (no play),0.810,-0.040
+4,2:52,1,20,LAR 18,20,13,Kyren Williams left tackle for 9 yards (tackle by Tyrel Dodson),-0.040,0.130
+4,2:46,,,,,,Timeout #2 by Seattle Seahawks,,
+4,2:46,2,11,LAR 27,20,13,Kyren Williams right end for -4 yards (tackle by Devon Witherspoon and Boye Mafe),0.130,-1.090
+4,2:41,,,,,,Timeout #3 by Seattle Seahawks,,
+4,2:41,,,,,,Timeout #1 by Los Angeles Rams,,
+4,2:41,3,15,LAR 23,20,13,Kyren Williams up the middle for 6 yards (tackle by Leonard Williams and Ernest Jones),-1.090,-1.440
+4,2:00,4,9,LAR 29,20,13,Ty Zentner punts 44 yards fair catch by Dee Williams at SEA-27,-1.440,-0.740
+4,1:54,1,10,SEA 27,20,13,Geno Smith sacked by Braden Fiske for -14 yards,0.740,-1.790
+4,1:31,2,24,SEA 13,20,13,Geno Smith pass complete deep left to Cody White for 28 yards,-1.790,1.660
+4,1:26,1,10,SEA 41,20,13,Geno Smith scrambles left end for 11 yards (tackle by Christian Rozeboom),1.660,2.390
+4,1:20,1,10,LAR 48,20,13,Geno Smith pass incomplete short middle intended for Jake Bobo (defended by Darious Williams),2.390,1.850
+4,1:14,,,,,,Timeout #2 by Los Angeles Rams,,
+4,1:14,2,10,LAR 48,20,13,Geno Smith pass complete short right to AJ Barner for 5 yards (tackle by Jaylen McCollough),1.850,1.820
+4,1:07,3,5,LAR 43,20,13,Geno Smith pass incomplete short right intended for Jaxon Smith-Njigba (defended by Jared Verse),1.820,0.400
+4,1:03,4,5,LAR 43,20,13,Geno Smith pass complete deep left to Jaxon Smith-Njigba for 29 yards (tackle by Kamren Kinchens),0.400,4.650
+4,0:57,1,10,LAR 14,20,19,Geno Smith pass complete short right to Jaxon Smith-Njigba for 14 yards touchdown,4.650,7.000
+4,0:51,,,LAR 15,20,20,Jason Myers kicks extra point good,0.000,0.000
+4,0:51,,,SEA 35,20,20,Jason Myers kicks off 65 yards touchback.,0.000,0.940
+4,0:51,1,10,LAR 30,20,20,Matthew Stafford pass incomplete deep left intended for Demarcus Robinson. Penalty on Riq Woolen: Defensive Pass Interference 11 yards (accepted) (no play),0.940,1.660
+4,0:47,1,10,LAR 41,20,20,Matthew Stafford pass complete short left to Tyler Johnson for 8 yards (tackle by Tyrel Dodson),1.660,2.200
+4,0:40,2,2,LAR 49,20,20,Matthew Stafford pass incomplete short left,2.200,1.490
+4,0:34,3,2,LAR 49,20,20,Matthew Stafford pass incomplete deep right intended for Demarcus Robinson (defended by Devon Witherspoon),1.490,-0.130
+4,0:28,4,2,LAR 49,20,20,Ty Zentner punts 36 yards downed by Jake Hummel,-0.130,0.220
+4,0:19,1,10,SEA 15,20,20,Geno Smith kneels for -1 yards,-0.220,0.000
+,,,,,,,Seahawks won the coin toss Seahawks to receive the overtime kickoff.,,
+OT,10:00,,,LAR 35,20,20,Joshua Karty kicks off 65 yards touchback.,0.000,0.940
+OT,10:00,1,10,SEA 30,20,20,Kenneth Walker up the middle for 8 yards (tackle by Byron Young and Jaylen McCollough),0.940,1.470
+OT,9:37,2,2,SEA 38,20,20,Kenneth Walker up the middle for 6 yards (tackle by Byron Young),1.470,1.860
+OT,9:16,1,10,SEA 44,20,20,Geno Smith pass complete short middle to Jaxon Smith-Njigba for 31 yards (tackle by Kamren Kinchens). Penalty on Kobie Turner: Defensive Offside 5 yards (declined) . Penalty on Ahkello Witherspoon: Illegal Contact 5 yards (declined),1.860,3.910
+OT,8:44,1,10,LAR 25,20,20,Kenneth Walker left guard for 4 yards (tackle by Tyler Davis and Jaylen McCollough),3.910,3.900
+OT,8:31,2,6,LAR 21,20,20,Kenneth Walker left guard for 5 yards (tackle by Kamren Kinchens and Tyler Davis),3.900,4.060
+OT,8:07,3,1,LAR 16,20,20,Kenneth Walker left guard for no gain (tackle by Jared Verse),4.060,2.530
+OT,7:25,,,,,,Timeout #1 by Los Angeles Rams,,
+OT,7:25,4,1,LAR 16,20,20,Kenneth Walker left tackle for no gain (tackle by Bobby Brown and Omar Speights),2.530,0.060
+OT,7:19,1,10,LAR 17,20,20,Matthew Stafford pass complete deep right to Tyler Johnson for 24 yards (tackle by Tyrel Dodson),-0.060,1.660
+OT,6:29,1,10,LAR 41,20,20,Matthew Stafford pass complete deep left to Tutu Atwell for 16 yards (tackle by Josh Jobe),1.660,2.720
+OT,5:43,1,10,SEA 43,20,20,Kyren Williams right guard for 4 yards (tackle by Byron Murphy and Leonard Williams),2.720,2.720
+OT,5:04,2,6,SEA 39,26,20,Matthew Stafford pass complete deep left to Demarcus Robinson for 39 yards touchdown,2.720,6.000

@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,DET,MIN,Detail,EPB,EPA
+,,,,,,,Vikings won the coin toss and deferred Lions to receive the opening kickoff.,,
+1,15:00,,,MIN 35,0,0,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,DET 30,0,0,David Montgomery right tackle for 3 yards (tackle by Jonathan Greenard),0.940,0.800
+1,14:23,2,7,DET 33,0,0,David Montgomery up the middle for 5 yards (tackle by Harrison Phillips). Penalty on Kayode Awosika: Offensive Holding 10 yards (accepted) (no play),0.800,-0.550
+1,14:00,2,17,DET 23,0,0,Jared Goff sacked by Andrew Van Ginkel for -9 yards. Penalty on Kayode Awosika: Offensive Holding 10 yards (declined),-0.550,-3.070
+1,13:31,3,26,DET 14,0,0,Jared Goff pass complete short middle to David Montgomery for 19 yards (tackle by Camryn Bynum and Harrison Smith),-3.070,-1.180
+1,12:36,4,7,DET 33,0,0,Jalen Reeves-Maybin right end for 1 yard (tackle by Josh Metellus and C.J. Ham),-1.180,-3.310
+1,12:31,1,10,DET 34,0,0,Sam Darnold pass complete short right to Justin Jefferson for no gain (tackle by Malcolm Rodriguez and Isaac Ukwu),3.310,2.770
+1,11:50,2,10,DET 34,0,6,Aaron Jones left tackle for 34 yards touchdown,2.770,7.000
+1,11:43,,,DET 15,0,7,Will Reichard kicks extra point good,0.000,0.000
+1,11:43,,,MIN 35,0,7,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+1,11:43,,,,,,Timeout #1 by Detroit Lions,,
+1,11:43,1,10,DET 30,0,7,Jared Goff pass complete short right to Jahmyr Gibbs for 2 yards (tackle by Andrew Van Ginkel),0.940,0.660
+1,11:11,2,8,DET 32,0,7,Jahmyr Gibbs left tackle for 5 yards (tackle by Jerry Tillery and Andrew Van Ginkel),0.660,0.630
+1,10:47,,,,,,Timeout #1 by Minnesota Vikings,,
+1,10:47,3,3,DET 37,0,7,Jared Goff sacked by Ivan Pace for no gain. Penalty on Taylor Decker: Offensive Holding 10 yards (declined),0.630,-0.910
+1,10:18,4,3,DET 37,0,7,Jack Fox punts 63 yards touchback.,-0.910,-0.280
+1,10:10,1,10,MIN 20,0,7,Aaron Jones right end for 8 yards (tackle by Jack Campbell),0.280,0.810
+1,9:47,2,2,MIN 28,0,7,Aaron Jones left end for 1 yard (tackle by Malcolm Rodriguez),0.810,0.230
+1,9:10,3,1,MIN 29,0,7,Sam Darnold pass complete deep right to Justin Jefferson for 18 yards (tackle by Kerby Joseph),0.230,2.060
+1,8:26,,,,,,Timeout #2 by Minnesota Vikings,,
+1,8:26,1,10,MIN 47,0,7,Aaron Jones right end for no gain (tackle by Jack Campbell),2.060,1.520
+1,8:04,2,10,MIN 47,0,7,Sam Darnold scrambles up the middle for 6 yards (tackle by Josh Paschal). Penalty on Carlton Davis: Defensive Holding 5 yards (accepted),1.520,2.790
+1,7:40,1,10,DET 42,0,7,Aaron Jones right end for no gain (tackle by Jack Campbell),2.790,2.240
+1,6:59,2,10,DET 42,0,7,Sam Darnold pass complete short right to Johnny Mundt for 2 yards (tackle by Alex Anzalone),2.240,1.820
+1,6:18,3,8,DET 40,0,7,Sam Darnold pass complete short right to Johnny Mundt for 1 yard (tackle by Trevor Nowaske),1.820,0.660
+1,5:39,4,7,DET 39,0,10,Will Reichard 57 yard field goal good,0.660,3.000
+1,5:34,,,MIN 35,0,10,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+1,5:34,1,10,DET 30,0,10,Jared Goff pass complete short middle to Tim Patrick for 3 yards (tackle by Harrison Phillips and Jerry Tillery) MIN challenged the runner was down by contact ruling and the play was upheld.,0.940,0.800
+1,5:10,2,7,DET 33,0,10,Jared Goff pass complete short middle to David Montgomery for 6 yards (tackle by Harrison Smith and Josh Metellus),0.800,0.890
+1,4:34,3,1,DET 39,0,10,David Montgomery right tackle for no gain (tackle by Harrison Phillips and Jonathan Bullard),0.890,-0.780
+1,4:12,4,1,DET 39,0,10,Penalty on Kayode Awosika: False Start 4 yards (accepted) (no play),-0.780,-1.040
+1,4:11,4,5,DET 35,0,10,Jack Fox punts 55 yards returned by Brandon Powell for 10 yards (tackle by Trevor Nowaske),-1.040,-0.280
+1,3:58,1,10,MIN 20,0,10,Ty Chandler right guard for no gain (tackle by Carlton Davis). Penalty on Johnny Mundt: Offensive Holding 10 yards (accepted) (no play),0.280,-0.760
+1,3:40,1,20,MIN 10,0,10,Ty Chandler right guard for 1 yard (tackle by Alex Anzalone and Pat O'Connor),-0.760,-1.440
+1,3:11,2,19,MIN 11,0,10,Sam Darnold pass complete short left to Justin Jefferson for no gain (tackle by Terrion Arnold). Penalty on Ed Ingram: Offensive Holding 5 yards (accepted) (no play),-1.440,-1.800
+1,2:52,2,24,MIN 6,0,10,Sam Darnold pass complete short left to Jalen Nailor for 12 yards (tackle by Amik Robertson),-1.800,-1.330
+1,2:11,3,12,MIN 18,0,10,Penalty on Garrett Bradbury: False Start 5 yards (accepted) (no play),-1.330,-2.190
+1,1:50,3,17,MIN 13,0,10,Sam Darnold pass complete short right to Jordan Addison for 10 yards (tackle by Carlton Davis),-2.190,-1.830
+1,1:02,4,7,MIN 23,0,10,Ryan Wright punts 60 yards returned by Kalif Raymond for 14 yards (tackle by Theo Jackson and Trent Sherfield),-1.830,-1.000
+1,0:51,1,10,DET 31,0,10,Jahmyr Gibbs left guard for 4 yards (tackle by Patrick Jones),1.000,1.000
+1,0:15,2,6,DET 35,0,10,Jared Goff pass complete short left to Amon-Ra St. Brown for 8 yards (tackle by Camryn Bynum),1.000,1.800
+2,15:00,1,10,DET 43,0,10,Jahmyr Gibbs right guard for 4 yards (tackle by Ivan Pace),1.800,1.790
+2,14:30,2,6,DET 47,0,10,Jared Goff pass complete short left to Jahmyr Gibbs for 8 yards (tackle by Camryn Bynum),1.790,2.590
+2,13:51,1,10,MIN 45,6,10,Jahmyr Gibbs right end for 45 yards touchdown,2.590,7.000
+2,13:42,,,MIN 15,7,10,Jake Bates kicks extra point good,0.000,0.000
+2,13:42,,,DET 35,7,10,Jake Bates kicks off 68 yards returned by Cam Akers for 27 yards (tackle by Ben Niemann). Penalty on Ennis Rakestraw: Illegal Formation 5 yards (accepted),0.000,0.870
+2,13:37,1,10,MIN 29,7,10,Sam Darnold scrambles left guard for 19 yards (tackle by Kerby Joseph),0.870,2.130
+2,12:51,1,10,MIN 48,7,10,Aaron Jones right end for no gain (tackle by Josh Paschal and Carlton Davis),2.130,1.580
+2,12:24,2,10,MIN 48,7,10,Sam Darnold pass incomplete deep left intended for Justin Jefferson. Penalty on Jordan Addison: Illegal Formation 4 yards (accepted) (no play),1.580,1.040
+2,12:16,2,14,MIN 44,7,10,Sam Darnold pass complete short middle to Jordan Addison for 5 yards (tackle by Brian Branch),1.040,1.020
+2,11:36,3,9,MIN 49,7,10,Sam Darnold pass incomplete short left intended for Jalen Nailor (defended by Brian Branch),1.020,-0.130
+2,11:31,4,9,MIN 49,7,10,Ryan Wright punts 34 yards fair catch by Kalif Raymond at DET-17,-0.130,0.060
+2,11:24,1,10,DET 17,7,10,Jared Goff pass complete deep right to Amon-Ra St. Brown for 17 yards (tackle by Harrison Smith). Penalty on Ivan Pace: Roughing the Passer 15 yards (accepted),-0.060,2.190
+2,11:03,1,10,DET 49,7,10,David Montgomery left tackle for 5 yards (tackle by Jerry Tillery and Ivan Pace),2.190,2.320
+2,10:29,2,5,MIN 46,7,10,Jared Goff pass complete short right to Amon-Ra St. Brown for 12 yards (tackle by Andrew Van Ginkel),2.320,3.310
+2,9:47,1,10,MIN 34,7,10,Penalty on David Montgomery: False Start 5 yards (accepted) (no play),3.310,2.980
+2,9:25,1,15,MIN 39,7,10,David Montgomery left guard for 4 yards (tackle by Josh Metellus),2.980,2.640
+2,8:44,2,11,MIN 35,13,10,Jared Goff pass complete deep middle to Amon-Ra St. Brown for 35 yards touchdown,2.640,7.000
+2,8:39,,,MIN 15,14,10,Jake Bates kicks extra point good,0.000,0.000
+2,8:39,,,DET 35,14,10,Jake Bates kicks off 65 yards returned by Cam Akers for 25 yards (tackle by Sione Vaki and Trevor Nowaske),0.000,0.610
+2,8:32,1,10,MIN 25,14,10,Sam Darnold pass complete short left to Justin Jefferson for 15 yards (tackle by Kerby Joseph and Terrion Arnold),0.610,1.600
+2,7:53,1,10,MIN 40,14,10,Aaron Jones left guard for 3 yards (tackle by D.J. Reader),1.600,1.460
+2,7:11,2,7,MIN 43,14,10,Sam Darnold pass complete short right to Aaron Jones for 12 yards (tackle by Kerby Joseph),1.460,2.590
+2,6:28,1,10,DET 45,14,10,Aaron Jones left guard for 2 yards (tackle by D.J. Reader),2.590,2.310
+2,5:46,2,8,DET 43,14,10,Sam Darnold pass short right intended for Jordan Addison is intercepted by Brian Branch at DET-28 and returned for no gain (tackle by Jordan Addison),2.310,-0.810
+2,5:39,1,10,DET 28,14,10,Jahmyr Gibbs left tackle for 8 yards (tackle by Stephon Gilmore),0.810,1.340
+2,5:02,2,2,DET 36,14,10,Jared Goff pass complete short middle to Jahmyr Gibbs for 18 yards (tackle by Ivan Pace and Harrison Smith),1.340,2.520
+2,4:23,1,10,MIN 46,14,10,Jahmyr Gibbs left guard for 8 yards (tackle by Harrison Smith and Camryn Bynum),2.520,3.060
+2,3:38,2,2,MIN 38,14,10,Jared Goff pass complete short right to Amon-Ra St. Brown for 3 yards (tackle by Stephon Gilmore),3.060,3.250
+2,2:57,1,10,MIN 35,14,10,David Montgomery right end for -1 yards (tackle by Jonathan Bullard),3.250,2.570
+2,2:15,2,11,MIN 36,14,10,Jared Goff pass complete deep middle to Sam LaPorta for 25 yards (tackle by Ivan Pace),2.570,4.840
+2,2:00,1,10,MIN 11,14,10,Jahmyr Gibbs right end for 2 yards (tackle by Byron Murphy),4.840,4.510
+2,1:16,2,8,MIN 9,14,10,David Montgomery up the middle for 1 yard (tackle by Jerry Tillery and Jonathan Greenard),4.510,3.760
+2,0:29,,,,,,Timeout #2 by Detroit Lions,,
+2,0:29,3,7,MIN 8,20,10,Jahmyr Gibbs up the middle for 8 yards touchdown,3.760,7.000
+2,0:26,,,MIN 15,21,10,Jake Bates kicks extra point good,0.000,0.000
+2,0:26,,,DET 35,21,10,Jake Bates kicks off 65 yards touchback.,0.000,0.280
+2,0:23,1,10,MIN 20,21,10,Sam Darnold pass incomplete short left intended for Johnny Mundt,0.280,-0.270
+2,0:17,2,10,MIN 20,21,10,Aaron Jones left guard for 17 yards (tackle by Alex Anzalone),-0.270,1.400
+3,15:00,,,DET 35,21,10,Jake Bates kicks off 65 yards touchback.,0.000,0.280
+3,15:00,1,10,MIN 20,21,10,Sam Darnold pass complete short left to Justin Jefferson for 15 yards (tackle by Terrion Arnold),0.280,1.270
+3,14:24,1,10,MIN 35,21,10,Sam Darnold pass complete short right to Justin Jefferson for no gain (tackle by Malcolm Rodriguez),1.270,0.720
+3,13:42,2,10,MIN 35,21,10,Sam Darnold pass incomplete short right. Penalty on Johnny Mundt: Offensive Holding 10 yards (offset) . Penalty on Amik Robertson: Defensive Holding 5 yards (offset) (no play),0.720,0.720
+3,13:34,2,10,MIN 35,21,10,Sam Darnold pass complete short right to Justin Jefferson for 8 yards (tackle by Carlton Davis),0.720,1.090
+3,12:53,3,2,MIN 43,21,10,Sam Darnold pass complete short left to Jalen Nailor for no gain. Jalen Nailor fumbles (forced by Carlton Davis) recovered by Brian Branch at DET-43 touchdown Replay Assistant challenged the runner was in bounds ruling and the original play was overturned. Sam Darnold pass complete short left to Jalen Nailor for 11 yards (tackle by Carlton Davis),1.090,2.520
+3,12:34,1,10,DET 46,21,10,Aaron Jones left tackle for 9 yards (tackle by Kerby Joseph and Malcolm Rodriguez),2.520,3.190
+3,12:13,2,1,DET 37,21,10,Aaron Jones up the middle for 10 yards (tackle by Kerby Joseph),3.190,3.780
+3,11:38,1,10,DET 27,21,10,Sam Darnold pass complete short right to Johnny Mundt for 2 yards (tackle by Brian Branch),3.780,3.500
+3,10:50,2,8,DET 25,21,10,Sam Darnold pass incomplete short middle,3.500,2.810
+3,10:47,3,8,DET 25,21,16,Sam Darnold pass complete deep left to Justin Jefferson for 25 yards touchdown,2.810,7.000
+3,10:42,,,DET 15,21,17,Will Reichard kicks extra point good,0.000,0.000
+3,10:42,,,MIN 35,21,17,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+3,10:42,1,10,DET 30,21,17,Jared Goff pass complete short left to David Montgomery for 14 yards (tackle by Josh Metellus),0.940,1.860
+3,10:14,1,10,DET 44,21,17,David Montgomery left guard for 6 yards (tackle by Ivan Pace and Jonathan Bullard),1.860,2.130
+3,9:30,2,4,DET 50,21,17,David Montgomery left end for no gain (tackle by Jonathan Greenard and Josh Metellus). Penalty on Graham Glasgow: Offensive Holding 10 yards (accepted) (no play),2.130,0.780
+3,9:12,2,14,DET 40,21,17,Jared Goff pass complete short right to Kalif Raymond for 5 yards,0.780,0.760
+3,8:32,3,9,DET 45,21,17,Jared Goff pass complete short left to Kalif Raymond for 13 yards (tackle by Stephon Gilmore),0.760,2.790
+3,7:52,1,10,MIN 42,21,17,Jared Goff pass incomplete short left intended for Sam LaPorta (defended by Jonathan Bullard),2.790,2.240
+3,7:48,,,,,,Timeout #1 by Detroit Lions,,
+3,7:48,2,10,MIN 42,21,17,Penalty on Penei Sewell: False Start 5 yards (accepted) (no play),2.240,1.570
+3,7:48,2,15,MIN 47,21,17,Jared Goff pass complete deep middle to Tim Patrick for 22 yards (tackle by Kamu Grugier-Hill),1.570,3.910
+3,7:10,1,10,MIN 25,21,17,Jared Goff pass complete short left to Jameson Williams for -4 yards (tackle by Andrew Van Ginkel),3.910,2.820
+3,6:36,2,14,MIN 29,21,17,David Montgomery up the middle for 8 yards (tackle by Patrick Jones),2.820,3.200
+3,5:50,3,6,MIN 21,27,17,Jared Goff pass complete short left to Kalif Raymond for 21 yards touchdown,3.200,7.000
+3,5:43,,,MIN 15,28,17,Jake Bates kicks extra point good,0.000,0.000
+3,5:43,,,DET 35,28,17,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+3,5:43,1,10,MIN 30,28,17,Sam Darnold pass complete deep left to Johnny Mundt for no gain (tackle by Malcolm Rodriguez). Penalty on Ty Chandler: Offensive Holding 10 yards (accepted) (no play),0.940,0.280
+3,5:14,1,20,MIN 20,28,17,Sam Darnold pass complete short left to Josh Oliver for 5 yards (tackle by Alex Anzalone),0.280,-0.280
+3,4:40,2,15,MIN 25,28,17,Sam Darnold pass complete deep right to Jalen Nailor for 33 yards (tackle by Kerby Joseph),-0.280,2.790
+3,3:52,1,10,DET 42,28,17,Sam Darnold scrambles left end for no gain (tackle by Terrion Arnold). Penalty on Jordan Addison: Offensive Offside 5 yards (accepted) (no play),2.790,2.460
+3,3:23,1,15,DET 47,28,17,Ty Chandler left guard for 3 yards (tackle by Jack Campbell),2.460,1.970
+3,2:40,2,12,DET 44,28,17,Sam Darnold pass complete short left to Johnny Mundt for 3 yards (tackle by Alex Anzalone),1.970,1.680
+3,1:56,3,9,DET 41,28,17,Sam Darnold pass complete short left to Aaron Jones for 17 yards (tackle by Malcolm Rodriguez),1.680,3.970
+3,1:09,1,10,DET 24,28,17,Aaron Jones left tackle for 3 yards (tackle by Jack Campbell and Malcolm Rodriguez),3.970,3.840
+3,0:31,2,7,DET 21,28,17,Sam Darnold sacked by Josh Paschal for -8 yards,3.840,2.080
+4,15:00,3,15,DET 29,28,17,Sam Darnold scrambles right end for 5 yards (tackle by Amik Robertson),2.080,1.870
+4,14:28,4,10,DET 24,28,20,Will Reichard 42 yard field goal good,1.870,3.000
+4,14:24,,,MIN 35,28,20,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+4,14:24,1,10,DET 30,28,20,Jahmyr Gibbs left tackle for 5 yards (tackle by Andrew Van Ginkel),0.940,1.070
+4,13:47,2,5,DET 35,28,20,Jahmyr Gibbs right tackle for 3 yards (tackle by Harrison Phillips),1.070,0.760
+4,13:10,3,2,DET 38,28,20,Jared Goff pass complete deep middle to Amon-Ra St. Brown for 16 yards (tackle by Harrison Smith),0.760,2.520
+4,12:30,1,10,MIN 46,28,20,Jahmyr Gibbs left tackle for 2 yards (tackle by Shaquill Griffin and Ivan Pace),2.520,2.250
+4,11:52,2,8,MIN 44,28,20,Jared Goff sacked by Jonathan Greenard for -10 yards. Jared Goff fumbles (forced by Jonathan Greenard) recovered by Jared Goff at DET-46 (tackle by Jonathan Greenard),2.250,0.230
+4,11:04,3,18,DET 46,28,20,Jared Goff pass complete short middle to Amon-Ra St. Brown for 7 yards (tackle by Josh Metellus and Ivan Pace),0.230,0.130
+4,10:20,4,11,MIN 47,28,20,Jack Fox punts 38 yards downed by Kindle Vildor,0.130,0.380
+4,10:10,1,10,MIN 9,28,20,Sam Darnold pass complete deep right to Jordan Addison for 51 yards (tackle by Brian Branch),-0.380,2.920
+4,9:22,1,10,DET 40,28,20,Sam Darnold pass complete short right to Aaron Jones for -6 yards (tackle by Alex Anzalone),2.920,1.560
+4,8:46,2,16,DET 46,28,20,Sam Darnold scrambles right end for 9 yards (tackle by Brian Branch). Penalty on Carlton Davis: Illegal Contact 5 yards (accepted),1.560,3.450
+4,8:19,1,10,DET 32,28,20,Justin Jefferson left end for 3 yards (tackle by Alex Anzalone and Pat O'Connor),3.450,3.310
+4,7:33,2,7,DET 29,28,20,Sam Darnold sacked by Jack Campbell for no gain,3.310,2.610
+4,6:48,3,7,DET 29,28,20,Sam Darnold sacked by Malcolm Rodriguez for -1 yards,2.610,1.410
+4,6:09,4,8,DET 30,28,23,Will Reichard 48 yard field goal good,1.410,3.000
+4,6:04,,,MIN 35,28,23,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+4,6:04,1,10,DET 30,28,23,Jared Goff pass incomplete short middle intended for David Montgomery (defended by Jonathan Bullard),0.940,0.390
+4,6:00,2,10,DET 30,28,29,David Montgomery left tackle for 5 yards. David Montgomery fumbles (tackle by Camryn Bynum recovered by Ivan Pace at DET-36 and returned for 36 yards touchdown. Penalty on Frank Ragnow: Offensive Holding 10 yards (declined),0.390,-7.000
+4,5:50,,,DET 2,28,29,Two Point Attempt: Sam Darnold pass incomplete,1.000,-1.000
+4,5:50,,,MIN 35,28,29,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+4,5:50,1,10,DET 30,28,29,Jahmyr Gibbs left guard for 4 yards (tackle by Ivan Pace and Harrison Phillips),0.940,0.930
+4,5:14,2,6,DET 34,28,29,Jared Goff pass incomplete deep left intended for Kalif Raymond,0.930,0.230
+4,5:07,3,6,DET 34,28,29,Jared Goff sacked by Andrew Van Ginkel for -14 yards. Jared Goff fumbles (forced by Andrew Van Ginkel) recovered by Frank Ragnow at DET-20 (tackle by Andrew Van Ginkel),0.230,-2.030
+4,4:22,4,20,DET 20,28,29,Jack Fox punts 63 yards returned by Brandon Powell for 5 yards (tackle by Khalil Dorsey),-2.030,-0.410
+4,4:16,1,10,MIN 22,28,29,Aaron Jones left tackle for 5 yards (tackle by Josh Paschal),0.410,0.540
+4,3:33,2,5,MIN 27,28,29,Aaron Jones left end for 1 yard (tackle by Trevor Nowaske and Jack Campbell),0.540,-0.030
+4,2:47,3,4,MIN 28,28,29,Sam Darnold pass incomplete deep right intended for Justin Jefferson,-0.030,-1.500
+4,2:41,4,4,MIN 28,28,29,Ryan Wright punts 51 yards returned by Kalif Raymond for 9 yards (tackle by Trent Sherfield),-1.500,-0.940
+4,2:32,1,10,DET 30,28,29,Jahmyr Gibbs right guard for 4 yards (tackle by Ivan Pace and Josh Metellus),0.940,0.930
+4,2:00,2,6,DET 34,28,29,Jahmyr Gibbs right tackle for 14 yards (tackle by Byron Murphy),0.930,2.130
+4,1:25,1,10,DET 48,28,29,Jared Goff pass complete short right to Jahmyr Gibbs for 16 yards (tackle by Josh Metellus),2.130,3.180
+4,1:18,1,10,MIN 36,28,29,Jared Goff pass complete short right to Amon-Ra St. Brown for 14 yards (tackle by Harrison Smith and Stephon Gilmore),3.180,4.110
+4,1:07,,,,,,Timeout #1 by Minnesota Vikings,,
+4,1:07,1,10,MIN 22,28,29,Jahmyr Gibbs right end for no gain (tackle by Jonathan Bullard and Jonathan Greenard),4.110,3.560
+4,1:02,,,,,,Timeout #2 by Minnesota Vikings,,
+4,1:02,2,10,MIN 22,28,29,Jared Goff kneels for -3 yards,3.560,2.480
+4,1:01,,,,,,Timeout #3 by Minnesota Vikings,,
+4,1:01,3,13,MIN 25,28,29,Jared Goff kneels for -1 yards,2.480,1.740
+4,0:19,,,,,,Timeout #2 by Detroit Lions,,
+4,0:19,4,14,MIN 26,31,29,Jake Bates 44 yard field goal good,1.740,3.000
+4,0:15,,,DET 35,31,29,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+4,0:15,1,10,MIN 30,31,29,Sam Darnold pass complete deep right to Jalen Nailor for 20 yards (tackle by Alex Anzalone),0.940,2.260
+4,0:02,1,10,MIN 50,31,29,Sam Darnold spiked the ball. Penalty on Christian Darrisaw: Illegal Formation 5 yards (accepted) (no play),2.260,1.930
+4,0:01,1,15,MIN 45,31,29,Sam Darnold sacked by Trevor Nowaske for -6 yards,1.930,0.230

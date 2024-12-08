@@ -1,0 +1,170 @@
+Quarter,Time,Down,ToGo,Location,BUF,SEA,Detail,EPB,EPA
+,,,,,,,Bills won the coin toss and deferred Seahawks to receive the opening kickoff.,,
+1,15:00,,,BUF 35,0,0,Tyler Bass kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,SEA 30,0,0,Geno Smith pass incomplete short right intended for Noah Fant (defended by Gregory Rousseau),0.940,0.390
+1,14:56,2,10,SEA 30,0,0,Geno Smith pass complete short left to Kenneth Walker for 1 yard (tackle by Taron Johnson),0.390,-0.160
+1,14:15,3,9,SEA 31,0,0,Geno Smith pass incomplete short right intended for Tyler Lockett (defended by Gregory Rousseau),-0.160,-1.310
+1,14:10,4,9,SEA 31,0,0,Michael Dickson punts 61 yards returned by Brandon Codrington for 11 yards (tackle by K'Von Wallace). Penalty on Cameron Lewis: Illegal Blindside Block 9 yards (accepted),-1.310,0.380
+1,13:58,1,10,BUF 10,0,0,Josh Allen pass complete deep left to Dawson Knox for 23 yards (tackle by Coby Bryant),-0.380,1.140
+1,13:18,1,10,BUF 33,0,0,James Cook up the middle for 8 yards (tackle by Josh Jobe),1.140,1.670
+1,12:40,2,2,BUF 41,0,0,Ray Davis right guard for no gain (tackle by Devon Witherspoon). Penalty on Alec Anderson: Offensive Holding 10 yards (accepted) (no play),1.670,0.320
+1,12:12,2,12,BUF 31,0,0,Josh Allen pass complete short right to Khalil Shakir for 8 yards (tackle by Coby Bryant and Ernest Jones),0.320,0.700
+1,11:33,3,4,BUF 39,0,0,Josh Allen pass complete short left to Dalton Kincaid for 6 yards (tackle by Julian Love),0.700,1.930
+1,10:48,1,10,BUF 45,0,0,Penalty on David Edwards: False Start 5 yards (accepted) (no play),1.930,1.600
+1,10:28,1,15,BUF 40,0,0,Josh Allen sacked by Boye Mafe for no gain. Josh Allen fumbles (forced by Boye Mafe) recovered by Spencer Brown at BUF-37. Penalty on Devon Witherspoon: Illegal Contact 5 yards (accepted) (no play),1.600,1.930
+1,10:14,1,10,BUF 45,0,0,Josh Allen pass complete short right to Khalil Shakir for 9 yards (tackle by Josh Jobe),1.930,2.600
+1,9:37,2,1,SEA 46,0,0,James Cook left guard for no gain (tackle by Byron Murphy and Ernest Jones),2.600,1.880
+1,9:16,3,1,SEA 46,0,0,Josh Allen left guard for 3 yards (tackle by Devon Witherspoon),1.880,2.720
+1,8:39,1,10,SEA 43,0,0,James Cook left guard for no gain (tackle by Tyrel Dodson and Riq Woolen). Penalty on Connor McGovern: Offensive Holding 10 yards (accepted) (no play),2.720,2.060
+1,8:10,1,20,BUF 47,0,0,James Cook left end for 5 yards (tackle by Riq Woolen),2.060,1.500
+1,7:27,2,15,SEA 48,0,0,Josh Allen pass complete short right to Keon Coleman for 7 yards (tackle by Ernest Jones),1.500,1.750
+1,6:47,3,8,SEA 41,0,0,Josh Allen pass complete deep left to Keon Coleman for 25 yards (tackle by Coby Bryant). Penalty on Josh Jobe: Defensive Holding 5 yards (declined),1.750,4.510
+1,6:18,1,10,SEA 16,0,0,James Cook up the middle for 11 yards (tackle by Coby Bryant),4.510,6.060
+1,5:41,1,5,SEA 5,0,0,Josh Allen pass incomplete short left intended for Keon Coleman (defended by Riq Woolen),6.060,5.150
+1,5:37,2,5,SEA 5,0,0,Josh Allen right guard for 3 yards (tackle by Ernest Jones),5.150,4.950
+1,4:54,3,2,SEA 2,6,0,Josh Allen pass complete short right to Keon Coleman for 2 yards touchdown,4.950,7.000
+1,4:51,,,SEA 15,7,0,Tyler Bass kicks extra point good,0.000,0.000
+1,4:51,,,BUF 35,7,0,Tyler Bass kicks off 65 yards touchback.,0.000,0.940
+1,4:51,1,10,SEA 30,7,0,Kenneth Walker left end for -2 yards (tackle by Rasul Douglas),0.940,0.120
+1,4:20,2,12,SEA 28,7,0,Kenneth Walker left guard for 4 yards (tackle by Taron Johnson and Rasul Douglas),0.120,-0.030
+1,3:39,3,8,SEA 32,7,0,Geno Smith pass incomplete deep middle intended for Jaxon Smith-Njigba (defended by Cameron Lewis),-0.030,-1.240
+1,3:34,4,8,SEA 32,7,0,Michael Dickson punts 68 yards returned by Brandon Codrington for 12 yards (tackle by Dee Williams and Jerrick Reed),-1.240,0.350
+1,3:21,1,10,BUF 12,7,0,Josh Allen pass complete short left to James Cook for 12 yards (tackle by Julian Love),-0.350,0.540
+1,2:42,1,10,BUF 24,7,0,Josh Allen pass complete short left to Amari Cooper for 3 yards,0.540,0.400
+1,2:08,2,7,BUF 27,7,0,James Cook left tackle for 7 yards (tackle by Ernest Jones),0.400,1.200
+1,1:23,1,10,BUF 34,7,0,Josh Allen pass incomplete deep right intended for Dalton Kincaid,1.200,0.660
+1,1:16,2,10,BUF 34,7,0,Penalty on Dion Dawkins: False Start 5 yards (accepted) (no play),0.660,-0.020
+1,1:16,2,15,BUF 29,7,0,Josh Allen pass incomplete deep right intended for Keon Coleman,-0.020,-0.690
+1,1:11,3,15,BUF 29,7,0,Josh Allen pass complete short right to Khalil Shakir for 13 yards (tackle by Tyrel Dodson),-0.690,-0.590
+1,0:27,4,2,BUF 42,7,0,Sam Martin punts 49 yards out of bounds,-0.590,0.380
+1,0:18,1,10,SEA 9,7,0,Geno Smith pass incomplete short left. Penalty on Laken Tomlinson: Ineligible Downfield Pass 4 yards (accepted) (no play),-0.380,-0.530
+1,0:14,1,14,SEA 5,7,0,Geno Smith pass complete short right to Tyler Lockett for 9 yards (tackle by Christian Benford),-0.530,-0.390
+2,15:00,2,5,SEA 14,7,0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 7 yards (tackle by Damar Hamlin),-0.390,0.340
+2,14:34,1,10,SEA 21,7,0,Kenneth Walker left end for 1 yard (tackle by Taron Johnson),0.340,-0.070
+2,13:54,2,9,SEA 22,7,0,Geno Smith pass complete short middle to Kenneth Walker for 5 yards (tackle by A.J. Epenesa),-0.070,-0.100
+2,13:18,3,4,SEA 27,7,0,Geno Smith pass complete short left to Laviska Shenault for 10 yards (tackle by Taron Johnson),-0.100,1.400
+2,12:55,1,10,SEA 37,7,0,Geno Smith pass complete short left to Jake Bobo for 15 yards (tackle by Rasul Douglas),1.400,2.390
+2,12:21,1,10,BUF 48,7,0,Geno Smith pass complete short left to Kenneth Walker for 17 yards (tackle by Damar Hamlin),2.390,3.510
+2,11:41,1,10,BUF 31,7,0,Geno Smith pass complete short middle to AJ Barner for 14 yards (tackle by Baylon Spector and Taron Johnson),3.510,4.440
+2,11:13,1,10,BUF 17,7,0,Penalty on DaQuan Jones: Neutral Zone Infraction 5 yards (accepted) (no play),4.440,5.520
+2,10:57,1,5,BUF 12,7,0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 10 yards (tackle by Rasul Douglas and Taylor Rapp),5.520,6.740
+2,10:29,1,2,BUF 2,7,0,Kenneth Walker right guard for -1 yards (tackle by Gregory Rousseau and Ed Oliver),6.740,5.530
+2,9:52,2,3,BUF 3,7,0,Connor Williams aborted snap recovered by Kenneth Walker at BUF-29 (tackle by Dawuane Smoot),5.530,2.080
+2,9:05,3,22,BUF 22,7,0,Penalty on Geno Smith: Delay of Game 5 yards (accepted) (no play),2.080,1.420
+2,8:57,3,27,BUF 27,7,0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 7 yards (tackle by Taron Johnson and Gregory Rousseau),1.420,2.120
+2,8:18,4,20,BUF 20,7,3,Jason Myers 38 yard field goal good,2.120,3.000
+2,8:14,,,SEA 35,7,3,Jason Myers kicks off 65 yards touchback.,0.000,0.940
+2,8:14,1,10,BUF 30,7,3,James Cook left tackle for 3 yards (tackle by Byron Murphy and Julian Love),0.940,0.800
+2,7:38,2,7,BUF 33,7,3,Josh Allen pass complete short left to Khalil Shakir for 4 yards (tackle by Byron Murphy),0.800,0.630
+2,6:55,3,3,BUF 37,7,3,Josh Allen pass short right intended for Amari Cooper is intercepted by Josh Jobe at BUF-40 and returned for 33 yards (tackle by Josh Allen),0.630,-5.600
+2,6:43,1,7,BUF 7,7,3,Kenneth Walker right guard for 3 yards (tackle by Damar Hamlin and Eli Ankou),5.600,5.340
+2,6:01,,,,,,Timeout #1 by Seattle Seahawks,,
+2,6:01,2,4,BUF 4,7,3,Zach Charbonnet right guard for 3 yards (tackle by Dorian Williams and Taylor Rapp),5.340,5.170
+2,5:27,3,1,BUF 1,7,3,Kenneth Walker right guard for no gain (tackle by Gregory Rousseau and Dorian Williams),5.170,3.550
+2,4:47,4,1,BUF 1,7,3,Geno Smith up the middle for -6 yards (tackle by Gregory Rousseau),3.550,0.380
+2,4:44,1,10,BUF 7,7,3,Josh Allen pass complete short right to Dalton Kincaid for 1 yard (tackle by Ernest Jones),-0.380,-0.710
+2,4:07,2,9,BUF 8,7,3,Josh Allen pass complete short left to Keon Coleman for 22 yards (tackle by Julian Love). Penalty on Keon Coleman: Offensive Pass Interference 4 yards (accepted) . Penalty on Ray Davis: Personal Foul / Offense 4 yards (declined) (no play),-0.710,-1.000
+2,3:36,2,13,BUF 4,7,3,Josh Allen pass complete short middle to Khalil Shakir for 8 yards (tackle by Tyrel Dodson),-1.000,-0.840
+2,2:56,3,5,BUF 12,7,3,Josh Allen up the middle for -13 yards. Josh Allen fumbles recovered by Ty Johnson at BUF-23,-0.840,0.480
+2,2:12,1,10,BUF 23,7,3,James Cook left tackle for 18 yards (tackle by Coby Bryant),0.480,1.660
+2,2:00,1,10,BUF 41,7,3,Josh Allen pass complete short middle to Khalil Shakir for 16 yards (tackle by Devon Witherspoon),1.660,2.720
+2,1:39,1,10,SEA 43,7,3,James Cook left guard for 4 yards (tackle by Roy Robertson-Harris),2.720,2.720
+2,1:14,2,6,SEA 39,7,3,Josh Allen pass complete short middle to James Cook for 3 yards (tackle by Tyrel Dodson),2.720,2.410
+2,1:08,,,,,,Timeout #1 by Buffalo Bills,,
+2,1:08,3,3,SEA 36,7,3,Josh Allen left tackle for 9 yards (tackle by Julian Love),2.410,3.780
+2,0:48,,,,,,Timeout #2 by Seattle Seahawks,,
+2,0:48,1,10,SEA 27,7,3,Josh Allen pass incomplete short left intended for Dalton Kincaid,3.780,3.230
+2,0:43,2,10,SEA 27,7,3,Josh Allen scrambles up the middle for 3 yards (tackle by Derick Hall),3.230,2.940
+2,0:38,,,,,,Timeout #2 by Buffalo Bills,,
+2,0:38,3,7,SEA 24,7,3,Josh Allen pass incomplete short right. Penalty on Derick Hall: Roughing the Passer 12 yards (accepted) (no play),2.940,4.780
+2,0:31,1,10,SEA 12,7,3,Josh Allen pass incomplete short left intended for Ty Johnson,4.780,4.100
+2,0:25,2,10,SEA 12,13,3,Josh Allen pass complete short left to Dalton Kincaid for 12 yards touchdown,4.100,7.000
+2,0:18,,,SEA 15,14,3,Tyler Bass kicks extra point good,0.000,0.000
+2,0:18,,,BUF 35,14,3,Tyler Bass kicks off 65 yards touchback.,0.000,0.940
+2,0:18,1,10,SEA 30,14,3,Geno Smith kneels for -1 yards,0.940,0.260
+3,15:00,,,SEA 35,14,3,Jason Myers kicks off 68 yards returned by Ray Davis for 26 yards (tackle by Laviska Shenault),0.000,0.480
+3,14:54,1,10,BUF 23,14,3,James Cook right tackle for no gain (tackle by Tyrel Dodson). Penalty on Spencer Brown: Offensive Holding 10 yards (accepted) (no play),0.480,-0.590
+3,14:34,1,20,BUF 13,14,3,Josh Allen pass complete short left to Keon Coleman for 15 yards (tackle by Ernest Jones),-0.590,0.610
+3,13:53,2,5,BUF 28,14,3,Josh Allen pass complete short left to James Cook for 7 yards (tackle by Tyrel Dodson),0.610,1.270
+3,13:16,1,10,BUF 35,14,3,Josh Allen pass complete deep left to Khalil Shakir for 35 yards (tackle by Josh Jobe),1.270,3.580
+3,12:30,1,10,SEA 30,14,3,Josh Allen pass complete short right to Dalton Kincaid for 12 yards (tackle by Devon Witherspoon),3.580,4.370
+3,11:49,1,10,SEA 18,14,3,James Cook left tackle for 2 yards (tackle by Devon Witherspoon and Ernest Jones),4.370,4.090
+3,11:11,2,8,SEA 16,14,3,Josh Allen pass complete short right to Khalil Shakir for 6 yards (tackle by Derick Hall),4.090,4.510
+3,10:27,3,2,SEA 10,14,3,Ray Davis up the middle for 5 yards (tackle by Jarran Reed and Leonard Williams),4.510,6.060
+3,9:39,1,5,SEA 5,14,3,Penalty on BUF: Delay of Game 5 yards (accepted) (no play),6.060,4.910
+3,9:29,1,10,SEA 10,14,3,Josh Allen pass incomplete short left,4.910,4.190
+3,9:21,2,10,SEA 10,14,3,Josh Allen right guard for 2 yards (tackle by Leonard Williams),4.190,3.580
+3,8:41,,,,,,Timeout #1 by Seattle Seahawks,,
+3,8:41,3,8,SEA 8,14,3,Josh Allen pass incomplete short right intended for Dalton Kincaid (defended by Coby Bryant). Penalty on Spencer Brown: Offensive Holding 10 yards (declined),3.580,2.830
+3,8:34,4,9,SEA 9,17,3,Tyler Bass 27 yard field goal good,2.830,3.000
+3,8:31,,,BUF 35,17,3,Tyler Bass kicks off 65 yards touchback.,0.000,0.940
+3,8:31,1,10,SEA 30,17,3,Geno Smith pass incomplete short left intended for Tyler Lockett (defended by Rasul Douglas),0.940,0.390
+3,8:28,2,10,SEA 30,17,3,Geno Smith pass incomplete short left intended for Laviska Shenault. Penalty on Christian Benford: Illegal Contact 5 yards (accepted) (no play),0.390,1.270
+3,8:22,1,10,SEA 35,17,3,Kenneth Walker up the middle for 1 yard (tackle by Taylor Rapp and Eli Ankou),1.270,0.860
+3,7:55,2,9,SEA 36,17,3,Geno Smith pass complete short middle to Jaxon Smith-Njigba for 13 yards (tackle by Baylon Spector),0.860,2.190
+3,7:21,1,10,SEA 49,17,3,Kenneth Walker left guard for 1 yard (tackle by Ed Oliver and Eli Ankou),2.190,1.780
+3,6:46,2,9,SEA 50,17,3,Geno Smith pass complete short left to Kenneth Walker for 10 yards (tackle by Rasul Douglas and Taron Johnson),1.780,2.920
+3,6:04,1,10,BUF 40,17,3,Geno Smith pass short right (defended by Casey Toohill) intended for Kenneth Walker is intercepted by Austin Johnson at BUF-44 and returned for 5 yards (tackle by Kenneth Walker),2.920,-2.190
+3,5:59,1,10,BUF 49,17,3,James Cook right guard for 4 yards (tackle by Ernest Jones),2.190,2.190
+3,5:18,2,6,SEA 47,17,3,James Cook right guard for 6 yards (tackle by Ernest Jones and Josh Jobe),2.190,2.850
+3,4:33,1,10,SEA 41,17,3,Khalil Shakir left end for 2 yards (tackle by Ernest Jones). Penalty on Keon Coleman: Unnecessary Roughness / Offense 15 yards (offset) . Penalty on Josh Jobe: Unnecessary Roughness / Defense 15 yards (offset),2.850,2.580
+3,4:07,2,8,SEA 39,17,3,Josh Allen scrambles right guard for 3 yards (tackle by Derick Hall),2.580,2.280
+3,3:28,3,5,SEA 36,17,3,Josh Allen pass complete deep left to Keon Coleman for 21 yards (tackle by Josh Jobe),2.280,4.580
+3,2:46,1,10,SEA 15,17,3,James Cook up the middle for 13 yards (tackle by Ernest Jones and Riq Woolen),4.580,6.740
+3,2:01,1,2,SEA 2,23,3,James Cook left end for 2 yards touchdown,6.740,7.000
+3,1:57,,,SEA 15,24,3,Tyler Bass kicks extra point good,0.000,0.000
+3,1:57,,,BUF 35,24,3,Tyler Bass kicks off 70 yards returned by Laviska Shenault for 25 yards (tackle by Joe Andreessen),0.000,0.280
+3,1:53,1,10,SEA 20,24,3,Geno Smith aborted snap recovered by Kenneth Walker at SEA-12 Kenneth Walker for no gain (tackle by Taylor Rapp),0.280,0.410
+3,1:17,2,5,SEA 25,24,3,Geno Smith pass complete short middle to Tyler Lockett for no gain (tackle by Dorian Williams). Penalty on Christian Haynes: Offensive Holding 10 yards (accepted) (no play),0.410,-1.070
+3,0:58,2,15,SEA 15,24,3,Penalty on Charles Cross: False Start 5 yards (accepted) (no play),-1.070,-1.510
+3,0:47,2,20,SEA 10,24,3,Geno Smith scrambles right end for 10 yards (tackle by Ed Oliver). Penalty on Geno Smith: Taunting / Offense 10 yards (accepted),-1.510,-2.590
+3,0:31,3,20,SEA 10,24,3,Geno Smith pass complete short middle to Zach Charbonnet for 5 yards (tackle by Cameron Lewis and Ed Oliver). Penalty on Michael Jerrell: Illegal Formation 5 yards (declined),-2.590,-2.440
+3,0:16,4,15,SEA 15,24,3,Michael Dickson punts 58 yards downed by K'Von Wallace,-2.440,-0.740
+3,0:03,1,10,BUF 27,24,3,Josh Allen pass incomplete deep right,0.740,0.200
+4,15:00,2,10,BUF 27,24,3,James Cook up the middle for 8 yards (tackle by Riq Woolen),0.200,0.560
+4,14:19,3,2,BUF 35,24,3,James Cook left end for 1 yard (tackle by Tyrel Dodson and Ernest Jones),0.560,-0.980
+4,13:52,4,1,BUF 36,24,3,Josh Allen up the middle for 2 yards (tackle by Tyrel Dodson),-0.980,1.470
+4,13:08,1,10,BUF 38,24,3,Josh Allen pass complete deep right to Dawson Knox for 27 yards (tackle by Coby Bryant),1.470,3.250
+4,12:26,1,10,SEA 35,24,3,Josh Allen pass incomplete deep right intended for Keon Coleman. Penalty on Riq Woolen: Defensive Pass Interference 11 yards (accepted) (no play),3.250,3.970
+4,12:20,1,10,SEA 24,24,3,James Cook right guard for 12 yards (tackle by Riq Woolen),3.970,4.780
+4,11:38,1,10,SEA 12,24,3,Penalty on Johnathan Hankins: Encroachment 5 yards (accepted) (no play),4.780,5.930
+4,11:23,1,5,SEA 7,30,3,James Cook up the middle for 7 yards touchdown,5.930,7.000
+4,11:19,,,SEA 15,31,3,Tyler Bass kicks extra point good,0.000,0.000
+4,11:19,,,BUF 35,31,3,Tyler Bass kicks off 65 yards touchback.,0.000,0.940
+4,11:19,1,10,SEA 30,31,3,Geno Smith pass complete short left to Zach Charbonnet for 3 yards (tackle by Cameron Lewis),0.940,0.800
+4,10:58,2,7,SEA 33,31,3,Geno Smith pass complete short right to Noah Fant for 14 yards (tackle by Christian Benford and Baylon Spector),0.800,2.060
+4,10:29,1,10,SEA 47,31,3,Geno Smith pass incomplete short right,2.060,1.520
+4,10:20,2,10,SEA 47,31,3,Geno Smith pass complete deep middle to Jaxon Smith-Njigba for 18 yards (tackle by Cameron Lewis),1.520,3.250
+4,9:55,1,10,BUF 35,31,3,Geno Smith pass complete deep middle to AJ Barner for 20 yards (tackle by Baylon Spector),3.250,4.580
+4,9:32,1,10,BUF 15,31,3,Geno Smith pass incomplete short right,4.580,3.950
+4,9:28,2,10,BUF 15,31,3,Geno Smith pass complete short right to Zach Charbonnet for 12 yards (tackle by Taylor Rapp and Christian Benford),3.950,6.510
+4,8:46,1,3,BUF 3,31,3,Zach Charbonnet left guard for no gain (tackle by Taron Johnson and Austin Johnson),6.510,5.530
+4,8:11,2,3,BUF 3,31,3,Geno Smith pass incomplete short middle intended for Tyler Lockett (defended by Damar Hamlin). Penalty on Damar Hamlin: Defensive Pass Interference 2 yards (accepted) (no play),5.530,6.970
+4,8:05,1,1,BUF 1,31,9,Zach Charbonnet right tackle for 1 yard touchdown,6.970,7.000
+4,8:02,,,BUF 15,31,10,Jason Myers kicks extra point good,0.000,0.000
+4,8:02,,,SEA 35,31,10,Jason Myers kicks off 55 yards returned by Ray Davis for 15 yards (tackle by Pharaoh Brown). Penalty on Reggie Gilliam: Offensive Holding 10 yards (accepted),0.000,-0.220
+4,7:55,1,10,BUF 15,31,10,Ray Davis up the middle for 4 yards (tackle by Josh Jobe),-0.220,-0.110
+4,7:49,,,,,,Timeout #2 by Seattle Seahawks,,
+4,7:49,2,6,BUF 19,31,10,Penalty on Dion Dawkins: False Start 5 yards (accepted) (no play),-0.110,-0.820
+4,7:49,2,11,BUF 14,31,10,Josh Allen pass incomplete short left intended for Khalil Shakir (defended by Roy Robertson-Harris),-0.820,-1.510
+4,7:46,3,11,BUF 14,31,10,Josh Allen pass complete short left to Khalil Shakir for 8 yards (tackle by Devon Witherspoon and Josh Jobe),-1.510,-1.900
+4,7:37,,,,,,Timeout #3 by Seattle Seahawks,,
+4,7:37,4,3,BUF 22,31,10,Sam Martin punts 58 yards returned by Dee Williams for no gain (tackle by Cole Bishop and Casey Toohill). Penalty on Jerrick Reed: Tripping / Offense 10 yards (accepted),-1.900,0.380
+4,7:23,1,10,SEA 10,31,10,Geno Smith pass complete short left to Noah Fant for 6 yards (tackle by Cameron Lewis and Baylon Spector),-0.380,-0.230
+4,7:01,2,4,SEA 16,31,10,Geno Smith pass complete short left to Jaxon Smith-Njigba for 14 yards (tackle by Christian Benford),-0.230,0.940
+4,6:40,1,10,SEA 30,31,10,Geno Smith scrambles left end for 13 yards (tackle by Rasul Douglas),0.940,1.800
+4,6:17,1,10,SEA 43,31,10,Geno Smith pass incomplete short left intended for Zach Charbonnet,1.800,1.250
+4,6:14,2,10,SEA 43,31,10,Geno Smith pass complete short left to Noah Fant for 2 yards (tackle by Damar Hamlin),1.250,0.830
+4,5:52,3,8,SEA 45,31,10,Geno Smith sacked by Javon Solomon for -11 yards,0.830,-1.110
+4,5:15,,,,,,Timeout #1 by Buffalo Bills,,
+4,5:15,4,19,SEA 34,31,10,Penalty on SEA: Delay of Game 5 yards (accepted) (no play),-1.110,-1.440
+4,5:15,4,24,SEA 29,31,10,Michael Dickson punts 58 yards returned by Brandon Codrington for 12 yards (tackle by K'Von Wallace and Brady Russell),-1.440,-0.610
+4,5:02,,,,,,Timeout #2 by Buffalo Bills,,
+4,5:02,1,10,BUF 25,31,10,Ray Davis left guard for 1 yard (tackle by Tyrel Dodson and Johnathan Hankins),0.610,0.200
+4,4:19,2,9,BUF 26,31,10,Ray Davis right guard for 8 yards (tackle by Byron Murphy and Ernest Jones),0.200,0.560
+4,3:37,3,1,BUF 34,31,10,Ray Davis right tackle for no gain (tackle by Roy Robertson-Harris and Ernest Jones),0.560,-1.110
+4,2:52,4,1,BUF 34,31,10,Sam Martin punts 40 yards recovered by Mack Hollins at SEA-26. Penalty on Josh Ross: Offensive Holding 10 yards (declined),-1.110,3.840
+4,2:43,1,10,SEA 26,31,10,Ray Davis left tackle for 11 yards (tackle by Faion Hicks),3.840,4.580
+4,2:00,1,10,SEA 15,31,10,Mitchell Trubisky kneels for -1 yards,4.580,3.810
+4,1:21,2,11,SEA 16,31,10,Mitchell Trubisky kneels for -1 yards,3.810,2.980
+4,0:39,3,12,SEA 17,31,10,Mitchell Trubisky kneels for -1 yards,2.980,2.250

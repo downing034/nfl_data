@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,CLE,PIT,Detail,EPB,EPA
+,,,,,,,Browns won the coin toss and deferred Steelers to receive the opening kickoff.,,
+1,15:00,,,CLE 35,0,0,Dustin Hopkins kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,PIT 30,0,0,Penalty on Shelby Harris: Neutral Zone Infraction 5 yards (accepted) (no play),0.940,1.670
+1,15:00,1,5,PIT 35,0,0,Najee Harris left guard for 3 yards (tackle by Juan Thornhill),1.670,1.470
+1,14:34,2,2,PIT 38,0,0,Russell Wilson pass complete short right to MyCole Pruitt for -1 yards (tackle by Devin Bush),1.470,0.630
+1,13:52,3,3,PIT 37,0,0,Russell Wilson pass incomplete deep left intended for Mike Williams,0.630,-0.910
+1,13:43,4,3,PIT 37,0,0,Corliss Waitman punts 60 yards returned by Kadarius Toney for 14 yards (tackle by Ben Skowronek and Miles Killebrew),-0.910,0.060
+1,13:31,1,10,CLE 17,0,0,Nick Chubb up the middle for -5 yards (tackle by T.J. Watt),-0.060,-1.150
+1,12:55,2,15,CLE 12,0,0,Jameis Winston pass incomplete short middle,-1.150,-2.010
+1,12:49,3,15,CLE 12,0,0,Jameis Winston sacked by Alex Highsmith for -7 yards,-2.010,-2.490
+1,12:10,4,22,CLE 5,0,0,Corey Bojorquez punts 42 yards returned by Calvin Austin for 11 yards (tackle by D'Anthony Bell and Nathaniel Watson),-2.490,-3.180
+1,12:02,1,10,CLE 36,0,0,Najee Harris left guard for 20 yards (tackle by Denzel Ward),3.180,4.510
+1,11:26,1,10,CLE 16,0,0,Najee Harris up the middle for 7 yards (tackle by Grant Delpit and Ronnie Hickman),4.510,5.160
+1,10:44,2,3,CLE 9,0,0,Najee Harris left tackle for 2 yards (tackle by Myles Garrett),5.160,4.850
+1,10:08,3,1,CLE 7,0,0,Russell Wilson left guard for no gain (tackle by Jowon Briggs). Penalty on Dan Moore: Illegal Formation 5 yards (accepted) (no play),4.850,3.730
+1,9:41,3,6,CLE 12,0,0,Russell Wilson pass incomplete short middle intended for Jaylen Warren,3.730,2.660
+1,9:35,4,6,CLE 12,0,3,Chris Boswell 30 yard field goal good,2.660,3.000
+1,9:32,,,PIT 35,0,3,Chris Boswell kicks off 65 yards touchback.,0.000,0.940
+1,9:32,1,10,CLE 30,0,3,Jerome Ford right tackle for 7 yards (tackle by Patrick Queen),0.940,1.340
+1,8:55,2,3,CLE 37,0,3,Nick Chubb up the middle for 7 yards (tackle by Alex Highsmith and Patrick Queen),1.340,1.860
+1,8:09,1,10,CLE 44,0,3,Nick Chubb left tackle for no gain (tackle by T.J. Watt and Larry Ogunjobi),1.860,1.320
+1,7:25,2,10,CLE 44,0,3,Jameis Winston pass complete deep middle to Elijah Moore for 20 yards (tackle by DeShon Elliott),1.320,3.180
+1,6:42,1,10,PIT 36,0,3,Jameis Winston pass incomplete short middle intended for David Njoku (defended by Damontae Kazee),3.180,2.640
+1,6:38,2,10,PIT 36,0,3,Jameis Winston pass complete short left to Jerome Ford for 1 yard (tackle by Payton Wilson),2.640,2.080
+1,5:56,3,9,PIT 35,6,3,Jameis Winston pass complete deep middle to Jerry Jeudy for 35 yards touchdown,2.080,7.000
+1,5:50,,,PIT 15,7,3,Dustin Hopkins kicks extra point good,0.000,0.000
+1,5:50,,,CLE 35,7,3,Dustin Hopkins kicks off 65 yards touchback.,0.000,0.940
+1,5:50,1,10,PIT 30,7,3,Russell Wilson pass complete short right to Cordarrelle Patterson for -2 yards (tackle by Mohamoud Diabate),0.940,0.120
+1,5:28,2,12,PIT 28,7,3,Russell Wilson pass complete short left to Scott Miller for 8 yards (tackle by Martin Emerson),0.120,0.500
+1,4:48,3,4,PIT 36,7,3,Russell Wilson pass incomplete deep left. Penalty on Russell Wilson: Intentional Grounding 11 yards (accepted),0.500,-1.700
+1,4:43,4,15,PIT 25,7,3,Corliss Waitman punts 38 yards out of bounds,-1.700,-1.400
+1,4:34,1,10,CLE 37,7,3,Jerome Ford left tackle for 4 yards (tackle by T.J. Watt and Larry Ogunjobi),1.400,1.400
+1,3:58,2,6,CLE 41,7,3,Jameis Winston pass incomplete short middle intended for Blake Whiteheart,1.400,0.700
+1,3:52,3,6,CLE 41,7,3,Jameis Winston pass complete short right to Elijah Moore for no gain (tackle by Donte Jackson). Penalty on Alex Highsmith: Roughing the Passer 15 yards (accepted) (no play),0.700,2.650
+1,3:30,1,10,PIT 44,7,3,Nick Chubb right guard for 2 yards (tackle by Keeanu Benton and Cameron Heyward),2.650,2.380
+1,2:47,2,8,PIT 42,7,3,Jameis Winston pass incomplete short right intended for Jerry Jeudy,2.380,1.690
+1,2:43,3,8,PIT 42,7,3,Penalty on Jameis Winston: Delay of Game 5 yards (accepted) (no play),1.690,1.030
+1,2:43,3,13,PIT 47,7,3,Jameis Winston pass complete short middle to David Njoku for 6 yards (tackle by Patrick Queen and Minkah Fitzpatrick),1.030,0.530
+1,2:05,4,7,PIT 41,7,3,Corey Bojorquez punts 31 yards downed by Nathaniel Watson,0.530,0.380
+1,1:56,1,10,PIT 10,7,3,Russell Wilson pass complete short left to Scott Miller for 9 yards (tackle by Greg Newsome and Mohamoud Diabate),-0.380,0.240
+1,1:23,2,1,PIT 19,7,3,Najee Harris right tackle for no gain (tackle by Mohamoud Diabate and Jowon Briggs),0.240,-0.370
+1,0:59,3,1,PIT 19,7,3,Russell Wilson pass incomplete deep left intended for Scott Miller,-0.370,-2.140
+1,0:56,4,1,PIT 19,7,3,Corliss Waitman punts 54 yards returned by Kadarius Toney for 11 yards (tackle by Tyler Matakevich),-2.140,-1.470
+1,0:43,1,10,CLE 38,7,3,Jerome Ford left end for -1 yards (tackle by Alex Highsmith and Cameron Heyward),1.470,0.790
+2,15:00,2,11,CLE 37,7,3,Jameis Winston pass incomplete short right,0.790,0.100
+2,14:54,3,11,CLE 37,7,3,Jameis Winston pass incomplete deep left intended for Michael Woods,0.100,-0.910
+2,14:50,4,11,CLE 37,7,3,Corey Bojorquez punts 63 yards touchback.,-0.910,-0.280
+2,14:41,1,10,PIT 20,7,3,Russell Wilson pass incomplete short left intended for Darnell Washington,0.280,-0.270
+2,14:36,2,10,PIT 20,7,3,Jaylen Warren right tackle for -4 yards (tackle by Cameron Thomas),-0.270,-1.690
+2,14:07,3,14,PIT 16,7,3,Russell Wilson scrambles up the middle for 8 yards (tackle by Rodney McLeod),-1.690,-1.770
+2,13:35,4,6,PIT 24,7,3,Corliss Waitman punts 48 yards returned by Kadarius Toney for 19 yards (tackle by Ben Skowronek),-1.770,-2.060
+2,13:26,1,10,CLE 47,7,3,Jameis Winston pass short middle intended for Nick Chubb is intercepted by Keeanu Benton at CLE-42 and returned for 11 yards (tackle by Nick Chubb),2.060,-3.510
+2,13:18,1,10,CLE 31,7,3,Russell Wilson pass incomplete short left intended for Calvin Austin,3.510,2.970
+2,13:16,2,10,CLE 31,7,3,Cordarrelle Patterson left guard for 3 yards (tackle by Devin Bush and Juan Thornhill),2.970,2.680
+2,12:33,3,7,CLE 28,7,3,Russell Wilson pass incomplete deep left intended for Calvin Austin. Penalty on Greg Newsome: Defensive Pass Interference 16 yards (accepted) (no play),2.680,4.780
+2,12:28,1,10,CLE 12,7,3,Russell Wilson pass complete short middle to Pat Freiermuth for 7 yards (tackle by Devin Bush and Jordan Hicks),4.780,5.410
+2,11:49,2,3,CLE 5,7,3,Russell Wilson scrambles up the middle for 4 yards (tackle by T.Y. McGill and Grant Delpit),5.410,6.970
+2,11:04,1,1,CLE 1,7,9,Najee Harris up the middle for 1 yard touchdown,6.970,7.000
+2,11:00,,,CLE 15,7,10,Chris Boswell kicks extra point good,0.000,0.000
+2,11:00,,,PIT 35,7,10,Chris Boswell kicks off 65 yards touchback.,0.000,0.940
+2,11:00,1,10,CLE 30,7,10,Jameis Winston pass incomplete short right,0.940,0.390
+2,10:54,2,10,CLE 30,7,10,Jerome Ford right end for 5 yards (tackle by Patrick Queen),0.390,0.370
+2,10:18,3,5,CLE 35,7,10,Jameis Winston pass incomplete deep right intended for Michael Woods,0.370,-1.040
+2,10:12,4,5,CLE 35,7,10,Corey Bojorquez punts 55 yards returned by Calvin Austin for 9 yards (tackle by Cameron Mitchell and D'Anthony Bell),-1.040,-0.150
+2,10:00,1,10,PIT 19,7,10,Jaylen Warren right tackle for 2 yards (tackle by Shelby Harris),0.150,-0.060
+2,9:33,2,8,PIT 21,7,10,Jaylen Warren right tackle for 7 yards (tackle by Mohamoud Diabate and Grant Delpit),-0.060,0.100
+2,8:57,3,1,PIT 28,7,10,Russell Wilson left guard for 6 yards (tackle by Ogbonnia Okoronkwo),0.100,1.200
+2,8:19,1,10,PIT 34,7,10,Jaylen Warren left tackle for 12 yards (tackle by Denzel Ward),1.200,1.990
+2,7:44,1,10,PIT 46,7,10,Jaylen Warren right guard for 7 yards (tackle by Isaiah McGuire and Grant Delpit),1.990,2.400
+2,6:59,2,3,CLE 47,7,10,Najee Harris left guard for 2 yards (tackle by Devin Bush and Mohamoud Diabate),2.400,1.950
+2,6:31,3,1,CLE 45,7,10,Russell Wilson up the middle for 1 yard (tackle by T.Y. McGill),1.950,2.650
+2,6:04,1,10,CLE 44,7,10,Russell Wilson pass complete deep left to Mike Williams for no gain. Penalty on Mike Williams: Offensive Pass Interference 10 yards (accepted) (no play),2.650,1.990
+2,5:49,1,20,PIT 46,7,10,Russell Wilson pass complete short right to Jaylen Warren for 11 yards (tackle by Ronnie Hickman),1.990,2.250
+2,5:12,2,9,CLE 43,7,10,Russell Wilson pass incomplete short right intended for Jaylen Warren (defended by Jordan Hicks),2.250,1.550
+2,5:08,3,9,CLE 43,7,10,Russell Wilson pass complete short left to Mike Williams for 7 yards (tackle by Martin Emerson),1.550,0.890
+2,4:27,4,2,CLE 36,7,13,Chris Boswell 54 yard field goal good,0.890,3.000
+2,4:21,,,PIT 35,7,13,Chris Boswell kicks off 65 yards touchback.,0.000,0.940
+2,4:21,1,10,CLE 30,7,13,Jameis Winston left end for 11 yards (tackle by Minkah Fitzpatrick),0.940,1.660
+2,3:41,1,10,CLE 41,7,13,Nick Chubb left guard for 4 yards (tackle by Cameron Heyward and Patrick Queen),1.660,1.660
+2,3:11,2,6,CLE 45,7,13,Jameis Winston sacked by Cameron Heyward for -6 yards,1.660,0.170
+2,3:01,,,,,,Timeout #1 by Pittsburgh Steelers,,
+2,3:01,3,12,CLE 39,7,13,Jameis Winston pass complete short left to Jordan Akins for 14 yards (tackle by Joey Porter),0.170,2.460
+2,2:27,1,10,PIT 47,7,13,Jerome Ford right tackle for 7 yards (tackle by Isaiahh Loudermilk),2.460,2.860
+2,2:00,2,3,PIT 40,7,13,Jerome Ford up the middle for 5 yards (tackle by Payton Wilson),2.860,3.250
+2,1:24,1,10,PIT 35,7,13,Jameis Winston pass complete short left to David Njoku for no gain (tackle by DeShon Elliott),3.250,2.700
+2,0:50,2,10,PIT 35,7,13,Jameis Winston pass complete short right to Michael Woods for 12 yards (tackle by Donte Jackson),2.700,4.040
+2,0:43,1,10,PIT 23,7,13,Jameis Winston pass complete short middle to Pierre Strong for 3 yards (tackle by Patrick Queen),4.040,3.900
+2,0:38,,,,,,Timeout #1 by Cleveland Browns,,
+2,0:38,2,7,PIT 20,7,13,Jameis Winston pass incomplete deep left intended for David Njoku,3.900,3.200
+2,0:33,,,,,,Timeout #2 by Pittsburgh Steelers,,
+2,0:33,3,7,PIT 20,7,13,Jameis Winston pass incomplete deep right intended for David Njoku (defended by DeShon Elliott),3.200,2.120
+2,0:28,4,7,PIT 20,7,13,Dustin Hopkins 38 yard field goal no good,2.120,-0.810
+2,0:23,1,10,PIT 28,7,13,Russell Wilson pass incomplete deep right intended for Calvin Austin,0.810,0.260
+2,0:16,2,10,PIT 28,7,13,Russell Wilson pass complete short left to Mike Williams for 7 yards (tackle by Martin Emerson),0.260,0.500
+3,15:00,,,PIT 35,7,13,Chris Boswell kicks off 60 yards returned by Jerome Ford for 56 yards (tackle by James Pierre),0.000,2.980
+3,14:50,1,10,PIT 39,7,13,Nick Chubb left tackle for 3 yards (tackle by Patrick Queen and T.J. Watt). Penalty on Joey Porter: Unnecessary Roughness / Defense 15 yards (accepted),2.980,4.170
+3,14:21,1,10,PIT 21,7,13,Nick Chubb left guard for 3 yards (tackle by Elandon Roberts and DeShon Elliott),4.170,4.040
+3,13:46,2,7,PIT 18,7,13,Jerome Ford up the middle for 3 yards (tackle by DeShon Elliott),4.040,3.810
+3,13:20,3,4,PIT 15,7,13,Jameis Winston pass complete short right to Michael Woods for no gain. Penalty on Michael Woods: Offensive Pass Interference 10 yards (accepted) (no play),3.810,2.410
+3,12:54,3,14,PIT 25,7,13,Jameis Winston aborted snap recovered by Jameis Winston at PIT-31 Jameis Winston pass incomplete deep right intended for Jerome Ford,2.410,1.800
+3,12:44,4,14,PIT 25,7,13,Dustin Hopkins 43 yard field goal no good,1.800,-1.140
+3,12:40,1,10,PIT 33,7,13,Russell Wilson pass incomplete short left,1.140,0.590
+3,12:36,2,10,PIT 33,7,13,Najee Harris up the middle for no gain (tackle by Shelby Harris and Mohamoud Diabate),0.590,-0.100
+3,11:57,3,10,PIT 33,7,13,Russell Wilson pass complete deep middle to Pat Freiermuth for 21 yards (tackle by Greg Newsome),-0.100,2.520
+3,11:20,1,10,CLE 46,7,13,Jaylen Warren left guard for 14 yards (tackle by Denzel Ward),2.520,3.450
+3,10:41,1,10,CLE 32,7,13,Jaylen Warren right guard for 4 yards (tackle by Cameron Thomas and Jowon Briggs),3.450,3.440
+3,9:57,2,6,CLE 28,7,13,Russell Wilson pass complete short left to Jaylen Warren for 14 yards (tackle by Juan Thornhill and Devin Bush),3.440,4.650
+3,9:13,1,10,CLE 14,7,13,Russell Wilson pass complete short left to Calvin Austin for 4 yards (tackle by Jordan Hicks),4.650,4.710
+3,8:41,2,6,CLE 10,7,19,Russell Wilson pass complete short right to Van Jefferson for 10 yards touchdown,4.710,7.000
+3,8:37,,,CLE 15,7,20,Chris Boswell kicks extra point good,0.000,0.000
+3,8:37,,,PIT 35,7,20,Chris Boswell kicks off 65 yards touchback.,0.000,0.940
+3,8:37,1,10,CLE 30,7,20,Jameis Winston pass complete short left to Jerome Ford for 7 yards (tackle by Patrick Queen),0.940,1.340
+3,8:08,2,3,CLE 37,7,20,Jameis Winston pass complete short right to Elijah Moore for 5 yards (tackle by Beanie Bishop),1.340,1.730
+3,7:36,1,10,CLE 42,7,20,Nick Chubb right guard for no gain (tackle by DeShon Elliott),1.730,1.190
+3,7:02,2,10,CLE 42,7,20,Nick Chubb right tackle for 6 yards (tackle by James Pierre and DeShon Elliott),1.190,1.290
+3,6:34,3,4,CLE 48,7,20,Jameis Winston pass complete short middle to David Njoku for 3 yards (tackle by Joey Porter and Beanie Bishop),1.290,0.000
+3,5:50,4,1,PIT 49,7,20,Jerome Ford left tackle for -5 yards (tackle by Elandon Roberts),0.000,-2.520
+3,5:46,1,10,CLE 46,7,20,Najee Harris right tackle for 3 yards (tackle by Grant Delpit),2.520,2.380
+3,5:15,2,7,CLE 43,7,20,Najee Harris up the middle for 1 yard (tackle by Rodney McLeod),2.380,1.820
+3,4:30,3,6,CLE 42,7,20,Russell Wilson pass complete deep left to Mike Williams for 22 yards,1.820,4.240
+3,4:01,1,10,CLE 20,7,20,Russell Wilson pass incomplete short left intended for Jaylen Warren,4.240,3.690
+3,3:56,2,10,CLE 20,7,26,Russell Wilson pass complete deep middle to Pat Freiermuth for 20 yards touchdown,3.690,7.000
+3,3:51,,,CLE 15,7,27,Chris Boswell kicks extra point good,0.000,0.000
+3,3:51,,,PIT 35,7,27,Chris Boswell kicks off 65 yards touchback.,0.000,0.940
+3,3:51,1,10,CLE 30,7,27,Jameis Winston pass complete short right to Jerry Jeudy for 12 yards (tackle by Beanie Bishop),0.940,1.730
+3,3:20,1,10,CLE 42,7,27,Jameis Winston pass complete short right to Jerry Jeudy for 3 yards (tackle by Joey Porter),1.730,1.590
+3,2:57,2,7,CLE 45,7,27,Nick Chubb left guard for 19 yards (tackle by DeShon Elliott and Elandon Roberts),1.590,3.180
+3,2:26,1,10,PIT 36,7,27,Jameis Winston pass incomplete short right intended for David Njoku,3.180,2.640
+3,2:21,2,10,PIT 36,7,27,Jerome Ford left tackle for no gain (tackle by Payton Wilson). Penalty on Elijah Moore: Illegal Shift 5 yards (accepted) (no play),2.640,1.960
+3,1:52,2,15,PIT 41,7,27,Jerome Ford right end for 7 yards (tackle by DeShon Elliott),1.960,2.210
+3,1:25,3,8,PIT 34,7,27,Jameis Winston pass complete short right to David Njoku for 7 yards (tackle by DeShon Elliott),2.210,1.820
+3,0:49,4,1,PIT 27,7,27,Jameis Winston up the middle for 2 yards (tackle by DeShon Elliott),1.820,3.910
+3,0:06,1,10,PIT 25,7,27,Jameis Winston pass incomplete deep middle intended for David Njoku,3.910,3.360
+3,0:02,2,10,PIT 25,7,27,Nick Chubb right end for 9 yards (tackle by Joey Porter and Patrick Queen),3.360,4.060
+4,15:00,3,1,PIT 16,7,27,Penalty on Jack Conklin: False Start 5 yards (accepted) (no play),4.060,3.200
+4,14:40,3,6,PIT 21,7,27,Jameis Winston sacked by Cameron Heyward for -3 yards. Penalty on Germain Ifedi: Unnecessary Roughness / Offense 15 yards (accepted),3.200,0.660
+4,14:32,4,24,PIT 39,7,27,Corey Bojorquez punts 35 yards out of bounds,0.660,0.380
+4,14:32,1,10,PIT 4,7,27,Cordarrelle Patterson left guard for 4 yards (tackle by Jowon Briggs and Grant Delpit),-0.380,-0.490
+4,14:03,2,6,PIT 8,7,27,Cordarrelle Patterson left guard for 1 yard (tackle by Dalvin Tomlinson and Jowon Briggs),-0.490,-0.840
+4,13:19,3,5,PIT 9,7,27,Russell Wilson pass incomplete deep left intended for Calvin Austin,-0.840,-2.490
+4,13:14,4,5,PIT 9,7,27,Corliss Waitman punts 55 yards fair catch by Kadarius Toney at CLE-36,-2.490,-1.330
+4,13:06,1,10,CLE 36,7,27,Penalty on Kadarius Toney: Taunting / Offense 15 yards (accepted) (no play),1.330,0.340
+4,13:06,1,10,CLE 21,7,27,Penalty on Jerry Jeudy: False Start 5 yards (accepted) (no play),0.340,-0.220
+4,13:06,1,15,CLE 16,7,27,Jameis Winston pass complete short left to Pierre Strong for 6 yards (tackle by DeShon Elliott),-0.220,-0.070
+4,12:31,2,9,CLE 22,7,27,Jameis Winston pass incomplete short right,-0.070,-0.760
+4,12:27,3,9,CLE 22,7,27,Jameis Winston pass complete short middle to Jerry Jeudy for 6 yards (tackle by Minkah Fitzpatrick and Beanie Bishop),-0.760,-1.500
+4,11:48,4,3,CLE 28,7,27,Jameis Winston pass complete short middle to David Njoku for 13 yards (tackle by Payton Wilson) PIT challenged the runner was down by contact ruling and the original play was overturned. Jameis Winston pass complete short middle to David Njoku for 3 yards (tackle by Beanie Bishop),-1.500,1.000
+4,11:34,1,10,CLE 31,7,27,Jameis Winston left end for 10 yards (tackle by Patrick Queen),1.000,1.660
+4,10:54,1,10,CLE 41,7,27,Jameis Winston pass incomplete short middle intended for David Njoku (defended by Patrick Queen),1.660,1.120
+4,10:50,2,10,CLE 41,7,27,Jerome Ford left end for -4 yards (tackle by Payton Wilson and Joey Porter),1.120,-0.100
+4,10:19,3,14,CLE 37,7,27,Jameis Winston pass complete short middle to David Njoku for 8 yards (tackle by Damontae Kazee and Minkah Fitzpatrick),-0.100,-0.390
+4,9:42,4,6,CLE 45,7,27,Jameis Winston pass complete short left to Elijah Moore for 9 yards,-0.390,2.520
+4,9:15,1,10,PIT 46,7,27,Jameis Winston pass complete short left to Jerry Jeudy for 8 yards (tackle by Joey Porter),2.520,3.060
+4,8:49,2,2,PIT 38,7,27,Jameis Winston scrambles right end for 5 yards (tackle by Payton Wilson),3.060,3.380
+4,8:20,1,10,PIT 33,7,27,Jameis Winston pass complete short left to James Proche for 4 yards (tackle by DeShon Elliott),3.380,3.380
+4,7:55,2,6,PIT 29,7,27,Jameis Winston pass complete short right to James Proche for 14 yards (tackle by Beanie Bishop and Donte Jackson),3.380,4.580
+4,7:25,1,10,PIT 15,13,27,Jameis Winston pass complete short right to David Njoku for 15 yards touchdown,4.580,7.000
+4,7:19,,,PIT 15,14,27,Dustin Hopkins kicks extra point good,0.000,0.000
+4,7:19,,,CLE 35,14,27,Dustin Hopkins kicks off 65 yards touchback.,0.000,0.940
+4,7:19,1,10,PIT 30,14,27,Najee Harris right tackle for -1 yards (tackle by Winston Reid),0.940,0.260
+4,6:37,2,11,PIT 29,14,27,Jaylen Warren right tackle for 4 yards (tackle by Ronnie Hickman and Isaiah McGuire),0.260,0.100
+4,5:53,3,7,PIT 33,14,27,Russell Wilson pass complete deep left to Scott Miller for 21 yards (tackle by Martin Emerson) CLE challenged the pass completion ruling and the play was upheld.,0.100,2.520
+4,5:32,1,10,CLE 46,14,27,Najee Harris right end for 1 yard (tackle by Myles Garrett and Jordan Hicks),2.520,2.110
+4,4:49,2,9,CLE 45,14,27,Cordarrelle Patterson right tackle for -5 yards. Cordarrelle Patterson fumbles (forced by Isaiah McGuire) recovered by Myles Garrett at 50 (tackle by Isaiah McGuire),2.110,-2.260
+4,4:43,1,10,PIT 50,14,27,Jameis Winston pass complete short left to Jerome Ford for 11 yards (tackle by Minkah Fitzpatrick and DeShon Elliott),2.260,2.980
+4,4:07,1,10,PIT 39,14,27,Jameis Winston pass deep middle intended for Elijah Moore is intercepted by James Pierre at PIT-18 and returned for 18 yards (tackle by Ethan Pocic and Michael Woods),2.980,-1.330
+4,3:57,1,10,PIT 36,14,27,Najee Harris right tackle for no gain (tackle by Denzel Ward),1.330,0.790
+4,3:51,,,,,,Timeout #2 by Cleveland Browns,,
+4,3:51,2,10,PIT 36,14,27,Jaylen Warren right guard for 1 yard (tackle by Devin Bush and Mohamoud Diabate),0.790,0.230
+4,3:48,,,,,,Timeout #3 by Cleveland Browns,,
+4,3:48,3,9,PIT 37,14,27,Penalty on Dan Moore: False Start 5 yards (accepted) (no play),0.230,-0.430
+4,3:48,3,14,PIT 32,14,27,Russell Wilson sacked by Myles Garrett for -11 yards,-0.430,-1.960
+4,3:03,,,,,,Timeout #1 by Pittsburgh Steelers,,
+4,3:03,4,25,PIT 21,14,27,Corliss Waitman punts 59 yards recovered by Ben Skowronek at CLE-20 (tackle by Kadarius Toney),-1.960,4.240
+4,2:53,1,10,CLE 20,14,27,Najee Harris left end for 4 yards (tackle by Jordan Hicks and Martin Emerson),4.240,4.280
+4,2:48,2,6,CLE 16,14,27,Najee Harris up the middle for 1 yard (tackle by Shelby Harris and Jowon Briggs),4.280,3.700
+4,2:00,3,5,CLE 15,14,27,Najee Harris right end for 9 yards (tackle by Jordan Hicks and Denzel Ward),3.700,5.830
+4,1:16,1,6,CLE 6,14,27,Russell Wilson kneels for -1 yards,5.830,4.760
+4,0:37,2,7,CLE 7,14,27,Russell Wilson kneels for -1 yards,4.760,3.580

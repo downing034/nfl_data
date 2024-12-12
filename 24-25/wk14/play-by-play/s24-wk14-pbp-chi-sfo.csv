@@ -1,0 +1,149 @@
+Quarter,Time,Down,ToGo,Location,CHI,SFO,Detail,EPB,EPA
+,,,,,,,Bears won the coin toss and deferred 49ers to receive the opening kickoff.,,
+1,15:00,,,CHI 35,0,0,Cairo Santos kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,SFO 30,0,0,Brock Purdy pass complete short right to Jauan Jennings for 7 yards (tackle by Kevin Byard),0.940,1.340
+1,14:30,2,3,SFO 37,0,0,Isaac Guerendo left tackle for no gain (tackle by Gervon Dexter),1.340,0.630
+1,13:54,3,3,SFO 37,0,0,Brock Purdy pass complete short middle to Isaac Guerendo for 23 yards (tackle by Kevin Byard),0.630,2.920
+1,13:16,1,10,CHI 40,0,0,Brock Purdy pass complete short middle to George Kittle for 33 yards (tackle by Tremaine Edmunds and Zacch Pickens),2.920,5.600
+1,12:25,,,,,,Timeout #1 by San Francisco 49ers,,
+1,12:25,1,7,CHI 7,0,6,Brock Purdy pass complete short left to Jauan Jennings for 7 yards touchdown,5.600,7.000
+1,12:20,,,CHI 15,0,7,Jake Moody kicks extra point good,0.000,0.000
+1,12:20,,,SFO 35,0,7,Jake Moody kicks off 67 yards returned by DeAndre Carter for 25 yards (tackle by Dee Winters),0.000,0.480
+1,12:15,1,10,CHI 23,0,7,D'Andre Swift up the middle for 3 yards (tackle by Sam Okuayinonu and Talanoa Hufanga),0.480,0.340
+1,11:39,2,7,CHI 26,0,7,D'Andre Swift right end for no gain (tackle by Dee Winters),0.340,-0.360
+1,10:58,3,7,CHI 26,0,7,Caleb Williams pass complete short left to Travis Homer for 3 yards (tackle by Deommodore Lenoir),-0.360,-1.440
+1,10:18,4,4,CHI 29,0,7,Tory Taylor punts 58 yards downed by Josh Blackwell,-1.440,0.320
+1,10:08,1,10,SFO 13,0,7,Brock Purdy pass complete deep left to Deebo Samuel for 20 yards (tackle by Jaylon Johnson),-0.320,1.140
+1,9:31,1,10,SFO 33,0,7,Isaac Guerendo left end for 3 yards (tackle by Tyrique Stevenson),1.140,1.000
+1,8:54,2,7,SFO 36,0,7,Isaac Guerendo right guard for 6 yards (tackle by Jonathan Owens),1.000,1.090
+1,8:17,3,1,SFO 42,0,7,Brock Purdy up the middle for 2 yards (tackle by Montez Sweat),1.090,1.860
+1,7:39,1,10,SFO 44,0,7,Deebo Samuel left tackle for 2 yards (tackle by Byron Cowart and Gervon Dexter),1.860,1.590
+1,7:13,2,8,SFO 46,0,7,Brock Purdy pass complete short left to Jauan Jennings for 3 yards (tackle by Jonathan Owens),1.590,1.290
+1,6:22,3,5,SFO 49,0,7,Brock Purdy pass incomplete short right intended for Deebo Samuel (defended by T.J. Edwards),1.290,-0.130
+1,6:17,4,5,SFO 49,0,7,Pat O'Donnell punts 45 yards fair catch by Josh Blackwell at CHI-6,-0.130,0.380
+1,6:10,1,10,CHI 6,0,7,Caleb Williams pass complete short left to D.J. Moore for 5 yards (tackle by De'Vondre Campbell),-0.380,-0.420
+1,5:34,2,5,CHI 11,0,7,Caleb Williams pass complete short left to D.J. Moore for 7 yards (tackle by De'Vondre Campbell),-0.420,0.040
+1,4:55,1,10,CHI 18,0,7,Caleb Williams pass incomplete short right intended for Keenan Allen (defended by Dee Winters),0.040,-0.490
+1,4:47,2,10,CHI 18,0,7,Caleb Williams pass incomplete short left intended for D.J. Moore,-0.490,-1.170
+1,4:43,3,10,CHI 18,0,7,Caleb Williams sacked by Yetur Gross-Matos for -7 yards,-1.170,-2.490
+1,3:55,4,17,CHI 11,0,7,Tory Taylor punts 60 yards returned by Jacob Cowing for 7 yards (tackle by Josh Blackwell),-2.490,-1.330
+1,3:50,1,10,SFO 36,0,7,Brock Purdy pass complete deep right to George Kittle for 32 yards (tackle by T.J. Edwards),1.330,3.450
+1,3:10,1,10,CHI 32,0,7,Isaac Guerendo right guard for 4 yards (tackle by Zacch Pickens),3.450,3.440
+1,2:28,2,6,CHI 28,0,7,Brock Purdy pass complete deep right to Isaac Guerendo for 27 yards (tackle by Jack Sanborn),3.440,6.970
+1,1:43,1,1,CHI 1,0,13,Isaac Guerendo up the middle for 1 yard touchdown,6.970,7.000
+1,1:39,,,CHI 15,0,14,Jake Moody kicks extra point good,0.000,0.000
+1,1:39,,,SFO 35,0,14,Jake Moody kicks off 65 yards touchback.,0.000,0.940
+1,1:39,1,10,CHI 30,0,14,D'Andre Swift left end for 3 yards (tackle by De'Vondre Campbell and Robert Beal),0.940,0.800
+1,0:53,2,7,CHI 33,0,14,Caleb Williams pass incomplete short right intended for D'Andre Swift (defended by Sam Okuayinonu),0.800,0.100
+1,0:48,3,7,CHI 33,0,14,Caleb Williams sacked by Leonard Floyd for -5 yards,0.100,-1.500
+1,0:16,4,12,CHI 28,0,14,Tory Taylor punts 51 yards returned by Jacob Cowing for 8 yards (tackle by Daniel Hardy),-1.500,-0.870
+1,0:05,1,10,SFO 29,0,14,Brock Purdy sacked by T.J. Edwards for -4 yards,0.870,-0.210
+2,15:00,2,14,SFO 25,0,14,Brock Purdy pass complete short middle to George Kittle for 23 yards (tackle by Jonathan Owens),-0.210,2.130
+2,14:24,1,10,SFO 48,0,14,Isaac Guerendo left guard for 3 yards (tackle by Kyler Gordon),2.130,1.990
+2,13:43,2,7,CHI 49,0,14,Deebo Samuel up the middle for -1 yards (tackle by T.J. Edwards),1.990,1.160
+2,12:57,3,8,CHI 50,0,14,Brock Purdy pass complete short middle to George Kittle for 18 yards (tackle by Jonathan Owens and Kyler Gordon),1.160,3.450
+2,12:22,1,10,CHI 32,0,14,Brock Purdy pass complete short right to Kyle Juszczyk for 3 yards (tackle by T.J. Edwards),3.450,3.310
+2,11:40,2,7,CHI 29,0,14,Isaac Guerendo left end for -1 yards (tackle by Jaylon Johnson and T.J. Edwards),3.310,2.480
+2,11:00,3,8,CHI 30,0,14,Brock Purdy pass complete short middle to Jauan Jennings for 7 yards (tackle by Tremaine Edmunds and T.J. Edwards) SFO challenged the first down ruling and the play was upheld.,2.480,2.080
+2,10:01,4,1,CHI 23,0,14,Brock Purdy up the middle for 1 yard (tackle by Chris Williams),2.080,4.110
+2,9:25,1,10,CHI 22,0,14,Isaac Guerendo right guard for 4 yards (tackle by Zacch Pickens and T.J. Edwards),4.110,4.130
+2,8:36,2,6,CHI 18,0,14,Brock Purdy pass complete short left to Deebo Samuel for 2 yards (tackle by Kyler Gordon),4.130,3.740
+2,7:46,3,4,CHI 16,0,20,Brock Purdy pass complete short middle to Jauan Jennings for 16 yards touchdown,3.740,7.000
+2,7:41,,,CHI 15,0,21,Jake Moody kicks extra point good,0.000,0.000
+2,7:41,,,SFO 35,0,21,Jake Moody kicks off 65 yards touchback.,0.000,0.940
+2,7:41,1,10,CHI 30,0,21,Caleb Williams pass complete short right to D.J. Moore for 4 yards (tackle by De'Vondre Campbell),0.940,0.930
+2,7:08,2,6,CHI 34,0,21,D'Andre Swift up the middle for 1 yard (tackle by Fred Warner and Malik Mustapha),0.930,0.370
+2,6:28,3,5,CHI 35,0,21,Caleb Williams sacked by Maliek Collins for -12 yards,0.370,-1.830
+2,5:48,4,17,CHI 23,0,21,Tory Taylor punts 58 yards returned by Jacob Cowing for 7 yards (tackle by Tarvarius Moore),-1.830,-0.670
+2,5:34,1,10,SFO 26,0,21,Brock Purdy pass incomplete deep left intended for Kyle Juszczyk (defended by Kevin Byard),0.670,0.130
+2,5:28,2,10,SFO 26,0,21,Isaac Guerendo right end for 30 yards (tackle by Jaylon Johnson),0.130,2.650
+2,5:00,1,10,CHI 44,0,21,Patrick Taylor right guard for 7 yards (tackle by Zacch Pickens),2.650,3.060
+2,4:16,2,3,CHI 37,0,21,Brock Purdy pass complete short left to George Kittle for 32 yards (tackle by Jonathan Owens),3.060,6.060
+2,3:25,1,5,CHI 5,0,21,Brock Purdy left tackle for 4 yards. Penalty on Ricky Pearsall: Offensive Holding 10 yards (accepted),6.060,4.770
+2,3:20,1,11,CHI 11,0,21,Deebo Samuel right tackle for -4 yards (tackle by Jaylon Johnson),4.770,3.460
+2,2:38,2,15,CHI 15,0,21,Brock Purdy pass complete short right to Ricky Pearsall for 5 yards (tackle by T.J. Edwards),3.460,3.130
+2,2:00,3,10,CHI 10,0,21,Brock Purdy scrambles left end for 5 yards (tackle by Kyler Gordon),3.130,3.010
+2,1:53,4,5,CHI 5,0,24,Jake Moody 23 yard field goal good,3.010,3.000
+2,1:50,,,SFO 35,0,24,Jake Moody kicks off 25 yards. Penalty on Jake Moody: Kickoff Short of Landing Zone (accepted),0.000,1.600
+2,1:50,1,10,CHI 40,0,24,Caleb Williams pass complete short left to Travis Homer for 6 yards (tackle by Renardo Green and Malik Mustapha),1.600,1.860
+2,1:26,2,4,CHI 46,0,24,Caleb Williams pass complete short right to Travis Homer for 2 yards (tackle by De'Vondre Campbell),1.860,1.420
+2,1:02,3,2,CHI 48,0,24,Caleb Williams sacked by Leonard Floyd for -6 yards,1.420,-0.590
+2,0:14,,,,,,Timeout #1 by Chicago Bears,,
+2,0:14,4,8,CHI 42,0,24,Tory Taylor punts 46 yards returned by Jacob Cowing for no gain (tackle by Jonathan Owens). Penalty on Isaac Yiadom: Offensive Holding 6 yards (accepted),-0.590,0.380
+2,0:03,1,10,SFO 6,0,24,Brock Purdy kneels for -1 yards,-0.380,-0.850
+3,15:00,,,SFO 35,0,24,Jake Moody kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,CHI 30,0,24,D'Andre Swift up the middle for 8 yards (tackle by Malik Mustapha),0.940,1.470
+3,14:29,2,2,CHI 38,0,24,D'Andre Swift right end for 1 yard (tackle by Charvarius Ward),1.470,0.890
+3,13:57,3,1,CHI 39,0,24,D'Andre Swift left tackle for 3 yards (tackle by De'Vondre Campbell),0.890,1.730
+3,13:20,1,10,CHI 42,0,24,Caleb Williams pass complete short left to Rome Odunze for 7 yards (tackle by Sam Okuayinonu),1.730,2.130
+3,12:38,2,3,CHI 49,0,24,Caleb Williams pass complete short right to D.J. Moore for 10 yards (tackle by Fred Warner),2.130,2.850
+3,11:58,1,10,SFO 41,0,24,D'Andre Swift left guard for 6 yards (tackle by Malik Mustapha),2.850,3.120
+3,11:21,2,4,SFO 35,0,24,Caleb Williams pass incomplete deep middle intended for Rome Odunze,3.120,2.410
+3,11:11,3,4,SFO 35,0,24,D'Andre Swift left end for 4 yards (tackle by Sam Okuayinonu),2.410,3.510
+3,10:33,1,10,SFO 31,0,24,Caleb Williams pass complete short left to D'Andre Swift for 2 yards (tackle by Dee Winters),3.510,3.240
+3,9:56,2,8,SFO 29,0,24,Caleb Williams right end for 6 yards (tackle by Charvarius Ward),3.240,3.340
+3,9:15,3,2,SFO 23,0,24,Caleb Williams pass complete short right to Keenan Allen for 6 yards (tackle by Charvarius Ward),3.340,4.440
+3,8:38,1,10,SFO 17,0,24,Caleb Williams pass complete short left to D.J. Moore for 9 yards (tackle by Evan Anderson),4.440,5.480
+3,8:05,2,1,SFO 8,0,24,D'Andre Swift up the middle for 4 yards (tackle by De'Vondre Campbell and Fred Warner),5.480,6.280
+3,7:31,1,4,SFO 4,0,24,D'Andre Swift right tackle for -2 yards (tackle by Yetur Gross-Matos),6.280,4.950
+3,6:55,2,6,SFO 6,0,24,D'Andre Swift left tackle for 2 yards (tackle by Talanoa Hufanga and Robert Beal),4.950,4.490
+3,6:01,3,4,SFO 4,6,24,Caleb Williams pass complete short right to Rome Odunze for 4 yards touchdown,4.490,7.000
+3,5:56,,,SFO 2,6,24,Two Point Attempt: Caleb Williams pass incomplete intended for intended for Cole Kmet,1.000,-1.000
+3,5:56,,,CHI 35,6,24,Cairo Santos kicks off 65 yards touchback.,0.000,0.940
+3,5:56,1,10,SFO 30,6,24,Penalty on George Kittle: False Start 5 yards (accepted) (no play),0.940,0.610
+3,5:56,1,15,SFO 25,6,24,Isaac Guerendo up the middle for 7 yards (tackle by Tremaine Edmunds and Kyler Gordon),0.610,0.660
+3,5:20,2,8,SFO 32,6,24,Brock Purdy pass incomplete deep middle intended for Jauan Jennings (defended by Jaylon Johnson),0.660,-0.030
+3,5:12,3,8,SFO 32,6,24,Brock Purdy pass incomplete deep middle intended for Ricky Pearsall,-0.030,-1.240
+3,5:07,4,8,SFO 32,6,24,Pat O'Donnell punts 47 yards returned by Josh Blackwell for 14 yards (tackle by Jalen Graham),-1.240,-1.270
+3,4:59,1,10,CHI 35,6,24,D'Andre Swift up the middle for 2 yards (tackle by Evan Anderson),1.270,0.990
+3,4:22,2,8,CHI 37,6,24,Caleb Williams pass complete deep right to Rome Odunze for 17 yards (tackle by Charvarius Ward and Talanoa Hufanga),0.990,2.520
+3,4:03,1,10,SFO 46,6,24,Caleb Williams pass complete short right to Keenan Allen for 6 yards (tackle by Deommodore Lenoir) SFO challenged the pass completion ruling and the original play was overturned. Caleb Williams pass incomplete short right intended for Keenan Allen,2.520,1.980
+3,3:51,2,10,SFO 46,6,24,Caleb Williams pass complete short middle to Keenan Allen for 14 yards (tackle by Talanoa Hufanga),1.980,3.450
+3,3:23,1,10,SFO 32,6,24,Caleb Williams right end for 2 yards (tackle by Talanoa Hufanga),3.450,3.170
+3,2:45,2,8,SFO 30,6,24,Caleb Williams pass incomplete intended for D'Andre Swift Replay Assistant challenged the fumble ruling and the original play was overturned. Caleb Williams sacked by. Caleb Williams fumbles recovered by Evan Anderson at SF-38,3.170,-1.470
+3,2:40,1,10,SFO 38,6,24,Brock Purdy pass complete deep right to Jauan Jennings for 39 yards (tackle by T.J. Edwards),1.470,4.040
+3,1:55,1,10,CHI 23,6,24,Isaac Guerendo up the middle for 1 yard (tackle by Kyler Gordon and Tremaine Edmunds),4.040,3.630
+3,1:20,2,9,CHI 22,6,24,Isaac Guerendo right tackle for 5 yards (tackle by Zacch Pickens),3.630,3.660
+3,0:45,3,4,CHI 17,6,24,Brock Purdy pass complete short right to George Kittle for 13 yards (tackle by Terell Smith),3.660,6.280
+4,15:00,1,4,CHI 4,6,30,Isaac Guerendo up the middle for 4 yards touchdown,6.280,7.000
+4,14:57,,,CHI 15,6,31,Jake Moody kicks extra point good,0.000,0.000
+4,14:57,,,SFO 35,6,31,Jake Moody kicks off 25 yards. Penalty on Jake Moody: Kickoff Short of Landing Zone (accepted),0.000,1.600
+4,14:57,1,10,CHI 40,6,31,Caleb Williams scrambles right end for 9 yards (tackle by Khalil Davis),1.600,2.270
+4,14:19,2,1,CHI 49,6,31,Caleb Williams pass complete short left to Keenan Allen for 10 yards (tackle by Ji'Ayir Brown),2.270,2.850
+4,13:51,1,10,SFO 41,6,31,Caleb Williams pass complete short right to D.J. Moore for 14 yards (tackle by Charvarius Ward),2.850,3.780
+4,13:16,1,10,SFO 27,6,31,Caleb Williams scrambles left end for 10 yards (tackle by Malik Mustapha and Kalia Davis),3.780,4.440
+4,12:41,1,10,SFO 17,6,31,D'Andre Swift up the middle for 3 yards (tackle by Robert Beal),4.440,4.320
+4,11:54,2,7,SFO 14,12,31,Caleb Williams pass complete short middle to Rome Odunze for 14 yards touchdown,4.320,7.000
+4,11:48,,,SFO 15,13,31,Cairo Santos kicks extra point good,0.000,0.000
+4,11:48,,,CHI 35,13,31,Cairo Santos kicks off 65 yards touchback.,0.000,0.940
+4,11:48,1,10,SFO 30,13,31,Isaac Guerendo up the middle for 5 yards (tackle by Darrell Taylor),0.940,1.070
+4,11:09,2,5,SFO 35,13,31,Penalty on Colton McKivitz: False Start 5 yards (accepted) (no play),1.070,0.390
+4,11:06,2,10,SFO 30,13,31,Brock Purdy pass complete short middle to Eric Saubert for 4 yards (tackle by Tremaine Edmunds). Penalty on Darrell Taylor: Roughing the Passer 15 yards (accepted),0.390,2.190
+4,10:45,1,10,SFO 49,13,31,Isaac Guerendo left guard for 6 yards (tackle by Jack Sanborn and Byron Cowart),2.190,2.460
+4,10:04,2,4,CHI 45,13,31,Patrick Taylor left tackle for no gain (tackle by Tremaine Edmunds and Montez Sweat),2.460,1.750
+4,9:06,3,4,CHI 45,13,31,Brock Purdy pass complete short right to Jauan Jennings for 11 yards (tackle by Kyler Gordon),1.750,3.310
+4,8:23,1,10,CHI 34,13,31,Patrick Taylor right tackle for 1 yard (tackle by Kevin Byard and T.J. Edwards),3.310,2.910
+4,7:41,2,9,CHI 33,13,31,Deebo Samuel right tackle for 8 yards (tackle by Kevin Byard),2.910,3.270
+4,7:14,3,1,CHI 25,13,31,Brock Purdy pass incomplete short left intended for Patrick Taylor,3.270,1.950
+4,7:03,,,,,,Timeout #1 by San Francisco 49ers,,
+4,7:03,4,1,CHI 25,13,31,Patrick Taylor right tackle for 6 yards (tackle by Tyrique Stevenson and Jonathan Owens),1.950,4.310
+4,6:25,1,10,CHI 19,13,31,Patrick Taylor right tackle for 2 yards (tackle by Chris Williams),4.310,4.030
+4,6:13,,,,,,Timeout #1 by Chicago Bears,,
+4,6:13,2,8,CHI 17,13,31,Deebo Samuel left end for 8 yards (tackle by Kevin Byard and Tremaine Edmunds),4.030,5.140
+4,6:02,,,,,,Timeout #2 by Chicago Bears,,
+4,6:02,1,9,CHI 9,13,31,Patrick Taylor left end for 6 yards (tackle by Tremaine Edmunds),5.140,5.530
+4,5:19,2,3,CHI 3,13,37,Patrick Taylor up the middle for 3 yards touchdown,5.530,7.000
+4,5:15,,,CHI 15,13,38,Jake Moody kicks extra point good,0.000,0.000
+4,5:15,,,SFO 35,13,38,Jake Moody kicks off 65 yards touchback.,0.000,0.940
+4,5:15,1,10,CHI 30,13,38,Caleb Williams pass incomplete deep right intended for D.J. Moore (defended by Renardo Green),0.940,0.390
+4,5:08,2,10,CHI 30,13,38,Caleb Williams sacked by Yetur Gross-Matos for no gain,0.390,-0.300
+4,4:25,3,10,CHI 30,13,38,Caleb Williams sacked by Yetur Gross-Matos for -8 yards,-0.300,-1.900
+4,3:43,4,18,CHI 22,13,38,Tory Taylor punts 43 yards fair catch by Jacob Cowing at SF-35. Penalty on Tarvarius Moore: Unnecessary Roughness / Defense 15 yards (accepted),-1.900,-2.260
+4,3:34,1,10,SFO 50,13,38,Ke'Shawn Vaughn up the middle for 1 yard (tackle by Byron Cowart),2.260,1.850
+4,2:59,2,9,CHI 49,13,38,Ke'Shawn Vaughn left guard for 3 yards (tackle by Darrell Taylor),1.850,1.550
+4,2:01,3,6,CHI 46,13,38,Penalty on Brandon Allen: Delay of Game 5 yards (accepted) (no play),1.550,0.890
+4,2:01,3,11,SFO 49,13,38,Brandon Allen pass deep left intended for Jacob Cowing is intercepted by Jonathan Owens at CHI-24 and returned for no gain (tackle by Jacob Cowing),0.890,-0.540
+4,1:59,1,10,CHI 24,13,38,Darrynton Evans up the middle for 4 yards (tackle by Evan Anderson),0.540,0.540
+4,1:11,2,6,CHI 28,13,38,Tyson Bagent pass complete short right to Collin Johnson for 6 yards (tackle by Renardo Green),0.540,1.200
+4,1:00,1,10,CHI 34,13,38,Darrynton Evans left end for -1 yards (tackle by Jalen Graham),1.200,0.520
+4,0:20,2,11,CHI 33,13,38,Darrynton Evans left tackle for no gain (tackle by Nick McCloud and Jalen Graham),0.520,-0.160

@@ -6,7 +6,16 @@ You can use these examples of drive data which can be found in each csv link ins
 - https://github.com/downing034/nfl_data/tree/main/24-25/wk1/play-by-play
 - https://github.com/downing034/nfl_data/tree/main/24-25/wk2/play-by-play
 - https://github.com/downing034/nfl_data/tree/main/24-25/wk3/play-by-play
-- https://github.com/downing034/nfl_data/tree/main/24-25/wk4/play-by-play
+- https://github.com/downing034/nfl_data/tree/main/24-25/wk5/play-by-play
+- https://github.com/downing034/nfl_data/tree/main/24-25/wk6/play-by-play
+- https://github.com/downing034/nfl_data/tree/main/24-25/wk7/play-by-play
+- https://github.com/downing034/nfl_data/tree/main/24-25/wk8/play-by-play
+- https://github.com/downing034/nfl_data/tree/main/24-25/wk9/play-by-play
+- https://github.com/downing034/nfl_data/tree/main/24-25/wk10/play-by-play
+- https://github.com/downing034/nfl_data/tree/main/24-25/wk11play-by-play
+- https://github.com/downing034/nfl_data/tree/main/24-25/wk12/play-by-play
+- https://github.com/downing034/nfl_data/tree/main/24-25/wk13/play-by-play
+- https://github.com/downing034/nfl_data/tree/main/24-25/wk14/play-by-play
 
 Each csv file is named in the following format: s24-w1-pbp-ari-buf.csv where
 
@@ -64,7 +73,9 @@ LAR depth chart: https://www.espn.com/nfl/team/depth/_/name/lar/los-angeles-rams
 SFO depth chart: https://www.espn.com/nfl/team/depth/_/name/sf/san-francisco-49ers
 SEA depth chart: https://www.espn.com/nfl/team/depth/_/name/sea/seattle-seahawks
 
-Please take into account injuries as well. This data can be checked at: https://www.nfl.com/injuries/ Injured players should not be included in the simulation.
+You must take into account injuries since missing certain players can have a huge impact on the game. This data can be checked at: https://www.espn.com/nfl/injuries.
+
+Injured players should not be included in the simulation.
 
 Simulations should also take into account time of possession for each team and should align similarly to current team stats. This can be gotten from both the drive logs and https://www.teamrankings.com/nfl/stat/average-time-of-possession-net-of-ot
 
@@ -223,4 +234,4 @@ To enhance the simulation model's accuracy and better reflect actual game outcom
   When providing the info for over under, please include how many times the simulation
 ````
 
-Reminder, you must use the play-by-play data provided to aid in simulation. Use the depth charts for rosters and take into account injuries
+Reminder, you must use the play-by-play data provided to aid in simulation. Use the depth charts for rosters and take into account injuries, and make sure to use the correct odds data

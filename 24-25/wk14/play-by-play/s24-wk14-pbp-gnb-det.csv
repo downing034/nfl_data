@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,GNB,DET,Detail,EPB,EPA
+,,,,,,,Packers won the coin toss and deferred Lions to receive the opening kickoff.,,
+1,15:00,,,GNB 35,0,0,Brandon McManus kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,DET 30,0,0,David Montgomery right tackle for 2 yards (tackle by Kingsley Enagbare and Tedarrell Slaton),0.940,0.660
+1,14:28,2,8,DET 32,0,0,Jared Goff pass complete short right to Amon-Ra St. Brown for 6 yards (tackle by Isaiah McDuffie and Keisean Nixon),0.660,0.760
+1,13:56,3,2,DET 38,0,0,Jared Goff pass complete short left to Amon-Ra St. Brown for 4 yards (tackle by Javon Bullard),0.760,1.730
+1,13:26,1,10,DET 42,0,0,Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown (defended by Keisean Nixon),1.730,1.190
+1,13:19,2,10,DET 42,0,0,David Montgomery up the middle for 13 yards (tackle by Xavier McKinney),1.190,2.590
+1,12:36,1,10,GNB 45,0,0,Jared Goff pass complete short right to Jahmyr Gibbs for 7 yards (tackle by Keisean Nixon and Javon Bullard),2.590,2.990
+1,11:59,2,3,GNB 38,0,0,Jared Goff pass incomplete short left intended for Jameson Williams (defended by Carrington Valentine),2.990,2.280
+1,11:53,3,3,GNB 38,0,0,Jared Goff pass complete short middle to Jameson Williams for 28 yards (tackle by Xavier McKinney),2.280,4.910
+1,11:13,1,10,GNB 10,0,0,Jahmyr Gibbs left end for no gain (tackle by Evan Williams). Penalty on Dan Skipper: Offensive Holding 10 yards (accepted) (no play),4.910,4.240
+1,10:59,1,20,GNB 20,0,0,Jared Goff pass complete short right to Jahmyr Gibbs for 7 yards (tackle by Isaiah McDuffie and Keisean Nixon),4.240,3.720
+1,10:22,2,13,GNB 13,0,0,Jared Goff pass complete short right to Sam LaPorta for 6 yards (tackle by Keisean Nixon),3.720,3.810
+1,9:50,3,7,GNB 7,0,0,Jared Goff pass incomplete short middle intended for Tim Patrick. Penalty on Keisean Nixon: Illegal Contact 4 yards (accepted) (no play),3.810,6.510
+1,9:44,1,3,GNB 3,0,6,David Montgomery right end for 3 yards touchdown,6.510,7.000
+1,9:41,,,GNB 15,0,7,Jake Bates kicks extra point good,0.000,0.000
+1,9:41,,,DET 35,0,7,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+1,9:41,1,10,GNB 30,0,7,Jordan Love sacked by Za'Darius Smith for -7 yards,0.940,-0.550
+1,8:57,2,17,GNB 23,0,7,Jordan Love scrambles right tackle for 8 yards (tackle by Jack Campbell),-0.550,-0.160
+1,8:14,3,9,GNB 31,0,7,Jordan Love pass incomplete deep right intended for Jayden Reed. Penalty on Brian Branch: Defensive Pass Interference 14 yards (accepted) (no play),-0.160,1.930
+1,8:08,1,10,GNB 45,0,7,Josh Jacobs left tackle for 1 yard (tackle by Kwon Alexander and Alim McNeill),1.930,1.520
+1,7:39,2,9,GNB 46,0,7,Jordan Love pass complete short left to Dontayvion Wicks for 3 yards (tackle by Al-Quadin Muhammad),1.520,1.220
+1,6:51,3,6,GNB 49,0,7,Jordan Love pass incomplete deep left intended for Dontayvion Wicks,1.220,-0.130
+1,6:45,4,6,GNB 49,0,7,Daniel Whelan punts 43 yards fair catch by Maurice Alexander at DET-8,-0.130,0.380
+1,6:38,1,10,DET 8,0,7,Jahmyr Gibbs right tackle for 2 yards (tackle by Lukas Van Ness),-0.380,-0.630
+1,6:06,2,8,DET 10,0,7,Jahmyr Gibbs left end for 3 yards (tackle by Quay Walker and Isaiah McDuffie),-0.630,-0.840
+1,5:29,3,5,DET 13,0,7,Jared Goff sacked by Rashan Gary for -3 yards,-0.840,-2.490
+1,4:49,4,8,DET 10,0,7,Jack Fox punts 42 yards fair catch by Jayden Reed at GB-48,-2.490,-2.130
+1,4:41,1,10,GNB 48,0,7,Josh Jacobs up the middle for 5 yards (tackle by Mitchell Agude),2.130,2.260
+1,4:04,2,5,DET 47,0,7,Jordan Love pass incomplete short left intended for Jayden Reed,2.260,1.550
+1,4:01,3,5,DET 47,0,7,Jordan Love pass incomplete short left intended for Christian Watson,1.550,0.130
+1,3:57,4,5,DET 47,0,7,Penalty on Daniel Whelan: Delay of Game 5 yards (accepted) (no play),0.130,-0.190
+1,3:57,4,10,GNB 48,0,7,Daniel Whelan punts 41 yards fair catch by Maurice Alexander at DET-11,-0.190,0.370
+1,3:50,1,10,DET 11,0,7,Jared Goff pass complete short left to Jameson Williams for 6 yards (tackle by Carrington Valentine),-0.370,-0.160
+1,3:28,2,4,DET 17,0,7,Jared Goff pass incomplete short right,-0.160,-0.720
+1,3:14,3,4,DET 17,0,7,Jahmyr Gibbs up the middle for 4 yards (tackle by Isaiah McDuffie and Kenny Clark) GNB challenged the short of the line to gain ruling and the play was upheld.,-0.720,0.340
+1,2:34,1,10,DET 21,0,7,Jahmyr Gibbs right end for no gain (tackle by Kenny Clark),0.340,-0.200
+1,1:58,2,10,DET 21,0,7,Jahmyr Gibbs left end for 5 yards (tackle by Kenny Clark),-0.200,-0.230
+1,1:23,3,5,DET 26,0,7,Jahmyr Gibbs left tackle for -3 yards (tackle by Colby Wooden),-0.230,-1.830
+1,0:42,4,8,DET 23,0,7,Jack Fox punts 50 yards fair catch by Jayden Reed at GB-27. Penalty on Robert Rochell: Defensive Holding 10 yards (accepted),-1.830,0.060
+1,0:35,1,10,GNB 17,0,7,Josh Jacobs right tackle for 7 yards (tackle by Myles Adams),-0.060,0.480
+2,15:00,2,3,GNB 24,0,7,Jordan Love pass complete short right to Christian Watson for 20 yards. Christian Watson fumbles (forced by Carlton Davis) (tackle by Kerby Joseph and Carlton Davis) recovered by David Long at DET-46 (tackle by Kerby Joseph),0.480,-1.990
+2,14:50,1,10,DET 46,0,7,Jared Goff pass complete short middle to Sam LaPorta for 10 yards (tackle by Quay Walker),1.990,2.650
+2,14:14,1,10,GNB 44,0,7,David Montgomery right tackle for 4 yards (tackle by Isaiah McDuffie and Kenny Clark). Penalty on Quay Walker: Unnecessary Roughness / Defense 15 yards (accepted),2.650,3.910
+2,13:56,1,10,GNB 25,0,7,Jared Goff pass incomplete deep right intended for Brock Wright,3.910,3.360
+2,13:51,2,10,GNB 25,0,7,Jahmyr Gibbs up the middle for no gain (tackle by Devonte Wyatt),3.360,2.680
+2,13:09,3,10,GNB 25,0,7,Jared Goff pass incomplete short middle intended for Jameson Williams,2.680,1.800
+2,13:05,4,10,GNB 25,0,10,Jake Bates 43 yard field goal good,1.800,3.000
+2,13:01,,,DET 35,0,10,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+2,13:01,1,10,GNB 30,0,10,Josh Jacobs left tackle for 4 yards (tackle by Jack Campbell),0.940,0.930
+2,12:26,2,6,GNB 34,0,10,Josh Jacobs right tackle for 19 yards (tackle by Kerby Joseph),0.930,2.460
+2,11:32,1,10,DET 47,0,10,Emanuel Wilson right tackle for 7 yards (tackle by Al-Quadin Muhammad),2.460,2.860
+2,11:01,2,3,DET 40,0,10,Chris Brooks right tackle for 3 yards (tackle by Kwon Alexander and Pat O'Connor),2.860,3.120
+2,10:14,1,10,DET 37,0,10,Penalty on Pat O'Connor: Encroachment 5 yards (accepted) (no play),3.120,3.850
+2,9:59,1,5,DET 32,0,10,Josh Jacobs up the middle for 2 yards (tackle by Trevor Nowaske and Jack Campbell),3.850,3.520
+2,9:18,2,3,DET 30,0,10,Josh Jacobs left tackle for 5 yards (tackle by Kerby Joseph and Jack Campbell),3.520,3.910
+2,8:51,1,10,DET 25,0,10,Josh Jacobs left end for no gain (tackle by Kwon Alexander and Jack Campbell). Penalty on Elgton Jenkins: Offensive Holding 10 yards (accepted) (no play),3.910,3.250
+2,8:29,1,20,DET 35,0,10,Jordan Love pass complete short right to Tucker Kraft for 8 yards (tackle by Brian Branch),3.250,3.090
+2,7:42,2,12,DET 27,0,10,Jordan Love scrambles left end for 14 yards (tackle by Jack Campbell),3.090,4.710
+2,6:59,1,10,DET 13,0,10,Josh Jacobs left end for no gain (tackle by Zeke Turner). Penalty on Za'Darius Smith: Illegal Use of Hands / Defense 5 yards (accepted) (no play),4.710,5.370
+2,6:41,1,8,DET 8,0,10,Josh Jacobs right tackle for 5 yards (tackle by Za'Darius Smith and Jack Campbell),5.370,5.530
+2,5:53,2,3,DET 3,0,10,Jordan Love pass incomplete short right intended for Tucker Kraft,5.530,4.720
+2,5:49,3,3,DET 3,0,10,Jordan Love pass short left is intercepted by Carlton Davis in end zone and returned for no gain (tackle by Tucker Kraft). Penalty on Terrion Arnold: Defensive Pass Interference 2 yards (accepted) (no play),4.720,6.970
+2,5:38,1,1,DET 1,6,10,Josh Jacobs left tackle for 1 yard touchdown,6.970,7.000
+2,5:35,,,DET 15,7,10,Brandon McManus kicks extra point good,0.000,0.000
+2,5:35,,,GNB 35,7,10,Brandon McManus kicks off 65 yards touchback.,0.000,0.940
+2,5:35,1,10,DET 30,7,10,David Montgomery up the middle for 8 yards (tackle by Javon Bullard and Colby Wooden),0.940,1.470
+2,4:56,2,2,DET 38,7,10,Jared Goff pass complete deep middle to Jameson Williams for 20 yards (tackle by Quay Walker),1.470,2.790
+2,4:26,1,10,GNB 42,7,10,Jared Goff pass complete short left to David Montgomery for 5 yards (tackle by Colby Wooden),2.790,2.920
+2,3:50,2,5,GNB 37,7,10,Jared Goff pass incomplete short left intended for Jameson Williams,2.920,2.210
+2,3:45,3,5,GNB 37,7,10,Jared Goff pass complete short middle to David Montgomery for 6 yards (tackle by Eric Wilson and Isaiah McDuffie),2.210,3.510
+2,3:02,1,10,GNB 31,7,10,Jared Goff pass complete short right to Sam LaPorta for 13 yards (tackle by Keisean Nixon and Xavier McKinney),3.510,4.370
+2,2:02,1,10,GNB 18,7,10,Jahmyr Gibbs left end for 3 yards (tackle by Javon Bullard and Eric Stokes),4.370,4.250
+2,1:53,2,7,GNB 15,7,10,Jared Goff pass complete short right to Sam LaPorta for 11 yards (tackle by Quay Walker),4.250,6.280
+2,1:09,1,4,GNB 4,7,10,David Montgomery up the middle for 3 yards (tackle by Tedarrell Slaton and Isaiah McDuffie),6.280,5.910
+2,1:01,,,,,,Timeout #2 by Green Bay Packers,,
+2,1:01,2,1,GNB 1,7,10,Jared Goff up the middle for no gain (tackle by Quay Walker),5.910,5.170
+2,1:00,,,,,,Timeout #3 by Green Bay Packers,,
+2,1:00,3,1,GNB 1,7,10,David Montgomery right tackle for -1 yards (tackle by Kenny Clark and Rashan Gary),5.170,3.250
+2,0:14,,,,,,Timeout #1 by Detroit Lions,,
+2,0:14,4,2,GNB 2,7,16,Jared Goff pass complete short middle to Jahmyr Gibbs for 2 yards touchdown,3.250,7.000
+2,0:11,,,GNB 15,7,17,Jake Bates kicks extra point good,0.000,0.000
+2,0:11,,,DET 35,7,17,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+2,0:11,1,10,GNB 30,7,17,Jordan Love kneels for -1 yards,0.940,0.260
+3,15:00,,,DET 35,7,17,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,GNB 30,7,17,Josh Jacobs right tackle for -1 yards (tackle by Brian Branch),0.940,0.260
+3,14:17,2,11,GNB 29,7,17,Jordan Love pass complete deep right to Christian Watson for 59 yards (tackle by Carlton Davis),0.260,4.780
+3,13:31,1,10,DET 12,7,17,Jordan Love pass incomplete short right intended for Christian Watson (defended by Carlton Davis),4.780,4.100
+3,13:26,2,10,DET 12,7,17,Jordan Love pass incomplete short left intended for Christian Watson,4.100,3.120
+3,13:20,3,10,DET 12,13,17,Jordan Love pass complete short middle to Tucker Kraft for 12 yards touchdown,3.120,7.000
+3,13:15,,,DET 15,14,17,Brandon McManus kicks extra point good,0.000,0.000
+3,13:15,,,GNB 35,14,17,Brandon McManus kicks off 65 yards touchback.,0.000,0.940
+3,13:15,1,10,DET 30,14,17,Jahmyr Gibbs up the middle for no gain (tackle by Keisean Nixon and Tedarrell Slaton). Penalty on Graham Glasgow: Offensive Holding 10 yards (accepted) (no play),0.940,0.280
+3,13:02,1,20,DET 20,14,17,Jared Goff pass complete short middle to Amon-Ra St. Brown for 6 yards (tackle by Keisean Nixon),0.280,-0.150
+3,12:30,2,14,DET 26,14,17,Jared Goff pass short right intended for Tim Patrick is intercepted by Keisean Nixon at DET-32 and returned for 16 yards (tackle by Jared Goff),-0.150,-4.510
+3,12:21,1,10,DET 16,14,17,Josh Jacobs right end for 2 yards (tackle by Brian Branch),4.510,4.210
+3,11:40,2,8,DET 14,14,17,Jordan Love pass complete short left to Dontayvion Wicks for 8 yards (tackle by Trevor Nowaske),4.210,5.830
+3,11:21,1,6,DET 6,20,17,Josh Jacobs left tackle for 6 yards touchdown,5.830,7.000
+3,11:15,,,DET 15,21,17,Brandon McManus kicks extra point good,0.000,0.000
+3,11:15,,,GNB 35,21,17,Brandon McManus kicks off 65 yards touchback.,0.000,0.940
+3,11:15,1,10,DET 30,21,17,Jared Goff pass complete short left to Jahmyr Gibbs for 5 yards (tackle by Isaiah McDuffie and Eric Stokes),0.940,1.070
+3,10:54,2,5,DET 35,21,17,Jared Goff pass complete short middle to Tim Patrick for 5 yards (tackle by Isaiah McDuffie and Quay Walker),1.070,1.600
+3,10:20,1,10,DET 40,21,17,Jahmyr Gibbs left tackle for 2 yards (tackle by Arron Mosby),1.600,1.320
+3,9:48,2,8,DET 42,21,17,Jared Goff pass incomplete short middle intended for Sam LaPorta,1.320,0.630
+3,9:40,3,8,DET 42,21,17,Jared Goff pass complete short right to Jameson Williams for 7 yards (tackle by Kenny Clark),0.630,-0.130
+3,9:05,4,1,DET 49,21,17,Jared Goff up the middle for 1 yard (tackle by Devonte Wyatt),-0.130,2.260
+3,8:29,1,10,GNB 50,21,17,Jared Goff pass complete short left to David Montgomery for 13 yards (tackle by Colby Wooden),2.260,3.120
+3,7:46,1,10,GNB 37,21,17,Jared Goff scrambles right end for 9 yards (tackle by Zayne Anderson and Eric Wilson),3.120,3.790
+3,7:08,2,1,GNB 28,21,17,Jahmyr Gibbs right tackle for 20 yards (tackle by Xavier McKinney),3.790,5.370
+3,6:28,1,8,GNB 8,21,17,Jared Goff pass incomplete short left intended for Sam LaPorta,5.370,4.570
+3,6:23,2,8,GNB 8,21,17,Jahmyr Gibbs right end for 4 yards (tackle by Isaiah McDuffie),4.570,4.490
+3,5:45,3,4,GNB 4,21,17,Jahmyr Gibbs up the middle for 1 yard (tackle by Quay Walker and Xavier McKinney),4.490,3.040
+3,5:05,4,3,GNB 3,21,23,Jared Goff pass complete short right to Tim Patrick for 3 yards touchdown,3.040,7.000
+3,5:02,,,GNB 15,21,24,Jake Bates kicks extra point good,0.000,0.000
+3,5:02,,,DET 35,21,24,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+3,5:02,1,10,GNB 30,21,24,Jordan Love pass incomplete short right intended for Tucker Kraft,0.940,0.390
+3,4:54,2,10,GNB 30,21,24,Josh Jacobs up the middle for 1 yard (tackle by Jack Campbell and Brodric Martin),0.390,-0.160
+3,4:07,,,,,,Timeout #1 by Green Bay Packers,,
+3,4:07,3,9,GNB 31,21,24,Jordan Love pass complete short right to Christian Watson for 6 yards (tackle by Terrion Arnold),-0.160,-0.910
+3,3:29,4,3,GNB 37,21,24,Daniel Whelan punts 41 yards fair catch by Maurice Alexander at DET-22,-0.910,-0.410
+3,3:22,1,10,DET 22,21,24,Jared Goff pass complete short right to David Montgomery for 3 yards (tackle by Keisean Nixon and Isaiah McDuffie),0.410,0.270
+3,2:48,2,7,DET 25,21,24,David Montgomery right tackle for 1 yard (tackle by Devonte Wyatt and Karl Brooks),0.270,-0.290
+3,2:08,3,6,DET 26,21,24,Jared Goff pass complete short left to Tim Patrick for 5 yards (tackle by Xavier McKinney),-0.290,-1.310
+3,1:31,4,1,DET 31,21,24,Jahmyr Gibbs left end for -1 yards (tackle by Quay Walker and Isaiah McDuffie),-1.310,-3.580
+3,1:26,1,10,DET 30,21,24,Josh Jacobs left tackle for 3 yards (tackle by Myles Adams),3.580,3.440
+3,0:49,2,7,DET 27,21,24,Jordan Love pass complete short left to Tucker Kraft for 21 yards (tackle by Terrion Arnold and Jack Campbell),3.440,5.830
+4,14:49,1,6,DET 6,21,24,Jordan Love pass complete short left to Ben Sims for 2 yards (tackle by Trevor Nowaske),5.830,5.340
+4,14:24,2,4,DET 4,27,24,Josh Jacobs up the middle for 4 yards touchdown,5.340,7.000
+4,14:20,,,DET 15,28,24,Brandon McManus kicks extra point good,0.000,0.000
+4,14:20,,,GNB 35,28,24,Brandon McManus kicks off 65 yards touchback.,0.000,0.940
+4,14:20,1,10,DET 30,28,24,Jared Goff pass complete deep middle to Tim Patrick for 18 yards (tackle by Xavier McKinney and Keisean Nixon),0.940,2.130
+4,13:47,1,10,DET 48,28,24,Jared Goff pass complete short middle to David Montgomery for 6 yards (tackle by Keisean Nixon and Isaiah McDuffie),2.130,2.390
+4,13:17,2,4,GNB 46,28,24,David Montgomery left tackle for 2 yards (tackle by Kenny Clark),2.390,1.950
+4,12:43,3,2,GNB 44,28,24,Jared Goff pass complete short middle to Amon-Ra St. Brown for 11 yards (tackle by Eric Wilson),1.950,3.380
+4,12:05,1,10,GNB 33,28,24,Jahmyr Gibbs left end for 2 yards (tackle by Quay Walker),3.380,3.110
+4,11:27,2,8,GNB 31,28,24,Jared Goff pass complete short middle to Sam LaPorta for 14 yards (tackle by Isaiah McDuffie),3.110,4.440
+4,10:49,1,10,GNB 17,28,24,Amon-Ra St. Brown left end for 10 yards (tackle by Zayne Anderson),4.440,5.600
+4,10:11,1,7,GNB 7,28,24,David Montgomery right tackle for 4 yards (tackle by Kingsley Enagbare and Quay Walker),5.600,5.530
+4,9:28,2,3,GNB 3,28,24,David Montgomery up the middle for 2 yards (tackle by Tedarrell Slaton and Lukas Van Ness),5.530,5.170
+4,8:43,3,1,GNB 1,28,30,Jared Goff pass complete short middle to Tim Patrick for 1 yard touchdown,5.170,7.000
+4,8:39,,,GNB 15,28,31,Jake Bates kicks extra point good,0.000,0.000
+4,8:39,,,DET 35,28,31,Jake Bates kicks off 65 yards touchback.,0.000,0.940
+4,8:39,1,10,GNB 30,28,31,Penalty on Zach Tom: False Start 5 yards (accepted) (no play),0.940,0.610
+4,8:39,1,15,GNB 25,28,31,Josh Jacobs right tackle for 1 yard (tackle by Carlton Davis),0.610,-0.150
+4,7:59,2,14,GNB 26,28,31,Jordan Love pass complete deep left to Christian Watson for 29 yards (tackle by Terrion Arnold),-0.150,2.590
+4,7:20,1,10,DET 45,28,31,Josh Jacobs right guard for no gain (tackle by Al-Quadin Muhammad),2.590,2.040
+4,6:21,2,10,DET 45,28,31,Jordan Love pass complete short middle to Dontayvion Wicks for 26 yards (tackle by Kerby Joseph),2.040,4.310
+4,6:01,1,10,DET 19,28,31,Jordan Love pass complete short right to Dontayvion Wicks for 12 yards (tackle by Jamal Adams and David Long),4.310,5.600
+4,5:22,1,7,DET 7,28,31,Josh Jacobs up the middle for 1 yard (tackle by Al-Quadin Muhammad and Myles Adams),5.600,4.950
+4,4:38,2,6,DET 6,28,31,Jordan Love pass complete short right to Josh Jacobs for no gain touchdown. Penalty on Christian Watson: Offensive Pass Interference 10 yards (accepted) (no play),4.950,3.340
+4,4:32,2,16,DET 16,28,31,Jordan Love pass incomplete deep left,3.340,2.850
+4,4:25,3,16,DET 16,28,31,Jordan Love scrambles right tackle for 2 yards (tackle by Zeke Turner),2.850,2.510
+4,3:42,4,14,DET 14,31,31,Brandon McManus 32 yard field goal good,2.510,3.000
+4,3:38,,,GNB 35,31,31,Brandon McManus kicks off 65 yards touchback.,0.000,0.940
+4,3:38,1,10,DET 30,31,31,Jared Goff pass complete deep left to Jameson Williams for 19 yards,0.940,2.190
+4,3:33,1,10,DET 49,31,31,Jared Goff pass complete short right to Tim Patrick for 11 yards (tackle by Zayne Anderson and Eric Stokes),2.190,2.920
+4,2:48,1,10,GNB 40,31,31,Jahmyr Gibbs right end for 1 yard (tackle by Lukas Van Ness and Brenton Cox),2.920,2.510
+4,2:08,2,9,GNB 39,31,31,Jared Goff pass complete short right to Jahmyr Gibbs for 2 yards (tackle by Isaiah McDuffie),2.510,2.080
+4,2:01,3,7,GNB 37,31,31,Jared Goff pass complete short left to Jahmyr Gibbs for 7 yards (tackle by Devonte Wyatt),2.080,3.580
+4,1:55,1,10,GNB 30,31,31,Jared Goff pass complete short right to David Montgomery for no gain (tackle by Keisean Nixon). Penalty on Frank Ragnow: Offensive Holding 10 yards (accepted) (no play),3.580,2.920
+4,1:48,1,20,GNB 40,31,31,David Montgomery up the middle for 3 yards (tackle by Rashan Gary and Kenny Clark),2.920,2.090
+4,1:31,,,,,,Timeout #2 by Green Bay Packers,,
+4,1:31,2,17,GNB 37,31,31,Jared Goff pass complete short middle to Amon-Ra St. Brown for 17 yards (tackle by Keisean Nixon) Replay Assistant challenged the short of the line to gain ruling and the original play was overturned. Jared Goff pass complete short middle to Amon-Ra St. Brown for 16 yards (tackle by Keisean Nixon),2.090,3.530
+4,1:27,,,,,,Timeout #3 by Green Bay Packers,,
+4,1:27,3,1,GNB 21,31,31,David Montgomery right tackle for no gain (tackle by Zayne Anderson),3.530,2.210
+4,0:43,,,,,,Timeout #1 by Detroit Lions,,
+4,0:43,4,1,GNB 21,31,31,David Montgomery right tackle for 7 yards (tackle by Brenton Cox),2.210,4.650
+4,0:28,1,10,GNB 14,31,31,Jared Goff kneels for -3 yards,4.650,3.590
+4,0:02,,,,,,Timeout #2 by Detroit Lions,,
+4,0:02,2,13,GNB 17,31,34,Jake Bates 35 yard field goal good,3.590,3.000

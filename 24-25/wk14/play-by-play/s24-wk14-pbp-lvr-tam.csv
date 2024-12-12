@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,LVR,TAM,Detail,EPB,EPA
+,,,,,,,Buccaneers won the coin toss Buccaneers to receive the opening kickoff.,,
+1,15:00,,,LVR 35,0,0,Daniel Carlson kicks off 63 yards returned by Rakim Jarrett for 23 yards (tackle by Kana'i Mauga). Penalty on Ryan Miller: Offensive Holding 10 yards (accepted),0.000,-0.220
+1,14:56,1,10,TAM 15,0,0,Baker Mayfield pass complete short right to Jalen McMillan for 6 yards (tackle by Tre'von Moehrig),-0.220,0.210
+1,14:18,2,4,TAM 21,0,0,Rachaad White left guard for 3 yards (tackle by Adam Butler and Darnay Holmes),0.210,-0.270
+1,13:40,3,1,TAM 24,0,0,Rachaad White left guard for 4 yards (tackle by Isaiah Pola-Mao),-0.270,0.810
+1,13:01,1,10,TAM 28,0,0,Baker Mayfield pass complete short left to Mike Evans for 15 yards (tackle by Decamerion Richardson). Penalty on Maxx Crosby: Defensive Offside 5 yards (declined),0.810,1.800
+1,12:35,1,10,TAM 43,0,0,Bucky Irving right tackle for 2 yards (tackle by Jack Jones),1.800,1.520
+1,11:59,2,8,TAM 45,0,0,Baker Mayfield pass complete short left to Sterling Shepard for 9 yards (tackle by Darnay Holmes),1.520,2.520
+1,11:27,1,10,LVR 46,0,0,Baker Mayfield pass complete short left to Rachaad White for no gain (tackle by John Jenkins). Penalty on Adam Butler: Illegal Use of Hands / Offense 5 yards (offset) . Penalty on Rakim Jarrett: Illegal Use of Hands / Defense 5 yards (offset) (no play),2.520,2.520
+1,11:09,1,10,LVR 46,0,0,Baker Mayfield pass incomplete short right intended for Rachaad White (defended by Tre'von Moehrig),2.520,1.980
+1,11:01,2,10,LVR 46,0,0,Bucky Irving left guard for 2 yards (tackle by Adam Butler and Maxx Crosby),1.980,1.550
+1,10:21,3,8,LVR 44,0,0,Baker Mayfield pass complete short right to Mike Evans for 7 yards (tackle by Thomas Harper),1.550,0.790
+1,9:39,4,1,LVR 37,0,0,Rachaad White up the middle for 7 yards (tackle by Decamerion Richardson and Darnay Holmes),0.790,3.580
+1,8:58,1,10,LVR 30,0,0,Baker Mayfield pass complete short left to Bucky Irving for 15 yards (tackle by Robert Spillane and Tre'von Moehrig),3.580,4.580
+1,8:12,1,10,LVR 15,0,6,Baker Mayfield pass complete short right to Jalen McMillan for 15 yards touchdown,4.580,7.000
+1,8:07,,,LVR 15,0,7,Chase McLaughlin kicks extra point good,0.000,0.000
+1,8:07,,,TAM 35,0,7,Jack Browning kicks off 65 yards touchback.,0.000,0.280
+1,8:07,1,10,LVR 20,0,7,Aidan O'Connell pass incomplete deep middle intended for Tre Tucker,0.280,-0.270
+1,8:01,2,10,LVR 20,0,7,Sincere McCormick up the middle for no gain (tackle by Logan Hall),-0.270,-0.960
+1,7:25,3,10,LVR 20,0,7,Aidan O'Connell sacked by Lavonte David for -10 yards,-0.960,-2.490
+1,6:44,4,20,LVR 10,0,7,AJ Cole punts 42 yards out of bounds,-2.490,-2.130
+1,6:37,1,10,TAM 48,0,7,Bucky Irving up the middle for 2 yards (tackle by Isaiah Pola-Mao and Tyree Wilson),2.130,1.850
+1,5:56,2,8,TAM 50,0,7,Baker Mayfield pass complete short right to Cade Otton for 20 yards (tackle by Tre'von Moehrig),1.850,3.580
+1,5:18,1,10,LVR 30,0,7,Rachaad White right guard for 13 yards (tackle by Tre'von Moehrig),3.580,4.440
+1,4:40,1,10,LVR 17,0,7,Rachaad White up the middle for 12 yards (tackle by Darnay Holmes and Isaiah Pola-Mao),4.440,6.060
+1,3:58,1,5,LVR 5,0,13,Baker Mayfield pass complete short middle to Rachaad White for 5 yards touchdown,6.060,7.000
+1,3:52,,,LVR 15,0,14,Chase McLaughlin kicks extra point good,0.000,0.000
+1,3:52,,,TAM 35,0,14,Jack Browning kicks off 65 yards touchback.,0.000,0.940
+1,3:52,1,10,LVR 30,0,14,Aidan O'Connell pass incomplete deep middle intended for Michael Mayer (defended by Anthony Nelson),0.940,0.390
+1,3:48,2,10,LVR 30,0,14,Aidan O'Connell pass complete short right to Jakobi Meyers for 11 yards (tackle by Zyon McCollum),0.390,1.660
+1,3:16,1,10,LVR 41,0,14,Sincere McCormick left tackle for 4 yards (tackle by YaYa Diaby),1.660,1.660
+1,2:39,2,6,LVR 45,0,14,Aidan O'Connell pass complete short left to Sincere McCormick for no gain (tackle by Jamel Dean). Penalty on Jackson Powers-Johnson: Personal Foul / Offense 15 yards (accepted) (no play),1.660,-0.370
+1,2:06,2,21,LVR 30,0,14,Aidan O'Connell pass incomplete short left intended for Sincere McCormick,-0.370,-1.020
+1,2:05,3,21,LVR 30,0,14,Aidan O'Connell pass complete short right to Jakobi Meyers for 9 yards (tackle by Anthony Nelson),-1.020,-0.780
+1,1:28,4,12,LVR 39,0,14,AJ Cole punts 40 yards downed by Amari Burney,-0.780,-0.340
+1,1:18,1,10,TAM 21,0,14,Rachaad White left guard for -1 yards (tackle by K'Lavon Chaisson and Tre'von Moehrig),0.340,-0.340
+1,0:38,2,11,TAM 20,0,14,Baker Mayfield pass incomplete deep left intended for Jalen McMillan (defended by Darnay Holmes),-0.340,-1.020
+1,0:31,3,11,TAM 20,0,14,Baker Mayfield pass complete short middle to Sterling Shepard for 18 yards (tackle by Darnay Holmes),-1.020,1.470
+2,15:00,1,10,TAM 38,0,14,Baker Mayfield scrambles right end for 5 yards (tackle by Robert Spillane),1.470,1.600
+2,14:24,2,5,TAM 43,0,14,Bucky Irving left guard for -3 yards (tackle by Maxx Crosby),1.600,0.500
+2,13:40,3,8,TAM 40,0,14,Baker Mayfield pass short left intended for Jalen McMillan is intercepted by K'Lavon Chaisson at TB-36 and returned for no gain (tackle by Jalen McMillan),0.500,-3.180
+2,13:36,1,10,TAM 36,0,14,Aidan O'Connell aborted snap recovered by Lavonte David at TB-35,3.180,-1.270
+2,13:33,1,10,TAM 35,0,14,Baker Mayfield pass complete short right to Rachaad White for 14 yards (tackle by Charles Snowden),1.270,2.190
+2,12:52,1,10,TAM 49,0,14,Baker Mayfield scrambles right end for 7 yards (tackle by Jack Jones),2.190,2.590
+2,12:14,2,3,LVR 44,0,14,Baker Mayfield pass incomplete short left intended for Sterling Shepard (defended by Tre'von Moehrig),2.590,1.880
+2,12:08,3,3,LVR 44,0,14,Baker Mayfield sacked by Amari Burney for -11 yards. Baker Mayfield fumbles (forced by Amari Burney) recovered by Tre'von Moehrig at TB-45,1.880,-2.590
+2,12:03,1,10,TAM 45,0,14,Aidan O'Connell pass incomplete deep left intended for Tre Tucker LVR challenged the runner was in bounds ruling and the play was upheld.,2.590,2.040
+2,11:57,2,10,TAM 45,0,14,Aidan O'Connell pass complete short middle to Brock Bowers for 12 yards (tackle by Zyon McCollum and Kaevon Merriweather),2.040,3.380
+2,11:24,1,10,TAM 33,0,14,Aidan O'Connell pass complete deep right to Michael Mayer for 29 yards (tackle by Zyon McCollum),3.380,6.280
+2,10:35,1,4,TAM 4,0,14,Sincere McCormick up the middle for 2 yards (tackle by Greg Gaines),6.280,5.720
+2,10:13,2,2,TAM 2,0,14,Sincere McCormick left guard for no gain (tackle by Greg Gaines and Christian Izien),5.720,4.950
+2,9:32,3,2,TAM 2,0,14,Aidan O'Connell pass incomplete short left intended for Brock Bowers. Penalty on Vi Jones: Defensive Pass Interference 1 yard (accepted) (no play),4.950,6.970
+2,9:28,1,1,TAM 1,6,14,Aidan O'Connell up the middle for 1 yard touchdown,6.970,7.000
+2,9:21,,,TAM 15,7,14,Daniel Carlson kicks extra point good,0.000,0.000
+2,9:21,,,LVR 35,7,14,Daniel Carlson kicks off 65 yards touchback.,0.000,0.280
+2,9:21,1,10,TAM 20,7,14,Baker Mayfield sacked by Adam Butler for -8 yards,0.280,-1.360
+2,8:39,2,18,TAM 12,7,14,Penalty on Ben Bredeson: False Start 5 yards (accepted) (no play),-1.360,-1.730
+2,8:31,2,23,TAM 7,7,14,Baker Mayfield pass incomplete short left intended for Sean Tucker (defended by Tre'von Moehrig),-1.730,-2.940
+2,8:21,3,23,TAM 7,7,14,Rachaad White right tackle for 12 yards (tackle by Robert Spillane),-2.940,-2.140
+2,8:03,4,11,TAM 19,7,14,Jack Browning punts 49 yards returned by Ameer Abdullah for 16 yards (tackle by Vi Jones and Ryan Miller),-2.140,-2.130
+2,7:42,1,10,LVR 48,7,14,Aidan O'Connell pass complete short middle to Tre Tucker for 6 yards (tackle by Jamel Dean),2.130,2.390
+2,7:22,2,4,TAM 46,7,14,Brock Bowers left end for 3 yards (tackle by Chris Braswell),2.390,2.080
+2,6:41,3,1,TAM 43,7,14,Sincere McCormick left guard for 29 yards (tackle by Zyon McCollum),2.080,4.650
+2,5:56,1,10,TAM 14,7,14,Aidan O'Connell pass complete short left to Sincere McCormick for 3 yards (tackle by Chris Braswell),4.650,4.520
+2,5:19,2,7,TAM 11,7,14,Sincere McCormick up the middle for 5 yards (tackle by Lavonte David and Christian Izien),4.520,4.730
+2,4:36,3,2,TAM 6,7,14,Aidan O'Connell pass incomplete short right,4.730,3.010
+2,4:31,4,2,TAM 6,10,14,Daniel Carlson 25 yard field goal good,3.010,3.000
+2,4:28,,,LVR 35,10,14,Daniel Carlson kicks off 59 yards returned by Sean Tucker for 25 yards (tackle by Christopher Smith and Thomas Harper),0.000,1.000
+2,4:20,1,10,TAM 31,10,14,Rachaad White left end for 1 yard (tackle by Jonah Laulu),1.000,0.600
+2,3:43,2,9,TAM 32,10,14,Baker Mayfield pass complete deep middle to Sterling Shepard for 22 yards (tackle by K'Lavon Chaisson),0.600,2.520
+2,3:16,1,10,LVR 46,10,14,Baker Mayfield pass complete short right to Jalen McMillan for 9 yards (tackle by Darnay Holmes). Penalty on K'Lavon Chaisson: Defensive Offside 5 yards (declined),2.520,3.190
+2,2:55,2,1,LVR 37,10,14,Baker Mayfield pass complete short left to Rachaad White for no gain (tackle by John Jenkins and Robert Spillane). Penalty on Tristan Wirfs: Offensive Holding 10 yards (accepted) (no play),3.190,1.840
+2,2:33,2,11,LVR 47,10,14,Baker Mayfield sacked by Darnay Holmes for -8 yards,1.840,0.100
+2,2:00,3,19,TAM 45,10,14,Baker Mayfield pass complete short right to Mike Evans for 15 yards (tackle by Jack Jones),0.100,0.590
+2,1:14,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+2,1:14,,,,,,Timeout #2 by Las Vegas Raiders,,
+2,1:14,4,4,LVR 40,10,14,Baker Mayfield pass incomplete short right intended for Jalen McMillan. Penalty on Jack Jones: Defensive Pass Interference 11 yards (accepted) (no play),0.590,3.640
+2,1:10,1,10,LVR 29,10,14,Sean Tucker right guard for 9 yards (tackle by Adam Butler and Robert Spillane),3.640,4.320
+2,0:39,2,1,LVR 20,10,14,Baker Mayfield pass deep right intended for Cade Otton is intercepted by Jack Jones in end zone and returned for 24 yards (tackle by Luke Goedeke). Penalty on Jalen McMillan: Offensive Offside 5 yards (declined),4.320,0.140
+2,0:25,1,10,LVR 16,10,14,Aidan O'Connell kneels for -1 yards,-0.140,-0.780
+3,15:00,,,TAM 35,10,14,Jack Browning kicks off 66 yards returned by Ameer Abdullah for 30 yards (tackle by Ryan Miller and Payne Durham),0.000,0.870
+3,14:55,1,10,LVR 29,10,14,Sincere McCormick left guard for 6 yards (tackle by Logan Hall and Vi Jones),0.870,1.140
+3,14:19,2,4,LVR 35,10,14,Aidan O'Connell scrambles right end for 4 yards (tackle by Calijah Kancey),1.140,1.530
+3,13:31,1,10,LVR 39,10,14,Sincere McCormick up the middle for 6 yards (tackle by Vi Jones),1.530,1.800
+3,12:49,2,4,LVR 45,10,14,Sincere McCormick right tackle for 3 yards (tackle by Vita Vea),1.800,1.490
+3,12:08,3,1,LVR 48,10,14,Sincere McCormick right guard for 2 yards (tackle by Lavonte David),1.490,2.260
+3,11:32,1,10,LVR 50,10,14,Aidan O'Connell pass complete short right to Michael Mayer for 5 yards (tackle by Zyon McCollum),2.260,2.390
+3,10:49,2,5,TAM 45,10,14,Sincere McCormick up the middle for 4 yards (tackle by Anthony Nelson),2.390,2.210
+3,10:08,3,1,TAM 41,10,14,Aidan O'Connell up the middle for 1 yard (tackle by C.J. Brewer),2.210,2.920
+3,9:30,1,10,TAM 40,10,14,Aidan O'Connell pass complete short right to Jakobi Meyers for 6 yards (tackle by Kaevon Merriweather),2.920,3.180
+3,8:50,2,4,TAM 34,10,14,Sincere McCormick right end for 11 yards (tackle by Christian Izien),3.180,4.040
+3,8:07,1,10,TAM 23,10,14,Aidan O'Connell pass complete short right to Sincere McCormick for 8 yards (tackle by Vi Jones),4.040,4.750
+3,7:40,2,2,TAM 15,10,14,Sincere McCormick up the middle for no gain (tackle by Calijah Kancey and Lavonte David),4.750,4.050
+3,7:00,3,2,TAM 15,10,14,Aidan O'Connell up the middle for 1 yard (tackle by Chris Braswell),4.050,2.660
+3,6:32,4,1,TAM 14,10,14,Sincere McCormick left guard for 2 yards (tackle by Lavonte David),2.660,4.780
+3,5:49,1,10,TAM 12,10,14,Sincere McCormick left guard for no gain (tackle by Vi Jones) (no play),4.780,4.320
+3,5:26,1,15,TAM 17,10,14,Aidan O'Connell pass complete short middle to Michael Mayer for 7 yards (tackle by Lavonte David and Tykee Smith),4.320,4.450
+3,4:48,2,8,TAM 10,10,14,Aidan O'Connell pass short left intended for Brock Bowers is intercepted by Tykee Smith at TB-7 and returned for no gain (tackle by Brock Bowers),4.450,0.380
+3,4:40,1,10,TAM 7,10,14,Rachaad White right guard for 7 yards (tackle by John Jenkins),-0.380,-0.250
+3,4:02,2,3,TAM 14,10,14,Rachaad White left tackle for 12 yards (tackle by Isaiah Pola-Mao),-0.250,0.670
+3,3:19,1,10,TAM 26,10,14,Penalty on Luke Goedeke: False Start 5 yards (accepted) (no play),0.670,0.340
+3,2:59,1,15,TAM 21,10,14,Baker Mayfield pass complete short middle to Cade Otton for 6 yards (tackle by K'Lavon Chaisson and Robert Spillane),0.340,0.270
+3,2:19,2,9,TAM 27,10,14,Baker Mayfield pass incomplete short right intended for Sean Tucker (defended by Maxx Crosby),0.270,-0.430
+3,2:16,3,9,TAM 27,10,14,Baker Mayfield sacked by and Tre'von Moehrig for no gain and K'Lavon Chaisson for no gain. Penalty on Graham Barton: Illegal Shift 5 yards (declined),-0.430,-1.570
+3,2:06,4,9,TAM 27,10,14,Jack Browning punts 39 yards returned by Ameer Abdullah for 14 yards (tackle by Jack Browning),-1.570,-2.130
+3,1:51,1,10,LVR 48,10,14,Aidan O'Connell pass incomplete deep left,2.130,1.580
+3,1:46,2,10,LVR 48,10,14,Aidan O'Connell pass short right intended for Tre Tucker is intercepted by Kaevon Merriweather at LV-47 and returned for no gain (tackle by Tre Tucker) Replay Assistant challenged the pass interception ruling and the original play was overturned. Aidan O'Connell pass incomplete short right intended for Tre Tucker,1.580,0.890
+3,1:41,3,10,LVR 48,10,14,Aidan O'Connell pass complete short right to Jakobi Meyers for 8 yards (tackle by Tykee Smith),0.890,0.330
+3,1:17,4,2,TAM 44,10,14,AJ Cole punts 44 yards touchback.,0.330,-0.280
+3,1:04,1,10,TAM 20,10,14,Baker Mayfield pass incomplete deep left,0.280,-0.270
+3,0:57,2,10,TAM 20,10,14,Rachaad White left tackle for 2 yards (tackle by Robert Spillane),-0.270,-0.690
+3,0:19,3,8,TAM 22,10,14,Baker Mayfield pass complete short left to Sterling Shepard for 14 yards (tackle by Decamerion Richardson),-0.690,1.330
+4,15:00,1,10,TAM 36,10,14,Baker Mayfield pass incomplete short left intended for Mike Evans,1.330,0.790
+4,14:56,2,10,TAM 36,10,14,Sean Tucker up the middle for 4 yards (tackle by Tyree Wilson),0.790,0.630
+4,14:16,3,6,TAM 40,10,14,Baker Mayfield pass incomplete short middle intended for Sterling Shepard,0.630,-0.720
+4,14:11,4,6,TAM 40,10,14,Jack Browning punts 40 yards fair catch by Ameer Abdullah at LV-20,-0.720,-0.280
+4,14:03,1,10,LVR 20,10,14,Sincere McCormick right guard for 4 yards (tackle by Chris Braswell),0.280,0.270
+4,13:28,2,6,LVR 24,10,14,Desmond Ridder aborted snap recovered by Desmond Ridder at LV-21 and returned for -3 yards,0.270,-0.820
+4,12:47,3,9,LVR 21,10,14,Desmond Ridder pass complete short middle to Jakobi Meyers for 8 yards (tackle by Zyon McCollum),-0.820,-1.440
+4,12:00,4,1,LVR 29,10,14,AJ Cole punts 51 yards recovered by Trey Palmer at TB-20 (tackle by Ramel Keyton),-1.440,-0.480
+4,11:46,1,10,TAM 23,10,14,Rachaad White left tackle for 1 yard (tackle by Jonah Laulu),0.480,0.070
+4,11:08,2,9,TAM 24,10,14,Baker Mayfield pass incomplete short left intended for Jalen McMillan,0.070,-0.630
+4,11:03,3,9,TAM 24,10,14,Baker Mayfield pass complete short middle to Mike Evans for 32 yards (tackle by Decamerion Richardson),-0.630,2.650
+4,10:17,1,10,LVR 44,10,14,Rachaad White right end for 7 yards (tackle by Tre'von Moehrig),2.650,3.060
+4,9:39,2,3,LVR 37,10,14,Sean Tucker right end for 34 yards (tackle by Decamerion Richardson and Jonah Laulu),3.060,6.510
+4,8:52,1,3,LVR 3,10,20,Rachaad White up the middle for 3 yards touchdown,6.510,7.000
+4,8:47,,,LVR 15,10,21,Chase McLaughlin kicks extra point good,0.000,0.000
+4,8:47,,,TAM 35,10,21,Jack Browning kicks off 59 yards returned by Ameer Abdullah for 29 yards (tackle by Ryan Miller),0.000,1.270
+4,8:42,1,10,LVR 35,10,21,Desmond Ridder pass complete short middle to Terrace Marshall for 6 yards (tackle by YaYa Diaby),1.270,1.530
+4,8:13,2,4,LVR 41,10,21,Desmond Ridder pass deep right intended for Jakobi Meyers is intercepted by Zyon McCollum at TB-36 and returned for no gain (tackle by Jakobi Meyers) Replay Assistant challenged the pass interception ruling and the original play was overturned. Desmond Ridder pass incomplete deep right intended for Jakobi Meyers,1.530,0.830
+4,8:08,3,4,LVR 41,10,21,Desmond Ridder pass complete short middle to Brock Bowers for 25 yards (tackle by Kaevon Merriweather),0.830,3.310
+4,7:35,1,10,TAM 34,10,21,Desmond Ridder pass complete short middle to Michael Mayer for 4 yards (tackle by Jamel Dean),3.310,3.310
+4,7:08,2,6,TAM 30,10,21,Desmond Ridder pass complete short right to Tre Tucker for 1 yard (tackle by Kaevon Merriweather),3.310,2.740
+4,6:28,3,5,TAM 29,10,21,Desmond Ridder sacked by Kaevon Merriweather for no gain,2.740,1.540
+4,5:42,4,5,TAM 29,10,21,Desmond Ridder pass complete short left to Jakobi Meyers for 20 yards (tackle by Tykee Smith),1.540,5.140
+4,4:56,1,9,TAM 9,10,21,Ameer Abdullah left tackle for 1 yard (tackle by Logan Hall),5.140,4.570
+4,4:22,2,8,TAM 8,10,21,Desmond Ridder scrambles up the middle for 3 yards (tackle by Vi Jones),4.570,4.260
+4,3:46,3,5,TAM 5,10,21,Desmond Ridder pass complete short right to Ameer Abdullah for -3 yards (tackle by Christian Izien),4.260,2.950
+4,3:08,4,8,TAM 8,13,21,Daniel Carlson 27 yard field goal good,2.950,3.000
+4,3:05,,,LVR 35,13,21,Daniel Carlson kicks off 65 yards touchback.,0.000,0.280
+4,3:05,1,10,TAM 20,13,21,Rachaad White up the middle for 3 yards (tackle by Jonah Laulu),0.280,0.140
+4,3:01,,,,,,Timeout #1 by Las Vegas Raiders,,
+4,3:01,2,7,TAM 23,13,21,Baker Mayfield pass complete short left to Cade Otton for 44 yards (tackle by Robert Spillane),0.140,3.380
+4,2:12,1,10,LVR 33,13,21,Rachaad White right guard for 3 yards (tackle by Jonah Laulu),3.380,3.240
+4,2:07,,,,,,Timeout #2 by Las Vegas Raiders,,
+4,2:07,2,7,LVR 30,13,21,Rachaad White left tackle for 1 yard (tackle by Tre'von Moehrig),3.240,2.680
+4,2:03,,,,,,Timeout #3 by Las Vegas Raiders,,
+4,2:03,3,6,LVR 29,13,27,Baker Mayfield pass complete short right to Jalen McMillan for 29 yards touchdown,2.680,7.000
+4,1:56,,,LVR 15,13,28,Chase McLaughlin kicks extra point good,0.000,0.000
+4,1:56,,,TAM 35,13,28,Jack Browning kicks off 65 yards touchback.,0.000,0.940
+4,1:56,1,10,LVR 30,13,28,Desmond Ridder pass complete short middle to Michael Mayer for 6 yards (tackle by Tavierre Thomas),0.940,1.200
+4,1:35,2,4,LVR 36,13,28,Desmond Ridder pass complete short middle to Jakobi Meyers for 5 yards (tackle by Kaevon Merriweather and Tavierre Thomas),1.200,1.660
+4,1:15,1,10,LVR 41,13,28,Desmond Ridder pass incomplete short right intended for Michael Mayer,1.660,1.120
+4,1:11,2,10,LVR 41,13,28,Desmond Ridder pass complete short right to Michael Mayer for 9 yards (tackle by Lavonte David),1.120,1.620
+4,0:53,3,1,LVR 50,13,28,Desmond Ridder pass incomplete short left intended for Brock Bowers (defended by Tykee Smith),1.620,-0.060
+4,0:49,4,1,LVR 50,13,28,Desmond Ridder pass complete short middle to Michael Mayer for 8 yards (tackle by Tavierre Thomas),-0.060,2.790
+4,0:29,1,10,TAM 42,13,28,Desmond Ridder pass incomplete short middle intended for Ameer Abdullah,2.790,2.240
+4,0:27,2,10,TAM 42,13,28,Desmond Ridder pass complete short middle to Brock Bowers for 12 yards (tackle by Kaevon Merriweather and Tavierre Thomas),2.240,3.580
+4,0:10,1,10,TAM 30,13,28,Desmond Ridder pass incomplete short right intended for Jakobi Meyers,3.580,3.030
+4,0:05,2,10,TAM 30,13,28,Desmond Ridder pass incomplete deep left intended for Jakobi Meyers,3.030,2.340

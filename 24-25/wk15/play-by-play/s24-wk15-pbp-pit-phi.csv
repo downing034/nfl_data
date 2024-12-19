@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,PIT,PHI,Detail,EPB,EPA
+,,,,,,,Eagles won the coin toss and deferred Steelers to receive the opening kickoff.,,
+1,15:00,,,PHI 35,0,0,Braden Mann kicks off 67 yards returned by Cordarrelle Patterson for 33 yards (tackle by Oren Burks and Jalyx Hunt),0.000,1.000
+1,14:55,1,10,PIT 31,0,0,Najee Harris up the middle for 2 yards (tackle by Milton Williams and Nakobe Dean),1.000,0.730
+1,14:22,2,8,PIT 33,0,0,Russell Wilson pass complete short left to Pat Freiermuth for 1 yard (tackle by Zack Baun),0.730,0.170
+1,13:44,3,7,PIT 34,0,0,Russell Wilson pass incomplete deep middle intended for Van Jefferson,0.170,-1.110
+1,13:37,4,7,PIT 34,0,0,Corliss Waitman punts 36 yards downed by Ben Skowronek,-1.110,-0.940
+1,13:29,1,10,PHI 30,0,0,Jalen Hurts pass complete deep right to Grant Calcaterra for 22 yards (tackle by Elandon Roberts),0.940,2.390
+1,12:44,1,10,PIT 48,0,0,Jalen Hurts pass complete short right to A.J. Brown for 7 yards (tackle by Joey Porter),2.390,2.790
+1,12:21,2,3,PIT 41,0,0,Jalen Hurts pass complete short left to DeVonta Smith for 21 yards (tackle by Donte Jackson),2.790,4.240
+1,11:55,1,10,PIT 20,0,0,Saquon Barkley right guard for no gain (tackle by T.J. Watt),4.240,3.690
+1,11:24,2,10,PIT 20,0,0,Jalen Hurts pass complete short left to DeVonta Smith for 3 yards (tackle by Donte Jackson),3.690,3.360
+1,10:41,3,7,PIT 17,0,0,Jalen Hurts scrambles up the middle for 1 yard (tackle by Alex Highsmith and T.J. Watt),3.360,2.400
+1,10:00,4,6,PIT 16,0,3,Jake Elliott 34 yard field goal good,2.400,3.000
+1,9:56,,,PHI 35,0,3,Braden Mann kicks off 65 yards returned by Cordarrelle Patterson for 32 yards (tackle by Oren Burks),0.000,1.070
+1,9:50,1,10,PIT 32,0,3,Najee Harris right tackle for 2 yards (tackle by Jalen Carter),1.070,0.800
+1,9:19,2,8,PIT 34,0,3,Najee Harris left tackle for no gain (tackle by Josh Sweat),0.800,0.100
+1,8:35,3,8,PIT 34,0,3,Russell Wilson pass incomplete short middle intended for Jaylen Warren (defended by Nolan Smith),0.100,-1.110
+1,8:28,4,8,PIT 34,0,3,Corliss Waitman punts 47 yards returned by Cooper DeJean for 2 yards (tackle by James Pierre and Miles Killebrew),-1.110,-0.340
+1,8:19,1,10,PHI 21,0,3,Saquon Barkley right guard for 8 yards (tackle by Cameron Heyward),0.340,0.880
+1,7:43,2,2,PHI 29,0,3,Saquon Barkley up the middle for -2 yards (tackle by Alex Highsmith and Patrick Queen),0.880,-0.100
+1,7:03,3,4,PHI 27,0,3,Jalen Hurts pass complete short left to Kenneth Gainwell for 10 yards (tackle by Beanie Bishop and Patrick Queen),-0.100,1.400
+1,6:32,1,10,PHI 37,0,3,Kenneth Gainwell left guard for 5 yards (tackle by Isaiahh Loudermilk and Preston Smith),1.400,1.530
+1,5:53,2,5,PHI 42,0,3,Kenneth Gainwell left end for 1 yard (tackle by Patrick Queen),1.530,0.960
+1,5:16,3,4,PHI 43,0,3,Jalen Hurts scrambles left tackle for 2 yards. Jalen Hurts fumbles (forced by T.J. Watt) recovered by Beanie Bishop at PHI-45,0.960,-2.590
+1,5:06,1,10,PHI 45,0,3,Russell Wilson pass incomplete short right,2.590,2.040
+1,5:01,2,10,PHI 45,0,3,Russell Wilson pass incomplete short left intended for Mike Williams (defended by Milton Williams),2.040,1.360
+1,4:57,3,10,PHI 45,0,3,Russell Wilson sacked by Josh Sweat for -11 yards,1.360,-0.460
+1,4:23,4,21,PIT 44,0,3,Corliss Waitman punts 49 yards returned by Cooper DeJean for 4 yards. Cooper DeJean fumbles (forced by Mark Robinson) recovered by Nick Herbig at PHI-11,-0.460,4.840
+1,4:13,1,10,PHI 11,0,3,Russell Wilson pass complete short right to Najee Harris for 7 yards (tackle by Nolan Smith). Penalty on Darnell Washington: Unnecessary Roughness / Offense 15 yards (declined) . Penalty on Calvin Austin: Unnecessary Roughness / Offense 15 yards (accepted),4.840,3.150
+1,3:54,2,18,PHI 19,0,3,Russell Wilson pass incomplete short left intended for Scott Miller,3.150,2.550
+1,3:50,3,18,PHI 19,0,3,Russell Wilson pass incomplete deep middle intended for Pat Freiermuth,2.550,2.180
+1,3:46,4,18,PHI 19,3,3,Chris Boswell 37 yard field goal good,2.180,3.000
+1,3:42,,,PIT 35,3,3,Chris Boswell kicks off 65 yards touchback.,0.000,0.940
+1,3:42,1,10,PHI 30,3,3,Jalen Hurts pass complete short left to A.J. Brown for 16 yards (tackle by Donte Jackson),0.940,1.990
+1,3:17,1,10,PHI 46,3,3,Jalen Hurts pass complete deep left to A.J. Brown for 20 yards (tackle by Joey Porter),1.990,3.310
+1,2:49,1,10,PIT 34,3,3,Jalen Hurts right end for 7 yards (tackle by Elandon Roberts and Minkah Fitzpatrick),3.310,3.720
+1,2:19,2,3,PIT 27,3,3,Saquon Barkley left guard for 22 yards (tackle by Alex Highsmith),3.720,6.060
+1,1:48,1,5,PIT 5,3,3,Saquon Barkley up the middle for no gain (tackle by Minkah Fitzpatrick),6.060,5.150
+1,1:18,2,5,PIT 5,3,9,Jalen Hurts pass complete short middle to A.J. Brown for 5 yards touchdown,5.150,7.000
+1,1:13,,,PIT 15,3,10,Jake Elliott kicks extra point good,0.000,0.000
+1,1:13,,,PHI 35,3,10,Braden Mann kicks off 65 yards touchback.,0.000,0.940
+1,1:13,1,10,PIT 30,3,10,Jaylen Warren right tackle for 1 yard (tackle by Nakobe Dean),0.940,0.530
+1,0:34,2,9,PIT 31,3,10,Jaylen Warren left guard for no gain (tackle by Zack Baun). Penalty on Van Jefferson: Illegal Motion 5 yards (accepted) (no play),0.530,-0.150
+1,0:14,2,14,PIT 26,3,10,Russell Wilson pass complete short middle to Jaylen Warren for no gain (tackle by Nakobe Dean and Moro Ojomo). Penalty on Dan Moore: Offensive Holding 10 yards (accepted) (no play),-0.150,-1.650
+2,15:00,2,24,PIT 16,3,10,Russell Wilson pass complete short middle to Calvin Austin for 6 yards (tackle by Nakobe Dean),-1.650,-1.350
+2,14:29,3,18,PIT 22,3,10,Russell Wilson pass complete short left to Jaylen Warren for 3 yards (tackle by Zack Baun and Nakobe Dean),-1.350,-1.700
+2,13:53,4,15,PIT 25,3,10,Corliss Waitman punts 43 yards returned by Cooper DeJean for 23 yards (tackle by Jeremiah Moon and Payton Wilson),-1.700,-2.590
+2,13:40,1,10,PIT 45,3,10,Saquon Barkley right tackle for no gain (tackle by Patrick Queen),2.590,2.040
+2,13:06,2,10,PIT 45,3,10,Saquon Barkley up the middle for 3 yards (tackle by Patrick Queen),2.040,1.750
+2,12:33,3,7,PIT 42,3,10,Jalen Hurts pass complete short left to A.J. Brown for 17 yards (tackle by Damontae Kazee),1.750,3.910
+2,12:00,1,10,PIT 25,3,10,Jalen Hurts pass incomplete deep left intended for A.J. Brown (defended by Joey Porter),3.910,3.360
+2,11:54,2,10,PIT 25,3,10,Jalen Hurts pass complete short left to DeVonta Smith for 7 yards (tackle by Joey Porter),3.360,3.660
+2,11:14,3,3,PIT 18,3,10,Jalen Hurts pass complete short right to Kenneth Gainwell for 16 yards (tackle by Damontae Kazee),3.660,6.740
+2,10:37,1,2,PIT 2,3,10,Jalen Hurts up the middle for no gain (tackle by Alex Highsmith and Keeanu Benton),6.740,5.720
+2,9:52,,,,,,Timeout #1 by Philadelphia Eagles,,
+2,9:52,2,2,PIT 2,3,10,Jalen Hurts right tackle for no gain (tackle by Patrick Queen and Damontae Kazee),5.720,4.950
+2,9:11,3,2,PIT 2,3,16,Jalen Hurts pass complete short middle to DeVonta Smith for 2 yards touchdown,4.950,7.000
+2,9:07,,,PIT 15,3,17,Jake Elliott kicks extra point good,0.000,0.000
+2,9:07,,,PHI 35,3,17,Braden Mann kicks off 65 yards touchback.,0.000,0.940
+2,9:07,1,10,PIT 30,3,17,Russell Wilson pass complete short left to Ben Skowronek for 17 yards (tackle by Nakobe Dean),0.940,2.060
+2,8:27,1,10,PIT 47,3,17,Justin Fields left end for 8 yards (tackle by Reed Blankenship). Penalty on Reed Blankenship: Unnecessary Roughness / Defense 15 yards (accepted),2.060,3.580
+2,8:04,1,10,PHI 30,3,17,Jaylen Warren left tackle for 4 yards (tackle by Jalyx Hunt),3.580,3.570
+2,7:22,2,6,PHI 26,3,17,Najee Harris up the middle for 4 yards (tackle by Moro Ojomo and Nakobe Dean),3.570,3.400
+2,6:36,3,2,PHI 22,3,17,Russell Wilson scrambles right end for 3 yards (tackle by Nakobe Dean),3.400,4.310
+2,5:54,1,10,PHI 19,3,17,Jaylen Warren right guard for 1 yard (tackle by Jalen Carter),4.310,3.880
+2,5:23,2,9,PHI 18,3,17,Russell Wilson scrambles right guard for 8 yards (tackle by Zack Baun),3.880,4.690
+2,4:48,3,1,PHI 10,3,17,Russell Wilson up the middle for 2 yards (tackle by Nakobe Dean),4.690,5.370
+2,4:09,1,8,PHI 8,3,17,Najee Harris right tackle for -1 yards (tackle by C.J. Gardner-Johnson),5.370,4.380
+2,3:27,2,9,PHI 9,3,17,Russell Wilson pass complete short left to Van Jefferson for no gain (tackle by Cooper DeJean),4.380,3.360
+2,2:40,3,9,PHI 9,9,17,Russell Wilson pass complete short right to Pat Freiermuth for 9 yards touchdown,3.360,7.000
+2,2:34,,,PHI 15,10,17,Chris Boswell kicks extra point good,0.000,0.000
+2,2:34,,,PIT 35,10,17,Chris Boswell kicks off 66 yards returned by Kenneth Gainwell for 31 yards (tackle by Miles Killebrew),0.000,0.940
+2,2:28,1,10,PHI 30,10,17,Kenneth Gainwell left guard for 3 yards (tackle by Alex Highsmith),0.940,0.800
+2,2:22,,,,,,Timeout #1 by Pittsburgh Steelers,,
+2,2:22,2,7,PHI 33,10,17,Jalen Hurts sacked by T.J. Watt for no gain,0.800,0.100
+2,2:00,3,7,PHI 33,10,17,Penalty on Lane Johnson: False Start 5 yards (accepted) (no play),0.100,-0.560
+2,2:00,3,12,PHI 28,10,17,Jalen Hurts sacked by T.J. Watt for -12 yards,-0.560,-2.390
+2,1:29,,,,,,Timeout #2 by Pittsburgh Steelers,,
+2,1:29,4,24,PHI 16,10,17,Braden Mann punts 29 yards downed by Jalyx Hunt,-2.390,-2.590
+2,1:17,1,10,PHI 45,10,17,Russell Wilson pass complete short right to Pat Freiermuth for 12 yards. Pat Freiermuth fumbles (forced by Nakobe Dean) recovered by Pat Freiermuth at PHI-33,2.590,3.380
+2,1:00,1,10,PHI 33,10,17,Russell Wilson pass complete short right to Pat Freiermuth for 6 yards (tackle by Zack Baun) Replay Assistant challenged the pass completion ruling and the original play was overturned. Russell Wilson pass incomplete short right intended for Pat Freiermuth,3.380,2.840
+2,0:56,2,10,PHI 33,10,17,Russell Wilson sacked by Nolan Smith for -10 yards,2.840,0.830
+2,0:48,,,,,,Timeout #3 by Pittsburgh Steelers,,
+2,0:48,3,20,PHI 43,10,17,Russell Wilson pass complete short middle to Calvin Austin for 12 yards (tackle by C.J. Gardner-Johnson),0.830,1.320
+2,0:42,,,,,,Timeout #2 by Philadelphia Eagles,,
+2,0:42,4,8,PHI 31,13,17,Chris Boswell 49 yard field goal good,1.320,3.000
+2,0:37,,,PIT 35,13,17,Chris Boswell kicks off 62 yards returned by Kenneth Gainwell for 32 yards (tackle by Ben Skowronek and Jeremiah Moon),0.000,1.270
+2,0:28,1,10,PHI 35,13,17,Jalen Hurts sacked by Alex Highsmith for -8 yards,1.270,-0.360
+3,15:00,,,PIT 35,13,17,Chris Boswell kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,PHI 30,13,17,Saquon Barkley left guard for 2 yards (tackle by T.J. Watt and Keeanu Benton),0.940,0.660
+3,14:35,2,8,PHI 32,13,17,Jalen Hurts scrambles left end for 9 yards (tackle by Joey Porter),0.660,1.660
+3,13:57,1,10,PHI 41,13,17,Saquon Barkley left end for 3 yards (tackle by Elandon Roberts),1.660,1.530
+3,13:15,2,7,PHI 44,13,17,Jalen Hurts pass complete short right to DeVonta Smith for 8 yards (tackle by James Pierre),1.530,2.390
+3,12:45,1,10,PIT 48,13,17,Jalen Hurts pass complete short right to Grant Calcaterra for no gain (tackle by Patrick Queen). Penalty on DeVonta Smith: Offensive Pass Interference 10 yards (accepted) (no play),2.390,1.730
+3,12:17,1,20,PHI 42,13,17,Jalen Hurts pass incomplete short right intended for DeVonta Smith. Penalty on Tyler Steen: Offensive Holding 10 yards (declined),1.730,0.500
+3,12:08,2,20,PHI 42,13,17,Jalen Hurts pass complete short left to DeVonta Smith for 20 yards (tackle by James Pierre and Minkah Fitzpatrick),0.500,3.050
+3,11:37,1,10,PIT 38,13,17,Jalen Hurts right tackle for no gain (tackle by Payton Wilson),3.050,2.510
+3,10:55,2,10,PIT 38,13,17,Jalen Hurts pass complete short middle to DeVonta Smith for 4 yards (tackle by Nick Herbig),2.510,2.340
+3,10:29,3,6,PIT 34,13,17,Jalen Hurts pass complete short left to DeVonta Smith for 4 yards (tackle by James Pierre),2.340,1.500
+3,9:45,4,2,PIT 30,13,17,Jake Elliott yard field goal good. Penalty on Montravius Adams: Unnecessary Roughness / Defense 15 yards (accepted) (no play),1.500,4.580
+3,9:40,1,10,PIT 15,13,17,DeVonta Smith right end for 1 yard (tackle by Beanie Bishop),4.580,4.110
+3,8:55,2,9,PIT 14,13,17,Jalen Hurts pass incomplete short left intended for A.J. Brown. Penalty on Tyler Steen: Offensive Holding 10 yards (accepted) (no play),4.110,2.810
+3,8:48,2,19,PIT 24,13,17,Kenneth Gainwell left guard for 1 yard (tackle by Minkah Fitzpatrick and Cameron Heyward),2.810,2.280
+3,8:07,3,18,PIT 23,13,17,Jalen Hurts pass incomplete deep right intended for Jahan Dotson,2.280,1.930
+3,7:55,4,18,PIT 23,13,20,Jake Elliott 41 yard field goal good,1.930,3.000
+3,7:52,,,PHI 35,13,20,Braden Mann kicks off 65 yards touchback.,0.000,0.940
+3,7:52,1,10,PIT 30,13,20,Russell Wilson pass complete deep right to Calvin Austin for 31 yards (tackle by Zack Baun),0.940,2.980
+3,7:08,1,10,PHI 39,13,20,Jaylen Warren right guard for 6 yards (tackle by Nakobe Dean),2.980,3.250
+3,6:31,2,4,PHI 33,13,20,Najee Harris right guard for 7 yards (tackle by Jordan Davis),3.250,3.840
+3,5:56,1,10,PHI 26,13,20,Russell Wilson aborted snap recovered by Darius Slay at PHI-26,3.840,-0.670
+3,5:50,1,10,PHI 26,13,20,Jalen Hurts pass incomplete short right intended for Johnny Wilson,0.670,0.130
+3,5:45,2,10,PHI 26,13,20,Jalen Hurts pass complete short left to A.J. Brown for 5 yards (tackle by Joey Porter),0.130,0.100
+3,5:06,3,5,PHI 31,13,20,Jalen Hurts pass complete short left to DeVonta Smith for 6 yards (tackle by Payton Wilson),0.100,1.400
+3,4:31,1,10,PHI 37,13,20,Saquon Barkley right tackle for 9 yards (tackle by Montravius Adams),1.400,2.070
+3,3:55,2,1,PHI 46,13,20,Saquon Barkley left tackle for 4 yards (tackle by Payton Wilson),2.070,2.260
+3,3:20,1,10,PIT 50,13,20,Jalen Hurts up the middle for 23 yards (tackle by T.J. Watt),2.260,3.780
+3,2:39,1,10,PIT 27,13,20,Jalen Hurts pass complete short middle to Saquon Barkley for 5 yards (tackle by Patrick Queen),3.780,3.910
+3,2:08,2,5,PIT 22,13,20,Saquon Barkley left guard for 6 yards (tackle by Cameron Heyward and Minkah Fitzpatrick),3.910,4.510
+3,1:29,1,10,PIT 16,13,20,Saquon Barkley left tackle for 1 yard (tackle by Cameron Heyward),4.510,4.050
+3,0:47,2,9,PIT 15,13,20,Jalen Hurts pass incomplete short right,4.050,3.220
+3,0:37,3,9,PIT 15,13,20,Jalen Hurts pass complete short left to Kenneth Gainwell for 14 yards (tackle by Payton Wilson and Damontae Kazee),3.220,6.970
+4,15:00,1,1,PIT 1,13,20,Jalen Hurts up the middle for no gain (tackle by Preston Smith and Patrick Queen),6.970,5.910
+4,14:20,2,1,PIT 1,13,26,Jalen Hurts up the middle for 1 yard touchdown,5.910,7.000
+4,14:17,,,PIT 15,13,27,Jake Elliott kicks extra point good,0.000,0.000
+4,14:17,,,PHI 35,13,27,Braden Mann kicks off 65 yards touchback.,0.000,0.940
+4,14:17,1,10,PIT 30,13,27,Russell Wilson pass complete short left to Calvin Austin for 10 yards (tackle by Reed Blankenship),0.940,1.600
+4,13:43,1,10,PIT 40,13,27,Russell Wilson pass complete short right to Calvin Austin for 6 yards (tackle by Darius Slay),1.600,1.860
+4,13:12,2,4,PIT 46,13,27,Cordarrelle Patterson up the middle for 5 yards (tackle by Milton Williams and Nolan Smith),1.860,2.320
+4,12:20,1,10,PHI 49,13,27,Cordarrelle Patterson right tackle for 4 yards (tackle by Zack Baun). Penalty on Zach Frazier: Tripping / Offense 15 yards (accepted),2.320,1.600
+4,12:01,1,21,PIT 40,13,27,Russell Wilson pass incomplete short right intended for Pat Freiermuth (defended by Jalen Carter),1.600,0.300
+4,11:56,2,21,PIT 40,13,27,Russell Wilson pass complete short left to Cordarrelle Patterson for -1 yards (tackle by Nolan Smith and Reed Blankenship),0.300,-0.490
+4,11:16,3,22,PIT 39,13,27,Russell Wilson pass complete short middle to Mike Williams for 15 yards (tackle by Quinyon Mitchell),-0.490,-0.320
+4,10:29,4,7,PIT 46,13,27,Corliss Waitman punts 40 yards downed by Ben Skowronek. Penalty on Jalen Carter: Unnecessary Roughness / Defense 3 yards (accepted),-0.320,0.380
+4,10:29,1,10,PHI 3,13,27,Penalty on A.J. Brown: False Start 1 yard (accepted) (no play),-0.380,-0.420
+4,10:29,1,11,PHI 2,13,27,Jalen Hurts pass incomplete short left intended for A.J. Brown,-0.420,-0.850
+4,10:25,2,11,PHI 2,13,27,Saquon Barkley left guard for 5 yards (tackle by Alex Highsmith),-0.850,-0.950
+4,9:48,3,6,PHI 7,13,27,Jalen Hurts pass complete short left to A.J. Brown for 21 yards (tackle by Minkah Fitzpatrick and Damontae Kazee),-0.950,0.810
+4,9:04,1,10,PHI 28,13,27,Saquon Barkley left guard for 4 yards (tackle by Dean Lowry and Keeanu Benton),0.810,0.800
+4,8:23,2,6,PHI 32,13,27,Jalen Hurts pass complete short left to Saquon Barkley for 4 yards (tackle by Patrick Queen),0.800,0.630
+4,7:39,3,2,PHI 36,13,27,Saquon Barkley left tackle for 7 yards (tackle by Damontae Kazee),0.630,1.800
+4,7:04,1,10,PHI 43,13,27,Saquon Barkley right end for -4 yards (tackle by Montravius Adams),1.800,0.710
+4,6:22,2,14,PHI 39,13,27,Jalen Hurts pass complete deep middle to DeVonta Smith for 22 yards (tackle by Cameron Sutton and Nick Herbig),0.710,2.980
+4,5:35,1,10,PIT 39,13,27,Saquon Barkley left guard for -3 yards (tackle by Minkah Fitzpatrick),2.980,2.040
+4,4:50,2,13,PIT 42,13,27,Jalen Hurts pass incomplete short left intended for A.J. Brown (defended by Payton Wilson),2.040,1.360
+4,4:46,3,13,PIT 42,13,27,Jalen Hurts pass complete short left to DeVonta Smith for 12 yards (tackle by Payton Wilson and Damontae Kazee),1.360,1.520
+4,4:04,,,,,,Timeout #1 by Philadelphia Eagles,,
+4,4:04,4,1,PIT 30,13,27,Jalen Hurts up the middle for 2 yards (tackle by Cameron Heyward and Minkah Fitzpatrick),1.520,3.710
+4,3:15,1,10,PIT 28,13,27,Saquon Barkley right tackle for 2 yards (tackle by Montravius Adams). Penalty on Jordan Mailata: Offensive Holding 10 yards (accepted) (no play),3.710,3.050
+4,3:15,1,20,PIT 38,13,27,Saquon Barkley right guard for no gain (tackle by Alex Highsmith),3.050,1.820
+4,3:11,,,,,,Timeout #1 by Pittsburgh Steelers,,
+4,3:11,2,20,PIT 38,13,27,Jalen Hurts pass complete short left to A.J. Brown for 19 yards (tackle by James Pierre),1.820,3.720
+4,3:04,3,1,PIT 19,13,27,Jalen Hurts up the middle for 1 yard (tackle by Patrick Queen and Isaiahh Loudermilk),3.720,4.370
+4,3:00,,,,,,Timeout #2 by Pittsburgh Steelers,,
+4,3:00,1,10,PIT 18,13,27,Kenneth Gainwell right guard for 1 yard (tackle by Patrick Queen),4.370,3.940
+4,2:56,,,,,,Timeout #3 by Pittsburgh Steelers,,
+4,2:56,2,9,PIT 17,13,27,Kenneth Gainwell right guard for 7 yards (tackle by Damontae Kazee),3.940,4.510
+4,2:14,3,2,PIT 10,13,27,Kenneth Gainwell left tackle for 2 yards (tackle by Elandon Roberts and Keeanu Benton),4.510,5.370
+4,2:00,1,8,PIT 8,13,27,Jalen Hurts kneels for no gain,5.370,4.570
+4,1:20,2,8,PIT 8,13,27,Jalen Hurts kneels for -1 yards,4.570,3.360
+4,0:40,3,9,PIT 9,13,27,Jalen Hurts kneels for no gain,3.360,2.830

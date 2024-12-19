@@ -75,7 +75,7 @@ SEA depth chart: https://www.espn.com/nfl/team/depth/_/name/sea/seattle-seahawks
 
 You must take into account injuries since missing certain players can have a huge impact on the game. This data can be checked at: https://www.espn.com/nfl/injuries.
 
-Injured players should not be included in the simulation.
+Injured players should not be included in the simulation especially players with "Injured Reserve" status.
 
 Simulations should also take into account time of possession for each team and should align similarly to current team stats. This can be gotten from both the drive logs and https://www.teamrankings.com/nfl/stat/average-time-of-possession-net-of-ot
 
@@ -196,7 +196,7 @@ To enhance the simulation model's accuracy and better reflect actual game outcom
   - **[Wide Receiver 1 Name]**: [X] receptions, [X] yards, [X] TD
   - **[Wide Receiver 2 Name]**: [X] receptions, [X] yards
 
-  #### **Scoring Summary**
+  #### **Scoring Summary*
   | Quarter      | Scoring Play                           | Team | Score |
   |--------------|----------------------------------------|------|-------|
   | 1st Quarter  | [Player Name] [X]-yard [play type] ([Kicker Name] kick) | [Team] | [X]-[X] |
@@ -233,5 +233,113 @@ To enhance the simulation model's accuracy and better reflect actual game outcom
   Provide similar output (including american odds) for the moneyline (how often a team just won or lost regardless of score) and for the over under.
   When providing the info for over under, please include how many times the simulation
 ````
+
+# Game Simulation Output Format
+
+## **Game Introduction**
+
+> The **[Team A]** ([Record A]) are set to face the **[Team B]** ([Record B]) on **[Date]**, at **[Stadium]** in **[City, State]**.
+
+---
+
+## **Current Betting Odds**
+
+- **Point Spread:** [Team favored] by [Points] ([Spread Value])
+- **Moneyline:** [Team A] ([Value]), [Team B] ([Value])
+- **Over/Under (Total Points):** [Value]
+
+---
+
+## **Game Factors**
+
+- **[Team A]:**
+
+  - Describe strengths, key players, or recent trends (e.g., "Quarterback [Name] leads an offense averaging [X] points per game.").
+  - Include situational notes (e.g., "Defense has improved, allowing only [X] points per game over the last three weeks.").
+
+- **[Team B]:**
+  - Highlight similar points as above for the opposing team.
+
+---
+
+## **Depth Charts**
+
+- **[Team A]:** [Link to Team A Depth Chart]
+- **[Team B]:** [Link to Team B Depth Chart]
+
+---
+
+## **Injuries**
+
+- **[Team A]:**
+
+  - **Out:** List key players marked "out."
+  - **Injured Reserve:** List players on IR.
+
+- **[Team B]:**
+  - **Out:** List key players marked "out."
+  - **Injured Reserve:** List players on IR.
+
+---
+
+## **Scoring Summary**
+
+| Quarter     | Play                                              | Team     | Score   |
+| ----------- | ------------------------------------------------- | -------- | ------- |
+| 1st Quarter | [Player] [Yards]-yard [Play Type] ([Kicker] kick) | [Team A] | [X]-[X] |
+| 2nd Quarter | [Player] [Yards]-yard [Play Type] ([Kicker] kick) | [Team B] | [X]-[X] |
+| ...         |                                                   |          |         |
+
+---
+
+## **Player Performance Averages**
+
+### **[Team A]:**
+
+- **QB [Name]:** [Completions]/[Attempts], [Yards] yards, [Touchdowns] TDs, [Interceptions] INTs
+- **RB [Name]:** [Carries] carries, [Yards] yards, [Touchdowns] TDs
+- **WR [Name]:** [Receptions] receptions, [Yards] yards, [Touchdowns] TDs
+
+### **[Team B]:**
+
+- **QB [Name]:** [Completions]/[Attempts], [Yards] yards, [Touchdowns] TDs, [Interceptions] INTs
+- **RB [Name]:** [Carries] carries, [Yards] yards, [Touchdowns] TDs
+- **WR [Name]:** [Receptions] receptions, [Yards] yards, [Touchdowns] TDs
+
+---
+
+## **Average Predicted Score**
+
+- **[Team A]:** [X] points
+- **[Team B]:** [X] points
+
+---
+
+## **Betting Analysis**
+
+### **Point Spread ([Spread Value]):**
+
+- **[Team A] Cover:** [X]%
+- **[Team B] Cover:** [X]%
+
+### **Moneyline:**
+
+- **[Team A] Win:** [X]%
+- **[Team B] Win:** [X]%
+
+### **Over/Under ([Value]):**
+
+- **Over [Value]:** [X]%
+- **Under [Value]:** [X]%
+
+---
+
+## **Recommendations**
+
+1. **Spread Pick:** [Pick with confidence level]
+2. **Moneyline Pick:** [Pick with confidence level]
+3. **Over/Under Pick:** [Pick with confidence level]
+
+> _Summary of the prediction and rationale based on the above analysis._
 
 Reminder, you must use the play-by-play data provided to aid in simulation. Use the depth charts for rosters and take into account injuries, and make sure to use the correct odds data

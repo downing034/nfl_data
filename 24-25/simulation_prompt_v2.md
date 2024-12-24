@@ -81,66 +81,7 @@ Simulations should also take into account time of possession for each team and s
 
 When simulating 3rd downs, please align similarly to current teams conversion rates which can be found here: https://www.teamrankings.com/nfl/stat/third-down-conversion-pct
 
-Additional info about drives and games can be found below
-**Drive Initialization:**
-
-- The game starts with a coin toss. Each team has a 50/50 chance to win and start with the opening possession. Teams may defer to take the second half kickoff, but will sometimes take the ball on offense first too.
-- If a team possess the ball at the end of the 1st or 3rd quarter, they don't necessary attempt a field goal as they would maintain possession going into the following quarter unless the drive is ending.
-
-- Quarter length is 15 minutes per quarter except overtime which is 10 minutes.
-
-If a game is tied at the end of the 4th quarter, the following overtime rules are in effect.
-
-### NFL Overtime Rules
-
-- Overtime is only necessary if the result of the game is a tie after the 4th quarter.
-
-1. **Coin Toss:**
-
-- A coin toss determines which team starts with possession in overtime.
-- The winner of the toss can choose to receive, kick, or defer their choice to the second possession, but will almost always choose to receive.
-
-2. **First Possession Rules:**
-
-- If the team that receives the opening kickoff scores a **touchdown**, the game ends immediately (no extra point or two-point conversion is attempted).
-- If the team scores a **field goal**, the opposing team gets one possession to match or win:
-  - If the second team scores a **touchdown**, they win (no extra point or two-point conversion is attempted).
-  - If they score a **field goal**, the game becomes **sudden death**, where the first team to score wins.
-
-3. **Sudden Death:**
-
-- If neither team scores on their opening possessions, or if both teams score field goals, the game enters sudden death.
-- The first team to score, by any means (touchdown, field goal, or safety), wins.
-
-4. **Timing:**
-
-- Overtime consists of a single 10-minute period.
-- If no team scores during the 10-minute period, the game ends in a **tie**.
-
-5. **Timeouts:**
-
-- Each team is allotted **2 timeouts** during overtime.
-- Unused timeouts from regulation do not carry over.
-
-6. **Turnovers:**
-
-- If a turnover occurs (e.g., interception or fumble), the opposing team takes possession at the spot of the turnover.
-
-7. **Special Scenarios:**
-
-- If the defense scores on the initial possession (e.g., safety or interception returned for a touchdown), the game ends immediately.
-- Penalties or unusual situations (e.g., a safety) can modify the flow but are adjudicated according to NFL rules.
-
-# Implementation of Adjustments for Enhanced NFL Game Simulations
-
-To ensure more accurate and realistic simulations, incorporate the following adjustments into your model:
-
-## Key Updates for Simulation Accuracy
-
-### 1. Team-Specific Turnover Tendencies
-
-- Use historical data to assign realistic turnover probabilities for each team.
-- Example: Teams with strong offensive efficiency (e.g., SF) should have a lower probability of turnovers, while struggling offenses (e.g., NYJ) should have higher probabilities.
+## Additional info about drives and games can be found below
 
 ````python
 sf_turnovers = random.choices([0, 1], weights=[0.7, 0.3])[0]  # Example for SF

@@ -1,0 +1,159 @@
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+,,,,,,,Steelers won the coin toss and deferred Ravens to receive the opening kickoff.,,
+1,15:00,,,PIT 35,0,0,Chris Boswell kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,BAL 30,0,0,Derrick Henry right guard for 6 yards (tackle by Patrick Queen),0.940,1.200
+1,14:28,2,4,BAL 36,0,0,Derrick Henry left tackle for 14 yards (tackle by Damontae Kazee),1.200,2.260
+1,13:53,1,10,BAL 50,0,0,Zay Flowers left end for 3 yards (tackle by Payton Wilson),2.260,2.120
+1,13:08,2,7,PIT 47,0,0,Lamar Jackson pass complete short middle to Zay Flowers for 14 yards (tackle by Joey Porter),2.120,3.380
+1,12:31,1,10,PIT 33,0,0,Derrick Henry left tackle for no gain (tackle by Mark Robinson),3.380,2.840
+1,11:51,2,10,PIT 33,0,0,Lamar Jackson sacked by Alex Highsmith for -9 yards. Lamar Jackson fumbles (forced by Alex Highsmith) recovered by Ronnie Stanley at PIT-42,2.840,0.960
+1,11:07,3,19,PIT 42,0,0,Lamar Jackson pass incomplete short right intended for Justice Hill,0.960,0.460
+1,11:01,4,19,PIT 42,0,0,Jordan Stout punts 39 yards downed by Devontez Walker,0.460,0.380
+1,10:51,1,10,PIT 3,0,0,Najee Harris right guard for 5 yards (tackle by Roquan Smith),-0.380,-0.420
+1,10:09,2,5,PIT 8,0,0,Najee Harris right guard for 3 yards (tackle by Nnamdi Madubuike and Travis Jones),-0.420,-0.480
+1,9:17,3,2,PIT 11,0,0,Russell Wilson pass incomplete short left Penalty on PIT: Illegal Shift 5 yards (declined),-0.480,-2.490
+1,9:17,4,2,PIT 11,0,0,Corliss Waitman punts 58 yards returned by Desmond King for 16 yards. Desmond King fumbles (forced by James Pierre) recovered by Chris Board at PIT-41,-2.490,-2.850
+1,9:00,1,10,PIT 41,0,0,Derrick Henry up the middle for 11 yards (tackle by Damontae Kazee),2.850,3.580
+1,8:23,1,10,PIT 30,0,0,Derrick Henry left guard for 13 yards (tackle by Damontae Kazee),3.580,4.440
+1,7:44,1,10,PIT 17,0,0,Derrick Henry right tackle for 9 yards (tackle by Joey Porter),4.440,5.480
+1,7:07,2,1,PIT 8,0,0,Derrick Henry right guard for 2 yards (tackle by Elandon Roberts and Alex Highsmith),5.480,5.830
+1,6:28,1,6,PIT 6,0,0,Derrick Henry left guard for -3 yards (tackle by Cameron Heyward),5.830,4.380
+1,5:57,2,9,PIT 9,0,6,Lamar Jackson pass complete short right to Isaiah Likely for 9 yards touchdown,4.380,7.000
+1,5:52,,,PIT 15,0,7,Justin Tucker kicks extra point good,0.000,0.000
+1,5:52,,,BAL 35,0,7,Justin Tucker kicks off 56 yards returned by Cordarrelle Patterson for 18 yards (tackle by Malik Harrison),0.000,0.740
+1,5:44,1,10,PIT 27,0,7,Russell Wilson pass complete short left to Ben Skowronek for 17 yards (tackle by Kyle Hamilton),0.740,1.860
+1,5:12,1,10,PIT 44,0,7,Russell Wilson sacked by Michael Pierce for -10 yards,1.860,-0.030
+1,4:30,2,20,PIT 34,0,7,Russell Wilson pass complete short middle to Jaylen Warren for 13 yards (tackle by Chris Board),-0.030,1.030
+1,4:05,3,7,PIT 47,0,7,Russell Wilson pass complete short left to Ben Skowronek for 8 yards (tackle by Marlon Humphrey),1.030,2.590
+1,3:24,1,10,BAL 45,0,7,Jaylen Warren right tackle for 9 yards (tackle by Nnamdi Madubuike and Kyle Hamilton),2.590,3.260
+1,2:46,2,1,BAL 36,0,7,Russell Wilson pass complete short right to Connor Heyward for 3 yards (tackle by Marlon Humphrey),3.260,3.380
+1,2:00,1,10,BAL 33,0,7,Jaylen Warren right end for 9 yards (tackle by Nate Wiggins and Malik Harrison),3.380,4.050
+1,1:20,2,1,BAL 24,0,7,Jaylen Warren right guard for 2 yards (tackle by Tavius Robinson),4.050,4.110
+1,0:37,1,10,BAL 22,0,7,Russell Wilson pass complete deep middle to Van Jefferson for 21 yards (tackle by Ar'Darius Washington),4.110,6.970
+2,15:00,1,1,BAL 1,6,7,Russell Wilson pass complete short middle to MyCole Pruitt for 1 yard touchdown,6.970,7.000
+2,14:56,,,BAL 15,7,7,Chris Boswell kicks extra point good,0.000,0.000
+2,14:56,,,PIT 35,7,7,Chris Boswell kicks off 65 yards touchback.,0.000,0.940
+2,14:56,1,10,BAL 30,7,7,Lamar Jackson pass incomplete deep left intended for Mark Andrews,0.940,0.390
+2,14:50,2,10,BAL 30,7,7,Lamar Jackson scrambles up the middle for 8 yards (tackle by Patrick Queen). Penalty on Cory Trice: Illegal Use of Hands / Defense 5 yards (accepted),0.390,1.800
+2,14:36,1,10,BAL 43,7,7,Derrick Henry left guard for 4 yards (tackle by Isaiahh Loudermilk),1.800,1.790
+2,14:01,2,6,BAL 47,7,7,Penalty on Patrick Ricard: False Start 5 yards (accepted) (no play),1.790,1.120
+2,13:51,2,11,BAL 42,7,7,Lamar Jackson pass incomplete short left intended for Zay Flowers. Penalty on Tyler Linderbaum: Offensive Holding 10 yards (declined),1.120,0.430
+2,13:44,3,11,BAL 42,7,7,Lamar Jackson pass incomplete short right intended for Rashod Bateman,0.430,-0.590
+2,13:38,4,11,BAL 42,7,7,Jordan Stout punts 14 yards out of bounds,-0.590,-1.860
+2,13:32,1,10,PIT 44,7,7,Russell Wilson pass complete short right to Jaylen Warren for 12 yards (tackle by Nnamdi Madubuike),1.860,2.650
+2,12:51,1,10,BAL 44,7,7,Russell Wilson scrambles left end for 6 yards (tackle by Roquan Smith),2.650,2.920
+2,12:11,2,4,BAL 38,7,7,Najee Harris left guard for 11 yards (tackle by Roquan Smith and Kyle Hamilton),2.920,3.780
+2,11:44,1,10,BAL 27,7,7,Najee Harris left end for 4 yards (tackle by Kyle Hamilton),3.780,3.770
+2,11:11,2,6,BAL 23,7,7,Russell Wilson scrambles right end for 19 yards. Russell Wilson fumbles (forced by Ar'Darius Washington) recovered by Kyle Van Noy at BAL-4,3.770,0.380
+2,10:57,1,10,BAL 4,7,7,Derrick Henry right tackle for 2 yards (tackle by T.J. Watt),-0.380,-0.630
+2,10:21,2,8,BAL 6,7,7,Lamar Jackson pass complete deep right to Isaiah Likely for 19 yards (tackle by Beanie Bishop),-0.630,0.610
+2,9:40,1,10,BAL 25,7,7,Justice Hill left tackle for 5 yards (tackle by Payton Wilson),0.610,0.740
+2,9:02,2,5,BAL 30,7,7,Justice Hill left end for 25 yards (tackle by Damontae Kazee),0.740,2.590
+2,8:52,1,10,PIT 45,7,7,Lamar Jackson pass complete short middle to Zay Flowers for 14 yards (tackle by James Pierre and Minkah Fitzpatrick). Penalty on Minkah Fitzpatrick: Face Mask (15 Yards) 15 yards (accepted),2.590,4.510
+2,8:20,1,10,PIT 16,7,7,Lamar Jackson left end for 2 yards (tackle by Cameron Heyward and Preston Smith),4.510,4.210
+2,7:39,2,8,PIT 14,7,7,Lamar Jackson pass incomplete short left intended for Mark Andrews (defended by Patrick Queen),4.210,3.370
+2,7:33,3,8,PIT 14,7,13,Lamar Jackson pass complete short left to Rashod Bateman for 14 yards touchdown,3.370,7.000
+2,7:28,,,PIT 15,7,14,Justin Tucker kicks extra point good,0.000,0.000
+2,7:28,,,BAL 35,7,14,Justin Tucker kicks off 65 yards touchback.,0.000,0.940
+2,7:28,1,10,PIT 30,7,14,Russell Wilson pass incomplete short left,0.940,0.390
+2,7:21,2,10,PIT 30,7,14,Russell Wilson pass complete short middle to Mike Williams for 5 yards (tackle by Nate Wiggins),0.390,0.370
+2,6:35,,,,,,Timeout #1 by Pittsburgh Steelers,,
+2,6:35,3,5,PIT 35,7,14,Russell Wilson sacked by and Kyle Van Noy for -5 yards and Nnamdi Madubuike for -5 yards,0.370,-1.370
+2,6:04,4,10,PIT 30,7,14,Corliss Waitman punts 42 yards fair catch by Desmond King at BAL-28,-1.370,-0.810
+2,5:57,1,10,BAL 28,7,14,Derrick Henry left guard for 4 yards (tackle by Patrick Queen),0.810,0.800
+2,5:20,2,6,BAL 32,7,14,Lamar Jackson pass complete short left to Zay Flowers for 9 yards (tackle by Cory Trice),0.800,1.660
+2,4:44,1,10,BAL 41,7,14,Lamar Jackson pass incomplete deep left intended for Zay Flowers (defended by Minkah Fitzpatrick),1.660,1.120
+2,4:34,2,10,BAL 41,7,14,Lamar Jackson left guard for 3 yards (tackle by Keeanu Benton and Payton Wilson),1.120,0.830
+2,3:49,3,7,BAL 44,7,14,Lamar Jackson pass complete short left to Mark Andrews for 9 yards (tackle by Cory Trice),0.830,2.460
+2,3:26,1,10,PIT 47,7,14,Derrick Henry left tackle for 12 yards (tackle by Minkah Fitzpatrick and Cory Trice),2.460,3.250
+2,2:43,1,10,PIT 35,7,14,Derrick Henry left guard for 1 yard (tackle by Montravius Adams),3.250,2.840
+2,2:00,2,9,PIT 34,7,14,Lamar Jackson pass incomplete deep middle intended for Zay Flowers,2.840,2.150
+2,1:55,3,9,PIT 34,7,14,Lamar Jackson pass complete short left to Isaiah Likely for 1 yard (tackle by Cameron Heyward),2.150,1.150
+2,1:48,,,,,,Timeout #2 by Pittsburgh Steelers,,
+2,1:48,4,8,PIT 33,7,17,Justin Tucker 51 yard field goal good,1.150,3.000
+2,1:43,,,BAL 35,7,17,Justin Tucker kicks off 65 yards touchback.,0.000,0.940
+2,1:43,1,10,PIT 30,7,17,Jaylen Warren left tackle for 5 yards (tackle by Kyle Van Noy and Travis Jones),0.940,1.070
+2,1:22,2,5,PIT 35,7,17,Russell Wilson pass complete short left to Mike Williams for 6 yards (tackle by Brandon Stephens),1.070,1.660
+2,1:06,1,10,PIT 41,7,17,Russell Wilson pass complete short left to Calvin Austin for 6 yards (tackle by Kyle Hamilton),1.660,1.930
+2,0:46,2,4,PIT 47,7,17,Russell Wilson pass incomplete short right,1.930,1.220
+2,0:41,3,4,PIT 47,7,17,Russell Wilson pass complete short right to Pat Freiermuth for 5 yards (tackle by Brandon Stephens),1.220,2.390
+2,0:23,1,10,BAL 48,7,17,Russell Wilson pass complete short left to Jaylen Warren for 13 yards (tackle by Roquan Smith),2.390,3.250
+2,0:17,,,,,,Timeout #3 by Pittsburgh Steelers,,
+2,0:17,1,10,BAL 35,7,17,Russell Wilson up the middle for 2 yards (tackle by Roquan Smith),3.250,2.970
+2,0:07,2,8,BAL 33,7,17,Russell Wilson spiked the ball,2.970,2.280
+2,0:05,3,8,BAL 33,10,17,Chris Boswell 51 yard field goal good,2.280,3.000
+3,15:00,,,BAL 35,10,17,Jordan Stout kicks off 65 yards touchback.,0.000,0.940
+3,15:00,1,10,PIT 30,10,17,Jaylen Warren left tackle for no gain (tackle by Kyle Hamilton),0.940,0.390
+3,14:34,2,10,PIT 30,10,17,Russell Wilson pass incomplete short right intended for Van Jefferson,0.390,-0.300
+3,14:28,3,10,PIT 30,10,17,Russell Wilson pass complete short right to Van Jefferson for 6 yards (tackle by Kyle Van Noy),-0.300,-0.980
+3,13:58,4,4,PIT 36,10,17,Corliss Waitman punts 56 yards downed by Jeremiah Moon,-0.980,0.380
+3,13:45,1,10,BAL 8,10,17,Derrick Henry right guard for 11 yards (tackle by T.J. Watt and Patrick Queen),-0.380,0.150
+3,13:08,1,10,BAL 19,10,17,Penalty on Ronnie Stanley: False Start 5 yards (accepted) (no play),0.150,-0.390
+3,12:59,1,15,BAL 14,10,17,Lamar Jackson pass complete short right to Derrick Henry for 11 yards (tackle by Minkah Fitzpatrick),-0.390,0.480
+3,12:20,2,4,BAL 25,10,17,Lamar Jackson left guard for 5 yards (tackle by Alex Highsmith),0.480,0.940
+3,11:44,1,10,BAL 30,10,17,Lamar Jackson pass complete short left to Mark Andrews for 5 yards (tackle by Joey Porter),0.940,1.070
+3,11:02,2,5,BAL 35,10,17,Derrick Henry left tackle for 4 yards (tackle by Isaiahh Loudermilk),1.070,0.890
+3,10:42,3,1,BAL 39,10,17,Derrick Henry left tackle for -1 yards (tackle by Elandon Roberts),0.890,-0.850
+3,9:59,4,2,BAL 38,10,17,Jordan Stout punts 50 yards fair catch by Calvin Austin at PIT-12,-0.850,0.350
+3,9:52,1,10,PIT 12,10,17,Russell Wilson pass complete deep right to Calvin Austin for 44 yards (tackle by Nate Wiggins),-0.350,2.650
+3,9:33,1,10,BAL 44,10,17,Najee Harris right tackle for 4 yards (tackle by Ar'Darius Washington and Tavius Robinson),2.650,2.650
+3,8:59,2,6,BAL 40,10,17,Najee Harris right tackle for no gain (tackle by Marlon Humphrey and Roquan Smith),2.650,1.950
+3,8:00,3,6,BAL 40,10,17,Russell Wilson pass complete short middle to Calvin Austin for 16 yards (tackle by Brandon Stephens),1.950,3.970
+3,7:10,1,10,BAL 24,10,17,Najee Harris left tackle for 9 yards (tackle by Tavius Robinson and Kyle Van Noy),3.970,4.850
+3,6:27,2,1,BAL 15,10,17,Jaylen Warren left tackle for 4 yards (tackle by Roquan Smith and Malik Harrison),4.850,4.840
+3,6:01,1,10,BAL 11,10,17,Jaylen Warren left tackle for -1 yards (tackle by Nnamdi Madubuike),4.840,3.980
+3,5:19,2,11,BAL 12,16,17,Russell Wilson pass complete short left to Cordarrelle Patterson for 12 yards touchdown,3.980,7.000
+3,5:14,,,BAL 15,17,17,Chris Boswell kicks extra point good,0.000,0.000
+3,5:14,,,PIT 35,17,17,Chris Boswell kicks off 25 yards out of bounds. Penalty on Chris Boswell: Kickoff Out of Bounds (accepted),0.000,1.600
+3,5:14,1,10,BAL 40,17,17,Lamar Jackson pass complete short left to Mark Andrews for 16 yards (tackle by Patrick Queen),1.600,2.650
+3,4:41,1,10,PIT 44,17,17,Lamar Jackson left end for 3 yards (tackle by Minkah Fitzpatrick),2.650,2.520
+3,3:57,2,7,PIT 41,17,17,Lamar Jackson pass complete short middle to Zay Flowers for 14 yards (tackle by Damontae Kazee),2.520,3.780
+3,3:16,1,10,PIT 27,17,17,Lamar Jackson pass complete short left to Derrick Henry for 16 yards (tackle by James Pierre and Isaiahh Loudermilk),3.780,4.840
+3,2:35,1,10,PIT 11,17,17,Lamar Jackson left tackle for 4 yards (tackle by Patrick Queen and Minkah Fitzpatrick),4.840,4.890
+3,1:53,2,6,PIT 7,17,23,Lamar Jackson pass complete short middle to Mark Andrews for 7 yards touchdown,4.890,7.000
+3,1:50,,,PIT 15,17,24,Justin Tucker kicks extra point good,0.000,0.000
+3,1:50,,,BAL 35,17,24,Jordan Stout kicks off 61 yards returned by Jaylen Warren for 34 yards (tackle by Desmond King),0.000,1.470
+3,1:44,1,10,PIT 38,17,24,Russell Wilson pass incomplete short left intended for Najee Harris,1.470,0.920
+3,1:39,2,10,PIT 38,17,24,Russell Wilson pass complete short left to Mike Williams for 13 yards (tackle by Tre'Davious White),0.920,2.320
+3,1:09,1,10,BAL 49,17,24,Najee Harris left guard for 3 yards (tackle by Travis Jones),2.320,2.190
+3,0:31,2,7,BAL 46,17,24,Russell Wilson pass incomplete deep left,2.190,1.490
+3,0:25,3,7,BAL 46,17,24,Russell Wilson pass complete short left to Jaylen Warren for 1 yard. Jaylen Warren fumbles (forced by Kyle Hamilton) recovered by Jaylen Warren at BAL-45,1.490,0.270
+4,15:00,4,6,BAL 45,17,24,Russell Wilson pass incomplete deep middle intended for Calvin Austin (defended by Kyle Hamilton),0.270,-1.930
+4,14:53,1,10,BAL 45,17,24,Derrick Henry left end for 44 yards (tackle by Damontae Kazee),1.930,4.840
+4,14:14,1,10,PIT 11,17,24,Lamar Jackson pass short middle intended for Rashod Bateman is intercepted by Minkah Fitzpatrick at PIT-8 and returned for 25 yards (tackle by Patrick Mekari),4.840,-1.140
+4,13:57,1,10,PIT 33,17,24,Najee Harris left guard for 3 yards (tackle by Brent Urban and Chris Board),1.140,1.000
+4,13:15,2,7,PIT 36,17,30,Russell Wilson pass short right intended for MyCole Pruitt is intercepted by Marlon Humphrey at PIT-37 and returned for 37 yards touchdown,1.000,-7.000
+4,13:06,,,PIT 15,17,31,Justin Tucker kicks extra point good,0.000,0.000
+4,13:06,,,BAL 35,17,31,Justin Tucker kicks off 65 yards touchback.,0.000,0.940
+4,13:06,1,10,PIT 30,17,31,Jaylen Warren left guard for 11 yards (tackle by Tavius Robinson and Kyle Hamilton),0.940,1.660
+4,12:43,1,10,PIT 41,17,31,Russell Wilson pass complete short middle to Pat Freiermuth for 4 yards (tackle by Roquan Smith),1.660,1.660
+4,12:20,2,6,PIT 45,17,31,Jaylen Warren right guard for 2 yards (tackle by David Ojabo),1.660,1.220
+4,11:54,3,4,PIT 47,17,31,Russell Wilson pass complete short middle to Jaylen Warren for 5 yards (tackle by Chris Board and Roquan Smith),1.220,2.390
+4,11:23,1,10,BAL 48,17,31,Russell Wilson sacked by Kyle Van Noy for -4 yards,2.390,1.310
+4,10:40,2,14,PIT 48,17,31,Penalty on Broderick Jones: False Start 4 yards (accepted) (no play),1.310,0.770
+4,10:40,2,18,PIT 44,17,31,Russell Wilson pass complete short middle to Pat Freiermuth for 7 yards (tackle by Ar'Darius Washington),0.770,1.030
+4,10:02,3,11,BAL 49,17,31,Russell Wilson pass complete short right to Calvin Austin for -1 yards (tackle by Brandon Stephens),1.030,-0.060
+4,9:27,4,12,BAL 50,17,31,Corliss Waitman punts 42 yards fair catch by Desmond King at BAL-8,-0.060,0.380
+4,9:19,1,10,BAL 8,17,31,Derrick Henry left guard for no gain (tackle by Patrick Queen and Alex Highsmith),-0.380,-0.780
+4,8:49,2,10,BAL 8,17,31,Derrick Henry left guard for 5 yards (tackle by James Pierre),-0.780,-0.840
+4,8:10,3,5,BAL 13,17,31,Lamar Jackson pass complete deep right to Zay Flowers for 49 yards (tackle by Damontae Kazee),-0.840,3.050
+4,7:21,1,10,PIT 38,17,31,Derrick Henry left guard for 5 yards (tackle by Cameron Heyward and T.J. Watt),3.050,3.180
+4,6:39,2,5,PIT 33,17,31,Derrick Henry up the middle for 4 yards (tackle by T.J. Watt and Cameron Heyward),3.180,3.010
+4,6:03,3,1,PIT 29,17,31,Mark Andrews up the middle for 1 yard (tackle by Patrick Queen and Dean Lowry),3.010,3.710
+4,5:21,1,10,PIT 28,17,31,Derrick Henry up the middle for 13 yards (tackle by Cory Trice and Minkah Fitzpatrick),3.710,4.580
+4,4:39,1,10,PIT 15,17,31,Derrick Henry left guard for 1 yard (tackle by Isaiahh Loudermilk and Nick Herbig),4.580,4.110
+4,4:00,2,9,PIT 14,17,31,Rasheen Ali left tackle for 2 yards (tackle by Cory Trice),4.110,3.580
+4,3:17,3,7,PIT 12,17,31,Penalty on Alex Highsmith: Neutral Zone Infraction 5 yards (accepted) (no play),3.580,4.680
+4,3:17,3,2,PIT 7,17,31,Derrick Henry left guard for 1 yard (tackle by Isaiahh Loudermilk and Cameron Heyward),4.680,3.020
+4,3:14,,,,,,Timeout #1 by Pittsburgh Steelers,,
+4,3:14,4,1,PIT 6,17,34,Justin Tucker 23 yard field goal good,3.020,3.000
+4,3:10,,,BAL 35,17,34,Justin Tucker kicks off 65 yards touchback.,0.000,0.940
+4,3:10,1,10,PIT 30,17,34,Jaylen Warren right guard for 5 yards (tackle by Nnamdi Madubuike),0.940,1.070
+4,2:49,2,5,PIT 35,17,34,Jaylen Warren right guard for 5 yards (tackle by Chris Board and Roquan Smith),1.070,1.600
+4,2:31,1,10,PIT 40,17,34,Russell Wilson pass incomplete short right,1.600,1.050
+4,2:25,2,10,PIT 40,17,34,Jaylen Warren up the middle for -3 yards (tackle by Nnamdi Madubuike and Chris Board),1.050,-0.030
+4,2:00,3,13,PIT 37,17,34,Russell Wilson pass incomplete short left,-0.030,-0.910
+4,1:52,4,13,PIT 37,17,34,Corliss Waitman punts 49 yards recovered by Kristian Welch at BAL-15,-0.910,0.220
+4,1:39,1,10,BAL 15,17,34,Lamar Jackson kneels for -1 yards,-0.220,-0.820
+4,0:58,2,11,BAL 14,17,34,Lamar Jackson kneels for -1 yards,-0.820,-1.640
+4,0:24,3,12,BAL 13,17,34,Lamar Jackson kneels for -1 yards,-1.640,-2.490

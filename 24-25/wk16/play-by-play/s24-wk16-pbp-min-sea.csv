@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,MIN,SEA,Detail,EPB,EPA
+,,,,,,,Seahawks won the coin toss and deferred Vikings to receive the opening kickoff.,,
+1,15:00,,,SEA 35,0,0,Jason Myers kicks off 65 yards touchback.,0.000,0.940
+1,15:00,1,10,MIN 30,0,0,Sam Darnold pass complete short right to Jordan Addison for 9 yards (tackle by Josh Jobe),0.940,1.610
+1,14:19,2,1,MIN 39,0,0,Aaron Jones left end for 14 yards (tackle by Coby Bryant),1.610,2.460
+1,13:35,1,10,SEA 47,0,0,Sam Darnold pass complete short right to Aaron Jones for 4 yards (tackle by Coby Bryant),2.460,2.450
+1,12:57,2,6,SEA 43,0,0,Aaron Jones left end for 3 yards (tackle by Ernest Jones and Devon Witherspoon),2.450,2.150
+1,12:22,3,3,SEA 40,0,0,Sam Darnold pass incomplete short middle intended for Aaron Jones,2.150,0.590
+1,12:16,,,,,,Timeout #1 by Minnesota Vikings,,
+1,12:16,4,3,SEA 40,0,0,Sam Darnold pass complete short left to T.J. Hockenson for 8 yards,0.590,3.450
+1,11:41,1,10,SEA 32,0,0,Aaron Jones left end for 3 yards (tackle by Uchenna Nwosu and Tre Brown),3.450,3.310
+1,11:01,2,7,SEA 29,0,0,Sam Darnold pass complete short right to Jordan Addison for 12 yards (tackle by Devon Witherspoon),3.310,4.440
+1,10:20,1,10,SEA 17,0,0,Sam Darnold pass complete short left to Aaron Jones for 7 yards (tackle by Devon Witherspoon and Tyrice Knight),4.440,5.100
+1,9:38,2,3,SEA 10,0,0,Aaron Jones left tackle for no gain (tackle by Leonard Williams),5.100,4.340
+1,8:58,3,3,SEA 10,0,0,Sam Darnold pass complete short middle to Justin Jefferson for 5 yards (tackle by Devon Witherspoon),4.340,6.060
+1,8:09,1,5,SEA 5,6,0,Sam Darnold pass complete short middle to Jordan Addison for 5 yards touchdown,6.060,7.000
+1,8:06,,,SEA 15,7,0,Will Reichard kicks extra point good,0.000,0.000
+1,8:06,,,MIN 35,7,0,Will Reichard kicks off 64 yards returned by Kenny McIntosh for 31 yards (tackle by Dallas Turner and Kamu Grugier-Hill),0.000,1.070
+1,8:01,1,10,SEA 32,7,0,Kenneth Walker left guard for 6 yards (tackle by Blake Cashman and Jerry Tillery),1.070,1.340
+1,7:34,2,4,SEA 38,7,0,Kenneth Walker right guard for 2 yards (tackle by Blake Cashman and Camryn Bynum),1.340,0.890
+1,6:45,3,2,SEA 40,7,0,Penalty on Sataoa Laumea: False Start 5 yards (accepted) (no play),0.890,0.230
+1,6:23,3,7,SEA 35,7,0,Geno Smith pass incomplete deep middle intended for Jaxon Smith-Njigba (defended by Camryn Bynum),0.230,-1.040
+1,6:16,4,7,SEA 35,7,0,Michael Dickson punts 56 yards fair catch by Brandon Powell at MIN-9,-1.040,0.380
+1,6:09,1,10,MIN 9,7,0,Aaron Jones right guard for 9 yards (tackle by Jarran Reed and Rayshawn Jenkins),-0.380,0.140
+1,5:35,2,1,MIN 18,7,0,Aaron Jones up the middle for 5 yards (tackle by Tyrice Knight),0.140,0.480
+1,4:57,1,10,MIN 23,7,0,Sam Darnold pass complete short left to Justin Jefferson for 7 yards (tackle by Josh Jobe),0.480,0.880
+1,4:22,2,3,MIN 30,7,0,Aaron Jones right guard for 5 yards (tackle by Tyrice Knight),0.880,1.270
+1,3:41,1,10,MIN 35,7,0,Aaron Jones left end for 5 yards (tackle by Devon Witherspoon),1.270,1.400
+1,3:01,2,5,MIN 40,7,0,Sam Darnold pass incomplete short middle intended for Justin Jefferson,1.400,0.700
+1,2:54,3,5,MIN 40,7,0,Sam Darnold pass incomplete short right intended for Jordan Addison (defended by Josh Jobe),0.700,-0.720
+1,2:46,4,5,MIN 40,7,0,Ryan Wright punts 51 yards returned by Jaelon Darden for 4 yards (tackle by Trent Sherfield),-0.720,0.320
+1,2:38,1,10,SEA 13,7,0,Kenneth Walker up the middle for 11 yards (tackle by Stephon Gilmore and Bobby McCain),-0.320,0.540
+1,2:00,1,10,SEA 24,7,0,Geno Smith pass complete short left to Pharaoh Brown for 17 yards (tackle by Blake Cashman),0.540,1.660
+1,1:22,1,10,SEA 41,7,0,Geno Smith pass complete short right to Kenneth Walker for 8 yards (tackle by Byron Murphy and Josh Metellus),1.660,2.200
+1,0:38,2,2,SEA 49,7,0,Geno Smith pass complete short left to Jake Bobo for 6 yards (tackle by Andrew Van Ginkel and Byron Murphy),2.200,2.590
+2,15:00,1,10,MIN 45,7,0,Geno Smith pass complete short right to Noah Fant for 15 yards (tackle by Blake Cashman),2.590,3.580
+2,14:16,1,10,MIN 30,7,0,Jaxon Smith-Njigba right end for 5 yards (tackle by Josh Metellus),3.580,3.710
+2,13:41,2,5,MIN 25,7,6,Geno Smith pass complete deep right to D.K. Metcalf for 25 yards touchdown,3.710,7.000
+2,13:35,,,MIN 15,7,7,Jason Myers kicks extra point good,0.000,0.000
+2,13:35,,,SEA 35,7,7,Jason Myers kicks off 65 yards touchback.,0.000,0.940
+2,13:35,1,10,MIN 30,7,7,Cam Akers right tackle for 3 yards (tackle by Leonard Williams),0.940,0.800
+2,12:55,2,7,MIN 33,7,7,Sam Darnold pass incomplete short right intended for T.J. Hockenson,0.800,0.100
+2,12:51,3,7,MIN 33,7,7,Sam Darnold sacked by Jarran Reed for -9 yards. Sam Darnold fumbles (forced by Jarran Reed) recovered by Sam Darnold at MIN-24,0.100,-1.770
+2,12:13,4,16,MIN 24,7,7,Ryan Wright punts 54 yards returned by Jaelon Darden for 2 yards (tackle by Dallas Turner). Penalty on Josh Jobe: Defensive Illegal Blindside Block 12 yards (accepted),-1.770,0.350
+2,12:01,1,10,SEA 12,7,7,Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by Stephon Gilmore),-0.350,-0.780
+2,11:58,2,10,SEA 12,7,7,Geno Smith pass complete short middle to Kenneth Walker for 7 yards (tackle by Blake Cashman),-0.780,-0.600
+2,11:21,3,3,SEA 19,7,7,Geno Smith pass complete short left to Tyler Lockett for 2 yards (tackle by Byron Murphy),-0.600,-1.960
+2,10:38,4,1,SEA 21,7,7,Michael Dickson punts 46 yards fair catch by Brandon Powell at MIN-33,-1.960,-1.140
+2,10:29,1,10,MIN 33,7,7,Sam Darnold pass complete short right to Aaron Jones for 15 yards (tackle by Coby Bryant),1.140,2.130
+2,9:54,1,10,MIN 48,7,7,Aaron Jones left tackle for 2 yards (tackle by Uchenna Nwosu),2.130,1.850
+2,9:11,2,8,MIN 50,7,7,Sam Darnold pass complete short right to Justin Jefferson for 19 yards (tackle by Tre Brown),1.850,3.510
+2,8:33,1,10,SEA 31,7,7,Sam Darnold pass complete short left to C.J. Ham for 9 yards (tackle by Tyrice Knight and Julian Love),3.510,4.180
+2,7:55,2,1,SEA 22,7,7,Aaron Jones left guard for 1 yard (tackle by Jarran Reed),4.180,4.170
+2,7:13,1,10,SEA 21,7,7,Sam Darnold pass incomplete deep left intended for Jordan Addison (defended by Riq Woolen),4.170,3.630
+2,7:07,2,10,SEA 21,7,7,Aaron Jones left guard for 2 yards (tackle by Jarran Reed and Leonard Williams),3.630,3.180
+2,6:22,3,8,SEA 19,7,7,Sam Darnold sacked by Derick Hall for no gain. Penalty on Tre Brown: Defensive Offside 5 yards (accepted) (no play),3.180,4.020
+2,5:54,3,3,SEA 14,13,7,Sam Darnold pass complete short right to Justin Jefferson for 14 yards touchdown,4.020,7.000
+2,5:50,,,SEA 15,13,7,Penalty on Justin Jefferson: Taunting / Offense 15 yards (accepted) (no play),0.000,0.000
+2,5:50,,,SEA 30,14,7,Will Reichard kicks extra point good,0.000,0.000
+2,5:50,,,MIN 35,14,7,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+2,5:50,1,10,SEA 30,14,7,Geno Smith pass short right intended for Noah Fant is intercepted by Dallas Turner at SEA-35 and returned for 4 yards (tackle by Noah Fant),0.940,-3.510
+2,5:42,1,10,SEA 31,14,7,Aaron Jones right guard for 2 yards (tackle by Leonard Williams and Tyrice Knight),3.510,3.240
+2,5:04,2,8,SEA 29,14,7,Sam Darnold sacked by Boye Mafe for -12 yards,3.240,0.960
+2,4:17,3,20,SEA 41,14,7,Sam Darnold pass complete short middle to Justin Jefferson for 7 yards (tackle by Ernest Jones and Riq Woolen),0.960,1.060
+2,3:38,4,13,SEA 34,17,7,Will Reichard 52 yard field goal good,1.060,3.000
+2,3:33,,,MIN 35,17,7,Will Reichard kicks off 65 yards returned by Kenny McIntosh for 24 yards (tackle by Jamin Davis),0.000,0.150
+2,3:28,1,10,SEA 19,17,7,Geno Smith pass complete short right to Kenneth Walker for 1 yard (tackle by Byron Murphy),0.150,-0.200
+2,2:48,2,9,SEA 20,17,7,Kenneth Walker up the middle for 1 yard (tackle by Theo Jackson and Patrick Jones),-0.200,-0.810
+2,2:10,3,8,SEA 21,17,7,Geno Smith pass incomplete deep right intended for Jaxon Smith-Njigba (defended by Byron Murphy),-0.810,-1.960
+2,2:04,4,8,SEA 21,17,7,Michael Dickson punts 50 yards fair catch by Brandon Powell at MIN-29,-1.960,-0.870
+2,1:57,1,10,MIN 29,17,7,Sam Darnold pass incomplete short right intended for Aaron Jones (defended by Devon Witherspoon),0.870,0.330
+2,1:49,2,10,MIN 29,17,7,Sam Darnold pass incomplete short left intended for Jalen Nailor (defended by Riq Woolen),0.330,-0.360
+2,1:42,3,10,MIN 29,17,7,Sam Darnold pass complete short right to Jordan Addison for 7 yards (tackle by Josh Jobe),-0.360,-0.980
+2,1:37,4,3,MIN 36,17,7,Ryan Wright punts 63 yards returned by Jaelon Darden for 11 yards (tackle by Theo Jackson),-0.980,0.350
+2,1:25,1,10,SEA 12,17,7,Geno Smith pass complete deep middle to D.K. Metcalf for 20 yards (tackle by Josh Metellus),-0.350,1.070
+2,1:07,1,10,SEA 32,17,7,Penalty on Charles Cross: False Start 5 yards (accepted) (no play),1.070,0.740
+2,1:07,,,,,,Timeout #1 by Seattle Seahawks,,
+2,1:07,1,14,SEA 27,17,7,Geno Smith pass complete short middle to D.K. Metcalf for 12 yards (tackle by Bobby McCain),0.740,1.470
+2,0:43,2,3,SEA 39,17,7,Geno Smith pass complete short left to Jaxon Smith-Njigba for 13 yards (tackle by Byron Murphy),1.470,2.390
+2,0:37,1,10,MIN 48,17,7,Geno Smith pass complete deep middle to Jaxon Smith-Njigba for 25 yards (tackle by Byron Murphy),2.390,4.040
+2,0:30,,,,,,Timeout #2 by Seattle Seahawks,,
+2,0:30,1,10,MIN 23,17,7,Geno Smith pass incomplete deep middle intended for Noah Fant. Penalty on Stephon Gilmore: Defensive Holding 5 yards (accepted) (no play),4.040,4.370
+2,0:24,1,10,MIN 18,17,13,Geno Smith pass complete deep right to Jaxon Smith-Njigba for 18 yards touchdown,4.370,7.000
+2,0:20,,,MIN 15,17,14,Jason Myers kicks extra point good,0.000,0.000
+2,0:20,,,SEA 35,17,14,Jason Myers kicks off 64 yards returned by Ty Chandler for 20 yards (tackle by Dareke Young),0.000,0.340
+2,0:16,1,10,MIN 21,17,14,Sam Darnold kneels for -1 yards,0.340,-0.340
+3,15:00,,,MIN 35,17,14,Will Reichard kicks off 66 yards returned by Kenny McIntosh for 36 yards (tackle by Jay Ward and Jamin Davis),0.000,1.270
+3,14:54,1,10,SEA 35,17,14,Geno Smith pass complete short middle to Kenneth Walker for 3 yards (tackle by Jonathan Greenard),1.270,1.130
+3,14:15,2,7,SEA 38,17,14,Geno Smith pass complete short right to Kenneth Walker for 8 yards (tackle by Camryn Bynum),1.130,1.990
+3,13:37,1,10,SEA 46,17,14,Kenny McIntosh up the middle for 2 yards (tackle by Jonathan Bullard and Josh Metellus),1.990,1.720
+3,12:56,2,8,SEA 48,17,14,Geno Smith pass complete short right to Jaxon Smith-Njigba for 5 yards (tackle by Byron Murphy),1.720,1.690
+3,12:18,3,3,MIN 47,17,14,Geno Smith pass incomplete deep right intended for Tyler Lockett. Penalty on Stephon Gilmore: Defensive Pass Interference 20 yards (accepted) (no play),1.690,3.780
+3,12:12,1,10,MIN 27,17,14,Kenneth Walker up the middle for no gain (tackle by Harrison Phillips). Penalty on Jake Bobo: Illegal Shift 5 yards (accepted) (no play),3.780,3.450
+3,12:06,1,15,MIN 32,17,14,Geno Smith pass complete short left to Kenneth Walker for -1 yards (tackle by Blake Cashman),3.450,2.420
+3,11:29,2,16,MIN 33,17,14,Geno Smith pass complete short middle to Kenneth Walker for 8 yards (tackle by Blake Cashman),2.420,2.810
+3,10:48,3,8,MIN 25,17,14,Geno Smith pass incomplete deep right intended for D.K. Metcalf,2.810,1.800
+3,10:41,4,8,MIN 25,17,17,Jason Myers 43 yard field goal good,1.800,3.000
+3,10:37,,,SEA 35,17,17,Jason Myers kicks off 65 yards touchback.,0.000,0.940
+3,10:37,1,10,MIN 30,17,17,Aaron Jones right end for no gain (tackle by Rayshawn Jenkins). Penalty on Leonard Williams: Defensive Holding 5 yards (accepted) (no play),0.940,1.270
+3,10:09,1,10,MIN 35,17,17,Sam Darnold pass complete short right to Justin Jefferson for 5 yards (tackle by Devon Witherspoon),1.270,1.400
+3,9:38,2,5,MIN 40,17,17,Aaron Jones left guard for 4 yards (tackle by Ernest Jones),1.400,1.220
+3,8:44,3,1,MIN 44,17,17,Sam Darnold up the middle for 2 yards (tackle by Ernest Jones) (no play),1.220,0.560
+3,8:26,3,6,MIN 39,17,17,Sam Darnold pass complete short left to Justin Jefferson for 9 yards (tackle by Riq Woolen),0.560,2.130
+3,7:48,1,10,MIN 48,17,17,Sam Darnold pass complete deep middle to T.J. Hockenson for 19 yards (tackle by Rayshawn Jenkins). Penalty on Rayshawn Jenkins: Defensive Holding 5 yards (declined) . Penalty on Riq Woolen: Defensive Holding 5 yards (declined),2.130,3.380
+3,7:40,1,10,SEA 33,17,17,Sam Darnold pass incomplete short left intended for Josh Oliver,3.380,2.840
+3,7:13,2,10,SEA 33,17,17,Aaron Jones right guard for 3 yards (tackle by Leonard Williams and Ernest Jones),2.840,2.540
+3,6:35,3,7,SEA 30,17,17,Sam Darnold pass incomplete short right intended for Jordan Addison (defended by Jarran Reed),2.540,1.410
+3,6:29,4,7,SEA 30,20,17,Will Reichard 48 yard field goal good,1.410,3.000
+3,6:25,,,MIN 35,20,17,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+3,6:25,1,10,SEA 30,20,17,Kenneth Walker up the middle for 2 yards (tackle by Blake Cashman and Harrison Phillips),0.940,0.660
+3,5:46,2,8,SEA 32,20,17,Geno Smith pass complete short right to Jaxon Smith-Njigba for 1 yard (tackle by Byron Murphy and Dallas Turner),0.660,0.100
+3,4:58,3,7,SEA 33,20,17,Geno Smith pass incomplete deep left intended for Jaxon Smith-Njigba,0.100,-1.180
+3,4:52,4,7,SEA 33,20,17,Michael Dickson punts 51 yards fair catch by Brandon Powell at MIN-16,-1.180,0.140
+3,4:45,1,10,MIN 16,20,17,Aaron Jones right tackle for 5 yards (tackle by Johnathan Hankins),-0.140,0.150
+3,4:11,2,5,MIN 21,20,17,Sam Darnold pass complete short left to Jalen Nailor for 5 yards (tackle by Josh Jobe),0.150,0.670
+3,3:40,1,10,MIN 26,20,17,Sam Darnold pass complete deep left to Justin Jefferson for 27 yards (tackle by Josh Jobe),0.670,2.460
+3,2:56,1,10,SEA 47,20,17,Aaron Jones right guard for 1 yard (tackle by Coby Bryant and Uchenna Nwosu),2.460,2.050
+3,2:14,2,9,SEA 46,20,17,Sam Darnold pass incomplete short left intended for Justin Jefferson,2.050,1.350
+3,2:08,3,9,SEA 46,20,17,Sam Darnold pass incomplete short right intended for T.J. Hockenson,1.350,0.200
+3,2:05,4,9,SEA 46,20,17,Ryan Wright punts 38 yards fair catch by Jaelon Darden at SEA-8,0.200,0.380
+3,1:58,1,10,SEA 8,20,17,Geno Smith pass complete short middle to Jaxon Smith-Njigba for 16 yards (tackle by Camryn Bynum and Josh Metellus),-0.380,0.540
+3,1:27,1,10,SEA 24,20,17,Geno Smith pass incomplete short right intended for Noah Fant,0.540,0.000
+3,1:23,2,10,SEA 24,20,17,Geno Smith pass incomplete short right,0.000,-0.690
+3,1:16,3,10,SEA 24,20,17,Geno Smith pass complete short right to Zach Charbonnet for 13 yards (tackle by Blake Cashman),-0.690,1.400
+3,0:49,1,10,SEA 37,20,17,Geno Smith pass complete short right to Jaxon Smith-Njigba for 4 yards (tackle by Byron Murphy and Blake Cashman),1.400,1.400
+3,0:22,2,6,SEA 41,20,17,Kenneth Walker left guard for 5 yards (tackle by Blake Cashman),1.400,1.360
+4,15:00,3,1,SEA 46,20,17,Geno Smith pass incomplete short left intended for Noah Fant (defended by Blake Cashman) (defended by Levi Drake Rodriguez),1.360,-0.320
+4,14:55,4,1,SEA 46,20,17,Julian Love up the middle for 2 yards (tackle by Josh Metellus and Patrick Jones),-0.320,2.130
+4,14:03,1,10,SEA 48,20,17,Penalty on MIN: Defensive Too Many Men on Field 5 yards (accepted) (no play),2.130,2.860
+4,13:56,1,5,MIN 47,20,17,Geno Smith pass complete short left to Kenneth Walker for -6 yards (tackle by Jonathan Greenard),2.860,1.450
+4,13:11,2,11,SEA 47,20,17,Geno Smith pass incomplete short left intended for Jaxon Smith-Njigba,1.450,0.760
+4,13:07,,,,,,Timeout #1 by Seattle Seahawks,,
+4,13:07,3,11,SEA 47,20,17,Geno Smith sacked by Andrew Van Ginkel for -6 yards,0.760,-0.650
+4,12:30,4,17,SEA 41,20,17,Michael Dickson punts 59 yards touchback.,-0.650,-0.280
+4,12:21,1,10,MIN 20,20,17,Sam Darnold pass complete short left to Jordan Addison for 2 yards (tackle by Josh Jobe),0.280,0.000
+4,11:42,2,8,MIN 22,20,17,Sam Darnold scrambles left end for 5 yards (tackle by Ernest Jones),0.000,-0.030
+4,10:57,3,3,MIN 27,20,17,Sam Darnold pass incomplete short middle intended for T.J. Hockenson (defended by Riq Woolen) (defended by Julian Love),-0.030,-1.570
+4,10:51,4,3,MIN 27,20,17,Ryan Wright punts 56 yards returned by Jaelon Darden for 15 yards (tackle by Ty Chandler),-1.570,-1.070
+4,10:37,1,10,SEA 32,20,17,Penalty on AJ Barner: False Start 5 yards (accepted) (no play),1.070,0.740
+4,10:37,1,15,SEA 27,20,17,Geno Smith pass complete short right to AJ Barner for 9 yards (tackle by Byron Murphy and Andrew Van Ginkel),0.740,1.070
+4,10:01,2,6,SEA 36,20,17,Kenneth Walker up the middle for no gain (tackle by Camryn Bynum and Josh Metellus). Penalty on Pharaoh Brown: Offensive Holding 10 yards (accepted) (no play),1.070,-0.280
+4,9:39,2,16,SEA 26,20,17,Geno Smith pass complete short left to Tyler Lockett for 17 yards (tackle by Shaquill Griffin),-0.280,1.800
+4,9:08,1,10,SEA 43,20,17,Kenny McIntosh up the middle for 9 yards (tackle by Blake Cashman and Bobby McCain),1.800,2.470
+4,8:48,2,1,MIN 48,20,17,Kenny McIntosh up the middle for 3 yards (tackle by Josh Metellus and Harrison Phillips),2.470,2.590
+4,8:11,1,10,MIN 45,20,17,Geno Smith pass complete short middle to Jaxon Smith-Njigba for 13 yards (tackle by Bobby McCain),2.590,3.450
+4,7:37,1,10,MIN 32,20,17,Geno Smith pass complete short middle to Noah Fant for 17 yards (tackle by Camryn Bynum and Harrison Phillips),3.450,4.580
+4,6:56,1,10,MIN 15,20,17,Geno Smith scrambles right end for 8 yards (tackle by Jerry Tillery),4.580,5.410
+4,6:16,2,2,MIN 7,20,17,Kenneth Walker left tackle for 4 yards (tackle by Camryn Bynum and Andrew Van Ginkel),5.410,6.510
+4,5:52,1,3,MIN 3,20,17,Kenneth Walker right guard for no gain (tackle by Levi Drake Rodriguez),6.510,5.530
+4,5:09,2,3,MIN 3,20,17,Zach Charbonnet right tackle for -1 yards (tackle by Camryn Bynum and Jerry Tillery),5.530,4.490
+4,4:26,3,4,MIN 4,20,23,Geno Smith pass complete short middle to AJ Barner for 4 yards touchdown,4.490,7.000
+4,4:21,,,MIN 15,20,24,Jason Myers kicks extra point good,0.000,0.000
+4,4:21,,,SEA 40,20,24,Jason Myers kicks off 60 yards touchback.,0.000,0.940
+4,4:21,1,10,MIN 30,20,24,Penalty on Brian O'Neill: False Start 5 yards (accepted) (no play),0.940,0.610
+4,4:21,1,15,MIN 25,20,24,Sam Darnold pass complete short right to Justin Jefferson for 12 yards (tackle by Tyrice Knight),0.610,1.340
+4,4:15,2,3,MIN 37,20,24,Sam Darnold scrambles left end for 9 yards (tackle by Josh Jobe),1.340,1.990
+4,4:08,1,10,MIN 46,20,24,Sam Darnold pass incomplete short middle intended for Justin Jefferson,1.990,1.450
+4,4:03,2,10,MIN 46,20,24,Sam Darnold sacked by Byron Murphy for no gain. Penalty on Byron Murphy: Face Mask (15 Yards) 15 yards (accepted) (no play),1.450,2.980
+4,3:58,1,10,SEA 39,26,24,Sam Darnold pass complete deep left to Justin Jefferson for 39 yards touchdown,2.980,7.000
+4,3:51,,,SEA 15,27,24,Will Reichard kicks extra point good,0.000,0.000
+4,3:51,,,MIN 35,27,24,Will Reichard kicks off 65 yards touchback.,0.000,0.940
+4,3:51,1,10,SEA 30,27,24,Geno Smith pass complete short middle to Noah Fant for 18 yards (tackle by Jonathan Greenard and Theo Jackson),0.940,2.130
+4,3:10,1,10,SEA 48,27,24,Geno Smith pass complete short left to Kenny McIntosh for 15 yards (tackle by Stephon Gilmore),2.130,3.120
+4,3:04,1,10,MIN 37,27,24,Geno Smith sacked by Andrew Van Ginkel for -6 yards,3.120,1.760
+4,2:22,2,16,MIN 43,27,24,Geno Smith pass incomplete short middle intended for D.K. Metcalf (defended by Stephon Gilmore),1.760,1.090
+4,2:16,3,16,MIN 43,27,24,Geno Smith pass complete short middle to Zach Charbonnet for 1 yard (tackle by Theo Jackson),1.090,0.460
+4,2:00,4,15,MIN 42,27,24,Jason Myers 60 yard field goal no good,0.460,-2.260
+4,1:55,1,10,MIN 50,27,24,Aaron Jones right tackle for 1 yard (tackle by Julian Love),2.260,1.850
+4,1:51,,,,,,Timeout #2 by Seattle Seahawks,,
+4,1:51,2,9,SEA 49,27,24,Aaron Jones left tackle for 2 yards (tackle by Uchenna Nwosu and Tyrice Knight),1.850,1.420
+4,1:47,,,,,,Timeout #3 by Seattle Seahawks,,
+4,1:47,3,7,SEA 47,27,24,Sam Darnold sacked by Derick Hall for -8 yards,1.420,-0.390
+4,1:01,,,,,,Timeout #1 by Minnesota Vikings,,
+4,1:01,4,15,MIN 45,27,24,Ryan Wright punts 38 yards out of bounds,-0.390,0.060
+4,0:55,1,10,SEA 17,27,24,Penalty on Abraham Lucas: False Start 5 yards (accepted) (no play),-0.060,-0.510
+4,0:55,1,15,SEA 12,27,24,Geno Smith pass deep right intended for D.K. Metcalf is intercepted by Theo Jackson at SEA-32 and returned for 3 yards,-0.510,-3.640
+4,0:49,1,10,SEA 29,27,24,Penalty on Dallas Turner: Taunting / Offense 15 yards (accepted) (no play),3.640,2.650
+4,0:49,1,10,SEA 44,27,24,Sam Darnold kneels for -1 yards,2.650,1.980
+4,0:31,2,11,SEA 45,27,24,Sam Darnold kneels for -1 yards,1.980,1.160

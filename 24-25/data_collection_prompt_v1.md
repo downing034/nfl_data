@@ -28,20 +28,8 @@ CURRENT_SEASON = 2024-2025
 
 3. **Rosters**
 
-- Example Link: [Colts Roster](https://www.pro-football-reference.com/teams/clt/2024_roster.htm)
-- Explanation: We need to have accurte rosters for each team in regards to the simulation. As previously stated, you can use the play-by-play logs for an "expected players list", but it may be more accurate to use an actual roster link from the internet. I've provided examples, but they don't have to be used if you find a different reliable source. The source must have data from the CURRENT_SEASON.
-
-4. **Depth Charts**
-
-- Example Link: [BUF Depth Chart](https://www.espn.com/nfl/team/depth/_/name/buf/buffalo-bills)
-- Explanation: Drive charts may provide some additional insights on what players are expected to play and if they play a bigger role on the team. Play by Play player mapping may work just as well instead.
-
-5. **Injuries**
-
-- Example: [NFL Injury Reports](https://www.espn.com/nfl/injuries)
-- Example: [NFL Injury Reports Pro Footbal Reference](https://www.pro-football-reference.com/teams/clt/2024_injuries.htm)
-- Player Impact Example: [Madden 25 NFL Ratings](https://www.ea.com/en/games/madden-nfl/ratings)
-- Explanation: It is very important that team injuries are taken into account. Injuries can have a small or large impact on the game based on the player(s) who are injured. If you use another source for injuries, it MUST be for the CURRENT_SEASON. To assist with deciding if a player injury would significantly impact the game simulations, you can use external resources or the Player Impact Example link which has ratings for every player on a scale of 1 to 100.
+- Root Link: [Play-by-Play CSV Links](https://github.com/downing034/nfl_data/24-25/rosters/rosters.csv)
+- Explanation: We need to have accurte rosters for each team in regards to the simulation. As previously stated, you can use the play-by-play logs for an "expected players list", but it may be more accurate to use an actual roster link. I've provided the key players on each side of the ball.
 
 #### **Data Source Restriction**
 

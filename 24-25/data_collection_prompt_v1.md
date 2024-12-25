@@ -12,7 +12,7 @@ CURRENT_SEASON = 2024-2025
 - Explanation: Inside this repository are play-by-pay data for each game of each week. Drive data should be loaded and analyzed before running any simulations. Key things to keep track of are league trends and tendencies, team trends and tendencies, and some extra attention on the two teams provided for simulation. You MUST use this data and you must use the entire data set for the season, not just for the two provided teams. It may make sense to keep track of players that show up in the drive log for each team as they are likely to be used in the majority of drive predictions.
 - Files and file locations follow the below format:
   - {season}/{week}/play-by-play-{awayTeam}-{homeTeam}.csv
-  - ex. 24-25/wk15/play-by-play-gnb-sea.csv
+  - ex. 24-25/wk15/play-by-play/s24-wk15-pbp-gnb-sea.csv
 
 2. **Team Statistics**
 
@@ -46,7 +46,7 @@ CURRENT_SEASON = 2024-2025
 #### **Data Source Restriction**
 
 - You should always use the entire play-by-play dataset when doing simulations.
-- You should always try and use the provided links when looking for information, and only expand to other links if needed or for confiration. Try not to supplement data from inferred sources or external sources when possible.
+- You should always try and use the provided links when looking for information, and only expand to other links if needed or for confirmation. Try not to supplement data from inferred sources or external sources when possible.
 
 #### **Output**
 

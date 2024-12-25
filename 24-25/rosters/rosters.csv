@@ -1,0 +1,69 @@
+Team,Position,Name,Rating,isXFactorPlayer
+SEA,QB,Geno Smith,80,FALSE
+SEA,RB,Kenneth Walker III,87,FALSE
+SEA,WR,DK Metcalf,89,TRUE
+SEA,WR,Jaxon Smith-Njigba,87,FALSE
+SEA,WR,Tyler Lockett,83,FALSE
+SEA,TE,Noah Fant,77,FALSE
+SEA,K,Jason Myers,77,FALSE
+SEA,P,Michael Dickson,82,FALSE
+SEA,LDE,Jarran Reed,77,FALSE
+SEA,RDE,Leonard Williams,84,FALSE
+SEA,LB,Ernest Jones IV,80,FALSE
+SEA,LB,Boye Mafe,77,FALSE
+SEA,LCB,Riq Woolen,87,FALSE
+SEA,SS,Coby Bryant,75,FALSE
+SEA,FS,Julian Love,86,FALSE
+SEA,RCB,Josh Jobe,66,FALSE
+SEA,NB,Devon Witherspoon,88,FALSE
+CHI,QB,Caleb Williams,75,FALSE
+CHI,RB,D'Andre Swift,82,FALSE
+CHI,WR,DJ Moore,88,FALSE
+CHI,WR,Keenan Allen,82,FALSE
+CHI,WR,Rome Odunze,79,FALSE
+CHI,TE,Cole Kmet,82,FALSE
+CHI,K,Cairo Santos,78,FALSE
+CHI,P,Tory Taylor,75,FALSE
+CHI,LDE,Montez Sweat,81,FALSE
+CHI,RDE,DeMarcus Walker,71,FALSE
+CHI,LB,Tremaine Edmunds,81,FALSE
+CHI,LB,T.J. Edwards,84,FALSE
+CHI,LCB,Jaylon Johnson,88,FALSE
+CHI,SS,Jonathon Owens,77,FALSE
+CHI,FS,Kevin Byard III,87,FALSE
+CHI,RCB,Tyrique Stevenson,76,FALSE
+CHI,NB,Kyler Gordon,81,FALSE
+BAL,QB,Lamar Jackson,99,TRUE
+BAL,RB,Derrick Henry,99,TRUE
+BAL,WR,Zay Flowers,85,FALSE
+BAL,WR,Rashod Bateman,81,FALSE
+BAL,WR,Nelson Agholor,78,FALSE
+BAL,TE,Mark Andrews,92,FALSE
+BAL,K,Justin Tucker,79,FALSE
+BAL,P,Jordan Stout,76,FALSE
+BAL,LDE,Nnamdi Madubuike,90,FALSE
+BAL,RDE,Broderick Washington,70,FALSE
+BAL,LB,Roquan Smith,95,TRUE
+BAL,LB,Kyle Van Noy,82,FALSE
+BAL,LCB,Nate Wiggins,82,FALSE
+BAL,SS,Kyle Hamilton,90,TRUE
+BAL,FS,Ar'Darius Washington,76,FALSE
+BAL,RCB,Brandon Stephens,78,FALSE
+BAL,NB,Marlon Humphrey,93,FALSE
+HOU,QB,C.J. Stroud,83,TRUE
+HOU,RB,Joe Mixon,94,TRUE
+HOU,WR,Nico Collins,88,TRUE
+HOU,WR,John Metchie III,74,FALSE
+HOU,WR,Robert Woods,75,FALSE
+HOU,TE,Dalton Shultz,83,FALSE
+HOU,K,Ka'imi Fairbairn,80,FALSE
+HOU,P,Tommy Townsend,79,FALSE
+HOU,LDE,Will Anderson Jr.,87,FALSE
+HOU,RDE,Danielle Hunter,91,FALSE
+HOU,LB,Henry To'oTo'o,76,FALSE
+HOU,LB,Christian Harris,73,FALSE
+HOU,LCB,Derek Stingley Jr.,95,FALSE
+HOU,SS,Calen Bullock,75,FALSE
+HOU,FS,Eric Murrary,73,FALSE
+HOU,RCB,Jeff Okudah,72,FALSE
+HOU,NB,Kamari Lassiter,76,FALSE
